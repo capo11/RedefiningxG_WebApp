@@ -1,0 +1,30 @@
+,round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,player,playerId,position,rating,keeper,keeperRating,opponent,eloOpponent,x,y,distance,angle,goal_difference,situation,body_part,goal,xg
+28,1,0,15/08/2025,Liverpool FC,Bournemouth,3,Liverpool FC,44,True,1997,Hugo Ekitiké,1048422,F,77,Đorđe Petrović,80,Bournemouth,1808,23.2,31.3,26,28,0,assisted,strongFoot,0,0.020936110988259
+27,1,0,15/08/2025,Liverpool FC,Bournemouth,4,Liverpool FC,44,True,1997,Mohamed Salah,159665,M,87,Đorđe Petrović,80,Bournemouth,1808,14.4,68.7,19,41,0,assisted,strongFoot,0,0.024876914918423
+26,1,0,15/08/2025,Liverpool FC,Bournemouth,5,Liverpool FC,44,True,1997,Virgil van Dijk,151545,D,60,Đorđe Petrović,80,Bournemouth,1808,8.6,49.5,8,2,0,corner,head,0,0.12759804725647
+25,1,0,15/08/2025,Liverpool FC,Bournemouth,6,Bournemouth,60,False,1808,Antoine Semenyo,934354,M,77,Alisson,89,Liverpool FC,1997,8.9,55.0,9,20,0,assisted,strongFoot,0,0.24428187310696
+24,1,0,15/08/2025,Liverpool FC,Bournemouth,10,Bournemouth,60,False,1808,Evanilson,998490,F,78,Alisson,89,Liverpool FC,1997,5.1,58.9,7,49,0,corner,head,0,0.10576315224171
+23,1,0,15/08/2025,Liverpool FC,Bournemouth,31,Liverpool FC,44,True,1997,Virgil van Dijk,151545,D,60,Đorđe Petrović,80,Bournemouth,1808,8.8,46.8,9,13,0,corner,head,0,0.050451427698135
+22,1,0,15/08/2025,Liverpool FC,Bournemouth,35,Bournemouth,60,False,1808,Marcus Tavernier,895576,M,73,Alisson,89,Liverpool FC,1997,13.0,47.9,13,6,0,assisted,weakFoot,0,0.28319209814072
+21,1,0,15/08/2025,Liverpool FC,Bournemouth,37,Liverpool FC,44,True,1997,Hugo Ekitiké,1048422,F,77,Đorđe Petrović,80,Bournemouth,1808,10.9,47.6,11,8,0,assisted,strongFoot,1,0.54871892929077
+20,1,0,15/08/2025,Liverpool FC,Bournemouth,39,Liverpool FC,44,True,1997,Hugo Ekitiké,1048422,F,77,Đorđe Petrović,80,Bournemouth,1808,5.8,51.7,5,11,1,assisted,head,0,0.33906000852585
+19,1,0,15/08/2025,Liverpool FC,Bournemouth,42,Bournemouth,60,False,1808,David Brooks,855731,M,68,Alisson,89,Liverpool FC,1997,14.5,31.5,19,40,-1,regular,weakFoot,0,0.025394402444363
+18,1,0,15/08/2025,Liverpool FC,Bournemouth,45,Bournemouth,60,False,1808,Marcus Tavernier,895576,M,73,Alisson,89,Liverpool FC,1997,24.6,67.9,27,26,-1,free-kick,strongFoot,0,0.036722358316183
+17,1,0,15/08/2025,Liverpool FC,Bournemouth,45,Liverpool FC,44,True,1997,Mohamed Salah,159665,M,87,Đorđe Petrović,80,Bournemouth,1808,15.0,57.3,15,18,1,fast-break,strongFoot,0,0.12725938856602
+16,1,0,15/08/2025,Liverpool FC,Bournemouth,45,Bournemouth,60,False,1808,Evanilson,998490,F,78,Alisson,89,Liverpool FC,1997,12.3,34.4,16,40,-1,fast-break,strongFoot,0,0.11539140343666
+15,1,0,15/08/2025,Liverpool FC,Bournemouth,47,Liverpool FC,44,True,1997,Hugo Ekitiké,1048422,F,77,Đorđe Petrović,80,Bournemouth,1808,3.9,47.9,4,20,1,corner,other,0,0.22713312506676
+14,1,0,15/08/2025,Liverpool FC,Bournemouth,49,Liverpool FC,44,True,1997,Cody Gakpo,862967,M,81,Đorđe Petrović,80,Bournemouth,1808,14.9,50.8,14,2,1,assisted,strongFoot,1,0.12170810997486
+13,1,0,15/08/2025,Liverpool FC,Bournemouth,52,Liverpool FC,44,True,1997,Alexis Mac Allister,895324,M,82,Đorđe Petrović,80,Bournemouth,1808,24.0,65.2,26,23,2,assisted,strongFoot,0,0.031858082860708
+12,1,0,15/08/2025,Liverpool FC,Bournemouth,53,Liverpool FC,44,True,1997,Jeremie Frimpong,970361,D,60,Đorđe Petrović,80,Bournemouth,1808,24.6,62.8,26,19,2,corner,strongFoot,0,0.0080814622342587
+11,1,0,15/08/2025,Liverpool FC,Bournemouth,54,Liverpool FC,44,True,1997,Dominik Szoboszlai,869856,M,81,Đorđe Petrović,80,Bournemouth,1808,29.1,44.3,29,7,2,regular,strongFoot,0,0.0086938114836812
+10,1,0,15/08/2025,Liverpool FC,Bournemouth,63,Liverpool FC,44,True,1997,Florian Wirtz,1019322,M,81,Đorđe Petrović,80,Bournemouth,1808,16.0,54.2,16,10,2,assisted,strongFoot,0,0.1442085057497
+9,1,0,15/08/2025,Liverpool FC,Bournemouth,64,Bournemouth,60,False,1808,Antoine Semenyo,934354,M,77,Alisson,89,Liverpool FC,1997,9.2,48.7,9,5,-2,fast-break,weakFoot,1,0.45479112863541
+8,1,0,15/08/2025,Liverpool FC,Bournemouth,70,Liverpool FC,44,True,1997,Cody Gakpo,862967,M,81,Đorđe Petrović,80,Bournemouth,1808,14.8,23.9,23,50,1,assisted,strongFoot,0,0.026656841859221
+7,1,0,15/08/2025,Liverpool FC,Bournemouth,71,Bournemouth,60,False,1808,David Brooks,855731,M,68,Alisson,89,Liverpool FC,1997,9.1,38.9,11,39,-1,assisted,strongFoot,0,0.16026094555855
+6,1,0,15/08/2025,Liverpool FC,Bournemouth,71,Bournemouth,60,False,1808,Evanilson,998490,F,78,Alisson,89,Liverpool FC,1997,8.8,40.5,10,36,-1,assisted,head,0,0.064950354397297
+5,1,0,15/08/2025,Liverpool FC,Bournemouth,76,Bournemouth,60,False,1808,Antoine Semenyo,934354,M,77,Alisson,89,Liverpool FC,1997,17.5,51.7,17,3,-1,fast-break,weakFoot,1,0.20790182054043
+4,1,0,15/08/2025,Liverpool FC,Bournemouth,80,Liverpool FC,44,True,1997,Dominik Szoboszlai,869856,M,81,Đorđe Petrović,80,Bournemouth,1808,14.5,55.8,15,15,0,assisted,weakFoot,0,0.067798927426338
+3,1,0,15/08/2025,Liverpool FC,Bournemouth,81,Liverpool FC,44,True,1997,Dominik Szoboszlai,869856,M,81,Đorđe Petrović,80,Bournemouth,1808,13.5,66.4,17,39,0,throw-in-set-piece,strongFoot,0,0.0200174767524
+2,1,0,15/08/2025,Liverpool FC,Bournemouth,88,Liverpool FC,44,True,1997,Cody Gakpo,862967,M,81,Đorđe Petrović,80,Bournemouth,1808,8.9,38.9,11,40,0,set-piece,strongFoot,0,0.049230437725782
+1,1,0,15/08/2025,Liverpool FC,Bournemouth,88,Liverpool FC,44,True,1997,Federico Chiesa,845386,F,79,Đorđe Petrović,80,Bournemouth,1808,10.2,46.6,10,12,0,regular,strongFoot,1,0.15560556948185
+0,1,0,15/08/2025,Liverpool FC,Bournemouth,90,Liverpool FC,44,True,1997,Mohamed Salah,159665,M,87,Đorđe Petrović,80,Bournemouth,1808,10.1,38.7,12,37,1,fast-break,weakFoot,1,0.10993491113186

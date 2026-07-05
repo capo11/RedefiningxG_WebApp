@@ -1,0 +1,276 @@
+game_index,season,round,date,home_team,away_team,home_score,away_score
+0,26,1,23/08/2025,Genoa,Lecce,0,0
+1,26,1,23/08/2025,Sassuolo,SSC Napoli,0,2
+2,26,1,23/08/2025,AC Milan,Cremonese,1,2
+3,26,1,23/08/2025,AS Roma,Bologna,1,0
+4,26,1,24/08/2025,Cagliari,Fiorentina,1,1
+5,26,1,24/08/2025,Como,Lazio,2,0
+6,26,1,24/08/2025,Atalanta,Pisa,1,1
+7,26,1,24/08/2025,Juventus,Parma,2,0
+8,26,1,25/08/2025,Udinese,Hellas Verona,1,1
+9,26,1,25/08/2025,Inter,Torino,5,0
+0,26,2,29/08/2025,Cremonese,Sassuolo,3,2
+1,26,2,29/08/2025,Lecce,AC Milan,0,2
+2,26,2,30/08/2025,Bologna,Como,1,0
+3,26,2,30/08/2025,Parma,Atalanta,1,1
+4,26,2,30/08/2025,Pisa,AS Roma,0,1
+5,26,2,30/08/2025,SSC Napoli,Cagliari,1,0
+6,26,2,31/08/2025,Genoa,Juventus,0,1
+7,26,2,31/08/2025,Torino,Fiorentina,0,0
+8,26,2,31/08/2025,Inter,Udinese,1,2
+9,26,2,31/08/2025,Lazio,Hellas Verona,4,0
+0,26,3,13/09/2025,Cagliari,Parma,2,0
+1,26,3,13/09/2025,Juventus,Inter,4,3
+2,26,3,13/09/2025,Fiorentina,SSC Napoli,1,3
+3,26,3,14/09/2025,AS Roma,Torino,0,1
+4,26,3,14/09/2025,Atalanta,Lecce,4,1
+5,26,3,14/09/2025,Pisa,Udinese,0,1
+6,26,3,14/09/2025,Sassuolo,Lazio,1,0
+7,26,3,14/09/2025,AC Milan,Bologna,1,0
+8,26,3,15/09/2025,Hellas Verona,Cremonese,0,0
+9,26,3,15/09/2025,Como,Genoa,1,1
+0,26,4,19/09/2025,Lecce,Cagliari,1,2
+1,26,4,20/09/2025,Bologna,Genoa,2,1
+2,26,4,20/09/2025,Hellas Verona,Juventus,1,1
+3,26,4,20/09/2025,Udinese,AC Milan,0,3
+4,26,4,21/09/2025,Lazio,AS Roma,0,1
+5,26,4,21/09/2025,Cremonese,Parma,0,0
+6,26,4,21/09/2025,Torino,Atalanta,0,3
+7,26,4,21/09/2025,Fiorentina,Como,1,2
+8,26,4,21/09/2025,Inter,Sassuolo,2,1
+9,26,4,22/09/2025,SSC Napoli,Pisa,3,2
+0,26,5,27/09/2025,Como,Cremonese,1,1
+1,26,5,27/09/2025,Juventus,Atalanta,1,1
+2,26,5,27/09/2025,Cagliari,Inter,0,2
+3,26,5,28/09/2025,Sassuolo,Udinese,3,1
+4,26,5,28/09/2025,AS Roma,Hellas Verona,2,0
+5,26,5,28/09/2025,Pisa,Fiorentina,0,0
+6,26,5,28/09/2025,Lecce,Bologna,2,2
+7,26,5,28/09/2025,AC Milan,SSC Napoli,2,1
+8,26,5,29/09/2025,Parma,Torino,2,1
+9,26,5,29/09/2025,Genoa,Lazio,0,3
+0,26,6,03/10/2025,Hellas Verona,Sassuolo,0,1
+1,26,6,04/10/2025,Lazio,Torino,3,3
+2,26,6,04/10/2025,Parma,Lecce,0,1
+3,26,6,04/10/2025,Inter,Cremonese,4,1
+4,26,6,04/10/2025,Atalanta,Como,1,1
+5,26,6,05/10/2025,Udinese,Cagliari,1,1
+6,26,6,05/10/2025,Bologna,Pisa,4,0
+7,26,6,05/10/2025,Fiorentina,AS Roma,1,2
+8,26,6,05/10/2025,SSC Napoli,Genoa,2,1
+9,26,6,05/10/2025,Juventus,AC Milan,0,0
+0,26,7,18/10/2025,Lecce,Sassuolo,0,0
+1,26,7,18/10/2025,Pisa,Hellas Verona,0,0
+2,26,7,18/10/2025,Torino,SSC Napoli,1,0
+3,26,7,18/10/2025,AS Roma,Inter,0,1
+4,26,7,19/10/2025,Como,Juventus,2,0
+5,26,7,19/10/2025,Cagliari,Bologna,0,2
+6,26,7,19/10/2025,Genoa,Parma,0,0
+7,26,7,19/10/2025,Atalanta,Lazio,0,0
+8,26,7,19/10/2025,AC Milan,Fiorentina,2,1
+9,26,7,20/10/2025,Cremonese,Udinese,1,1
+0,26,8,24/10/2025,AC Milan,Pisa,2,2
+1,26,8,25/10/2025,Parma,Como,0,0
+2,26,8,25/10/2025,Udinese,Lecce,3,2
+3,26,8,25/10/2025,SSC Napoli,Inter,3,1
+4,26,8,25/10/2025,Cremonese,Atalanta,1,1
+5,26,8,26/10/2025,Torino,Genoa,2,1
+6,26,8,26/10/2025,Hellas Verona,Cagliari,2,2
+7,26,8,26/10/2025,Sassuolo,AS Roma,0,1
+8,26,8,26/10/2025,Fiorentina,Bologna,2,2
+9,26,8,26/10/2025,Lazio,Juventus,1,0
+0,26,9,28/10/2025,Lecce,SSC Napoli,0,1
+1,26,9,28/10/2025,Atalanta,AC Milan,1,1
+2,26,9,29/10/2025,AS Roma,Parma,2,1
+3,26,9,29/10/2025,Como,Hellas Verona,3,1
+4,26,9,29/10/2025,Juventus,Udinese,3,1
+5,26,9,29/10/2025,Bologna,Torino,0,0
+6,26,9,29/10/2025,Genoa,Cremonese,0,2
+7,26,9,29/10/2025,Inter,Fiorentina,3,0
+8,26,9,30/10/2025,Cagliari,Sassuolo,1,2
+9,26,9,30/10/2025,Pisa,Lazio,0,0
+0,26,10,01/11/2025,Udinese,Atalanta,1,0
+1,26,10,01/11/2025,SSC Napoli,Como,0,0
+2,26,10,01/11/2025,Cremonese,Juventus,1,2
+3,26,10,02/11/2025,Hellas Verona,Inter,1,2
+4,26,10,02/11/2025,Fiorentina,Lecce,0,1
+5,26,10,02/11/2025,Torino,Pisa,2,2
+6,26,10,02/11/2025,Parma,Bologna,1,3
+7,26,10,02/11/2025,AC Milan,AS Roma,1,0
+8,26,10,03/11/2025,Sassuolo,Genoa,1,2
+9,26,10,03/11/2025,Lazio,Cagliari,2,0
+0,26,11,07/11/2025,Pisa,Cremonese,1,0
+1,26,11,08/11/2025,Como,Cagliari,0,0
+2,26,11,08/11/2025,Lecce,Hellas Verona,0,0
+3,26,11,08/11/2025,Juventus,Torino,0,0
+4,26,11,08/11/2025,Parma,AC Milan,2,2
+5,26,11,09/11/2025,Atalanta,Sassuolo,0,3
+6,26,11,09/11/2025,Bologna,SSC Napoli,2,0
+7,26,11,09/11/2025,Genoa,Fiorentina,2,2
+8,26,11,09/11/2025,AS Roma,Udinese,2,0
+9,26,11,09/11/2025,Inter,Lazio,2,0
+0,26,12,22/11/2025,Cagliari,Genoa,3,3
+1,26,12,22/11/2025,Udinese,Bologna,0,3
+2,26,12,22/11/2025,Fiorentina,Juventus,1,1
+3,26,12,22/11/2025,SSC Napoli,Atalanta,3,1
+4,26,12,23/11/2025,Hellas Verona,Parma,1,2
+5,26,12,23/11/2025,Cremonese,AS Roma,1,3
+6,26,12,23/11/2025,Lazio,Lecce,2,0
+7,26,12,23/11/2025,Inter,AC Milan,0,1
+8,26,12,24/11/2025,Torino,Como,1,5
+9,26,12,24/11/2025,Sassuolo,Pisa,2,2
+0,26,13,28/11/2025,Como,Sassuolo,2,0
+1,26,13,29/11/2025,Genoa,Hellas Verona,2,1
+2,26,13,29/11/2025,Parma,Udinese,0,2
+3,26,13,29/11/2025,Juventus,Cagliari,2,1
+4,26,13,29/11/2025,AC Milan,Lazio,1,0
+5,26,13,30/11/2025,Lecce,Torino,2,1
+6,26,13,30/11/2025,Pisa,Inter,0,2
+7,26,13,30/11/2025,Atalanta,Fiorentina,2,0
+8,26,13,30/11/2025,AS Roma,SSC Napoli,0,1
+9,26,13,01/12/2025,Bologna,Cremonese,1,3
+0,26,14,06/12/2025,Sassuolo,Fiorentina,3,1
+1,26,14,06/12/2025,Inter,Como,4,0
+2,26,14,06/12/2025,Hellas Verona,Atalanta,3,1
+3,26,14,07/12/2025,Cremonese,Lecce,2,0
+4,26,14,07/12/2025,Cagliari,AS Roma,1,0
+5,26,14,07/12/2025,Lazio,Bologna,1,1
+6,26,14,07/12/2025,SSC Napoli,Juventus,2,1
+7,26,14,08/12/2025,Pisa,Parma,0,1
+8,26,14,08/12/2025,Udinese,Genoa,1,2
+9,26,14,08/12/2025,Torino,AC Milan,2,3
+0,26,15,12/12/2025,Lecce,Pisa,1,0
+1,26,15,13/12/2025,Torino,Cremonese,1,0
+2,26,15,13/12/2025,Parma,Lazio,0,1
+3,26,15,13/12/2025,Atalanta,Cagliari,2,1
+4,26,15,14/12/2025,AC Milan,Sassuolo,2,2
+5,26,15,14/12/2025,Fiorentina,Hellas Verona,1,2
+6,26,15,14/12/2025,Udinese,SSC Napoli,1,0
+7,26,15,14/12/2025,Genoa,Inter,1,2
+8,26,15,14/12/2025,Bologna,Juventus,0,1
+9,26,15,15/12/2025,AS Roma,Como,1,0
+0,26,16,20/12/2025,Lazio,Cremonese,0.0,0.0
+1,26,16,20/12/2025,Juventus,AS Roma,2.0,1.0
+2,26,16,21/12/2025,Cagliari,Pisa,2.0,2.0
+3,26,16,21/12/2025,Como,AC Milan,,
+4,26,16,21/12/2025,Hellas Verona,Bologna,,
+5,26,16,21/12/2025,Inter,Lecce,,
+6,26,16,21/12/2025,SSC Napoli,Parma,,
+7,26,16,21/12/2025,Sassuolo,Torino,0.0,1.0
+8,26,16,21/12/2025,Fiorentina,Udinese,5.0,1.0
+9,26,16,21/12/2025,Genoa,Atalanta,0.0,1.0
+10,26,16,14/01/2026,SSC Napoli,Parma,0.0,0.0
+11,26,16,14/01/2026,Inter,Lecce,1.0,0.0
+12,26,16,15/01/2026,Hellas Verona,Bologna,2.0,3.0
+13,26,16,15/01/2026,Como,AC Milan,1.0,3.0
+0,26,17,27/12/2025,Parma,Fiorentina,1,0
+1,26,17,27/12/2025,Lecce,Como,0,3
+2,26,17,27/12/2025,Torino,Cagliari,1,2
+3,26,17,27/12/2025,Udinese,Lazio,1,1
+4,26,17,27/12/2025,Pisa,Juventus,0,2
+5,26,17,28/12/2025,AC Milan,Hellas Verona,3,0
+6,26,17,28/12/2025,Cremonese,SSC Napoli,0,2
+7,26,17,28/12/2025,Bologna,Sassuolo,1,1
+8,26,17,28/12/2025,Atalanta,Inter,0,1
+9,26,17,29/12/2025,AS Roma,Genoa,3,1
+0,26,18,02/01/2026,Cagliari,AC Milan,0,1
+1,26,18,03/01/2026,Como,Udinese,1,0
+2,26,18,03/01/2026,Genoa,Pisa,1,1
+3,26,18,03/01/2026,Sassuolo,Parma,1,1
+4,26,18,03/01/2026,Juventus,Lecce,1,1
+5,26,18,03/01/2026,Atalanta,AS Roma,1,0
+6,26,18,04/01/2026,Lazio,SSC Napoli,0,2
+7,26,18,04/01/2026,Fiorentina,Cremonese,1,0
+8,26,18,04/01/2026,Hellas Verona,Torino,0,3
+9,26,18,04/01/2026,Inter,Bologna,3,1
+0,26,19,06/01/2026,Pisa,Como,0,3
+1,26,19,06/01/2026,Lecce,AS Roma,0,2
+2,26,19,06/01/2026,Sassuolo,Juventus,0,3
+3,26,19,07/01/2026,Bologna,Atalanta,0,2
+4,26,19,07/01/2026,SSC Napoli,Hellas Verona,2,2
+5,26,19,07/01/2026,Lazio,Fiorentina,2,2
+6,26,19,07/01/2026,Parma,Inter,0,2
+7,26,19,07/01/2026,Torino,Udinese,1,2
+8,26,19,08/01/2026,Cremonese,Cagliari,2,2
+9,26,19,08/01/2026,AC Milan,Genoa,1,1
+0,26,20,10/01/2026,Como,Bologna,1,1
+1,26,20,10/01/2026,Udinese,Pisa,2,2
+2,26,20,10/01/2026,AS Roma,Sassuolo,2,0
+3,26,20,10/01/2026,Atalanta,Torino,2,0
+4,26,20,11/01/2026,Lecce,Parma,1,2
+5,26,20,11/01/2026,Fiorentina,AC Milan,1,1
+6,26,20,11/01/2026,Hellas Verona,Lazio,0,1
+7,26,20,11/01/2026,Inter,SSC Napoli,2,2
+8,26,20,12/01/2026,Genoa,Cagliari,3,0
+9,26,20,12/01/2026,Juventus,Cremonese,5,0
+0,26,21,16/01/2026,Pisa,Atalanta,1,1
+1,26,21,17/01/2026,Udinese,Inter,0,1
+2,26,21,17/01/2026,SSC Napoli,Sassuolo,1,0
+3,26,21,17/01/2026,Cagliari,Juventus,1,0
+4,26,21,18/01/2026,Parma,Genoa,0,0
+5,26,21,18/01/2026,Bologna,Fiorentina,1,2
+6,26,21,18/01/2026,Torino,AS Roma,0,2
+7,26,21,18/01/2026,AC Milan,Lecce,1,0
+8,26,21,19/01/2026,Cremonese,Hellas Verona,0,0
+9,26,21,19/01/2026,Lazio,Como,0,3
+0,26,22,23/01/2026,Inter,Pisa,6,2
+1,26,22,24/01/2026,Como,Torino,6,0
+2,26,22,24/01/2026,Fiorentina,Cagliari,1,2
+3,26,22,24/01/2026,Lecce,Lazio,0,0
+4,26,22,25/01/2026,Sassuolo,Cremonese,1,0
+5,26,22,25/01/2026,Atalanta,Parma,4,0
+6,26,22,25/01/2026,Genoa,Bologna,3,2
+7,26,22,25/01/2026,Juventus,SSC Napoli,3,0
+8,26,22,25/01/2026,AS Roma,AC Milan,1,1
+9,26,22,26/01/2026,Hellas Verona,Udinese,1,3
+0,26,23,30/01/2026,Lazio,Genoa,3,2
+1,26,23,31/01/2026,Pisa,Sassuolo,1,3
+2,26,23,31/01/2026,SSC Napoli,Fiorentina,2,1
+3,26,23,31/01/2026,Cagliari,Hellas Verona,4,0
+4,26,23,01/02/2026,Torino,Lecce,1,0
+5,26,23,01/02/2026,Como,Atalanta,0,0
+6,26,23,01/02/2026,Cremonese,Inter,0,2
+7,26,23,01/02/2026,Parma,Juventus,1,4
+8,26,23,02/02/2026,Udinese,AS Roma,1,0
+9,26,23,03/02/2026,Bologna,AC Milan,0,3
+0,26,24,06/02/2026,Hellas Verona,Pisa,0.0,0.0
+1,26,24,07/02/2026,Genoa,SSC Napoli,2.0,3.0
+2,26,24,07/02/2026,Fiorentina,Torino,2.0,2.0
+3,26,24,08/02/2026,Bologna,Parma,0.0,1.0
+4,26,24,08/02/2026,AC Milan,Como,,
+5,26,24,08/02/2026,Lecce,Udinese,2.0,1.0
+6,26,24,08/02/2026,Sassuolo,Inter,0.0,5.0
+7,26,24,08/02/2026,Juventus,Lazio,2.0,2.0
+8,26,24,09/02/2026,Atalanta,Cremonese,2.0,1.0
+9,26,24,09/02/2026,AS Roma,Cagliari,2.0,0.0
+10,26,24,18/02/2026,AC Milan,Como,1.0,1.0
+0,26,25,13/02/2026,Pisa,AC Milan,1,2
+1,26,25,14/02/2026,Como,Fiorentina,1,2
+2,26,25,14/02/2026,Lazio,Atalanta,0,2
+3,26,25,14/02/2026,Inter,Juventus,3,2
+4,26,25,15/02/2026,Udinese,Sassuolo,1,2
+5,26,25,15/02/2026,Cremonese,Genoa,0,0
+6,26,25,15/02/2026,Parma,Hellas Verona,2,1
+7,26,25,15/02/2026,Torino,Bologna,1,2
+8,26,25,15/02/2026,SSC Napoli,AS Roma,2,2
+9,26,25,16/02/2026,Cagliari,Lecce,0,2
+0,26,26,20/02/2026,Sassuolo,Hellas Verona,3,0
+1,26,26,21/02/2026,Juventus,Como,0,2
+2,26,26,21/02/2026,Lecce,Inter,0,2
+3,26,26,21/02/2026,Cagliari,Lazio,0,0
+4,26,26,22/02/2026,Genoa,Torino,3,0
+5,26,26,22/02/2026,Atalanta,SSC Napoli,2,1
+6,26,26,22/02/2026,AC Milan,Parma,0,1
+7,26,26,22/02/2026,AS Roma,Cremonese,3,0
+8,26,26,23/02/2026,Fiorentina,Pisa,1,0
+9,26,26,23/02/2026,Bologna,Udinese,1,0
+0,26,27,27/02/2026,Parma,Cagliari,1,1
+1,26,27,28/02/2026,Como,Lecce,3,1
+2,26,27,28/02/2026,Hellas Verona,SSC Napoli,1,2
+3,26,27,28/02/2026,Inter,Genoa,2,0
+4,26,27,01/03/2026,Cremonese,AC Milan,0,2
+5,26,27,01/03/2026,Sassuolo,Atalanta,2,1
+6,26,27,01/03/2026,Torino,Lazio,2,0
+7,26,27,01/03/2026,AS Roma,Juventus,3,3
+8,26,27,02/03/2026,Pisa,Bologna,0,1
+9,26,27,02/03/2026,Udinese,Fiorentina,3,0

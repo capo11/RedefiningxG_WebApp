@@ -1,0 +1,321 @@
+,round,homeTeam,awayTeam,homeScore,awayScore,matchId,url
+0,1,Girona FC,Rayo Vallecano,1,3,14082854,https://www.sofascore.com/api/v1/event/14082854/shotmap
+1,1,Villarreal,Real Oviedo,2,0,14082858,https://www.sofascore.com/api/v1/event/14082858/shotmap
+2,1,Mallorca,FC Barcelona,0,3,14082855,https://www.sofascore.com/api/v1/event/14082855/shotmap
+3,1,Deportivo Alavés,Levante UD,2,1,14082849,https://www.sofascore.com/api/v1/event/14082849/shotmap
+4,1,Valencia,Real Sociedad,1,1,14082857,https://www.sofascore.com/api/v1/event/14082857/shotmap
+5,1,Celta Vigo,Getafe,0,2,14082851,https://www.sofascore.com/api/v1/event/14082851/shotmap
+6,1,Athletic Club,Sevilla,3,2,14082850,https://www.sofascore.com/api/v1/event/14082850/shotmap
+7,1,Espanyol,Atlético Madrid,2,1,14082853,https://www.sofascore.com/api/v1/event/14082853/shotmap
+8,1,Elche,Real Betis,1,1,14082852,https://www.sofascore.com/api/v1/event/14082852/shotmap
+9,1,Real Madrid,Osasuna,1,0,14082856,https://www.sofascore.com/api/v1/event/14082856/shotmap
+0,2,Real Betis,Deportivo Alavés,1,0,14082864,https://www.sofascore.com/api/v1/event/14082864/shotmap
+1,2,Mallorca,Celta Vigo,1,1,14082866,https://www.sofascore.com/api/v1/event/14082866/shotmap
+2,2,Atlético Madrid,Elche,1,1,14082860,https://www.sofascore.com/api/v1/event/14082860/shotmap
+3,2,Levante UD,FC Barcelona,2,3,14082865,https://www.sofascore.com/api/v1/event/14082865/shotmap
+4,2,Osasuna,Valencia,1,0,14082861,https://www.sofascore.com/api/v1/event/14082861/shotmap
+5,2,Real Sociedad,Espanyol,2,2,14082867,https://www.sofascore.com/api/v1/event/14082867/shotmap
+6,2,Villarreal,Girona FC,5,0,14083100,https://www.sofascore.com/api/v1/event/14083100/shotmap
+7,2,Real Oviedo,Real Madrid,0,3,14082862,https://www.sofascore.com/api/v1/event/14082862/shotmap
+8,2,Athletic Club,Rayo Vallecano,1,0,14082859,https://www.sofascore.com/api/v1/event/14082859/shotmap
+9,2,Sevilla,Getafe,1,2,14083092,https://www.sofascore.com/api/v1/event/14083092/shotmap
+0,3,Elche,Levante UD,2,0,14083129,https://www.sofascore.com/api/v1/event/14083129/shotmap
+1,3,Valencia,Getafe,3,0,14083187,https://www.sofascore.com/api/v1/event/14083187/shotmap
+2,3,Deportivo Alavés,Atlético Madrid,1,1,14083109,https://www.sofascore.com/api/v1/event/14083109/shotmap
+3,3,Real Oviedo,Real Sociedad,1,0,14083157,https://www.sofascore.com/api/v1/event/14083157/shotmap
+4,3,Girona FC,Sevilla,0,2,14083148,https://www.sofascore.com/api/v1/event/14083148/shotmap
+5,3,Real Madrid,Mallorca,2,1,14083197,https://www.sofascore.com/api/v1/event/14083197/shotmap
+6,3,Celta Vigo,Villarreal,1,1,14083119,https://www.sofascore.com/api/v1/event/14083119/shotmap
+7,3,Real Betis,Athletic Club,1,2,14083167,https://www.sofascore.com/api/v1/event/14083167/shotmap
+8,3,Espanyol,Osasuna,1,0,14083138,https://www.sofascore.com/api/v1/event/14083138/shotmap
+9,3,Rayo Vallecano,FC Barcelona,1,1,14083178,https://www.sofascore.com/api/v1/event/14083178/shotmap
+0,4,Sevilla,Elche,2,2,14083253,https://www.sofascore.com/api/v1/event/14083253/shotmap
+1,4,Getafe,Real Oviedo,2,0,14083240,https://www.sofascore.com/api/v1/event/14083240/shotmap
+2,4,Real Sociedad,Real Madrid,1,2,14083256,https://www.sofascore.com/api/v1/event/14083256/shotmap
+3,4,Athletic Club,Deportivo Alavés,0,1,14083246,https://www.sofascore.com/api/v1/event/14083246/shotmap
+4,4,Atlético Madrid,Villarreal,2,0,14083206,https://www.sofascore.com/api/v1/event/14083206/shotmap
+5,4,Celta Vigo,Girona FC,1,1,14083225,https://www.sofascore.com/api/v1/event/14083225/shotmap
+6,4,Levante UD,Real Betis,2,2,14083249,https://www.sofascore.com/api/v1/event/14083249/shotmap
+7,4,Osasuna,Rayo Vallecano,2,0,14083243,https://www.sofascore.com/api/v1/event/14083243/shotmap
+8,4,FC Barcelona,Valencia,6,0,14083216,https://www.sofascore.com/api/v1/event/14083216/shotmap
+9,4,Espanyol,Mallorca,3,2,14083234,https://www.sofascore.com/api/v1/event/14083234/shotmap
+0,5,Real Betis,Real Sociedad,3,1,14083266,https://www.sofascore.com/api/v1/event/14083266/shotmap
+1,5,Girona FC,Levante UD,0,4,14083285,https://www.sofascore.com/api/v1/event/14083285/shotmap
+2,5,Real Madrid,Espanyol,2,0,14083333,https://www.sofascore.com/api/v1/event/14083333/shotmap
+3,5,Deportivo Alavés,Sevilla,1,2,14083259,https://www.sofascore.com/api/v1/event/14083259/shotmap
+4,5,Villarreal,Osasuna,2,1,14083351,https://www.sofascore.com/api/v1/event/14083351/shotmap
+5,5,Valencia,Athletic Club,2,0,14083298,https://www.sofascore.com/api/v1/event/14083298/shotmap
+6,5,Rayo Vallecano,Celta Vigo,1,1,14083322,https://www.sofascore.com/api/v1/event/14083322/shotmap
+7,5,Mallorca,Atlético Madrid,1,1,14083310,https://www.sofascore.com/api/v1/event/14083310/shotmap
+8,5,Elche,Real Oviedo,1,0,14083275,https://www.sofascore.com/api/v1/event/14083275/shotmap
+9,5,FC Barcelona,Getafe,3,0,14083262,https://www.sofascore.com/api/v1/event/14083262/shotmap
+0,6,Celta Vigo,Real Betis,1,1,14083498,https://www.sofascore.com/api/v1/event/14083498/shotmap
+1,6,Athletic Club,Girona FC,1,1,14083369,https://www.sofascore.com/api/v1/event/14083369/shotmap
+2,6,Espanyol,Valencia,2,2,14083407,https://www.sofascore.com/api/v1/event/14083407/shotmap
+3,6,Levante UD,Real Madrid,1,4,14083426,https://www.sofascore.com/api/v1/event/14083426/shotmap
+4,6,Sevilla,Villarreal,1,2,14083443,https://www.sofascore.com/api/v1/event/14083443/shotmap
+5,6,Getafe,Deportivo Alavés,1,1,14083462,https://www.sofascore.com/api/v1/event/14083462/shotmap
+6,6,Atlético Madrid,Rayo Vallecano,3,2,14083386,https://www.sofascore.com/api/v1/event/14083386/shotmap
+7,6,Real Sociedad,Mallorca,1,0,14083528,https://www.sofascore.com/api/v1/event/14083528/shotmap
+8,6,Osasuna,Elche,1,1,14083516,https://www.sofascore.com/api/v1/event/14083516/shotmap
+9,6,Real Oviedo,FC Barcelona,1,3,14083481,https://www.sofascore.com/api/v1/event/14083481/shotmap
+0,7,Girona FC,Espanyol,0,0,14083595,https://www.sofascore.com/api/v1/event/14083595/shotmap
+1,7,Getafe,Levante UD,1,1,14083569,https://www.sofascore.com/api/v1/event/14083569/shotmap
+2,7,Atlético Madrid,Real Madrid,5,2,14083541,https://www.sofascore.com/api/v1/event/14083541/shotmap
+3,7,Mallorca,Deportivo Alavés,1,0,14083580,https://www.sofascore.com/api/v1/event/14083580/shotmap
+4,7,Villarreal,Athletic Club,1,0,14083586,https://www.sofascore.com/api/v1/event/14083586/shotmap
+5,7,Rayo Vallecano,Sevilla,0,1,14083574,https://www.sofascore.com/api/v1/event/14083574/shotmap
+6,7,Elche,Celta Vigo,2,1,14083589,https://www.sofascore.com/api/v1/event/14083589/shotmap
+7,7,FC Barcelona,Real Sociedad,2,1,14083553,https://www.sofascore.com/api/v1/event/14083553/shotmap
+8,7,Real Betis,Osasuna,2,0,14083564,https://www.sofascore.com/api/v1/event/14083564/shotmap
+9,7,Valencia,Real Oviedo,1,2,14083601,https://www.sofascore.com/api/v1/event/14083601/shotmap
+0,8,Osasuna,Getafe,2,1,14652471,https://www.sofascore.com/api/v1/event/14652471/shotmap
+1,8,Real Oviedo,Levante UD,0,2,14083645,https://www.sofascore.com/api/v1/event/14083645/shotmap
+2,8,Girona FC,Valencia,2,1,14083615,https://www.sofascore.com/api/v1/event/14083615/shotmap
+3,8,Athletic Club,Mallorca,2,1,14083610,https://www.sofascore.com/api/v1/event/14083610/shotmap
+4,8,Real Madrid,Villarreal,3,1,14083620,https://www.sofascore.com/api/v1/event/14083620/shotmap
+5,8,Deportivo Alavés,Elche,3,1,14083605,https://www.sofascore.com/api/v1/event/14083605/shotmap
+6,8,Sevilla,FC Barcelona,4,1,14083630,https://www.sofascore.com/api/v1/event/14083630/shotmap
+7,8,Espanyol,Real Betis,1,2,14083635,https://www.sofascore.com/api/v1/event/14083635/shotmap
+8,8,Real Sociedad,Rayo Vallecano,0,1,14083650,https://www.sofascore.com/api/v1/event/14083650/shotmap
+9,8,Celta Vigo,Atlético Madrid,1,1,14083625,https://www.sofascore.com/api/v1/event/14083625/shotmap
+0,9,Real Oviedo,Espanyol,0,2,14083694,https://www.sofascore.com/api/v1/event/14083694/shotmap
+1,9,Sevilla,Mallorca,1,3,14083699,https://www.sofascore.com/api/v1/event/14083699/shotmap
+2,9,FC Barcelona,Girona FC,2,1,14083664,https://www.sofascore.com/api/v1/event/14083664/shotmap
+3,9,Villarreal,Real Betis,2,2,14083690,https://www.sofascore.com/api/v1/event/14083690/shotmap
+4,9,Atlético Madrid,Osasuna,1,0,14083659,https://www.sofascore.com/api/v1/event/14083659/shotmap
+5,9,Elche,Athletic Club,0,0,14083685,https://www.sofascore.com/api/v1/event/14083685/shotmap
+6,9,Celta Vigo,Real Sociedad,1,1,14083670,https://www.sofascore.com/api/v1/event/14083670/shotmap
+7,9,Levante UD,Rayo Vallecano,0,3,14083680,https://www.sofascore.com/api/v1/event/14083680/shotmap
+8,9,Getafe,Real Madrid,0,1,14083675,https://www.sofascore.com/api/v1/event/14083675/shotmap
+9,9,Deportivo Alavés,Valencia,0,0,14083655,https://www.sofascore.com/api/v1/event/14083655/shotmap
+0,10,Real Sociedad,Sevilla,2,1,14083712,https://www.sofascore.com/api/v1/event/14083712/shotmap
+1,10,Girona FC,Real Oviedo,3,3,14083708,https://www.sofascore.com/api/v1/event/14083708/shotmap
+2,10,Espanyol,Elche,1,0,14083737,https://www.sofascore.com/api/v1/event/14083737/shotmap
+3,10,Athletic Club,Getafe,0,1,14083704,https://www.sofascore.com/api/v1/event/14083704/shotmap
+4,10,Valencia,Villarreal,0,2,14083717,https://www.sofascore.com/api/v1/event/14083717/shotmap
+5,10,Mallorca,Levante UD,1,1,14083742,https://www.sofascore.com/api/v1/event/14083742/shotmap
+6,10,Real Madrid,FC Barcelona,2,1,14083729,https://www.sofascore.com/api/v1/event/14083729/shotmap
+7,10,Osasuna,Celta Vigo,2,3,14083733,https://www.sofascore.com/api/v1/event/14083733/shotmap
+8,10,Rayo Vallecano,Deportivo Alavés,1,0,14083721,https://www.sofascore.com/api/v1/event/14083721/shotmap
+9,10,Real Betis,Atlético Madrid,0,2,14083725,https://www.sofascore.com/api/v1/event/14083725/shotmap
+0,11,Getafe,Girona FC,2,1,14083098,https://www.sofascore.com/api/v1/event/14083098/shotmap
+1,11,Villarreal,Rayo Vallecano,4,0,14083105,https://www.sofascore.com/api/v1/event/14083105/shotmap
+2,11,Atlético Madrid,Sevilla,3,0,14083094,https://www.sofascore.com/api/v1/event/14083094/shotmap
+3,11,Real Sociedad,Athletic Club,3,2,14083101,https://www.sofascore.com/api/v1/event/14083101/shotmap
+4,11,Real Madrid,Valencia,4,0,14083099,https://www.sofascore.com/api/v1/event/14083099/shotmap
+5,11,Levante UD,Celta Vigo,1,2,14083103,https://www.sofascore.com/api/v1/event/14083103/shotmap
+6,11,Deportivo Alavés,Espanyol,2,1,14083093,https://www.sofascore.com/api/v1/event/14083093/shotmap
+7,11,FC Barcelona,Elche,3,1,14083095,https://www.sofascore.com/api/v1/event/14083095/shotmap
+8,11,Real Betis,Mallorca,3,0,14083097,https://www.sofascore.com/api/v1/event/14083097/shotmap
+9,11,Real Oviedo,Osasuna,0,0,14083104,https://www.sofascore.com/api/v1/event/14083104/shotmap
+0,12,Elche,Real Sociedad,1,1,14083110,https://www.sofascore.com/api/v1/event/14083110/shotmap
+1,12,Girona FC,Deportivo Alavés,1,0,14083114,https://www.sofascore.com/api/v1/event/14083114/shotmap
+2,12,Sevilla,Osasuna,1,0,14083120,https://www.sofascore.com/api/v1/event/14083120/shotmap
+3,12,Atlético Madrid,Levante UD,3,1,14083108,https://www.sofascore.com/api/v1/event/14083108/shotmap
+4,12,Espanyol,Villarreal,0,2,14083111,https://www.sofascore.com/api/v1/event/14083111/shotmap
+5,12,Athletic Club,Real Oviedo,1,0,14083106,https://www.sofascore.com/api/v1/event/14083106/shotmap
+6,12,Rayo Vallecano,Real Madrid,0,0,14083112,https://www.sofascore.com/api/v1/event/14083112/shotmap
+7,12,Mallorca,Getafe,1,0,14083118,https://www.sofascore.com/api/v1/event/14083118/shotmap
+8,12,Valencia,Real Betis,1,1,14083116,https://www.sofascore.com/api/v1/event/14083116/shotmap
+9,12,Celta Vigo,FC Barcelona,2,4,14083115,https://www.sofascore.com/api/v1/event/14083115/shotmap
+0,13,Valencia,Levante UD,1,0,14083133,https://www.sofascore.com/api/v1/event/14083133/shotmap
+1,13,Deportivo Alavés,Celta Vigo,0,1,14083121,https://www.sofascore.com/api/v1/event/14083121/shotmap
+2,13,FC Barcelona,Athletic Club,4,0,14083130,https://www.sofascore.com/api/v1/event/14083130/shotmap
+3,13,Osasuna,Real Sociedad,1,3,14083126,https://www.sofascore.com/api/v1/event/14083126/shotmap
+4,13,Villarreal,Mallorca,2,1,14083134,https://www.sofascore.com/api/v1/event/14083134/shotmap
+5,13,Real Oviedo,Rayo Vallecano,0,0,14083128,https://www.sofascore.com/api/v1/event/14083128/shotmap
+6,13,Real Betis,Girona FC,1,1,14083122,https://www.sofascore.com/api/v1/event/14083122/shotmap
+7,13,Getafe,Atlético Madrid,0,1,14083131,https://www.sofascore.com/api/v1/event/14083131/shotmap
+8,13,Elche,Real Madrid,2,2,14083124,https://www.sofascore.com/api/v1/event/14083124/shotmap
+9,13,Espanyol,Sevilla,2,1,14083125,https://www.sofascore.com/api/v1/event/14083125/shotmap
+0,14,Getafe,Elche,1,0,14083149,https://www.sofascore.com/api/v1/event/14083149/shotmap
+1,14,Mallorca,Osasuna,2,2,14083140,https://www.sofascore.com/api/v1/event/14083140/shotmap
+2,14,FC Barcelona,Deportivo Alavés,3,1,14083144,https://www.sofascore.com/api/v1/event/14083144/shotmap
+3,14,Levante UD,Athletic Club,0,2,14083145,https://www.sofascore.com/api/v1/event/14083145/shotmap
+4,14,Atlético Madrid,Real Oviedo,2,0,14083135,https://www.sofascore.com/api/v1/event/14083135/shotmap
+5,14,Real Sociedad,Villarreal,2,3,14083143,https://www.sofascore.com/api/v1/event/14083143/shotmap
+6,14,Sevilla,Real Betis,0,2,14083147,https://www.sofascore.com/api/v1/event/14083147/shotmap
+7,14,Celta Vigo,Espanyol,0,1,14083137,https://www.sofascore.com/api/v1/event/14083137/shotmap
+8,14,Girona FC,Real Madrid,1,1,14083139,https://www.sofascore.com/api/v1/event/14083139/shotmap
+9,14,Rayo Vallecano,Valencia,1,1,14083141,https://www.sofascore.com/api/v1/event/14083141/shotmap
+0,15,Real Oviedo,Mallorca,0,0,14083162,https://www.sofascore.com/api/v1/event/14083162/shotmap
+1,15,Villarreal,Getafe,2,0,14083159,https://www.sofascore.com/api/v1/event/14083159/shotmap
+2,15,Deportivo Alavés,Real Sociedad,1,0,14083150,https://www.sofascore.com/api/v1/event/14083150/shotmap
+3,15,Real Betis,FC Barcelona,3,5,14083155,https://www.sofascore.com/api/v1/event/14083155/shotmap
+4,15,Athletic Club,Atlético Madrid,1,0,14083151,https://www.sofascore.com/api/v1/event/14083151/shotmap
+5,15,Elche,Girona FC,3,0,14083153,https://www.sofascore.com/api/v1/event/14083153/shotmap
+6,15,Valencia,Sevilla,1,1,14083163,https://www.sofascore.com/api/v1/event/14083163/shotmap
+7,15,Espanyol,Rayo Vallecano,1,0,14083154,https://www.sofascore.com/api/v1/event/14083154/shotmap
+8,15,Real Madrid,Celta Vigo,0,2,14083158,https://www.sofascore.com/api/v1/event/14083158/shotmap
+9,15,Osasuna,Levante UD,2,0,14083160,https://www.sofascore.com/api/v1/event/14083160/shotmap
+0,16,Real Sociedad,Girona FC,1,2,14083177,https://www.sofascore.com/api/v1/event/14083177/shotmap
+1,16,Atlético Madrid,Valencia,2,1,14083165,https://www.sofascore.com/api/v1/event/14083165/shotmap
+2,16,Mallorca,Elche,3,1,14083174,https://www.sofascore.com/api/v1/event/14083174/shotmap
+3,16,FC Barcelona,Osasuna,2,0,14083168,https://www.sofascore.com/api/v1/event/14083168/shotmap
+4,16,Getafe,Espanyol,0,1,14083175,https://www.sofascore.com/api/v1/event/14083175/shotmap
+5,16,Sevilla,Real Oviedo,4,0,14083179,https://www.sofascore.com/api/v1/event/14083179/shotmap
+6,16,Celta Vigo,Athletic Club,2,0,14083171,https://www.sofascore.com/api/v1/event/14083171/shotmap
+7,16,Deportivo Alavés,Real Madrid,1,2,14083164,https://www.sofascore.com/api/v1/event/14083164/shotmap
+8,16,Rayo Vallecano,Real Betis,0,0,14083173,https://www.sofascore.com/api/v1/event/14083173/shotmap
+9,16,Levante UD,Villarreal,0,1,15398993,https://www.sofascore.com/api/v1/event/15398993/shotmap
+0,17,Valencia,Mallorca,1,1,14083193,https://www.sofascore.com/api/v1/event/14083193/shotmap
+1,17,Real Oviedo,Celta Vigo,0,0,14083192,https://www.sofascore.com/api/v1/event/14083192/shotmap
+2,17,Levante UD,Real Sociedad,1,1,14083184,https://www.sofascore.com/api/v1/event/14083184/shotmap
+3,17,Osasuna,Deportivo Alavés,3,0,14083188,https://www.sofascore.com/api/v1/event/14083188/shotmap
+4,17,Real Madrid,Sevilla,2,0,14083185,https://www.sofascore.com/api/v1/event/14083185/shotmap
+5,17,Girona FC,Atlético Madrid,0,3,14083189,https://www.sofascore.com/api/v1/event/14083189/shotmap
+6,17,Villarreal,FC Barcelona,0,2,14083190,https://www.sofascore.com/api/v1/event/14083190/shotmap
+7,17,Elche,Rayo Vallecano,4,0,14083183,https://www.sofascore.com/api/v1/event/14083183/shotmap
+8,17,Real Betis,Getafe,4,0,14083181,https://www.sofascore.com/api/v1/event/14083181/shotmap
+9,17,Athletic Club,Espanyol,1,2,14083180,https://www.sofascore.com/api/v1/event/14083180/shotmap
+0,18,Rayo Vallecano,Getafe,1,1,14083205,https://www.sofascore.com/api/v1/event/14083205/shotmap
+1,18,Celta Vigo,Valencia,4,1,14083196,https://www.sofascore.com/api/v1/event/14083196/shotmap
+2,18,Osasuna,Athletic Club,1,1,14083200,https://www.sofascore.com/api/v1/event/14083200/shotmap
+3,18,Elche,Villarreal,1,3,14083198,https://www.sofascore.com/api/v1/event/14083198/shotmap
+4,18,Espanyol,FC Barcelona,0,2,14083203,https://www.sofascore.com/api/v1/event/14083203/shotmap
+5,18,Sevilla,Levante UD,0,3,14083209,https://www.sofascore.com/api/v1/event/14083209/shotmap
+6,18,Real Madrid,Real Betis,5,1,14083204,https://www.sofascore.com/api/v1/event/14083204/shotmap
+7,18,Deportivo Alavés,Real Oviedo,1,1,14083194,https://www.sofascore.com/api/v1/event/14083194/shotmap
+8,18,Mallorca,Girona FC,1,2,14083208,https://www.sofascore.com/api/v1/event/14083208/shotmap
+9,18,Real Sociedad,Atlético Madrid,1,1,14083201,https://www.sofascore.com/api/v1/event/14083201/shotmap
+0,19,FC Barcelona,Atlético Madrid,3,1,14083215,https://www.sofascore.com/api/v1/event/14083215/shotmap
+1,19,Athletic Club,Real Madrid,0,3,14083210,https://www.sofascore.com/api/v1/event/14083210/shotmap
+2,19,Getafe,Real Sociedad,1,2,14083212,https://www.sofascore.com/api/v1/event/14083212/shotmap
+3,19,Real Oviedo,Real Betis,1,1,14083218,https://www.sofascore.com/api/v1/event/14083218/shotmap
+4,19,Villarreal,Deportivo Alavés,3,1,14083214,https://www.sofascore.com/api/v1/event/14083214/shotmap
+5,19,Girona FC,Osasuna,1,0,14083213,https://www.sofascore.com/api/v1/event/14083213/shotmap
+6,19,Valencia,Elche,1,1,14083220,https://www.sofascore.com/api/v1/event/14083220/shotmap
+7,19,Rayo Vallecano,Mallorca,2,1,14083223,https://www.sofascore.com/api/v1/event/14083223/shotmap
+8,19,Levante UD,Espanyol,1,1,14083222,https://www.sofascore.com/api/v1/event/14083222/shotmap
+9,19,Sevilla,Celta Vigo,0,1,14083219,https://www.sofascore.com/api/v1/event/14083219/shotmap
+0,20,Espanyol,Girona FC,0,2,14083229,https://www.sofascore.com/api/v1/event/14083229/shotmap
+1,20,Real Madrid,Levante UD,2,0,14083238,https://www.sofascore.com/api/v1/event/14083238/shotmap
+2,20,Mallorca,Athletic Club,3,2,14083235,https://www.sofascore.com/api/v1/event/14083235/shotmap
+3,20,Osasuna,Real Oviedo,3,2,14083232,https://www.sofascore.com/api/v1/event/14083232/shotmap
+4,20,Real Betis,Villarreal,2,0,14083224,https://www.sofascore.com/api/v1/event/14083224/shotmap
+5,20,Getafe,Valencia,0,1,14083230,https://www.sofascore.com/api/v1/event/14083230/shotmap
+6,20,Atlético Madrid,Deportivo Alavés,1,0,14083233,https://www.sofascore.com/api/v1/event/14083233/shotmap
+7,20,Celta Vigo,Rayo Vallecano,3,0,14083226,https://www.sofascore.com/api/v1/event/14083226/shotmap
+8,20,Real Sociedad,FC Barcelona,2,1,14083237,https://www.sofascore.com/api/v1/event/14083237/shotmap
+9,20,Elche,Sevilla,2,2,14083228,https://www.sofascore.com/api/v1/event/14083228/shotmap
+0,21,Levante UD,Elche,3,2,14083146,https://www.sofascore.com/api/v1/event/14083146/shotmap
+1,21,Rayo Vallecano,Osasuna,1,3,14083176,https://www.sofascore.com/api/v1/event/14083176/shotmap
+2,21,Valencia,Espanyol,3,2,14083156,https://www.sofascore.com/api/v1/event/14083156/shotmap
+3,21,Sevilla,Athletic Club,2,1,14083127,https://www.sofascore.com/api/v1/event/14083127/shotmap
+4,21,Villarreal,Real Madrid,0,2,14083186,https://www.sofascore.com/api/v1/event/14083186/shotmap
+5,21,Atlético Madrid,Mallorca,3,0,14083107,https://www.sofascore.com/api/v1/event/14083107/shotmap
+6,21,FC Barcelona,Real Oviedo,3,0,14083117,https://www.sofascore.com/api/v1/event/14083117/shotmap
+7,21,Real Sociedad,Celta Vigo,3,1,14083136,https://www.sofascore.com/api/v1/event/14083136/shotmap
+8,21,Deportivo Alavés,Real Betis,2,1,14083096,https://www.sofascore.com/api/v1/event/14083096/shotmap
+9,21,Girona FC,Getafe,1,1,14083166,https://www.sofascore.com/api/v1/event/14083166/shotmap
+0,22,Espanyol,Deportivo Alavés,1,2,14083236,https://www.sofascore.com/api/v1/event/14083236/shotmap
+1,22,Real Oviedo,Girona FC,1,0,14083251,https://www.sofascore.com/api/v1/event/14083251/shotmap
+2,22,Osasuna,Villarreal,2,2,14083227,https://www.sofascore.com/api/v1/event/14083227/shotmap
+3,22,Levante UD,Atlético Madrid,0,0,14083241,https://www.sofascore.com/api/v1/event/14083241/shotmap
+4,22,Elche,FC Barcelona,1,3,14083244,https://www.sofascore.com/api/v1/event/14083244/shotmap
+5,22,Real Madrid,Rayo Vallecano,2,1,14083254,https://www.sofascore.com/api/v1/event/14083254/shotmap
+6,22,Real Betis,Valencia,2,1,14083207,https://www.sofascore.com/api/v1/event/14083207/shotmap
+7,22,Getafe,Celta Vigo,0,0,14083247,https://www.sofascore.com/api/v1/event/14083247/shotmap
+8,22,Athletic Club,Real Sociedad,1,1,14083195,https://www.sofascore.com/api/v1/event/14083195/shotmap
+9,22,Mallorca,Sevilla,4,1,14083217,https://www.sofascore.com/api/v1/event/14083217/shotmap
+0,23,Celta Vigo,Osasuna,1,2,14083279,https://www.sofascore.com/api/v1/event/14083279/shotmap
+1,23,FC Barcelona,Mallorca,3,0,14083269,https://www.sofascore.com/api/v1/event/14083269/shotmap
+2,23,Real Sociedad,Elche,3,1,14083292,https://www.sofascore.com/api/v1/event/14083292/shotmap
+3,23,Deportivo Alavés,Getafe,0,2,14083257,https://www.sofascore.com/api/v1/event/14083257/shotmap
+4,23,Athletic Club,Levante UD,4,2,14083260,https://www.sofascore.com/api/v1/event/14083260/shotmap
+5,23,Sevilla,Girona FC,1,1,14083315,https://www.sofascore.com/api/v1/event/14083315/shotmap
+6,23,Atlético Madrid,Real Betis,0,1,14083263,https://www.sofascore.com/api/v1/event/14083263/shotmap
+7,23,Valencia,Real Madrid,0,2,14083327,https://www.sofascore.com/api/v1/event/14083327/shotmap
+8,23,Villarreal,Espanyol,4,1,14083303,https://www.sofascore.com/api/v1/event/14083303/shotmap
+9,23,Rayo Vallecano,Real Oviedo,3,0,15534915,https://www.sofascore.com/api/v1/event/15534915/shotmap
+0,24,Elche,Osasuna,0,0,14083360,https://www.sofascore.com/api/v1/event/14083360/shotmap
+1,24,Espanyol,Celta Vigo,2,2,14083524,https://www.sofascore.com/api/v1/event/14083524/shotmap
+2,24,Getafe,Villarreal,2,1,14083378,https://www.sofascore.com/api/v1/event/14083378/shotmap
+3,24,Sevilla,Deportivo Alavés,1,1,14083436,https://www.sofascore.com/api/v1/event/14083436/shotmap
+4,24,Real Madrid,Real Sociedad,4,1,14083418,https://www.sofascore.com/api/v1/event/14083418/shotmap
+5,24,Real Oviedo,Athletic Club,1,2,14083454,https://www.sofascore.com/api/v1/event/14083454/shotmap
+6,24,Rayo Vallecano,Atlético Madrid,3,0,14083472,https://www.sofascore.com/api/v1/event/14083472/shotmap
+7,24,Levante UD,Valencia,0,2,14083396,https://www.sofascore.com/api/v1/event/14083396/shotmap
+8,24,Mallorca,Real Betis,1,2,14083509,https://www.sofascore.com/api/v1/event/14083509/shotmap
+9,24,Girona FC,FC Barcelona,2,1,14083491,https://www.sofascore.com/api/v1/event/14083491/shotmap
+0,25,Athletic Club,Elche,2,1,14083549,https://www.sofascore.com/api/v1/event/14083549/shotmap
+1,25,Real Sociedad,Real Oviedo,3,3,14081792,https://www.sofascore.com/api/v1/event/14081792/shotmap
+2,25,Real Betis,Rayo Vallecano,1,1,14083572,https://www.sofascore.com/api/v1/event/14083572/shotmap
+3,25,Osasuna,Real Madrid,2,1,14081794,https://www.sofascore.com/api/v1/event/14081794/shotmap
+4,25,Atlético Madrid,Espanyol,4,2,14083561,https://www.sofascore.com/api/v1/event/14083561/shotmap
+5,25,Getafe,Sevilla,0,1,14083582,https://www.sofascore.com/api/v1/event/14083582/shotmap
+6,25,FC Barcelona,Levante UD,3,0,14083567,https://www.sofascore.com/api/v1/event/14083567/shotmap
+7,25,Celta Vigo,Mallorca,2,0,14083577,https://www.sofascore.com/api/v1/event/14083577/shotmap
+8,25,Villarreal,Valencia,2,1,14081796,https://www.sofascore.com/api/v1/event/14081796/shotmap
+9,25,Deportivo Alavés,Girona FC,2,2,14083537,https://www.sofascore.com/api/v1/event/14083537/shotmap
+0,26,Levante UD,Deportivo Alavés,2,0,14081793,https://www.sofascore.com/api/v1/event/14081793/shotmap
+1,26,Rayo Vallecano,Athletic Club,1,1,14081790,https://www.sofascore.com/api/v1/event/14081790/shotmap
+2,26,FC Barcelona,Villarreal,4,1,14081789,https://www.sofascore.com/api/v1/event/14081789/shotmap
+3,26,Mallorca,Real Sociedad,0,1,14081818,https://www.sofascore.com/api/v1/event/14081818/shotmap
+4,26,Real Oviedo,Atlético Madrid,0,1,14081795,https://www.sofascore.com/api/v1/event/14081795/shotmap
+5,26,Elche,Espanyol,2,2,14081819,https://www.sofascore.com/api/v1/event/14081819/shotmap
+6,26,Valencia,Osasuna,1,0,14083591,https://www.sofascore.com/api/v1/event/14083591/shotmap
+7,26,Real Betis,Sevilla,2,2,14081791,https://www.sofascore.com/api/v1/event/14081791/shotmap
+8,26,Girona FC,Celta Vigo,1,2,14081797,https://www.sofascore.com/api/v1/event/14081797/shotmap
+9,26,Real Madrid,Getafe,0,1,14081798,https://www.sofascore.com/api/v1/event/14081798/shotmap
+0,27,Celta Vigo,Real Madrid,1,2,14083607,https://www.sofascore.com/api/v1/event/14083607/shotmap
+1,27,Osasuna,Mallorca,2,2,14081805,https://www.sofascore.com/api/v1/event/14081805/shotmap
+2,27,Levante UD,Girona FC,1,1,14081802,https://www.sofascore.com/api/v1/event/14081802/shotmap
+3,27,Atlético Madrid,Real Sociedad,3,2,14083602,https://www.sofascore.com/api/v1/event/14083602/shotmap
+4,27,Athletic Club,FC Barcelona,0,1,14083597,https://www.sofascore.com/api/v1/event/14083597/shotmap
+5,27,Villarreal,Elche,2,1,14081803,https://www.sofascore.com/api/v1/event/14081803/shotmap
+6,27,Getafe,Real Betis,2,0,14081801,https://www.sofascore.com/api/v1/event/14081801/shotmap
+7,27,Sevilla,Rayo Vallecano,1,1,14081804,https://www.sofascore.com/api/v1/event/14081804/shotmap
+8,27,Valencia,Deportivo Alavés,3,2,14081799,https://www.sofascore.com/api/v1/event/14081799/shotmap
+9,27,Espanyol,Real Oviedo,1,1,14081800,https://www.sofascore.com/api/v1/event/14081800/shotmap
+0,28,Deportivo Alavés,Villarreal,1,1,14081806,https://www.sofascore.com/api/v1/event/14081806/shotmap
+1,28,Girona FC,Athletic Club,3,0,14083632,https://www.sofascore.com/api/v1/event/14083632/shotmap
+2,28,Atlético Madrid,Getafe,1,0,14083612,https://www.sofascore.com/api/v1/event/14083612/shotmap
+3,28,Real Oviedo,Valencia,1,0,14083627,https://www.sofascore.com/api/v1/event/14083627/shotmap
+4,28,Real Madrid,Elche,4,1,14083637,https://www.sofascore.com/api/v1/event/14083637/shotmap
+5,28,Mallorca,Espanyol,2,1,14083642,https://www.sofascore.com/api/v1/event/14083642/shotmap
+6,28,FC Barcelona,Sevilla,5,2,14083617,https://www.sofascore.com/api/v1/event/14083617/shotmap
+7,28,Real Betis,Celta Vigo,1,1,14083622,https://www.sofascore.com/api/v1/event/14083622/shotmap
+8,28,Real Sociedad,Osasuna,3,1,14083652,https://www.sofascore.com/api/v1/event/14083652/shotmap
+9,28,Rayo Vallecano,Levante UD,1,1,14083647,https://www.sofascore.com/api/v1/event/14083647/shotmap
+0,29,Villarreal,Real Sociedad,3,1,14081808,https://www.sofascore.com/api/v1/event/14081808/shotmap
+1,29,Elche,Mallorca,2,1,14083668,https://www.sofascore.com/api/v1/event/14083668/shotmap
+2,29,Espanyol,Getafe,1,2,14083673,https://www.sofascore.com/api/v1/event/14083673/shotmap
+3,29,Levante UD,Real Oviedo,4,2,14083678,https://www.sofascore.com/api/v1/event/14083678/shotmap
+4,29,Osasuna,Girona FC,1,0,14081815,https://www.sofascore.com/api/v1/event/14081815/shotmap
+5,29,Sevilla,Valencia,0,2,14083684,https://www.sofascore.com/api/v1/event/14083684/shotmap
+6,29,FC Barcelona,Rayo Vallecano,1,0,14083662,https://www.sofascore.com/api/v1/event/14083662/shotmap
+7,29,Celta Vigo,Deportivo Alavés,3,4,14083689,https://www.sofascore.com/api/v1/event/14083689/shotmap
+8,29,Athletic Club,Real Betis,2,1,14083657,https://www.sofascore.com/api/v1/event/14083657/shotmap
+9,29,Real Madrid,Atlético Madrid,3,2,14081807,https://www.sofascore.com/api/v1/event/14081807/shotmap
+0,30,Rayo Vallecano,Elche,1,0,14083697,https://www.sofascore.com/api/v1/event/14083697/shotmap
+1,30,Real Sociedad,Levante UD,2,0,14083701,https://www.sofascore.com/api/v1/event/14083701/shotmap
+2,30,Mallorca,Real Madrid,2,1,14081816,https://www.sofascore.com/api/v1/event/14081816/shotmap
+3,30,Real Betis,Espanyol,0,0,14081811,https://www.sofascore.com/api/v1/event/14081811/shotmap
+4,30,Atlético Madrid,FC Barcelona,1,2,14081810,https://www.sofascore.com/api/v1/event/14081810/shotmap
+5,30,Getafe,Athletic Club,2,0,14081813,https://www.sofascore.com/api/v1/event/14081813/shotmap
+6,30,Valencia,Celta Vigo,2,3,14081817,https://www.sofascore.com/api/v1/event/14081817/shotmap
+7,30,Real Oviedo,Sevilla,1,0,14081814,https://www.sofascore.com/api/v1/event/14081814/shotmap
+8,30,Deportivo Alavés,Osasuna,2,2,14081809,https://www.sofascore.com/api/v1/event/14081809/shotmap
+9,30,Girona FC,Villarreal,1,0,14081812,https://www.sofascore.com/api/v1/event/14081812/shotmap
+0,31,Real Madrid,Girona FC,1,1,14083191,https://www.sofascore.com/api/v1/event/14083191/shotmap
+1,31,Real Sociedad,Deportivo Alavés,3,3,14083152,https://www.sofascore.com/api/v1/event/14083152/shotmap
+2,31,Elche,Valencia,1,0,14083132,https://www.sofascore.com/api/v1/event/14083132/shotmap
+3,31,FC Barcelona,Espanyol,4,1,14083113,https://www.sofascore.com/api/v1/event/14083113/shotmap
+4,31,Sevilla,Atlético Madrid,2,1,14083161,https://www.sofascore.com/api/v1/event/14083161/shotmap
+5,31,Osasuna,Real Betis,1,1,14083172,https://www.sofascore.com/api/v1/event/14083172/shotmap
+6,31,Mallorca,Rayo Vallecano,3,0,14083142,https://www.sofascore.com/api/v1/event/14083142/shotmap
+7,31,Celta Vigo,Real Oviedo,0,3,14083123,https://www.sofascore.com/api/v1/event/14083123/shotmap
+8,31,Athletic Club,Villarreal,1,2,14083102,https://www.sofascore.com/api/v1/event/14083102/shotmap
+9,31,Levante UD,Getafe,1,0,14083182,https://www.sofascore.com/api/v1/event/14083182/shotmap
+0,33,Athletic Club,Osasuna,1,0,14083258,https://www.sofascore.com/api/v1/event/14083258/shotmap
+1,33,Mallorca,Valencia,1,1,14083270,https://www.sofascore.com/api/v1/event/14083270/shotmap
+2,33,Girona FC,Real Betis,2,3,14083318,https://www.sofascore.com/api/v1/event/14083318/shotmap
+3,33,Real Madrid,Deportivo Alavés,2,1,14083295,https://www.sofascore.com/api/v1/event/14083295/shotmap
+4,33,Elche,Atlético Madrid,3,2,14083306,https://www.sofascore.com/api/v1/event/14083306/shotmap
+5,33,Real Sociedad,Getafe,0,1,14083346,https://www.sofascore.com/api/v1/event/14083346/shotmap
+6,33,FC Barcelona,Celta Vigo,1,0,14083261,https://www.sofascore.com/api/v1/event/14083261/shotmap
+7,33,Levante UD,Sevilla,2,0,14083265,https://www.sofascore.com/api/v1/event/14083265/shotmap
+8,33,Rayo Vallecano,Espanyol,1,0,14083330,https://www.sofascore.com/api/v1/event/14083330/shotmap
+9,33,Real Oviedo,Villarreal,1,1,14083282,https://www.sofascore.com/api/v1/event/14083282/shotmap

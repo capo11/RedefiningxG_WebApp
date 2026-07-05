@@ -1,0 +1,3450 @@
+,team,teamId,player,playerId,version
+0,Inter,44,Lautaro Martínez,231478,260003
+1,Inter,44,Marcus Thuram,228093,260003
+2,Inter,44,Yoan Bonny,259565,260003
+3,Inter,44,Francesco Pio Esposito,277327,260003
+4,Inter,44,Henrikh Mkhitaryan,192883,260003
+5,Inter,44,Andy Diouf,268534,260003
+6,Inter,44,Nicolò Barella,224232,260003
+7,Inter,44,Piotr Zieliński,210406,260003
+8,Inter,44,Petar Sučić,276278,260003
+9,Inter,44,Davide Frattesi,239807,260003
+10,Inter,44,Luis Henrique Tomaz de Lima,256632,260003
+11,Inter,44,Hakan Çalhanoğlu,208128,260003
+12,Inter,44,Federico Dimarco,226268,260003
+13,Inter,44,Carlos Augusto Zopolato Neves,258648,260003
+14,Inter,44,Alessandro Bastoni,237383,260003
+15,Inter,44,Francesco Acerbi,199845,260003
+16,Inter,44,Yann Aurel Bisseck,241736,260003
+17,Inter,44,Stefan de Vrij,198176,260003
+18,Inter,44,Tomás Palacios,268558,260003
+19,Inter,44,Manuel Akanji,229237,260003
+20,Inter,44,Denzel Dumfries,233096,260003
+21,Inter,44,Matteo Darmian,184392,260003
+22,Inter,44,Yann Sommer,177683,260003
+23,Inter,44,Josep Martínez Riera,243311,260003
+24,Inter,44,Raffaele Di Gennaro,219715,260003
+0,Napoli,48,Rasmus Højlund,259399,260003
+1,Napoli,48,Lorenzo Lucca,268474,260003
+2,Napoli,48,Giuseppe Ambrosino,272726,260003
+3,Napoli,48,Romelu Lukaku,192505,260003
+4,Napoli,48,Scott McTominay,237238,260003
+5,Napoli,48,David Neres Campos,236632,260003
+6,Napoli,48,Noa Lang,239380,260003
+7,Napoli,48,Eljif Elmas,241390,260003
+8,Napoli,48,Kevin De Bruyne,192985,260003
+9,Napoli,48,André-Franck Zambo Anguissa,227236,260003
+10,Napoli,48,Billy Gilmour,245992,260003
+11,Napoli,48,Matteo Politano,216409,260003
+12,Napoli,48,Antonio Vergara,276706,260003
+13,Napoli,48,Stanislav Lobotka,216435,260003
+14,Napoli,48,Leonardo Spinazzola,202884,260003
+15,Napoli,48,Mathías Olivera,240716,260003
+16,Napoli,48,Miguel Gutiérrez Ortega,261865,260003
+17,Napoli,48,Juan Guilherme Nunes Jesus,200752,260003
+18,Napoli,48,Alessandro Buongiorno,243241,260003
+19,Napoli,48,Amir Rrahmani,244263,260003
+20,Napoli,48,Sam Beukema,262394,260003
+21,Napoli,48,Luca Marianucci,278319,260003
+22,Napoli,48,Giovanni Di Lorenzo,217870,260003
+23,Napoli,48,Pasquale Mazzocchi,239679,260003
+24,Napoli,48,Alex Meret,225116,260003
+25,Napoli,48,Vanja Milinković-Savić,224836,260003
+26,Napoli,48,Nikita Contini,220532,260003
+0,AC Milan,47,Santiago Giménez,245152,260003
+1,AC Milan,47,Ruben Loftus-Cheek,213666,260003
+2,AC Milan,47,Adrien Rabiot,210008,260003
+3,AC Milan,47,Christian Pulisic,227796,260003
+4,AC Milan,47,Christopher Nkunku,232411,260003
+5,AC Milan,47,Pervis Estupiñán,237942,260003
+6,AC Milan,47,Rafael da Conceição Leão,241721,260003
+7,AC Milan,47,Luka Modrić,177003,260003
+8,AC Milan,47,Ardon Jashari,257186,260003
+9,AC Milan,47,Youssouf Fofana,245630,260003
+10,AC Milan,47,Samuele Ricci,253473,260003
+11,AC Milan,47,Alexis Saelemaekers,242664,260003
+12,AC Milan,47,Zachary Athekame,279782,260003
+13,AC Milan,47,Cheveyo Balentien,81252,260003
+14,AC Milan,47,Strahinja Pavlović,254840,260003
+15,AC Milan,47,Matteo Gabbia,240277,260003
+16,AC Milan,47,Koni De Winter,265774,260003
+17,AC Milan,47,David Odogu,73286,260003
+18,AC Milan,47,Davide Bartesaghi,278237,260003
+19,AC Milan,47,Fikayo Tomori,232756,260003
+20,AC Milan,47,Mike Maignan,215698,260003
+21,AC Milan,47,Pietro Terracciano,205812,260003
+22,AC Milan,47,Lorenzo Torriani,72179,260003
+0,Juventus,45,Jonathan David,243630,260003
+1,Juventus,45,Dušan Vlahović,246430,260003
+2,Juventus,45,Loïs Openda,243580,260003
+3,Juventus,45,Arkadiusz Milik,205175,260003
+4,Juventus,45,Francisco F. da Conceição,261050,260003
+5,Juventus,45,Teun Koopmeiners,240679,260003
+6,Juventus,45,Kenan Yıldız,277954,260003
+7,Juventus,45,Vasilije Adžić,75085,260003
+8,Juventus,45,Andrea Cambiaso,258966,260003
+9,Juventus,45,Filip Kostić,208574,260003
+10,Juventus,45,Jonas Rouhi,74329,260003
+11,Juventus,45,Khéphren Thuram,247246,260003
+12,Juventus,45,Manuel Locatelli,222077,260003
+13,Juventus,45,Weston McKennie,238744,260003
+14,Juventus,45,Fabio Miretti,268802,260003
+15,Juventus,45,João Mário Neto Lopes,257290,260003
+16,Juventus,45,Edon Zhegrova,239763,260003
+17,Juventus,45,Lloyd Kelly,231512,260003
+18,Juventus,45,Gleison Bremer Silva Nascimento,239580,260003
+19,Juventus,45,Pierre Kalulu,255654,260003
+20,Juventus,45,Juan David Cabal,251870,260003
+21,Juventus,45,Daniele Rugani,211320,260003
+22,Juventus,45,Federico Gatti,266872,260003
+23,Juventus,45,Michele Di Gregorio,235840,260003
+24,Juventus,45,Carlo Pinsoglio,189342,260003
+25,Juventus,45,Mattia Perin,198009,260003
+0,Roma,52,Evan Ferguson,259608,260003
+1,Roma,52,Artem Dovbyk,242458,260003
+2,Roma,52,Matías Soulé,265695,260003
+3,Roma,52,Tommaso Baldanzi,269312,260003
+4,Roma,52,Paulo Dybala,211110,260003
+5,Roma,52,Lorenzo Pellegrini,228251,260003
+6,Roma,52,José Ángel Esmoris Tasende,220651,260003
+7,Roma,52,Stephan El Shaarawy,190813,260003
+8,Roma,52,Kostas Tsimikas,232223,260003
+9,Roma,52,Kouadio Manu Koné,250723,260003
+10,Roma,52,Bryan Cristante,208268,260003
+11,Roma,52,Neil El Aynaoui,262745,260003
+12,Roma,52,Edoardo Bove,262171,260003
+13,Roma,52,Niccolò Pisilli,275291,260003
+14,Roma,52,Wesley Vinícius França Lima,80170,260003
+15,Roma,52,Zeki Çelik,224490,260003
+16,Roma,52,Aboubacar Sangaré Traoré,279200,260003
+17,Roma,52,Leon Bailey,229906,260003
+18,Roma,52,Evan Ndicka,236403,260003
+19,Roma,52,Gianluca Mancini,229582,260003
+20,Roma,52,Devyne Rensch,258826,260003
+21,Roma,52,Daniele Ghilardi,277695,260003
+22,Roma,52,Jan Ziółkowski,276680,260003
+23,Roma,52,Mario Hermoso Canseco,229668,260003
+24,Roma,52,Mile Svilar,230872,260003
+25,Roma,52,Devis Vásquez,233189,260003
+26,Roma,52,Pierluigi Gollini,211515,260003
+27,Roma,52,Radoslaw Zelezny,80045,260003
+0,Atalanta,39,Gianluca Scamacca,226710,260003
+1,Atalanta,39,Nikola Krstović,277839,260003
+2,Atalanta,39,Ademola Lookman,230899,260003
+3,Atalanta,39,Daniel Maldini,255611,260003
+4,Atalanta,39,Charles De Ketelaere,251470,260003
+5,Atalanta,39,Nicola Zalewski,262113,260003
+6,Atalanta,39,Davide Zappacosta,216150,260003
+7,Atalanta,39,Kamaldeen Sulemana,256035,260003
+8,Atalanta,39,Honest Ahanor,74483,260003
+9,Atalanta,39,Mitchel Bakker,239368,260003
+10,Atalanta,39,Lorenzo Bernasconi,74574,260003
+11,Atalanta,39,Mario Pašalić,223273,260003
+12,Atalanta,39,Lazar Samardžić,256115,260003
+13,Atalanta,39,Marco Brescianini,257785,260003
+14,Atalanta,39,Marten de Roon,208461,260003
+15,Atalanta,39,Éderson José dos Santos,266866,260003
+16,Atalanta,39,Yunus Musah,253177,260003
+17,Atalanta,39,Raoul Bellanova,247229,260003
+18,Atalanta,39,Berat Djimsiti,208165,260003
+19,Atalanta,39,Isak Hien,260697,260003
+20,Atalanta,39,Odilon Kossounou,246875,260003
+21,Atalanta,39,Sead Kolašinac,207993,260003
+22,Atalanta,39,Giorgio Scalvini,265188,260003
+23,Atalanta,39,Marco Carnesecchi,252154,260003
+24,Atalanta,39,Marco Sportiello,216065,260003
+25,Atalanta,39,Francesco Rossi,194894,260003
+0,Lazio,46,Mattia Zaccagni,220502,260003
+1,Lazio,46,Valentin Castellanos,237712,260003
+2,Lazio,46,Boulaye Dia,246242,260003
+3,Lazio,46,Tijjani Noslin,264257,260003
+4,Lazio,46,Saná Fernandes,278338,260003
+5,Lazio,46,Matteo Cancellieri,263929,260003
+6,Lazio,46,Pedro Rodríguez Ledesma,189505,260003
+7,Lazio,46,Gustav Isaksen,248729,260003
+8,Lazio,46,Fisayo Dele-Bashiru,258890,260003
+9,Lazio,46,Nicolò Rovella,255001,260003
+10,Lazio,46,Danilo Cataldi,211361,260003
+11,Lazio,46,Matías Vecino,219985,260003
+12,Lazio,46,Toma Bašić,245275,260003
+13,Lazio,46,Reda Belahyane,275163,260003
+14,Lazio,46,Cristobal Muñoz López,73162,260003
+15,Lazio,46,Mattéo Guendouzi,236496,260003
+16,Lazio,46,Nuno Albertino Varela Tavares,251530,260003
+17,Lazio,46,Luca Pellegrini,243237,260003
+18,Lazio,46,Elseid Hysaj,210864,260003
+19,Lazio,46,Dimitrije Kamenović,272876,260003
+20,Lazio,46,Mohamed Fares,226356,260003
+21,Lazio,46,Alessio Romagnoli,210413,260003
+22,Lazio,46,Oliver Provstgaard,266123,260003
+23,Lazio,46,Mario Gila Fuentes,268804,260003
+24,Lazio,46,Samuel Gigot,219581,260003
+25,Lazio,46,Patricio Gabarrón Gil,206098,260003
+26,Lazio,46,Adam Marušić,224031,260003
+27,Lazio,46,Manuel Lazzari,235374,260003
+28,Lazio,46,Ivan Provedel,224987,260003
+29,Lazio,46,Christos Mandas,278032,260003
+30,Lazio,46,Alessio Furlanetto,270217,260003
+0,Como,1745,Tasos Douvikas,261478,260003
+1,Como,1745,Álvaro Borja Morata Martín,201153,260003
+2,Como,1745,Nicolás Paz Martínez,277846,260003
+3,Como,1745,Martin Baturina,262842,260003
+4,Como,1745,Simone Verdi,196889,260003
+5,Como,1745,Jesús Rodríguez Caraballo,75055,260003
+6,Como,1745,Assane Diao,275324,260003
+7,Como,1745,Mërgim Vojvoda,228349,260003
+8,Como,1745,Nicolas Kühn,239977,260003
+9,Como,1745,Jayden Addai,279239,260003
+10,Como,1745,Lucas Da Cunha,254579,260003
+11,Como,1745,Máximo Perrone,267991,260003
+12,Como,1745,Sergio Roberto Carnicer,199564,260003
+13,Como,1745,Maxence Caqueret,246646,260003
+14,Como,1745,Álex Valle Gómez,273875,260003
+15,Como,1745,Alberto Moreno Pérez,205566,260003
+16,Como,1745,Marc-Oliver Kempf,210719,260003
+17,Como,1745,Jacobo Ramón Naveros,70966,260003
+18,Como,1745,Edoardo Goldaniga,223524,260003
+19,Como,1745,Diego Carlos Santos Silva,219693,260003
+20,Como,1745,Alberto Dossena,237586,260003
+21,Como,1745,Ignace Van der Brempt,251464,260003
+22,Como,1745,Ivan Smolčić,77163,260003
+23,Como,1745,Stefan Posch,223671,260003
+24,Como,1745,Jean Butez,225149,260003
+25,Como,1745,Mauro Vigorito,186611,260003
+26,Como,1745,Nikola Čavlina,270463,260003
+27,Como,1745,Henrique Menke Lopes,80504,260003
+0,Fiorentina,110374,Moise Kean,236610,260003
+1,Fiorentina,110374,Roberto Piccoli,248385,260003
+2,Fiorentina,110374,Edin Džeko,180930,260003
+3,Fiorentina,110374,Riccardo Braschi,80508,260003
+4,Fiorentina,110374,Christian Kouamé,235866,260003
+5,Fiorentina,110374,Albert Guðmundsson,238004,260003
+6,Fiorentina,110374,Jacopo Fazzini,266596,260003
+7,Fiorentina,110374,Abdelhamid Sabiri,237499,260003
+8,Fiorentina,110374,Robin Gosens,223697,260003
+9,Fiorentina,110374,Fabiano Parisi,258976,260003
+10,Fiorentina,110374,Niccolò Fortini,72180,260003
+11,Fiorentina,110374,Nicolò Fagioli,260823,260003
+12,Fiorentina,110374,Amir Richardson,262236,260003
+13,Fiorentina,110374,Rolando Mandragora,225439,260003
+14,Fiorentina,110374,Simon Sohm,244634,260003
+15,Fiorentina,110374,Cher Ndour,276682,260003
+16,Fiorentina,110374,Hans Nicolussi Caviglia,253162,260003
+17,Fiorentina,110374,Domilson Cordeiro dos Santos,234112,260003
+18,Fiorentina,110374,Tariq Lamptey,242418,260003
+19,Fiorentina,110374,Gino Infantino,258104,260003
+20,Fiorentina,110374,Luca Ranieri,240777,260003
+21,Fiorentina,110374,Pablo Marí Villar,206654,260003
+22,Fiorentina,110374,Marin Pongračić,238370,260003
+23,Fiorentina,110374,Mattia Viti,264044,260003
+24,Fiorentina,110374,Eman Košpo,80505,260003
+25,Fiorentina,110374,Eddy Kouadio,74926,260003
+26,Fiorentina,110374,Pietro Comuzzo,278340,260003
+27,Fiorentina,110374,David De Gea Quintana,193080,260003
+28,Fiorentina,110374,Tommaso Martinelli,275325,260003
+29,Fiorentina,110374,Luca Lezzerini,219584,260003
+0,Bologna,189,Santiago Castro,267861,260003
+1,Bologna,189,Ciro Immobile,192387,260003
+2,Bologna,189,Thijs Dallinga,252021,260003
+3,Bologna,189,Jens Odgaard,234671,260003
+4,Bologna,189,Giovanni Fabbian,271019,260003
+5,Bologna,189,Nicolò Cambiaghi,268703,260003
+6,Bologna,189,Benjamín Domínguez,269558,260003
+7,Bologna,189,Jonathan Rowe,266500,260003
+8,Bologna,189,Riccardo Orsolini,233556,260003
+9,Bologna,189,Federico Bernardeschi,212404,260003
+10,Bologna,189,Nikola Moro,244270,260003
+11,Bologna,189,Remo Freuler,202024,260003
+12,Bologna,189,Lewis Ferguson,242280,260003
+13,Bologna,189,Tommaso Pobega,252060,260003
+14,Bologna,189,Ibrahim Sulemana,271577,260003
+15,Bologna,189,Charalampos Lykogiannis,210381,260003
+16,Bologna,189,Juan Miranda González,240915,260003
+17,Bologna,189,Jhon Lucumí,231207,260003
+18,Bologna,189,Torbjørn Heggem,248342,260003
+19,Bologna,189,Martin Vitík,259748,260003
+20,Bologna,189,Nicolò Casale,239770,260003
+21,Bologna,189,Nadir Zortea,252440,260003
+22,Bologna,189,Lorenzo De Silvestri,170320,260003
+23,Bologna,189,Emil Holm,246656,260003
+24,Bologna,189,Łukasz Skorupski,189908,260003
+25,Bologna,189,Federico Ravaglia,240657,260003
+26,Bologna,189,Massimo Pessina,75741,260003
+0,Torino,54,Nikola Vlašić,241095,260003
+1,Torino,54,Giovanni Simeone,216816,260003
+2,Torino,54,Ché Adams,226093,260003
+3,Torino,54,Duván Zapata,215333,260003
+4,Torino,54,Tommaso Gabellini,75443,260003
+5,Torino,54,Alieu Njie,70480,260003
+6,Torino,54,Cyril Ngonge,246457,260003
+7,Torino,54,Zakaria Aboukhlal,248564,260003
+8,Torino,54,Ivan Ilić,258683,260003
+9,Torino,54,Gvidas Gineitis,273932,260003
+10,Torino,54,Cesare Casadei,273883,260003
+11,Torino,54,Tino Anjorin,248474,260003
+12,Torino,54,Emirhan İlkhan,266257,260003
+13,Torino,54,Sergiu Perciun,76027,260003
+14,Torino,54,Kristjan Asllani,264699,260003
+15,Torino,54,Adrien Tameze,213242,260003
+16,Torino,54,Cristiano Biraghi,201389,260003
+17,Torino,54,Niels Nkounkou,255150,260003
+18,Torino,54,Guillermo Maripán,219145,260003
+19,Torino,54,Adam Masina,225410,260003
+20,Torino,54,Saúl Basilio Coco Bassey Oubiña,265650,260003
+21,Torino,54,Ardian Ismajli,258782,260003
+22,Torino,54,Saba Sazonov,278013,260003
+23,Torino,54,Perr Schuurs,241854,260003
+24,Torino,54,Valentino Lazaro,211147,260003
+25,Torino,54,Marcus Pedersen,243481,260003
+26,Torino,54,Ali Bina Dembélé,273936,260003
+27,Torino,54,Franco Israel,270141,260003
+28,Torino,54,Alberto Paleari,235740,260003
+29,Torino,54,Mihai Popa,253688,260003
+0,Sassuolo,111974,Armand Laurienté,243593,260003
+1,Sassuolo,111974,Alieu Fadera,263882,260003
+2,Sassuolo,111974,Andrea Pinamonti,235842,260003
+3,Sassuolo,111974,Nicholas Pierini,241628,260003
+4,Sassuolo,111974,Walid Cheddira,268511,260003
+5,Sassuolo,111974,Luca Moro,248787,260003
+6,Sassuolo,111974,Laurs Skjellerup,257324,260003
+7,Sassuolo,111974,Domenico Berardi,210935,260003
+8,Sassuolo,111974,Cristian Volpato,265761,260003
+9,Sassuolo,111974,Ismaël Koné,264207,260003
+10,Sassuolo,111974,Nemanja Matić,191202,260003
+11,Sassuolo,111974,Daniel Boloca,268462,260003
+12,Sassuolo,111974,Luca Lipani,274702,260003
+13,Sassuolo,111974,Kristian Thorstvedt,242725,260003
+14,Sassuolo,111974,Edoardo Iannoni,270657,260003
+15,Sassuolo,111974,Aster Vranckx,252027,260003
+16,Sassuolo,111974,Josh Doig,255561,260003
+17,Sassuolo,111974,Edoardo Pieragnolo,276705,260003
+18,Sassuolo,111974,Tarik Muharemović,262027,260003
+19,Sassuolo,111974,Fali Candé,256856,260003
+20,Sassuolo,111974,Jay Idzes,262396,260003
+21,Sassuolo,111974,Filippo Romagna,226108,260003
+22,Sassuolo,111974,Cas Odenthal,262474,260003
+23,Sassuolo,111974,Sebastian Walukiewicz,243497,260003
+24,Sassuolo,111974,Woyo Coulibaly,251335,260003
+25,Sassuolo,111974,Yeferson Paz,271006,260003
+26,Sassuolo,111974,Stefano Turati,254502,260003
+27,Sassuolo,111974,Arijanet Murić,233164,260003
+28,Sassuolo,111974,Giacomo Satalino,235806,260003
+29,Sassuolo,111974,Gioele Zacchi,80811,260003
+0,Cremonese,111434,Federico Bonazzoli,223137,260003
+1,Cremonese,111434,Franco Vázquez,207471,260003
+2,Cremonese,111434,Faris Pemi Moumbagna,256669,260003
+3,Cremonese,111434,Antonio Sanabria,219932,260003
+4,Cremonese,111434,David Okereke,233732,260003
+5,Cremonese,111434,Manuel De Luca,237391,260003
+6,Cremonese,111434,Dennis Johnsen,237502,260003
+7,Cremonese,111434,Jamie Vardy,208830,260003
+8,Cremonese,111434,Jari Vandeputte,217338,260003
+9,Cremonese,111434,Jeremy Sarmiento,263522,260003
+10,Cremonese,111434,Michele Collocolo,268576,260003
+11,Cremonese,111434,Martín Payero,240970,260003
+12,Cremonese,111434,Alberto Grassi,220475,260003
+13,Cremonese,111434,Dachi Lordkipanidze,75170,260003
+14,Cremonese,111434,Mattia Valoti,205089,260003
+15,Cremonese,111434,Warren Bondo,257353,260003
+16,Cremonese,111434,Giuseppe Pezzella,230681,260003
+17,Cremonese,111434,Leonardo Sernicola,233968,260003
+18,Cremonese,111434,Matteo Bianchetti,205363,260003
+19,Cremonese,111434,Federico Baschirotto,268573,260003
+20,Cremonese,111434,Federico Ceccherini,210964,260003
+21,Cremonese,111434,Mikayil Faye,277118,260003
+22,Cremonese,111434,Francesco Folino,74448,260003
+23,Cremonese,111434,Filippo Terracciano,271579,260003
+24,Cremonese,111434,Alessio Zerbin,237669,260003
+25,Cremonese,111434,Romano Floriani Mussolini,74071,260003
+26,Cremonese,111434,Tommaso Barbieri,275162,260003
+27,Cremonese,111434,Emil Audero,228413,260003
+28,Cremonese,111434,Marco Silvestri,190745,260003
+29,Cremonese,111434,Lapo Nava,278331,260003
+0,Genoa,110556,Lorenzo Colombo,256899,260003
+1,Genoa,110556,Vítor Manuel Carvalho Oliveira,263829,260003
+2,Genoa,110556,Caleb Ekuban,239795,260003
+3,Genoa,110556,Jeff Ekhator,74485,260003
+4,Genoa,110556,Nicolae Stanciu,212207,260003
+5,Genoa,110556,Ruslan Malinovskyi,231969,260003
+6,Genoa,110556,Albert Grønbæk,256949,260003
+7,Genoa,110556,Morten Thorsby,222475,260003
+8,Genoa,110556,Hugo Cuenca,74930,260003
+9,Genoa,110556,Mikael Egill Ellertsson,264436,260003
+10,Genoa,110556,Maxwel Cornet,215798,260003
+11,Genoa,110556,Valentín Carboni,272602,260003
+12,Genoa,110556,Junior Messias,240938,260003
+13,Genoa,110556,Seydou Fini,278350,260003
+14,Genoa,110556,Lorenzo Venturino,76172,260003
+15,Genoa,110556,Morten Frendrup,242633,260003
+16,Genoa,110556,Patrizio Masini,276485,260003
+17,Genoa,110556,Jean Onana,255934,260003
+18,Genoa,110556,Aarón Martín Caricol,236295,260003
+19,Genoa,110556,Johan Vásquez,244349,260003
+20,Genoa,110556,Leo Østigård,238516,260003
+21,Genoa,110556,Alessandro Marcandalli,276477,260003
+22,Genoa,110556,Sebastian Otoa,271882,260003
+23,Genoa,110556,Brooke Norton-Cuffy,260653,260003
+24,Genoa,110556,Stefano Sabelli,206159,260003
+25,Genoa,110556,Nicola Leali,201299,260003
+26,Genoa,110556,Benjamin Siegrist,202886,260003
+27,Genoa,110556,Ernestas Lysionok,81467,260003
+28,Genoa,110556,Daniele Sommariva,225432,260003
+0,Parma,50,Mateo Pellegrino,263229,260003
+1,Parma,50,Patrick Cutrone,237715,260003
+2,Parma,50,Milan Đurić,192840,260003
+3,Parma,50,Matija Frigan,275401,260003
+4,Parma,50,Oliver Sørensen,257972,260003
+5,Parma,50,Gaetano Oristanio,269276,260003
+6,Parma,50,Pontus Almqvist,236706,260003
+7,Parma,50,Emanuele Valeri,258714,260003
+8,Parma,50,Jacob Ondrejka,255460,260003
+9,Parma,50,Adrian Benedyczak,243154,260003
+10,Parma,50,Mandela Keita,261539,260003
+11,Parma,50,Adrián Bernabé García,252794,260003
+12,Parma,50,Nahuel Estévez,240992,260003
+13,Parma,50,Christian Ordoñez,273884,260003
+14,Parma,50,Hernani Azevedo Júnior,225475,260003
+15,Parma,50,Tjaš Begić,276736,260003
+16,Parma,50,Benjamin Cremaschi,272687,260003
+17,Parma,50,Elia Plicco,76121,260003
+18,Parma,50,Mathias Løvik,264294,260003
+19,Parma,50,Sascha Britschgi,75647,260003
+20,Parma,50,Lautaro Valenti,246164,260003
+21,Parma,50,Alessandro Circati,268913,260003
+22,Parma,50,Abdoulaye Ndiaye,259150,260003
+23,Parma,50,Mariano Troilo,278436,260003
+24,Parma,50,Nicolas Trabucchi,76026,260003
+25,Parma,50,Enrico Delprato,252442,260003
+26,Parma,50,Zion Suzuki,255981,260003
+27,Parma,50,Edoardo Corvi,271385,260003
+28,Parma,50,Gianluca Astaldi,81468,260003
+29,Parma,50,Filippo Rinaldi,278280,260003
+0,Cagliari,1842,Sebastiano Esposito,247888,260003
+1,Cagliari,1842,Zito André Sebastião Luvumbo,259011,260003
+2,Cagliari,1842,Andrea Belotti,208596,260003
+3,Cagliari,1842,Gennaro Borrelli,252942,260003
+4,Cagliari,1842,Semih Kılıçsoy,274616,260003
+5,Cagliari,1842,Leonardo Pavoletti,205850,260003
+6,Cagliari,1842,Gianluca Gaetano,246877,260003
+7,Cagliari,1842,Nicolò Cavuoti,271202,260003
+8,Cagliari,1842,Michael Folorunsho,268683,260003
+9,Cagliari,1842,Michel Ndary Adopo,254982,260003
+10,Cagliari,1842,Luca Mazzitelli,221331,260003
+11,Cagliari,1842,Alessandro Deiola,229743,260003
+12,Cagliari,1842,Marko Rog,236311,260003
+13,Cagliari,1842,Matteo Prati,272725,260003
+14,Cagliari,1842,Adam Obert,266636,260003
+15,Cagliari,1842,Mattia Felici,248857,260003
+16,Cagliari,1842,Riyad Idrissi,73095,260003
+17,Cagliari,1842,Sebastiano Luperto,220534,260003
+18,Cagliari,1842,Juan Rodríguez,78037,260003
+19,Cagliari,1842,Yerry Mina,220523,260003
+20,Cagliari,1842,José Pedro da Silva Figueiredo,278668,260003
+21,Cagliari,1842,Nicola Pintus,78004,260003
+22,Cagliari,1842,Gabriele Zappa,252964,260003
+23,Cagliari,1842,Marco Palestra,278339,260003
+24,Cagliari,1842,Alessandro Di Pardo,261243,260003
+25,Cagliari,1842,Elia Caprile,255303,260003
+26,Cagliari,1842,Giuseppe Ciocci,271199,260003
+27,Cagliari,1842,Boris Radunović,231073,260003
+0,Hellas Verona,206,Amin Sarr,256453,260003
+1,Hellas Verona,206,Giovane Santana,80283,260003
+2,Hellas Verona,206,Daniel Mosquera,266585,260003
+3,Hellas Verona,206,Gift Orban,273564,260003
+4,Hellas Verona,206,Junior Ajayi,72322,260003
+5,Hellas Verona,206,Suat Serdar,230065,260003
+6,Hellas Verona,206,Grigoris Kastanos,237335,260003
+7,Hellas Verona,206,Tomáš Suslov,255233,260003
+8,Hellas Verona,206,Cheikh Niasse,248661,260003
+9,Hellas Verona,206,Abdou Harroui,241937,260003
+10,Hellas Verona,206,Jean-Daniel Akpa Akpro,205343,260003
+11,Hellas Verona,206,Antoine Bernede,234795,260003
+12,Hellas Verona,206,Ali Al Musrati,252308,260003
+13,Hellas Verona,206,Roberto Gagliardini,212153,260003
+14,Hellas Verona,206,Jesús Santiago Pérez,270698,260003
+15,Hellas Verona,206,Domagoj Bradarić,252000,260003
+16,Hellas Verona,206,Martin Frese,238009,260003
+17,Hellas Verona,206,Victor Nelsson,235658,260003
+18,Hellas Verona,206,Armel Bella-Kotchap,247497,260003
+19,Hellas Verona,206,Enzo Ebosse,241007,260003
+20,Hellas Verona,206,Daniel Oyegoke,262930,260003
+21,Hellas Verona,206,Tobias Slotsager,273628,260003
+22,Hellas Verona,206,Nicolás Valentini,267681,260003
+23,Hellas Verona,206,Unai Núñez Gestoso,240900,260003
+24,Hellas Verona,206,Rafik Belghali,276314,260003
+25,Hellas Verona,206,Fallou Cham,80861,260003
+26,Hellas Verona,206,Lorenzo Montipò,215363,260003
+27,Hellas Verona,206,Simone Perilli,210940,260003
+28,Hellas Verona,206,Giacomo Toniolo,72397,260003
+0,Udinese,55,Iker Bravo Solanilla,265194,260003
+1,Udinese,55,Adam Buksa,224438,260003
+2,Udinese,55,Nicolò Zaniolo,238067,260003
+3,Udinese,55,Keinan Davis,231743,260003
+4,Udinese,55,Vakoun Issouf Bayo,246832,260003
+5,Udinese,55,Idrissa Gueye,76411,260003
+6,Udinese,55,Sandi Lovrič,223866,260003
+7,Udinese,55,Arthur Atta,272783,260003
+8,Udinese,55,Jurgen Ekkelenkamp,243249,260003
+9,Udinese,55,Oier Zarraga Egaña,258615,260003
+10,Udinese,55,Jakub Piotrowski,229973,260003
+11,Udinese,55,Lennon Miller,275522,260003
+12,Udinese,55,Jesper Karlström,214658,260003
+13,Udinese,55,Jordan Zemura,259634,260003
+14,Udinese,55,Hassane Kamara,220421,260003
+15,Udinese,55,Oumar Solet,242238,260003
+16,Udinese,55,Thomas Kristensen,261573,260003
+17,Udinese,55,Saba Goglichidze,70252,260003
+18,Udinese,55,Christian Kabasele,190324,260003
+19,Udinese,55,Matteo Palma,72324,260003
+20,Udinese,55,Nicolò Bertola,271475,260003
+21,Udinese,55,Kingsley Ehizibue,225669,260003
+22,Udinese,55,Rui Manuel Muati Modesto,274270,260003
+23,Udinese,55,Alessandro Zanoli,268656,260003
+24,Udinese,55,Răzvan Sava,266803,260003
+25,Udinese,55,Daniele Padelli,162297,260003
+26,Udinese,55,Alessandro Nunziante,80203,260003
+27,Udinese,55,Maduka Okoye,257288,260003
+0,Pisa,110738,Henrik Meister,277309,260003
+1,Pisa,110738,M'Bala Nzola,240452,260003
+2,Pisa,110738,Stefano Moreo,222959,260003
+3,Pisa,110738,Lorran Lucas Pereira de Sousa,81307,260003
+4,Pisa,110738,Calvin Stengs,236593,260003
+5,Pisa,110738,Mattéo Tramoni,240797,260003
+6,Pisa,110738,Emanuel Vignato,240661,260003
+7,Pisa,110738,Samuele Angori,270658,260003
+8,Pisa,110738,Louis Buffon,77379,260003
+9,Pisa,110738,Michel Aebischer,236898,260003
+10,Pisa,110738,Marius Marin,252313,260003
+11,Pisa,110738,Gabriele Piccinini,268790,260003
+12,Pisa,110738,Ebenezer Akinsanmiro,70471,260003
+13,Pisa,110738,Malthe Højholt,253464,260003
+14,Pisa,110738,İsak Vural,71296,260003
+15,Pisa,110738,Idrissa Touré,233396,260003
+16,Pisa,110738,Juan Cuadrado,193082,260003
+17,Pisa,110738,Mehdi Léris,240660,260003
+18,Pisa,110738,Mateus Henrique Vanelli Lusuardi,278346,260003
+19,Pisa,110738,Antonio Caracciolo,199174,260003
+20,Pisa,110738,Arturo Calabresi,229574,260003
+21,Pisa,110738,Daniel Denoon,74876,260003
+22,Pisa,110738,Giovanni Bonfanti,278354,260003
+23,Pisa,110738,Jeremy Mbambi,80810,260003
+24,Pisa,110738,Raúl Albiol Tortajada,157481,260003
+25,Pisa,110738,Simone Canestrelli,264480,260003
+26,Pisa,110738,Tomás Lago Pontes Esteves,252033,260003
+27,Pisa,110738,Adrian Šemper,244274,260003
+28,Pisa,110738,Simone Scuffet,220048,260003
+29,Pisa,110738,David Nicolás Andrade,205496,260003
+0,Lecce,347,Riccardo Sottil,246431,260003
+1,Lecce,347,José Antonio Morente Oliva,239671,260003
+2,Lecce,347,Nikola Štulić,273915,260003
+3,Lecce,347,Francesco Camarda,279202,260003
+4,Lecce,347,Filip Marchwiński,246649,260003
+5,Lecce,347,Santiago Pierotti,253139,260003
+6,Lecce,347,Lameck Banda,271197,260003
+7,Lecce,347,Konan N'Dri,247668,260003
+8,Lecce,347,Medon Berisha,271198,260003
+9,Lecce,347,Ylber Ramadani,243787,260003
+10,Lecce,347,Þórir Jóhann Helgason,263657,260003
+11,Lecce,347,Mohamed Kaba,263469,260003
+12,Lecce,347,Balthazar Pierret,266501,260003
+13,Lecce,347,Youssef Maleh,236838,260003
+14,Lecce,347,Hamza Rafia,251790,260003
+15,Lecce,347,Àlex Sala Herrero,265732,260003
+16,Lecce,347,Lassana Coulibaly,230107,260003
+17,Lecce,347,Antonino Gallo,244717,260003
+18,Lecce,347,Corrie Ndaba,247528,260003
+19,Lecce,347,Tiago Gabriel Coelho Oliveira,70555,260003
+20,Lecce,347,Gaby Jean,270888,260003
+21,Lecce,347,Kialonda Gaspar,275783,260003
+22,Lecce,347,Matías Ignacio Pérez,80006,260003
+23,Lecce,347,Jamil Siebert,259299,260003
+24,Lecce,347,Danilo Filipe Melo Veiga,271539,260003
+25,Lecce,347,Owen Kouassi,74502,260003
+26,Lecce,347,Frédéric Guilbert,227222,260003
+27,Lecce,347,Wladimiro Falcone,210676,260003
+28,Lecce,347,Christian Früchtl,235266,260003
+29,Lecce,347,Jasper Samooja,278623,260003
+0,Inter,44,Lautaro Martínez,231478,260022
+1,Inter,44,Marcus Thuram,228093,260022
+2,Inter,44,Yoan Bonny,259565,260022
+3,Inter,44,Francesco Pio Esposito,277327,260022
+4,Inter,44,Matteo Lavelli,82087,260022
+5,Inter,44,Piotr Zieliński,210406,260022
+6,Inter,44,Andy Diouf,268534,260022
+7,Inter,44,Nicolò Barella,224232,260022
+8,Inter,44,Henrikh Mkhitaryan,192883,260022
+9,Inter,44,Davide Frattesi,239807,260022
+10,Inter,44,Petar Sučić,276278,260022
+11,Inter,44,Hakan Çalhanoğlu,208128,260022
+12,Inter,44,Federico Dimarco,226268,260022
+13,Inter,44,Carlos Augusto Zopolato Neves,258648,260022
+14,Inter,44,Matteo Cocchi,77615,260022
+15,Inter,44,Alessandro Bastoni,237383,260022
+16,Inter,44,Manuel Akanji,229237,260022
+17,Inter,44,Francesco Acerbi,199845,260022
+18,Inter,44,Stefan de Vrij,198176,260022
+19,Inter,44,Leon Jakirović,77325,260022
+20,Inter,44,Yann Aurel Bisseck,241736,260022
+21,Inter,44,Luis Henrique Tomaz de Lima,256632,260022
+22,Inter,44,Matteo Darmian,184392,260022
+23,Inter,44,Denzel Dumfries,233096,260022
+24,Inter,44,Yann Sommer,177683,260022
+25,Inter,44,Josep Martínez Riera,243311,260022
+26,Inter,44,Raffaele Di Gennaro,219715,260022
+27,Inter,44,Alain Taho,77523,260022
+0,Napoli,48,Eljif Elmas,241390,260022
+1,Napoli,48,David Neres Campos,236632,260022
+2,Napoli,48,Alisson de Almeida Santos,79270,260022
+3,Napoli,48,Rasmus Højlund,259399,260022
+4,Napoli,48,Giovane Santana,80283,260022
+5,Napoli,48,Romelu Lukaku,192505,260022
+6,Napoli,48,Matteo Politano,216409,260022
+7,Napoli,48,Antonio Vergara,276706,260022
+8,Napoli,48,Leonardo Spinazzola,202884,260022
+9,Napoli,48,Miguel Gutiérrez Ortega,261865,260022
+10,Napoli,48,Scott McTominay,237238,260022
+11,Napoli,48,Mathías Olivera,240716,260022
+12,Napoli,48,Stanislav Lobotka,216435,260022
+13,Napoli,48,André-Franck Zambo Anguissa,227236,260022
+14,Napoli,48,Billy Gilmour,245992,260022
+15,Napoli,48,Kevin De Bruyne,192985,260022
+16,Napoli,48,Giovanni Di Lorenzo,217870,260022
+17,Napoli,48,Pasquale Mazzocchi,239679,260022
+18,Napoli,48,Alessandro Buongiorno,243241,260022
+19,Napoli,48,Amir Rrahmani,244263,260022
+20,Napoli,48,Juan Guilherme Nunes Jesus,200752,260022
+21,Napoli,48,Sam Beukema,262394,260022
+22,Napoli,48,Vanja Milinković-Savić,224836,260022
+23,Napoli,48,Alex Meret,225116,260022
+24,Napoli,48,Nikita Contini,220532,260022
+25,Napoli,48,Mathias Ferrante,81526,260022
+0,AC Milan,47,Rafael da Conceição Leão,241721,260022
+1,AC Milan,47,Santiago Giménez,245152,260022
+2,AC Milan,47,Christian Pulisic,227796,260022
+3,AC Milan,47,Niclas Füllkrug,205431,260022
+4,AC Milan,47,Christopher Nkunku,232411,260022
+5,AC Milan,47,Adrien Rabiot,210008,260022
+6,AC Milan,47,Samuele Ricci,253473,260022
+7,AC Milan,47,Ruben Loftus-Cheek,213666,260022
+8,AC Milan,47,Jacopo Sardo,74010,260022
+9,AC Milan,47,Cheveyo Balentien,81252,260022
+10,AC Milan,47,Luka Modrić,177003,260022
+11,AC Milan,47,Youssouf Fofana,245630,260022
+12,AC Milan,47,Ardon Jashari,257186,260022
+13,AC Milan,47,Davide Bartesaghi,278237,260022
+14,AC Milan,47,Pervis Estupiñán,237942,260022
+15,AC Milan,47,Koni De Winter,265774,260022
+16,AC Milan,47,Matteo Gabbia,240277,260022
+17,AC Milan,47,Strahinja Pavlović,254840,260022
+18,AC Milan,47,David Odogu,73286,260022
+19,AC Milan,47,Fikayo Tomori,232756,260022
+20,AC Milan,47,Alexis Saelemaekers,242664,260022
+21,AC Milan,47,Zachary Athekame,279782,260022
+22,AC Milan,47,Mike Maignan,215698,260022
+23,AC Milan,47,Pietro Terracciano,205812,260022
+24,AC Milan,47,Matteo Pittarella,80809,260022
+25,AC Milan,47,Lorenzo Torriani,72179,260022
+0,Juventus,45,Jonathan David,243630,260022
+1,Juventus,45,Loïs Openda,243580,260022
+2,Juventus,45,Jérémie Boga,224422,260022
+3,Juventus,45,Leonardo Cerri,71000,260022
+4,Juventus,45,Arkadiusz Milik,205175,260022
+5,Juventus,45,Dušan Vlahović,246430,260022
+6,Juventus,45,Kenan Yıldız,277954,260022
+7,Juventus,45,Teun Koopmeiners,240679,260022
+8,Juventus,45,Francisco F. da Conceição,261050,260022
+9,Juventus,45,Vasilije Adžić,75085,260022
+10,Juventus,45,Andrea Cambiaso,258966,260022
+11,Juventus,45,Filip Kostić,208574,260022
+12,Juventus,45,Khéphren Thuram,247246,260022
+13,Juventus,45,Manuel Locatelli,222077,260022
+14,Juventus,45,Fabio Miretti,268802,260022
+15,Juventus,45,Weston McKennie,238744,260022
+16,Juventus,45,Emil Holm,246656,260022
+17,Juventus,45,Edon Zhegrova,239763,260022
+18,Juventus,45,Lloyd Kelly,231512,260022
+19,Juventus,45,Gleison Bremer Silva Nascimento,239580,260022
+20,Juventus,45,Federico Gatti,266872,260022
+21,Juventus,45,Juan David Cabal,251870,260022
+22,Juventus,45,Pierre Kalulu,255654,260022
+23,Juventus,45,Michele Di Gregorio,235840,260022
+24,Juventus,45,Carlo Pinsoglio,189342,260022
+25,Juventus,45,Mattia Perin,198009,260022
+26,Juventus,45,Simone Scaglia,71001,260022
+0,Roma,52,Donyell Malen,231447,260022
+1,Roma,52,Evan Ferguson,259608,260022
+2,Roma,52,Antonio Arena,79095,260022
+3,Roma,52,Artem Dovbyk,242458,260022
+4,Roma,52,Robinio Vaz,76410,260022
+5,Roma,52,Paulo Dybala,211110,260022
+6,Roma,52,Matías Soulé,265695,260022
+7,Roma,52,Lorenzo Pellegrini,228251,260022
+8,Roma,52,Wesley Vinícius França Lima,80170,260022
+9,Roma,52,Stephan El Shaarawy,190813,260022
+10,Roma,52,José Ángel Esmoris Tasende,220651,260022
+11,Roma,52,Kostas Tsimikas,232223,260022
+12,Roma,52,Bryan Zaragoza Martínez,271916,260022
+13,Roma,52,Kouadio Manu Koné,250723,260022
+14,Roma,52,Bryan Cristante,208268,260022
+15,Roma,52,Neil El Aynaoui,262745,260022
+16,Roma,52,Niccolò Pisilli,275291,260022
+17,Roma,52,Zeki Çelik,224490,260022
+18,Roma,52,Lorenzo Venturino,76172,260022
+19,Roma,52,Mario Hermoso Canseco,229668,260022
+20,Roma,52,Evan Ndicka,236403,260022
+21,Roma,52,Devyne Rensch,258826,260022
+22,Roma,52,Jan Ziółkowski,276680,260022
+23,Roma,52,Daniele Ghilardi,277695,260022
+24,Roma,52,Gianluca Mancini,229582,260022
+25,Roma,52,Mile Svilar,230872,260022
+26,Roma,52,Pierluigi Gollini,211515,260022
+27,Roma,52,Radosław Żelezny,80045,260022
+0,Atalanta,39,Nikola Krstović,277839,260022
+1,Atalanta,39,Gianluca Scamacca,226710,260022
+2,Atalanta,39,Giacomo Raspadori,253002,260022
+3,Atalanta,39,Nicola Zalewski,262113,260022
+4,Atalanta,39,Charles De Ketelaere,251470,260022
+5,Atalanta,39,Kamaldeen Sulemana,256035,260022
+6,Atalanta,39,Lorenzo Bernasconi,74574,260022
+7,Atalanta,39,Mitchel Bakker,239368,260022
+8,Atalanta,39,Éderson José dos Santos,266866,260022
+9,Atalanta,39,Lazar Samardžić,256115,260022
+10,Atalanta,39,Marten de Roon,208461,260022
+11,Atalanta,39,Mario Pašalić,223273,260022
+12,Atalanta,39,Yunus Musah,253177,260022
+13,Atalanta,39,Davide Zappacosta,216150,260022
+14,Atalanta,39,Raoul Bellanova,247229,260022
+15,Atalanta,39,Honest Ahanor,74483,260022
+16,Atalanta,39,Berat Djimsiti,208165,260022
+17,Atalanta,39,Isak Hien,260697,260022
+18,Atalanta,39,Odilon Kossounou,246875,260022
+19,Atalanta,39,Relja Obrić,76955,260022
+20,Atalanta,39,Sead Kolašinac,207993,260022
+21,Atalanta,39,Giorgio Scalvini,265188,260022
+22,Atalanta,39,Marco Carnesecchi,252154,260022
+23,Atalanta,39,Marco Sportiello,216065,260022
+24,Atalanta,39,Francesco Rossi,194894,260022
+0,Lazio,46,Mattia Zaccagni,220502,260022
+1,Lazio,46,Boulaye Dia,246242,260022
+2,Lazio,46,Tijjani Noslin,264257,260022
+3,Lazio,46,Daniel Maldini,255611,260022
+4,Lazio,46,Petar Ratkov,275978,260022
+5,Lazio,46,Saná Fernandes,278338,260022
+6,Lazio,46,Matteo Cancellieri,263929,260022
+7,Lazio,46,Pedro Rodríguez Ledesma,189505,260022
+8,Lazio,46,Gustav Isaksen,248729,260022
+9,Lazio,46,Adrian Przyborek,274444,260022
+10,Lazio,46,Toma Bašić,245275,260022
+11,Lazio,46,Kenneth Taylor,255009,260022
+12,Lazio,46,Reda Belahyane,275163,260022
+13,Lazio,46,Cristobal Muñoz López,73162,260022
+14,Lazio,46,Fisayo Dele-Bashiru,258890,260022
+15,Lazio,46,Danilo Cataldi,211361,260022
+16,Lazio,46,Nicolò Rovella,255001,260022
+17,Lazio,46,Luca Pellegrini,243237,260022
+18,Lazio,46,Elseid Hysaj,210864,260022
+19,Lazio,46,Nuno Albertino Varela Tavares,251530,260022
+20,Lazio,46,Alessio Romagnoli,210413,260022
+21,Lazio,46,Oliver Provstgaard,266123,260022
+22,Lazio,46,Mario Gila Fuentes,268804,260022
+23,Lazio,46,Samuel Gigot,219581,260022
+24,Lazio,46,Patricio Gabarrón Gil,206098,260022
+25,Lazio,46,Adam Marušić,224031,260022
+26,Lazio,46,Manuel Lazzari,235374,260022
+27,Lazio,46,Ivan Provedel,224987,260022
+28,Lazio,46,Edoardo Motta,277802,260022
+29,Lazio,46,Alessio Furlanetto,270217,260022
+0,Como,1745,Tasos Douvikas,261478,260022
+1,Como,1745,Álvaro Borja Morata Martín,201153,260022
+2,Como,1745,Nicolás Paz Martínez,277846,260022
+3,Como,1745,Martin Baturina,262842,260022
+4,Como,1745,Jesús Rodríguez Caraballo,75055,260022
+5,Como,1745,Assane Diao,275324,260022
+6,Como,1745,Jayden Addai,279239,260022
+7,Como,1745,Nicolas Kühn,239977,260022
+8,Como,1745,Lucas Da Cunha,254579,260022
+9,Como,1745,Máximo Perrone,267991,260022
+10,Como,1745,Maxence Caqueret,246646,260022
+11,Como,1745,Sergio Roberto Carnicer,199564,260022
+12,Como,1745,Adrian Lahdo,75126,260022
+13,Como,1745,Álex Valle Gómez,273875,260022
+14,Como,1745,Alberto Moreno Pérez,205566,260022
+15,Como,1745,Diego Carlos Santos Silva,219693,260022
+16,Como,1745,Marc-Oliver Kempf,210719,260022
+17,Como,1745,Jacobo Ramón Naveros,70966,260022
+18,Como,1745,Edoardo Goldaniga,223524,260022
+19,Como,1745,Ivan Smolčić,77163,260022
+20,Como,1745,Mërgim Vojvoda,228349,260022
+21,Como,1745,Ignace Van der Brempt,251464,260022
+22,Como,1745,Jean Butez,225149,260022
+23,Como,1745,Mauro Vigorito,186611,260022
+24,Como,1745,Nikola Čavlina,270463,260022
+25,Como,1745,Henrique Menke Lopes,80504,260022
+26,Como,1745,Noel Törnqvist,255900,260022
+0,Fiorentina,110374,Albert Guðmundsson,238004,260022
+1,Fiorentina,110374,Jack Harrison,232080,260022
+2,Fiorentina,110374,Moise Kean,236610,260022
+3,Fiorentina,110374,Roberto Piccoli,248385,260022
+4,Fiorentina,110374,Riccardo Braschi,80508,260022
+5,Fiorentina,110374,Christian Kouamé,235866,260022
+6,Fiorentina,110374,Manor Solomon,246791,260022
+7,Fiorentina,110374,Cher Ndour,276682,260022
+8,Fiorentina,110374,Marco Brescianini,257785,260022
+9,Fiorentina,110374,Rolando Mandragora,225439,260022
+10,Fiorentina,110374,Giovanni Fabbian,271019,260022
+11,Fiorentina,110374,Jacopo Fazzini,266596,260022
+12,Fiorentina,110374,Abdelhamid Sabiri,237499,260022
+13,Fiorentina,110374,Nicolò Fagioli,260823,260022
+14,Fiorentina,110374,Robin Gosens,223697,260022
+15,Fiorentina,110374,Niccolò Fortini,72180,260022
+16,Fiorentina,110374,Fabiano Parisi,258976,260022
+17,Fiorentina,110374,Marin Pongračić,238370,260022
+18,Fiorentina,110374,Luca Ranieri,240777,260022
+19,Fiorentina,110374,Pietro Comuzzo,278340,260022
+20,Fiorentina,110374,Daniele Rugani,211320,260022
+21,Fiorentina,110374,Eman Košpo,80505,260022
+22,Fiorentina,110374,Eddy Kouadio,74926,260022
+23,Fiorentina,110374,Domilson Cordeiro dos Santos,234112,260022
+24,Fiorentina,110374,Tariq Lamptey,242418,260022
+25,Fiorentina,110374,David De Gea Quintana,193080,260022
+26,Fiorentina,110374,Oliver Christensen,236758,260022
+27,Fiorentina,110374,Luca Lezzerini,219584,260022
+0,Bologna,189,Santiago Castro,267861,260022
+1,Bologna,189,Thijs Dallinga,252021,260022
+2,Bologna,189,Jens Odgaard,234671,260022
+3,Bologna,189,Jonathan Rowe,266500,260022
+4,Bologna,189,Nicolò Cambiaghi,268703,260022
+5,Bologna,189,Benjamín Domínguez,269558,260022
+6,Bologna,189,Riccardo Orsolini,233556,260022
+7,Bologna,189,Federico Bernardeschi,212404,260022
+8,Bologna,189,Lewis Ferguson,242280,260022
+9,Bologna,189,Remo Freuler,202024,260022
+10,Bologna,189,Simon Sohm,244634,260022
+11,Bologna,189,Tommaso Pobega,252060,260022
+12,Bologna,189,Nikola Moro,244270,260022
+13,Bologna,189,Juan Miranda González,240915,260022
+14,Bologna,189,Charalampos Lykogiannis,210381,260022
+15,Bologna,189,Jhon Lucumí,231207,260022
+16,Bologna,189,Torbjørn Heggem,248342,260022
+17,Bologna,189,Martin Vitík,259748,260022
+18,Bologna,189,Nicolò Casale,239770,260022
+19,Bologna,189,Eivind Helland,278724,260022
+20,Bologna,189,Nadir Zortea,252440,260022
+21,Bologna,189,Lorenzo De Silvestri,170320,260022
+22,Bologna,189,João Mário Neto Lopes,257290,260022
+23,Bologna,189,Federico Ravaglia,240657,260022
+24,Bologna,189,Massimo Pessina,75741,260022
+25,Bologna,189,Łukasz Skorupski,189908,260022
+0,Torino,54,Giovanni Simeone,216816,260022
+1,Torino,54,Tommaso Gabellini,75443,260022
+2,Torino,54,Ché Adams,226093,260022
+3,Torino,54,Duván Zapata,215333,260022
+4,Torino,54,Sandro Kulenović,236413,260022
+5,Torino,54,Alieu Njie,70480,260022
+6,Torino,54,Cesare Casadei,273883,260022
+7,Torino,54,Zakaria Aboukhlal,248564,260022
+8,Torino,54,Gvidas Gineitis,273932,260022
+9,Torino,54,Nikola Vlašić,241095,260022
+10,Torino,54,Tino Anjorin,248474,260022
+11,Torino,54,Sergiu Perciun,76027,260022
+12,Torino,54,Emirhan İlkhan,266257,260022
+13,Torino,54,Adrien Tameze,213242,260022
+14,Torino,54,Matteo Prati,272725,260022
+15,Torino,54,Ivan Ilić,258683,260022
+16,Torino,54,Valentino Lazaro,211147,260022
+17,Torino,54,Niels Nkounkou,255150,260022
+18,Torino,54,Cristiano Biraghi,201389,260022
+19,Torino,54,Rafael Obrador Burguera,258507,260022
+20,Torino,54,Saúl Basilio Coco Bassey Oubiña,265650,260022
+21,Torino,54,Guillermo Maripán,219145,260022
+22,Torino,54,Enzo Ebosse,241007,260022
+23,Torino,54,Luca Marianucci,278319,260022
+24,Torino,54,Saba Sazonov,278013,260022
+25,Torino,54,Perr Schuurs,241854,260022
+26,Torino,54,Ardian Ismajli,258782,260022
+27,Torino,54,Marcus Pedersen,243481,260022
+28,Torino,54,Alberto Paleari,235740,260022
+29,Torino,54,Franco Israel,270141,260022
+0,Sassuolo,111974,Armand Laurienté,243593,260022
+1,Sassuolo,111974,Alieu Fadera,263882,260022
+2,Sassuolo,111974,Andrea Pinamonti,235842,260022
+3,Sassuolo,111974,M'Bala Nzola,240452,260022
+4,Sassuolo,111974,Luca Moro,248787,260022
+5,Sassuolo,111974,Domenico Berardi,210935,260022
+6,Sassuolo,111974,Cristian Volpato,265761,260022
+7,Sassuolo,111974,Ismaël Koné,264207,260022
+8,Sassuolo,111974,Kristian Thorstvedt,242725,260022
+9,Sassuolo,111974,Aster Vranckx,252027,260022
+10,Sassuolo,111974,Luca Lipani,274702,260022
+11,Sassuolo,111974,Daniel Boloca,268462,260022
+12,Sassuolo,111974,Edoardo Iannoni,270657,260022
+13,Sassuolo,111974,Darryl Bakola,72098,260022
+14,Sassuolo,111974,Nemanja Matić,191202,260022
+15,Sassuolo,111974,Josh Doig,255561,260022
+16,Sassuolo,111974,Ulisses Garcia,223143,260022
+17,Sassuolo,111974,Edoardo Pieragnolo,276705,260022
+18,Sassuolo,111974,Tarik Muharemović,262027,260022
+19,Sassuolo,111974,Fali Candé,256856,260022
+20,Sassuolo,111974,Jay Idzes,262396,260022
+21,Sassuolo,111974,Filippo Romagna,226108,260022
+22,Sassuolo,111974,Pedro Felipe de Jesus Gomes,81732,260022
+23,Sassuolo,111974,Sebastian Walukiewicz,243497,260022
+24,Sassuolo,111974,Woyo Coulibaly,251335,260022
+25,Sassuolo,111974,Arijanet Murić,233164,260022
+26,Sassuolo,111974,Stefano Turati,254502,260022
+27,Sassuolo,111974,Giacomo Satalino,235806,260022
+28,Sassuolo,111974,Gioele Zacchi,80811,260022
+0,Cremonese,111434,Jamie Vardy,208830,260022
+1,Cremonese,111434,Faris Pemi Moumbagna,256669,260022
+2,Cremonese,111434,Federico Bonazzoli,223137,260022
+3,Cremonese,111434,Milan Đurić,192840,260022
+4,Cremonese,111434,Antonio Sanabria,219932,260022
+5,Cremonese,111434,David Okereke,233732,260022
+6,Cremonese,111434,Jari Vandeputte,217338,260022
+7,Cremonese,111434,Youssef Maleh,236838,260022
+8,Cremonese,111434,Martín Payero,240970,260022
+9,Cremonese,111434,Michele Collocolo,268576,260022
+10,Cremonese,111434,Alberto Grassi,220475,260022
+11,Cremonese,111434,Morten Thorsby,222475,260022
+12,Cremonese,111434,Warren Bondo,257353,260022
+13,Cremonese,111434,Giuseppe Pezzella,230681,260022
+14,Cremonese,111434,Alessio Zerbin,237669,260022
+15,Cremonese,111434,Matteo Bianchetti,205363,260022
+16,Cremonese,111434,Federico Baschirotto,268573,260022
+17,Cremonese,111434,Federico Ceccherini,210964,260022
+18,Cremonese,111434,Sebastiano Luperto,220534,260022
+19,Cremonese,111434,Mikayil Faye,277118,260022
+20,Cremonese,111434,Francesco Folino,74448,260022
+21,Cremonese,111434,Filippo Terracciano,271579,260022
+22,Cremonese,111434,Tommaso Barbieri,275162,260022
+23,Cremonese,111434,Romano Floriani Mussolini,74071,260022
+24,Cremonese,111434,Emil Audero,228413,260022
+25,Cremonese,111434,Marco Silvestri,190745,260022
+26,Cremonese,111434,Lapo Nava,278331,260022
+0,Genoa,110556,Vítor Manuel Carvalho Oliveira,263829,260022
+1,Genoa,110556,Lorenzo Colombo,256899,260022
+2,Genoa,110556,Caleb Ekuban,239795,260022
+3,Genoa,110556,Maxwel Cornet,215798,260022
+4,Genoa,110556,Jeff Ekhator,74485,260022
+5,Genoa,110556,Joi Nuredini,77830,260022
+6,Genoa,110556,Mikael Egill Ellertsson,264436,260022
+7,Genoa,110556,Tommaso Baldanzi,269312,260022
+8,Genoa,110556,Junior Messias,240938,260022
+9,Genoa,110556,Ruslan Malinovskyi,231969,260022
+10,Genoa,110556,Alexsandro Amorim,79913,260022
+11,Genoa,110556,Jean Onana,255934,260022
+12,Genoa,110556,Morten Frendrup,242633,260022
+13,Genoa,110556,Patrizio Masini,276485,260022
+14,Genoa,110556,Aarón Martín Caricol,236295,260022
+15,Genoa,110556,Johan Vásquez,244349,260022
+16,Genoa,110556,Sebastian Otoa,271882,260022
+17,Genoa,110556,Leo Østigård,238516,260022
+18,Genoa,110556,Nils Zätterström,71553,260022
+19,Genoa,110556,Alessandro Marcandalli,276477,260022
+20,Genoa,110556,Brooke Norton-Cuffy,260653,260022
+21,Genoa,110556,Stefano Sabelli,206159,260022
+22,Genoa,110556,Nicola Leali,201299,260022
+23,Genoa,110556,Benjamin Siegrist,202886,260022
+24,Genoa,110556,Justin Bijlow,232229,260022
+25,Genoa,110556,Ernestas Lysionok,81467,260022
+26,Genoa,110556,Daniele Sommariva,225432,260022
+0,Parma,50,Jacob Ondrejka,255460,260022
+1,Parma,50,Mateo Pellegrino,263229,260022
+2,Parma,50,Nesta Elphege,275130,260022
+3,Parma,50,Matija Frigan,275401,260022
+4,Parma,50,Gaetano Oristanio,269276,260022
+5,Parma,50,Gabriel Tadeu Strefezza Rebelato,235949,260022
+6,Parma,50,Pontus Almqvist,236706,260022
+7,Parma,50,Mandela Keita,261539,260022
+8,Parma,50,Oliver Sørensen,257972,260022
+9,Parma,50,Adrián Bernabé García,252794,260022
+10,Parma,50,Benjamin Cremaschi,272687,260022
+11,Parma,50,Elia Plicco,76121,260022
+12,Parma,50,Hans Nicolussi Caviglia,253162,260022
+13,Parma,50,Nahuel Estévez,240992,260022
+14,Parma,50,Christian Ordoñez,273884,260022
+15,Parma,50,Emanuele Valeri,258714,260022
+16,Parma,50,Franco Carboni,270485,260022
+17,Parma,50,Lautaro Valenti,246164,260022
+18,Parma,50,Abdoulaye Ndiaye,259150,260022
+19,Parma,50,Alessandro Circati,268913,260022
+20,Parma,50,Mariano Troilo,278436,260022
+21,Parma,50,Enrico Delprato,252442,260022
+22,Parma,50,Sascha Britschgi,75647,260022
+23,Parma,50,Edoardo Corvi,271385,260022
+24,Parma,50,Filippo Rinaldi,278280,260022
+25,Parma,50,Gianluca Astaldi,81468,260022
+26,Parma,50,Zion Suzuki,255981,260022
+0,Cagliari,1842,Sebastiano Esposito,247888,260022
+1,Cagliari,1842,Agustín Albarracín,71730,260022
+2,Cagliari,1842,Yael Trepy,82808,260022
+3,Cagliari,1842,Semih Kılıçsoy,274616,260022
+4,Cagliari,1842,Gennaro Borrelli,252942,260022
+5,Cagliari,1842,Andrea Belotti,208596,260022
+6,Cagliari,1842,Leonardo Pavoletti,205850,260022
+7,Cagliari,1842,Luca Mazzitelli,221331,260022
+8,Cagliari,1842,Michel Ndary Adopo,254982,260022
+9,Cagliari,1842,Michael Folorunsho,268683,260022
+10,Cagliari,1842,Alessandro Deiola,229743,260022
+11,Cagliari,1842,Joseph Liteta,80407,260022
+12,Cagliari,1842,Gianluca Gaetano,246877,260022
+13,Cagliari,1842,Ibrahim Sulemana,271577,260022
+14,Cagliari,1842,Adam Obert,266636,260022
+15,Cagliari,1842,Mattia Felici,248857,260022
+16,Cagliari,1842,Riyad Idrissi,73095,260022
+17,Cagliari,1842,Juan Rodríguez,78037,260022
+18,Cagliari,1842,Yerry Mina,220523,260022
+19,Cagliari,1842,Alberto Dossena,237586,260022
+20,Cagliari,1842,José Pedro da Silva Figueiredo,278668,260022
+21,Cagliari,1842,Marco Palestra,278339,260022
+22,Cagliari,1842,Gabriele Zappa,252964,260022
+23,Cagliari,1842,Othniël Raterink,74768,260022
+24,Cagliari,1842,Elia Caprile,255303,260022
+25,Cagliari,1842,Giuseppe Ciocci,271199,260022
+26,Cagliari,1842,Vincenzo Sarno,81328,260022
+27,Cagliari,1842,Alen Sherri,73838,260022
+0,Hellas Verona,206,Gift Orban,273564,260022
+1,Hellas Verona,206,Kieron Bowie,257104,260022
+2,Hellas Verona,206,Amin Sarr,256453,260022
+3,Hellas Verona,206,Daniel Mosquera,266585,260022
+4,Hellas Verona,206,Junior Ajayi,72322,260022
+5,Hellas Verona,206,Isaac Aguiar Tomich,74092,260022
+6,Hellas Verona,206,Antoine Bernede,234795,260022
+7,Hellas Verona,206,Tomáš Suslov,255233,260022
+8,Hellas Verona,206,Cheikh Niasse,248661,260022
+9,Hellas Verona,206,Suat Serdar,230065,260022
+10,Hellas Verona,206,Jean-Daniel Akpa Akpro,205343,260022
+11,Hellas Verona,206,Sandi Lovrič,223866,260022
+12,Hellas Verona,206,Abdou Harroui,241937,260022
+13,Hellas Verona,206,Roberto Gagliardini,212153,260022
+14,Hellas Verona,206,Ali Al Musrati,252308,260022
+15,Hellas Verona,206,Domagoj Bradarić,252000,260022
+16,Hellas Verona,206,Martin Frese,238009,260022
+17,Hellas Verona,206,Armel Bella-Kotchap,247497,260022
+18,Hellas Verona,206,Victor Nelsson,235658,260022
+19,Hellas Verona,206,Nicolás Valentini,267681,260022
+20,Hellas Verona,206,Andrias Edmundsson,79069,260022
+21,Hellas Verona,206,Daniel Oyegoke,262930,260022
+22,Hellas Verona,206,Tobias Slotsager,273628,260022
+23,Hellas Verona,206,Rafik Belghali,276314,260022
+24,Hellas Verona,206,Fallou Cham,80861,260022
+25,Hellas Verona,206,Pol Mikel Lirola Kosok,235875,260022
+26,Hellas Verona,206,Lorenzo Montipò,215363,260022
+27,Hellas Verona,206,Simone Perilli,210940,260022
+28,Hellas Verona,206,Giacomo Toniolo,72397,260022
+0,Udinese,55,Keinan Davis,231743,260022
+1,Udinese,55,Nicolò Zaniolo,238067,260022
+2,Udinese,55,Adam Buksa,224438,260022
+3,Udinese,55,Vakoun Issouf Bayo,246832,260022
+4,Udinese,55,Idrissa Gueye,76411,260022
+5,Udinese,55,Arthur Atta,272783,260022
+6,Udinese,55,Jurgen Ekkelenkamp,243249,260022
+7,Udinese,55,Jordan Zemura,259634,260022
+8,Udinese,55,Hassane Kamara,220421,260022
+9,Udinese,55,Jesper Karlström,214658,260022
+10,Udinese,55,Lennon Miller,275522,260022
+11,Udinese,55,Jakub Piotrowski,229973,260022
+12,Udinese,55,Oier Zarraga Egaña,258615,260022
+13,Udinese,55,Abdoulaye Camara,77558,260022
+14,Udinese,55,Alessandro Zanoli,268656,260022
+15,Udinese,55,Kingsley Ehizibue,225669,260022
+16,Udinese,55,Juan David Arizala,275647,260022
+17,Udinese,55,Nicolò Bertola,271475,260022
+18,Udinese,55,Thomas Kristensen,261573,260022
+19,Udinese,55,Christian Kabasele,190324,260022
+20,Udinese,55,Branimir Mlačić,80380,260022
+21,Udinese,55,Oumar Solet,242238,260022
+22,Udinese,55,Maduka Okoye,257288,260022
+23,Udinese,55,Răzvan Sava,266803,260022
+24,Udinese,55,Alessandro Nunziante,80203,260022
+25,Udinese,55,Daniele Padelli,162297,260022
+0,Pisa,110738,Henrik Meister,277309,260022
+1,Pisa,110738,Rafiu Durosinmi,273128,260022
+2,Pisa,110738,Filip Stojilković,255562,260022
+3,Pisa,110738,Mattéo Tramoni,240797,260022
+4,Pisa,110738,Lorran Lucas Pereira de Sousa,81307,260022
+5,Pisa,110738,Calvin Stengs,236593,260022
+6,Pisa,110738,Stefano Moreo,222959,260022
+7,Pisa,110738,Samuele Angori,270658,260022
+8,Pisa,110738,Samuel Iling-Junior,272379,260022
+9,Pisa,110738,Michel Aebischer,236898,260022
+10,Pisa,110738,Marius Marin,252313,260022
+11,Pisa,110738,Gabriele Piccinini,268790,260022
+12,Pisa,110738,Ebenezer Akinsanmiro,70471,260022
+13,Pisa,110738,Malthe Højholt,253464,260022
+14,Pisa,110738,Felipe Loyola,71230,260022
+15,Pisa,110738,İsak Vural,71296,260022
+16,Pisa,110738,Idrissa Touré,233396,260022
+17,Pisa,110738,Juan Cuadrado,193082,260022
+18,Pisa,110738,Mehdi Léris,240660,260022
+19,Pisa,110738,Simone Canestrelli,264480,260022
+20,Pisa,110738,Antonio Caracciolo,199174,260022
+21,Pisa,110738,Raúl Albiol Tortajada,157481,260022
+22,Pisa,110738,Francesco Coppola,278294,260022
+23,Pisa,110738,Rosen Bozhinov,72912,260022
+24,Pisa,110738,Daniel Denoon,74876,260022
+25,Pisa,110738,Arturo Calabresi,229574,260022
+26,Pisa,110738,Adrian Šemper,244274,260022
+27,Pisa,110738,Simone Scuffet,220048,260022
+28,Pisa,110738,David Nicolás Andrade,205496,260022
+0,Lecce,347,Riccardo Sottil,246431,260022
+1,Lecce,347,Nikola Štulić,273915,260022
+2,Lecce,347,Walid Cheddira,268511,260022
+3,Lecce,347,Francesco Camarda,279202,260022
+4,Lecce,347,Filip Marchwiński,246649,260022
+5,Lecce,347,Santiago Pierotti,253139,260022
+6,Lecce,347,Lameck Banda,271197,260022
+7,Lecce,347,Konan N'Dri,247668,260022
+8,Lecce,347,Lassana Coulibaly,230107,260022
+9,Lecce,347,Omri Gandelman,277840,260022
+10,Lecce,347,Medon Berisha,271198,260022
+11,Lecce,347,Þórir Jóhann Helgason,263657,260022
+12,Lecce,347,Niko Kovač,80604,260022
+13,Lecce,347,Oumar Ngom,266848,260022
+14,Lecce,347,Ylber Ramadani,243787,260022
+15,Lecce,347,Àlex Sala Herrero,265732,260022
+16,Lecce,347,Sadik Fofana,263949,260022
+17,Lecce,347,Olaf Gorter,80606,260022
+18,Lecce,347,Antonino Gallo,244717,260022
+19,Lecce,347,Corrie Ndaba,247528,260022
+20,Lecce,347,Tiago Gabriel Coelho Oliveira,70555,260022
+21,Lecce,347,Gaby Jean,270888,260022
+22,Lecce,347,Kialonda Gaspar,275783,260022
+23,Lecce,347,Jamil Siebert,259299,260022
+24,Lecce,347,Matías Pérez,80006,260022
+25,Lecce,347,Danilo Filipe Melo Veiga,271539,260022
+26,Lecce,347,Wladimiro Falcone,210676,260022
+27,Lecce,347,Christian Früchtl,235266,260022
+28,Lecce,347,Jasper Samooja,278623,260022
+0,Inter,44,Marcus Thuram,228093,250002
+1,Inter,44,Lautaro Martínez,231478,250002
+2,Inter,44,Marko Arnautović,184200,250002
+3,Inter,44,Mehdi Taremi,241788,250002
+4,Inter,44,Joaquín Correa,215330,250002
+5,Inter,44,Eddie Salcedo,241410,250002
+6,Inter,44,Henrikh Mkhitaryan,192883,250002
+7,Inter,44,Nicolò Barella,224232,250002
+8,Inter,44,Piotr Zieliński,210406,250002
+9,Inter,44,Davide Frattesi,239807,250002
+10,Inter,44,Hakan Çalhanoğlu,208128,250002
+11,Inter,44,Kristjan Asllani,264699,250002
+12,Inter,44,Federico Dimarco,226268,250002
+13,Inter,44,Carlos Augusto Zopolato Neves,258648,250002
+14,Inter,44,Alessandro Bastoni,237383,250002
+15,Inter,44,Francesco Acerbi,199845,250002
+16,Inter,44,Stefan de Vrij,198176,250002
+17,Inter,44,Yann Aurel Bisseck,241736,250002
+18,Inter,44,Tomás Palacios,268558,250002
+19,Inter,44,Benjamin Pavard,226851,250002
+20,Inter,44,Matteo Darmian,184392,250002
+21,Inter,44,Denzel Dumfries,233096,250002
+22,Inter,44,Tajon Buchanan,246800,250002
+23,Inter,44,Yann Sommer,177683,250002
+24,Inter,44,Josep Martínez Riera,243311,250002
+25,Inter,44,Raffaele Di Gennaro,219715,250002
+26,Inter,44,Ionuț Andrei Radu,234102,250002
+0,Napoli,48,Romelu Lukaku,192505,250002
+1,Napoli,48,Giovanni Simeone,216816,250002
+2,Napoli,48,Matteo Politano,216409,250002
+3,Napoli,48,Khvicha Kvaratskhelia,247635,250002
+4,Napoli,48,Giacomo Raspadori,253002,250002
+5,Napoli,48,Michael Folorunsho,268683,250002
+6,Napoli,48,Leonardo Spinazzola,202884,250002
+7,Napoli,48,David Neres Campos,236632,250002
+8,Napoli,48,Alessio Zerbin,237669,250002
+9,Napoli,48,Stanislav Lobotka,216435,250002
+10,Napoli,48,André-Franck Zambo Anguissa,227236,250002
+11,Napoli,48,Scott McTominay,237238,250002
+12,Napoli,48,Billy Gilmour,245992,250002
+13,Napoli,48,Pasquale Mazzocchi,239679,250002
+14,Napoli,48,Cyril Ngonge,246457,250002
+15,Napoli,48,Amir Rrahmani,244263,250002
+16,Napoli,48,Mathías Olivera,240716,250002
+17,Napoli,48,Mário Rui Silva Duarte,204614,250002
+18,Napoli,48,Alessandro Buongiorno,243241,250002
+19,Napoli,48,Juan Guilherme Nunes Jesus,200752,250002
+20,Napoli,48,Rafael Marín Zamora,277244,250002
+21,Napoli,48,Giovanni Di Lorenzo,217870,250002
+22,Napoli,48,Alex Meret,225116,250002
+23,Napoli,48,Elia Caprile,255303,250002
+24,Napoli,48,Nikita Contini,220532,250002
+0,AC Milan,47,Álvaro Borja Morata Martín,201153,250002
+1,AC Milan,47,Tammy Abraham,231352,250002
+2,AC Milan,47,Luka Jović,232432,250002
+3,AC Milan,47,Noah Okafor,242530,250002
+4,AC Milan,47,Divock Origi,213135,250002
+5,AC Milan,47,Ruben Loftus-Cheek,213666,250002
+6,AC Milan,47,Kevin Zeroli,278351,250002
+7,AC Milan,47,Mattia Liberali,74094,250002
+8,AC Milan,47,Rafael da Conceição Leão,241721,250002
+9,AC Milan,47,Chaka Traorè,277013,250002
+10,AC Milan,47,Christian Pulisic,227796,250002
+11,AC Milan,47,Samuel Chukwueze,246172,250002
+12,AC Milan,47,Filippo Terracciano,271579,250002
+13,AC Milan,47,Ismaël Bennacer,226754,250002
+14,AC Milan,47,Tijjani Reijnders,240638,250002
+15,AC Milan,47,Youssouf Fofana,245630,250002
+16,AC Milan,47,Yunus Musah,253177,250002
+17,AC Milan,47,Theo Hernández,232656,250002
+18,AC Milan,47,Sánchez Alejandro Jiménez,278928,250002
+19,AC Milan,47,Fodé Ballo-Touré,236723,250002
+20,AC Milan,47,Davide Bartesaghi,278237,250002
+21,AC Milan,47,Strahinja Pavlović,254840,250002
+22,AC Milan,47,Fikayo Tomori,232756,250002
+23,AC Milan,47,Matteo Gabbia,240277,250002
+24,AC Milan,47,Malick Thiaw,256261,250002
+25,AC Milan,47,Davide Calabria,228881,250002
+26,AC Milan,47,Emerson Leite De Souza,247204,250002
+27,AC Milan,47,Alessandro Florenzi,203551,250002
+28,AC Milan,47,Mike Maignan,215698,250002
+29,AC Milan,47,Lorenzo Torriani,72179,250002
+30,AC Milan,47,Lapo Nava,278331,250002
+31,AC Milan,47,Marco Sportiello,216065,250002
+0,Juventus,45,Dušan Vlahović,246430,250002
+1,Juventus,45,Lorenzo Anghelè,74706,250002
+2,Juventus,45,Arkadiusz Milik,205175,250002
+3,Juventus,45,Kenan Yıldız,277954,250002
+4,Juventus,45,Teun Koopmeiners,240679,250002
+5,Juventus,45,Samuel Mbangula,74566,250002
+6,Juventus,45,Timothy Weah,241496,250002
+7,Juventus,45,Nicolás González,240690,250002
+8,Juventus,45,Francisco F. da Conceição,261050,250002
+9,Juventus,45,Khéphren Thuram,247246,250002
+10,Juventus,45,Manuel Locatelli,222077,250002
+11,Juventus,45,Douglas Luiz Soares de Paulo,236499,250002
+12,Juventus,45,Nicolò Fagioli,260823,250002
+13,Juventus,45,Weston McKennie,238744,250002
+14,Juventus,45,Arthur Henrique Ramos Oliveira Melo,230658,250002
+15,Juventus,45,Juan David Cabal,251870,250002
+16,Juventus,45,Jonas Jakob Rouhi,74329,250002
+17,Juventus,45,Gleison Bremer Silva Nascimento,239580,250002
+18,Juventus,45,Federico Gatti,266872,250002
+19,Juventus,45,Danilo Luiz da Silva,199304,250002
+20,Juventus,45,Pierre Kalulu,255654,250002
+21,Juventus,45,Andrea Cambiaso,258966,250002
+22,Juventus,45,Nicolò Savona,74310,250002
+23,Juventus,45,Michele Di Gregorio,235840,250002
+24,Juventus,45,Mattia Perin,198009,250002
+25,Juventus,45,Carlo Pinsoglio,189342,250002
+0,Roma,52,Artem Dovbyk,242458,250002
+1,Roma,52,Eldor Shomurodov,239964,250002
+2,Roma,52,Matías Soulé,265695,250002
+3,Roma,52,Tommaso Baldanzi,269312,250002
+4,Roma,52,Paulo Dybala,211110,250002
+5,Roma,52,Stephan El Shaarawy,190813,250002
+6,Roma,52,Lorenzo Pellegrini,228251,250002
+7,Roma,52,Alexis Saelemaekers,242664,250002
+8,Roma,52,Leandro Paredes,207439,250002
+9,Roma,52,Bryan Cristante,208268,250002
+10,Roma,52,Enzo Le Fée,246350,250002
+11,Roma,52,Niccolò Pisilli,275291,250002
+12,Roma,52,Kouadio Manu Koné,250723,250002
+13,Roma,52,José Ángel Esmoris Tasende,220651,250002
+14,Roma,52,Samuel Dahl,277252,250002
+15,Roma,52,Nicola Zalewski,262113,250002
+16,Roma,52,Evan Ndicka,236403,250002
+17,Roma,52,Mario Hermoso Canseco,229668,250002
+18,Roma,52,Gianluca Mancini,229582,250002
+19,Roma,52,Mats Hummels,178603,250002
+20,Roma,52,Zeki Çelik,224490,250002
+21,Roma,52,Saud Abdulhamid,246688,250002
+22,Roma,52,Aboubacar Sangaré Traoré,279200,250002
+23,Roma,52,Mile Svilar,230872,250002
+24,Roma,52,Mathew Ryan,199005,250002
+0,Atalanta,39,Mateo Retegui,241850,250002
+1,Atalanta,39,Gianluca Scamacca,226710,250002
+2,Atalanta,39,Ademola Lookman,230899,250002
+3,Atalanta,39,Charles De Ketelaere,251470,250002
+4,Atalanta,39,Matteo Ruggeri,259584,250002
+5,Atalanta,39,Éderson José dos Santos,266866,250002
+6,Atalanta,39,Lazar Samardžić,256115,250002
+7,Atalanta,39,Marco Brescianini,257785,250002
+8,Atalanta,39,Mario Pašalić,223273,250002
+9,Atalanta,39,Ibrahim Sulemana,271577,250002
+10,Atalanta,39,Federico Cassa,74576,250002
+11,Atalanta,39,Viktor Kovalenko,228698,250002
+12,Atalanta,39,Alberto Manzoni,279574,250002
+13,Atalanta,39,Davide Zappacosta,216150,250002
+14,Atalanta,39,Raoul Bellanova,247229,250002
+15,Atalanta,39,Juan Cuadrado,193082,250002
+16,Atalanta,39,Nicolò Zaniolo,238067,250002
+17,Atalanta,39,Brandon Soppy,258407,250002
+18,Atalanta,39,Marco Palestra,278339,250002
+19,Atalanta,39,Berat Djimsiti,208165,250002
+20,Atalanta,39,Isak Hien,260697,250002
+21,Atalanta,39,Odilon Kossounou,246875,250002
+22,Atalanta,39,Sead Kolašinac,207993,250002
+23,Atalanta,39,Ben Godfrey,225793,250002
+24,Atalanta,39,Rafael Tolói,187598,250002
+25,Atalanta,39,Giorgio Scalvini,265188,250002
+26,Atalanta,39,Marten de Roon,208461,250002
+27,Atalanta,39,Marco Carnesecchi,252154,250002
+28,Atalanta,39,Rui Pedro dos Santos Patrício,178005,250002
+29,Atalanta,39,Francesco Rossi,194894,250002
+0,Lazio,46,Mattia Zaccagni,220502,250002
+1,Lazio,46,Diego González,273934,250002
+2,Lazio,46,Valentin Castellanos,237712,250002
+3,Lazio,46,Boulaye Dia,246242,250002
+4,Lazio,46,André Anderson Pomilio Lima,245639,250002
+5,Lazio,46,Tijjani Noslin,264257,250002
+6,Lazio,46,Gustav Isaksen,248729,250002
+7,Lazio,46,Loum Tchaouna,264880,250002
+8,Lazio,46,Pedro Rodríguez Ledesma,189505,250002
+9,Lazio,46,Fisayo Dele-Bashiru,258890,250002
+10,Lazio,46,Toma Bašić,245275,250002
+11,Lazio,46,Mattéo Guendouzi,236496,250002
+12,Lazio,46,Matías Vecino,219985,250002
+13,Lazio,46,Gaetano Castrovilli,225014,250002
+14,Lazio,46,Jean-Daniel Akpa Akpro,205343,250002
+15,Lazio,46,Cristobal Muñoz López,73162,250002
+16,Lazio,46,Nicolò Rovella,255001,250002
+17,Lazio,46,Adam Marušić,224031,250002
+18,Lazio,46,Nuno Albertino Varela Tavares,251530,250002
+19,Lazio,46,Elseid Hysaj,210864,250002
+20,Lazio,46,Luca Pellegrini,243237,250002
+21,Lazio,46,Alessio Romagnoli,210413,250002
+22,Lazio,46,Patricio Gabarrón Gil,206098,250002
+23,Lazio,46,Samuel Gigot,219581,250002
+24,Lazio,46,Mario Gila Fuentes,268804,250002
+25,Lazio,46,Manuel Lazzari,235374,250002
+26,Lazio,46,Ivan Provedel,224987,250002
+27,Lazio,46,Christos Mandas,278032,250002
+28,Lazio,46,Alessio Furlanetto,270217,250002
+0,Como,1745,Andrea Belotti,208596,250002
+1,Como,1745,Ali Jasim,74705,250002
+2,Como,1745,Patrick Cutrone,237715,250002
+3,Como,1745,Alberto Cerri,213829,250002
+4,Como,1745,Alessandro Gabrielloni,268674,250002
+5,Como,1745,Lucas Da Cunha,254579,250002
+6,Como,1745,Ben Lhassine Kone,253120,250002
+7,Como,1745,Nicolás Paz Martínez,277846,250002
+8,Como,1745,Simone Verdi,196889,250002
+9,Como,1745,Gabriel Tadeu Strefezza Rebelato,235949,250002
+10,Como,1745,Moutir Chajia,238474,250002
+11,Como,1745,Matthias Braunöder,258505,250002
+12,Como,1745,Máximo Perrone,267991,250002
+13,Como,1745,Luca Mazzitelli,221331,250002
+14,Como,1745,Yannik Engelhardt,262906,250002
+15,Como,1745,Daniele Baselli,205407,250002
+16,Como,1745,Alberto Moreno Pérez,205566,250002
+17,Como,1745,Marco Sala,252704,250002
+18,Como,1745,Alberto Dossena,237586,250002
+19,Como,1745,Marc-Oliver Kempf,210719,250002
+20,Como,1745,Federico Barba,211557,250002
+21,Como,1745,Edoardo Goldaniga,223524,250002
+22,Como,1745,Raphaël Varane,201535,250002
+23,Como,1745,Alessio Iovine,268673,250002
+24,Como,1745,Sergio Roberto Carnicer,199564,250002
+25,Como,1745,Ignace Van der Brempt,251464,250002
+26,Como,1745,José Manuel Reina Páez,24630,250002
+27,Como,1745,Emil Audero,228413,250002
+28,Como,1745,Mauro Vigorito,186611,250002
+0,Fiorentina,110374,Moise Kean,236610,250002
+1,Fiorentina,110374,Christian Kouamé,235866,250002
+2,Fiorentina,110374,Lucas Beltrán,246258,250002
+3,Fiorentina,110374,Albert Guðmundsson,238004,250002
+4,Fiorentina,110374,Andrea Colpani,251988,250002
+5,Fiorentina,110374,Abdelhamid Sabiri,237499,250002
+6,Fiorentina,110374,Cristiano Biraghi,201389,250002
+7,Fiorentina,110374,Robin Gosens,223697,250002
+8,Fiorentina,110374,Riccardo Sottil,246431,250002
+9,Fiorentina,110374,Rolando Mandragora,225439,250002
+10,Fiorentina,110374,Amir Richardson,262236,250002
+11,Fiorentina,110374,Gino Infantino,258104,250002
+12,Fiorentina,110374,Danilo Cataldi,211361,250002
+13,Fiorentina,110374,Edoardo Bove,262171,250002
+14,Fiorentina,110374,Yacine Adli,243627,250002
+15,Fiorentina,110374,Domilson Cordeiro dos Santos,234112,250002
+16,Fiorentina,110374,Jonathan Ikoné,234612,250002
+17,Fiorentina,110374,Luca Ranieri,240777,250002
+18,Fiorentina,110374,Fabiano Parisi,258976,250002
+19,Fiorentina,110374,Marin Pongračić,238370,250002
+20,Fiorentina,110374,Pietro Comuzzo,278340,250002
+21,Fiorentina,110374,Matías Moreno,276820,250002
+22,Fiorentina,110374,Lucas Martínez Quarta,228708,250002
+23,Fiorentina,110374,Michael Kayode,277869,250002
+24,Fiorentina,110374,Pietro Terracciano,205812,250002
+25,Fiorentina,110374,David De Gea Quintana,193080,250002
+26,Fiorentina,110374,Oliver Christensen,236758,250002
+27,Fiorentina,110374,Tommaso Martinelli,275325,250002
+0,Bologna,189,Dan Ndoye,257980,250002
+1,Bologna,189,Jesper Karlsson,231836,250002
+2,Bologna,189,Samuel Iling-Junior,272379,250002
+3,Bologna,189,Benjamín Domínguez,269558,250002
+4,Bologna,189,Nicolò Cambiaghi,268703,250002
+5,Bologna,189,Santiago Castro,267861,250002
+6,Bologna,189,Thijs Dallinga,252021,250002
+7,Bologna,189,Jens Odgaard,234671,250002
+8,Bologna,189,Riccardo Orsolini,233556,250002
+9,Bologna,189,Giovanni Fabbian,271019,250002
+10,Bologna,189,Remo Freuler,202024,250002
+11,Bologna,189,Nikola Moro,244270,250002
+12,Bologna,189,Oussama El Azzouzi,269745,250002
+13,Bologna,189,Lewis Ferguson,242280,250002
+14,Bologna,189,Tommaso Pobega,252060,250002
+15,Bologna,189,Niklas Pyyhtiä,274089,250002
+16,Bologna,189,Kacper Urbański,254819,250002
+17,Bologna,189,Michel Aebischer,236898,250002
+18,Bologna,189,Charalampos Lykogiannis,210381,250002
+19,Bologna,189,Juan Miranda González,240915,250002
+20,Bologna,189,Tommaso Corazza,277704,250002
+21,Bologna,189,Sam Beukema,262394,250002
+22,Bologna,189,Jhon Lucumí,231207,250002
+23,Bologna,189,Martin Erlić,244456,250002
+24,Bologna,189,Nicolò Casale,239770,250002
+25,Bologna,189,Mihajlo Ilić,70482,250002
+26,Bologna,189,Stefan Posch,223671,250002
+27,Bologna,189,Emil Holm,246656,250002
+28,Bologna,189,Lorenzo De Silvestri,170320,250002
+29,Bologna,189,Łukasz Skorupski,189908,250002
+30,Bologna,189,Federico Ravaglia,240657,250002
+31,Bologna,189,Nicola Bagnolini,271420,250002
+0,Torino,54,Duván Zapata,215333,250002
+1,Torino,54,Ché Adams,226093,250002
+2,Torino,54,Yann Karamoh,231826,250002
+3,Torino,54,Antonio Sanabria,219932,250002
+4,Torino,54,Ivan Ilić,258683,250002
+5,Torino,54,Gvidas Gineitis,273932,250002
+6,Torino,54,Samuele Ricci,253473,250002
+7,Torino,54,Aaron Ciammaglichella,70481,250002
+8,Torino,54,Nikola Vlašić,241095,250002
+9,Torino,54,Emirhan İlkhan,266257,250002
+10,Torino,54,Karol Linetty,211408,250002
+11,Torino,54,Valentino Lazaro,211147,250002
+12,Torino,54,Borna Sosa,243388,250002
+13,Torino,54,Adam Masina,225410,250002
+14,Torino,54,Saúl Basilio Coco Bassey Oubiña,265650,250002
+15,Torino,54,Guillermo Maripán,219145,250002
+16,Torino,54,Sebastian Walukiewicz,243497,250002
+17,Torino,54,Perr Schuurs,241854,250002
+18,Torino,54,Adrien Tameze,213242,250002
+19,Torino,54,Mërgim Vojvoda,228349,250002
+20,Torino,54,Marcus Holmgren Pedersen,243481,250002
+21,Torino,54,Ali Bina Dembélé,273936,250002
+22,Torino,54,Brian Jepthe Bayeye,271480,250002
+23,Torino,54,Vanja Milinković-Savić,224836,250002
+24,Torino,54,Alberto Paleari,235740,250002
+25,Torino,54,Antonio Donnarumma,201179,250002
+0,Sassuolo,111974,Armand Laurienté,243593,250002
+1,Sassuolo,111974,Samuele Mulattieri,243200,250002
+2,Sassuolo,111974,Janis Antiste,255839,250002
+3,Sassuolo,111974,Luca Moro,248787,250002
+4,Sassuolo,111974,Flavio Russo,74504,250002
+5,Sassuolo,111974,Nicholas Pierini,241628,250002
+6,Sassuolo,111974,Cristian Volpato,265761,250002
+7,Sassuolo,111974,Luca D'Andrea,271482,250002
+8,Sassuolo,111974,Domenico Berardi,210935,250002
+9,Sassuolo,111974,Fabrizio Caligara,243527,250002
+10,Sassuolo,111974,Kristian Thorstvedt,242725,250002
+11,Sassuolo,111974,Andrea Ghion,257164,250002
+12,Sassuolo,111974,Edoardo Iannoni,270657,250002
+13,Sassuolo,111974,Justin Kumi,71401,250002
+14,Sassuolo,111974,Daniel Boloca,268462,250002
+15,Sassuolo,111974,Pedro Mba Obiang Avomo,200054,250002
+16,Sassuolo,111974,Luca Lipani,274702,250002
+17,Sassuolo,111974,Josh Doig,255561,250002
+18,Sassuolo,111974,Edoardo Pieragnolo,276705,250002
+19,Sassuolo,111974,Filippo Romagna,226108,250002
+20,Sassuolo,111974,Kevin Miranda,277934,250002
+21,Sassuolo,111974,Tarik Muharemovic,262027,250002
+22,Sassuolo,111974,Cas Odenthal,262474,250002
+23,Sassuolo,111974,Matteo Lovato,258946,250002
+24,Sassuolo,111974,Jeremy Toljan,214622,250002
+25,Sassuolo,111974,Yeferson Paz,271006,250002
+26,Sassuolo,111974,Filippo Missori,265762,250002
+27,Sassuolo,111974,Giacomo Satalino,235806,250002
+28,Sassuolo,111974,Horațiu Moldovan,251136,250002
+29,Sassuolo,111974,Andrea Consigli,163489,250002
+30,Sassuolo,111974,Alessandro Russo,253003,250002
+0,Monza,111811,Milan Đurić,192840,250002
+1,Monza,111811,Dany Mota Carvalho,234147,250002
+2,Monza,111811,Andrea Petagna,215689,250002
+3,Monza,111811,Davide Diaw,236213,250002
+4,Monza,111811,Mirko Marić,258027,250002
+5,Monza,111811,Samuele Vignato,265595,250002
+6,Monza,111811,Daniel Maldini,255611,250002
+7,Monza,111811,Gianluca Caprari,202848,250002
+8,Monza,111811,Giorgos Kyriakopoulos,253213,250002
+9,Monza,111811,Warren Bondo,257353,250002
+10,Monza,111811,Matteo Pessina,239613,250002
+11,Monza,111811,Stefano Sensi,229857,250002
+12,Monza,111811,Roberto Gagliardini,212153,250002
+13,Monza,111811,Mattia Valoti,205089,250002
+14,Monza,111811,Alessandro Bianco,271477,250002
+15,Monza,111811,Samuele Birindelli,237003,250002
+16,Monza,111811,Patrick Ciurria,219812,250002
+17,Monza,111811,Omari Forson,268437,250002
+18,Monza,111811,Pedro Miguel Lopes Pereira,230824,250002
+19,Monza,111811,Luca Caldirola,199776,250002
+20,Monza,111811,Pablo Marí Villar,206654,250002
+21,Monza,111811,Danilo D'Ambrosio,198946,250002
+22,Monza,111811,Andrea Carboni,257000,250002
+23,Monza,111811,Armando Izzo,216145,250002
+24,Monza,111811,Stefano Turati,254502,250002
+25,Monza,111811,Semuel Pizzignacco,268875,250002
+26,Monza,111811,Alessio Cragno,205659,250002
+27,Monza,111811,Andrea Mazza,70251,250002
+0,Genoa,110556,Vítor Manuel Carvalho Oliveira,263829,250002
+1,Genoa,110556,Federico Accornero,274721,250002
+2,Genoa,110556,Andrea Pinamonti,235842,250002
+3,Genoa,110556,Caleb Ekuban,239795,250002
+4,Genoa,110556,David Ankeye,260789,250002
+5,Genoa,110556,Jeff Ekhator,74485,250002
+6,Genoa,110556,Morten Frendrup,242633,250002
+7,Genoa,110556,Emil Bohinen,234894,250002
+8,Genoa,110556,Junior Messias,240938,250002
+9,Genoa,110556,Ruslan Malinovskyi,231969,250002
+10,Genoa,110556,Fabio Miretti,268802,250002
+11,Genoa,110556,Morten Thorsby,222475,250002
+12,Genoa,110556,Patrizio Masini,276485,250002
+13,Genoa,110556,Filippo Melegoni,237382,250002
+14,Genoa,110556,Milan Badelj,201144,250002
+15,Genoa,110556,Aarón Martín Caricol,236295,250002
+16,Genoa,110556,Johan Vásquez,244349,250002
+17,Genoa,110556,Mattia Bani,224378,250002
+18,Genoa,110556,Alessandro Vogliacco,245566,250002
+19,Genoa,110556,Alan Matturro,274082,250002
+20,Genoa,110556,Alessandro Marcandalli,276477,250002
+21,Genoa,110556,Koni De Winter,265774,250002
+22,Genoa,110556,Stefano Sabelli,206159,250002
+23,Genoa,110556,Alessandro Zanoli,268656,250002
+24,Genoa,110556,Brooke Norton-Cuffy,260653,250002
+25,Genoa,110556,Pierluigi Gollini,211515,250002
+26,Genoa,110556,Nicola Leali,201299,250002
+27,Genoa,110556,Daniele Sommariva,225432,250002
+28,Genoa,110556,Franz Stolz,70524,250002
+0,Parma,50,Yoan Bonny,259565,250002
+1,Parma,50,Gabriel Charpentier,268464,250002
+2,Parma,50,Mateusz Kowalski,270716,250002
+3,Parma,50,Simon Sohm,244634,250002
+4,Parma,50,Anas Haj Mohamed,278287,250002
+5,Parma,50,Valentin Mihăilă,248060,250002
+6,Parma,50,Matteo Cancellieri,263929,250002
+7,Parma,50,Adrian Benedyczak,243154,250002
+8,Parma,50,Dennis Man,239978,250002
+9,Parma,50,Pontus Almqvist,236706,250002
+10,Parma,50,Drissa Camara,264364,250002
+11,Parma,50,Nahuel Estévez,240992,250002
+12,Parma,50,Adrián Bernabé García,252794,250002
+13,Parma,50,Hernani Azevedo Júnior,225475,250002
+14,Parma,50,Mandela Keita,261539,250002
+15,Parma,50,Wylan Cyprien,212886,250002
+16,Parma,50,Emanuele Valeri,258714,250002
+17,Parma,50,Gianluca Di Chiara,216799,250002
+18,Parma,50,Alessandro Circati,268913,250002
+19,Parma,50,Lautaro Valenti,246164,250002
+20,Parma,50,Botond Balogh,258708,250002
+21,Parma,50,Yordan Osorio,237297,250002
+22,Parma,50,Giovanni Leoni,70824,250002
+23,Parma,50,Woyo Coulibaly,251335,250002
+24,Parma,50,Enrico Delprato,252442,250002
+25,Parma,50,Antoine Hainaut,271856,250002
+26,Parma,50,Zion Suzuki,255981,250002
+27,Parma,50,Leandro Chichizola,191628,250002
+28,Parma,50,Edoardo Corvi,271385,250002
+0,Cagliari,1842,Roberto Piccoli,248385,250002
+1,Cagliari,1842,Gianluca Lapadula,211302,250002
+2,Cagliari,1842,Zito André Sebastião Luvumbo,259011,250002
+3,Cagliari,1842,Leonardo Pavoletti,205850,250002
+4,Cagliari,1842,Kingstone Mutandwa,70049,250002
+5,Cagliari,1842,Răzvan Marin,235813,250002
+6,Cagliari,1842,Jakub Jankto,226592,250002
+7,Cagliari,1842,Mattia Felici,248857,250002
+8,Cagliari,1842,Nicolas Viola,173160,250002
+9,Cagliari,1842,Alessandro Deiola,229743,250002
+10,Cagliari,1842,Gianluca Gaetano,246877,250002
+11,Cagliari,1842,Michel Ndary Adopo,254982,250002
+12,Cagliari,1842,Matteo Prati,272725,250002
+13,Cagliari,1842,Antoine Makoumbou,270597,250002
+14,Cagliari,1842,Tommaso Augello,240100,250002
+15,Cagliari,1842,Sebastiano Luperto,220534,250002
+16,Cagliari,1842,Yerry Mina,220523,250002
+17,Cagliari,1842,José Luis Palomino,217196,250002
+18,Cagliari,1842,Mateusz Wieteska,224302,250002
+19,Cagliari,1842,Adam Obert,266636,250002
+20,Cagliari,1842,Gabriele Zappa,252964,250002
+21,Cagliari,1842,Paulo Daniel Azzi Dentello,222388,250002
+22,Cagliari,1842,Nadir Zortea,252440,250002
+23,Cagliari,1842,Simone Scuffet,220048,250002
+24,Cagliari,1842,Alen Sherri,73838,250002
+25,Cagliari,1842,Giuseppe Ciocci,271199,250002
+26,Cagliari,1842,Velizar-Iliya Iliev,277628,250002
+0,Hellas Verona,206,Dailon Rocha Livramento,73853,250002
+1,Hellas Verona,206,Casper Tengstedt,257920,250002
+2,Hellas Verona,206,Daniel Mosquera,266585,250002
+3,Hellas Verona,206,Junior Ajayi,72322,250002
+4,Hellas Verona,206,Juan Manuel Cruz,255453,250002
+5,Hellas Verona,206,Amin Sarr,256453,250002
+6,Hellas Verona,206,Tomáš Suslov,255233,250002
+7,Hellas Verona,206,Darko Lazović,212127,250002
+8,Hellas Verona,206,Domagoj Bradarić,252000,250002
+9,Hellas Verona,206,Alphadjo Cissè,278326,250002
+10,Hellas Verona,206,Reda Belahyane,275163,250002
+11,Hellas Verona,206,Grigoris Kastanos,237335,250002
+12,Hellas Verona,206,Ondrej Duda,222148,250002
+13,Hellas Verona,206,Suat Serdar,230065,250002
+14,Hellas Verona,206,Abdou Harroui,241937,250002
+15,Hellas Verona,206,Daniel Filipe Bandeira e Silva,270686,250002
+16,Hellas Verona,206,Ayanda Sishuba,276787,250002
+17,Hellas Verona,206,Jackson Tchatchoua,262937,250002
+18,Hellas Verona,206,Faride Alidou,264409,250002
+19,Hellas Verona,206,Marco Davide Faraoni,195272,250002
+20,Hellas Verona,206,Mathis Lambourde,278230,250002
+21,Hellas Verona,206,Martin Frese,238009,250002
+22,Hellas Verona,206,Diego Coppola,269181,250002
+23,Hellas Verona,206,Giangiacomo Magnani,242392,250002
+24,Hellas Verona,206,Flavius Daniliuc,252017,250002
+25,Hellas Verona,206,Yllan Okou,271458,250002
+26,Hellas Verona,206,Christian Corradi,72029,250002
+27,Hellas Verona,206,Daniele Ghilardi,277695,250002
+28,Hellas Verona,206,Paweł Dawidowicz,213404,250002
+29,Hellas Verona,206,Lorenzo Montipò,215363,250002
+30,Hellas Verona,206,Simone Perilli,210940,250002
+31,Hellas Verona,206,Alessandro Berardi,202793,250002
+32,Hellas Verona,206,Mattia Chiesa,271578,250002
+0,Udinese,55,Lorenzo Lucca,268474,250002
+1,Udinese,55,Keinan Davis,231743,250002
+2,Udinese,55,Alexis Sánchez,184941,250002
+3,Udinese,55,Iker Bravo Solanilla,265194,250002
+4,Udinese,55,Damián Pizarro,268396,250002
+5,Udinese,55,Brenner Souza da Silva,240332,250002
+6,Udinese,55,Florian Thauvin,204970,250002
+7,Udinese,55,Jurgen Ekkelenkamp,243249,250002
+8,Udinese,55,Arthur Atta,272783,250002
+9,Udinese,55,Hassane Kamara,220421,250002
+10,Udinese,55,Jordan Zemura,259634,250002
+11,Udinese,55,Martín Payero,240970,250002
+12,Udinese,55,Jesper Karlström,214658,250002
+13,Udinese,55,Sandi Lovrič,223866,250002
+14,Udinese,55,Oier Zarraga Egaña,258615,250002
+15,Udinese,55,Kingsley Ehizibue,225669,250002
+16,Udinese,55,Rui Manuel Muati Modesto,274270,250002
+17,Udinese,55,Lautaro Giannetti,215147,250002
+18,Udinese,55,Jaka Bijol,244238,250002
+19,Udinese,55,Thomas Thiesson Kristensen,261573,250002
+20,Udinese,55,James Abankwah,264509,250002
+21,Udinese,55,Enzo Ebosse,241007,250002
+22,Udinese,55,Isaak Touré,258972,250002
+23,Udinese,55,Christian Kabasele,190324,250002
+24,Udinese,55,Maduka Okoye,257288,250002
+25,Udinese,55,Răzvan Sava,266803,250002
+26,Udinese,55,Daniele Padelli,162297,250002
+0,Empoli,1746,Lorenzo Colombo,256899,250002
+1,Empoli,1746,Pietro Pellegri,238873,250002
+2,Empoli,1746,Emmanuel Ekong,271923,250002
+3,Empoli,1746,Hemsley Akpa-Chukwu,278181,250002
+4,Empoli,1746,Sebastiano Esposito,247888,250002
+5,Empoli,1746,Jacopo Fazzini,266596,250002
+6,Empoli,1746,Tino Anjorin,248474,250002
+7,Empoli,1746,Giuseppe Pezzella,230681,250002
+8,Empoli,1746,Liberato Cacace,242429,250002
+9,Empoli,1746,Youssef Maleh,236838,250002
+10,Empoli,1746,Liam Henderson,219952,250002
+11,Empoli,1746,Szymon Żurkowski,239732,250002
+12,Empoli,1746,Alberto Grassi,220475,250002
+13,Empoli,1746,Nicolas Haas,225117,250002
+14,Empoli,1746,Luca Belardinelli,270507,250002
+15,Empoli,1746,Emmanuel Gyasi,220491,250002
+16,Empoli,1746,Ola Solbakken,242090,250002
+17,Empoli,1746,Junior Sambia,223570,250002
+18,Empoli,1746,Mattia Viti,264044,250002
+19,Empoli,1746,Ardian Ismajli,258782,250002
+20,Empoli,1746,Saba Sazonov,278013,250002
+21,Empoli,1746,Luca Marianucci,278319,250002
+22,Empoli,1746,Saba Goglichidze,70252,250002
+23,Empoli,1746,Mattia De Sciglio,206058,250002
+24,Empoli,1746,Tyronne Ebuehi,224213,250002
+25,Empoli,1746,Devis Vásquez,233189,250002
+26,Empoli,1746,Samuele Perisan,230858,250002
+27,Empoli,1746,Federico Brancolini,257580,250002
+0,Venezia,205,Joel Pohjanpalo,220165,250002
+1,Venezia,205,Christian Gytkjær,201285,250002
+2,Venezia,205,Antonio Raimondo,269182,250002
+3,Venezia,205,Mikael Egill Ellertsson,264436,250002
+4,Venezia,205,John Yeboah,242755,250002
+5,Venezia,205,Gaetano Oristanio,269276,250002
+6,Venezia,205,Saad El Haddad,74664,250002
+7,Venezia,205,Francesco Zampano,219655,250002
+8,Venezia,205,Franco Carboni,270485,250002
+9,Venezia,205,Ridgeciano Haps,210384,250002
+10,Venezia,205,Alfred Duncan,208535,250002
+11,Venezia,205,Hans Nicolussi Caviglia,253162,250002
+12,Venezia,205,Gianluca Busio,242332,250002
+13,Venezia,205,Magnus Kofod Andersen,237840,250002
+14,Venezia,205,Domen Črnigoj,231137,250002
+15,Venezia,205,Luca Fiordilino,240343,250002
+16,Venezia,205,Issa Doumbia,73379,250002
+17,Venezia,205,Antonio Candela,252315,250002
+18,Venezia,205,Bjarki Steinn Bjarkason,258533,250002
+19,Venezia,205,Richie Sagrado,275087,250002
+20,Venezia,205,Marin Šverko,235800,250002
+21,Venezia,205,Michael Svoboda,250779,250002
+22,Venezia,205,Giorgio Altare,263647,250002
+23,Venezia,205,Joël Schingtienne,277214,250002
+24,Venezia,205,Jay Idzes,262396,250002
+25,Venezia,205,Jesse Joronen,199904,250002
+26,Venezia,205,Filip Stanković,269271,250002
+27,Venezia,205,Bruno Oliveira Bertinato,247289,250002
+28,Venezia,205,Matteo Grandi,230636,250002
+0,Inter,44,Lautaro Martínez,231478,250021
+1,Inter,44,Marcus Thuram,228093,250021
+2,Inter,44,Mehdi Taremi,241788,250021
+3,Inter,44,Marko Arnautović,184200,250021
+4,Inter,44,Joaquín Correa,215330,250021
+5,Inter,44,Henrikh Mkhitaryan,192883,250021
+6,Inter,44,Nicolò Barella,224232,250021
+7,Inter,44,Piotr Zieliński,210406,250021
+8,Inter,44,Davide Frattesi,239807,250021
+9,Inter,44,Hakan Çalhanoğlu,208128,250021
+10,Inter,44,Kristjan Asllani,264699,250021
+11,Inter,44,Federico Dimarco,226268,250021
+12,Inter,44,Carlos Augusto Zopolato Neves,258648,250021
+13,Inter,44,Nicola Zalewski,262113,250021
+14,Inter,44,Alessandro Bastoni,237383,250021
+15,Inter,44,Francesco Acerbi,199845,250021
+16,Inter,44,Stefan de Vrij,198176,250021
+17,Inter,44,Yann Aurel Bisseck,241736,250021
+18,Inter,44,Benjamin Pavard,226851,250021
+19,Inter,44,Denzel Dumfries,233096,250021
+20,Inter,44,Matteo Darmian,184392,250021
+21,Inter,44,Yann Sommer,177683,250021
+22,Inter,44,Josep Martínez Riera,243311,250021
+23,Inter,44,Raffaele Di Gennaro,219715,250021
+24,Inter,44,Ionuț Andrei Radu,234102,250021
+0,Napoli,48,David Neres Campos,236632,250021
+1,Napoli,48,Romelu Lukaku,192505,250021
+2,Napoli,48,Giacomo Raspadori,253002,250021
+3,Napoli,48,Cyril Ngonge,246457,250021
+4,Napoli,48,Giovanni Simeone,216816,250021
+5,Napoli,48,Matteo Politano,216409,250021
+6,Napoli,48,Scott McTominay,237238,250021
+7,Napoli,48,Stanislav Lobotka,216435,250021
+8,Napoli,48,Philip Billing,220714,250021
+9,Napoli,48,Billy Gilmour,245992,250021
+10,Napoli,48,Luis Hasa,70163,250021
+11,Napoli,48,André-Franck Zambo Anguissa,227236,250021
+12,Napoli,48,Mathías Olivera,240716,250021
+13,Napoli,48,Leonardo Spinazzola,202884,250021
+14,Napoli,48,Alessandro Buongiorno,243241,250021
+15,Napoli,48,Juan Guilherme Nunes Jesus,200752,250021
+16,Napoli,48,Amir Rrahmani,244263,250021
+17,Napoli,48,Rafael Marín Zamora,277244,250021
+18,Napoli,48,Giovanni Di Lorenzo,217870,250021
+19,Napoli,48,Pasquale Mazzocchi,239679,250021
+20,Napoli,48,Alex Meret,225116,250021
+21,Napoli,48,Simone Scuffet,220048,250021
+22,Napoli,48,Nikita Contini,220532,250021
+0,AC Milan,47,Rafael da Conceição Leão,241721,250021
+1,AC Milan,47,Chaka Traorè,277013,250021
+2,AC Milan,47,Tammy Abraham,231352,250021
+3,AC Milan,47,Noah Okafor,242530,250021
+4,AC Milan,47,Luka Jović,232432,250021
+5,AC Milan,47,Divock Origi,213135,250021
+6,AC Milan,47,Christian Pulisic,227796,250021
+7,AC Milan,47,Samuel Chukwueze,246172,250021
+8,AC Milan,47,Mattia Liberali,74094,250021
+9,AC Milan,47,Bob Omoregbe,76430,250021
+10,AC Milan,47,Tijjani Reijnders,240638,250021
+11,AC Milan,47,Youssouf Fofana,245630,250021
+12,AC Milan,47,Ruben Loftus-Cheek,213666,250021
+13,AC Milan,47,Kevin Zeroli,278351,250021
+14,AC Milan,47,Yunus Musah,253177,250021
+15,AC Milan,47,Theo Hernández,232656,250021
+16,AC Milan,47,Alejandro Jiménez Sánchez,278928,250021
+17,AC Milan,47,Davide Bartesaghi,278237,250021
+18,AC Milan,47,Fikayo Tomori,232756,250021
+19,AC Milan,47,Strahinja Pavlović,254840,250021
+20,AC Milan,47,Matteo Gabbia,240277,250021
+21,AC Milan,47,Malick Thiaw,256261,250021
+22,AC Milan,47,Kyle Walker,188377,250021
+23,AC Milan,47,Emerson Leite De Souza,247204,250021
+24,AC Milan,47,Davide Calabria,228881,250021
+25,AC Milan,47,Alessandro Florenzi,203551,250021
+26,AC Milan,47,Filippo Terracciano,271579,250021
+27,AC Milan,47,Mike Maignan,215698,250021
+28,AC Milan,47,Marco Sportiello,216065,250021
+29,AC Milan,47,Lapo Nava,278331,250021
+30,AC Milan,47,Lorenzo Torriani,72179,250021
+0,Juventus,45,Dušan Vlahović,246430,250021
+1,Juventus,45,Randal Kolo Muani,237679,250021
+2,Juventus,45,Lorenzo Anghelè,74706,250021
+3,Juventus,45,Arkadiusz Milik,205175,250021
+4,Juventus,45,Diego Pugno,75822,250021
+5,Juventus,45,Teun Koopmeiners,240679,250021
+6,Juventus,45,Vasilije Adžić,75085,250021
+7,Juventus,45,Kenan Yıldız,277954,250021
+8,Juventus,45,Samuel Mbangula,74566,250021
+9,Juventus,45,Francisco F. da Conceição,261050,250021
+10,Juventus,45,Timothy Weah,241496,250021
+11,Juventus,45,Nico Gonzalez,240690,250021
+12,Juventus,45,Khéphren Thuram,247246,250021
+13,Juventus,45,Manuel Locatelli,222077,250021
+14,Juventus,45,Weston McKennie,238744,250021
+15,Juventus,45,Nicolò Fagioli,260823,250021
+16,Juventus,45,Douglas Luiz Soares de Paulo,236499,250021
+17,Juventus,45,Andrea Cambiaso,258966,250021
+18,Juventus,45,Renato Palma Veiga,273906,250021
+19,Juventus,45,Jonas Rouhi,74329,250021
+20,Juventus,45,Juan David Cabal,251870,250021
+21,Juventus,45,Pierre Kalulu,255654,250021
+22,Juventus,45,Federico Gatti,266872,250021
+23,Juventus,45,Gleison Bremer Silva Nascimento,239580,250021
+24,Juventus,45,Nicolò Savona,74310,250021
+25,Juventus,45,Alberto Oliveira Baio,270674,250021
+26,Juventus,45,Michele Di Gregorio,235840,250021
+27,Juventus,45,Mattia Perin,198009,250021
+28,Juventus,45,Carlo Pinsoglio,189342,250021
+0,Roma,52,Artem Dovbyk,242458,250021
+1,Roma,52,Tommaso Baldanzi,269312,250021
+2,Roma,52,Paulo Dybala,211110,250021
+3,Roma,52,Eldor Shomurodov,239964,250021
+4,Roma,52,Lorenzo Pellegrini,228251,250021
+5,Roma,52,Stephan El Shaarawy,190813,250021
+6,Roma,52,Alexis Saelemaekers,242664,250021
+7,Roma,52,Kouadio Manu Koné,250723,250021
+8,Roma,52,Bryan Cristante,208268,250021
+9,Roma,52,Matías Soulé,265695,250021
+10,Roma,52,Niccolò Pisilli,275291,250021
+11,Roma,52,Leandro Paredes,207439,250021
+12,Roma,52,José Ángel Esmoris Tasende,220651,250021
+13,Roma,52,Samuel Dahl,277252,250021
+14,Roma,52,Evan Ndicka,236403,250021
+15,Roma,52,Mats Hummels,178603,250021
+16,Roma,52,Gianluca Mancini,229582,250021
+17,Roma,52,Devyne Rensch,258826,250021
+18,Roma,52,Zeki Çelik,224490,250021
+19,Roma,52,Saud Abdulhamid,246688,250021
+20,Roma,52,Aboubacar Sangaré Traoré,279200,250021
+21,Roma,52,Mile Svilar,230872,250021
+22,Roma,52,Pierluigi Gollini,211515,250021
+23,Roma,52,Renato Marin,279880,250021
+0,Atalanta,39,Ademola Lookman,230899,250021
+1,Atalanta,39,Mateo Retegui,241850,250021
+2,Atalanta,39,Gianluca Scamacca,226710,250021
+3,Atalanta,39,Vanja Vlahović,74924,250021
+4,Atalanta,39,Charles De Ketelaere,251470,250021
+5,Atalanta,39,Daniel Maldini,255611,250021
+6,Atalanta,39,Matteo Ruggeri,259584,250021
+7,Atalanta,39,Davide Zappacosta,216150,250021
+8,Atalanta,39,Éderson José dos Santos,266866,250021
+9,Atalanta,39,Lazar Samardžić,256115,250021
+10,Atalanta,39,Marco Brescianini,257785,250021
+11,Atalanta,39,Marten de Roon,208461,250021
+12,Atalanta,39,Mario Pašalić,223273,250021
+13,Atalanta,39,Ibrahim Sulemana,271577,250021
+14,Atalanta,39,Federico Cassa,74576,250021
+15,Atalanta,39,Alberto Manzoni,279574,250021
+16,Atalanta,39,Raoul Bellanova,247229,250021
+17,Atalanta,39,Juan Cuadrado,193082,250021
+18,Atalanta,39,Marco Palestra,278339,250021
+19,Atalanta,39,Nicolò Zaniolo,238067,250021
+20,Atalanta,39,Sead Kolašinac,207993,250021
+21,Atalanta,39,Berat Djimsiti,208165,250021
+22,Atalanta,39,Rafael Tolói,187598,250021
+23,Atalanta,39,Stefan Posch,223671,250021
+24,Atalanta,39,Odilon Kossounou,246875,250021
+25,Atalanta,39,Giorgio Scalvini,265188,250021
+26,Atalanta,39,Isak Hien,260697,250021
+27,Atalanta,39,Marco Carnesecchi,252154,250021
+28,Atalanta,39,Rui Pedro dos Santos Patrício,178005,250021
+29,Atalanta,39,Francesco Rossi,194894,250021
+0,Lazio,46,Valentin Castellanos,237712,250021
+1,Lazio,46,Tijjani Noslin,264257,250021
+2,Lazio,46,Loum Tchaouna,264880,250021
+3,Lazio,46,Boulaye Dia,246242,250021
+4,Lazio,46,Fisayo Dele-Bashiru,258890,250021
+5,Lazio,46,Gaetano Castrovilli,225014,250021
+6,Lazio,46,André Anderson Pomilio Lima,245639,250021
+7,Lazio,46,Cristobal Muñoz López,73162,250021
+8,Lazio,46,Mattia Zaccagni,220502,250021
+9,Lazio,46,Arijon Ibrahimović,266236,250021
+10,Lazio,46,Gustav Isaksen,248729,250021
+11,Lazio,46,Pedro Rodríguez Ledesma,189505,250021
+12,Lazio,46,Nicolò Rovella,255001,250021
+13,Lazio,46,Toma Bašić,245275,250021
+14,Lazio,46,Mattéo Guendouzi,236496,250021
+15,Lazio,46,Matías Vecino,219985,250021
+16,Lazio,46,Nuno Albertino Varela Tavares,251530,250021
+17,Lazio,46,Adam Marušić,224031,250021
+18,Lazio,46,Elseid Hysaj,210864,250021
+19,Lazio,46,Luca Pellegrini,243237,250021
+20,Lazio,46,Alessio Romagnoli,210413,250021
+21,Lazio,46,Mario Gila Fuentes,268804,250021
+22,Lazio,46,Samuel Gigot,219581,250021
+23,Lazio,46,Patricio Gabarrón Gil,206098,250021
+24,Lazio,46,Manuel Lazzari,235374,250021
+25,Lazio,46,Ivan Provedel,224987,250021
+26,Lazio,46,Christos Mandas,278032,250021
+27,Lazio,46,Alessio Furlanetto,270217,250021
+0,Como,1745,Patrick Cutrone,237715,250021
+1,Como,1745,Andrea Belotti,208596,250021
+2,Como,1745,Alessandro Gabrielloni,268674,250021
+3,Como,1745,Nicolás Paz Martínez,277846,250021
+4,Como,1745,Ben Lhassine Kone,253120,250021
+5,Como,1745,Dele Alli,211117,250021
+6,Como,1745,Simone Verdi,196889,250021
+7,Como,1745,Alieu Fadera,263882,250021
+8,Como,1745,Moutir Chajia,238474,250021
+9,Como,1745,Gabriel Tadeu Strefezza Rebelato,235949,250021
+10,Como,1745,Assane Diao Diaoune,275324,250021
+11,Como,1745,Lucas Da Cunha,254579,250021
+12,Como,1745,Máximo Perrone,267991,250021
+13,Como,1745,Yannik Engelhardt,262906,250021
+14,Como,1745,Luca Mazzitelli,221331,250021
+15,Como,1745,Matthias Braunöder,258505,250021
+16,Como,1745,Maxence Caqueret,246646,250021
+17,Como,1745,Daniele Baselli,205407,250021
+18,Como,1745,Alberto Moreno Pérez,205566,250021
+19,Como,1745,Marco Sala,252704,250021
+20,Como,1745,Álex Valle Gómez,273875,250021
+21,Como,1745,Marc-Oliver Kempf,210719,250021
+22,Como,1745,Fellipe Jack,75225,250021
+23,Como,1745,Alberto Dossena,237586,250021
+24,Como,1745,Edoardo Goldaniga,223524,250021
+25,Como,1745,Ignace Van der Brempt,251464,250021
+26,Como,1745,Sergio Roberto Carnicer,199564,250021
+27,Como,1745,Alessio Iovine,268673,250021
+28,Como,1745,Jean Butez,225149,250021
+29,Como,1745,Emil Audero,228413,250021
+30,Como,1745,José Manuel Reina Páez,24630,250021
+31,Como,1745,Mauro Vigorito,186611,250021
+0,Fiorentina,110374,Moise Kean,236610,250021
+1,Fiorentina,110374,Albert Guðmundsson,238004,250021
+2,Fiorentina,110374,Lucas Beltrán,246258,250021
+3,Fiorentina,110374,Michael Folorunsho,268683,250021
+4,Fiorentina,110374,Edoardo Bove,262171,250021
+5,Fiorentina,110374,Tommaso Rubino,75558,250021
+6,Fiorentina,110374,Riccardo Sottil,246431,250021
+7,Fiorentina,110374,Andrea Colpani,251988,250021
+8,Fiorentina,110374,Jonathan Ikoné,234612,250021
+9,Fiorentina,110374,Yacine Adli,243627,250021
+10,Fiorentina,110374,Rolando Mandragora,225439,250021
+11,Fiorentina,110374,Amir Richardson,262236,250021
+12,Fiorentina,110374,Danilo Cataldi,211361,250021
+13,Fiorentina,110374,Robin Gosens,223697,250021
+14,Fiorentina,110374,Cristiano Biraghi,201389,250021
+15,Fiorentina,110374,Fabiano Parisi,258976,250021
+16,Fiorentina,110374,Luca Ranieri,240777,250021
+17,Fiorentina,110374,Nicolás Valentini,267681,250021
+18,Fiorentina,110374,Pietro Comuzzo,278340,250021
+19,Fiorentina,110374,Matías Moreno,276820,250021
+20,Fiorentina,110374,Marin Pongračić,238370,250021
+21,Fiorentina,110374,Domilson Cordeiro dos Santos,234112,250021
+22,Fiorentina,110374,David De Gea Quintana,193080,250021
+23,Fiorentina,110374,Pietro Terracciano,205812,250021
+24,Fiorentina,110374,Tommaso Martinelli,275325,250021
+0,Bologna,189,Santiago Castro,267861,250021
+1,Bologna,189,Thijs Dallinga,252021,250021
+2,Bologna,189,Nicolò Cambiaghi,268703,250021
+3,Bologna,189,Jens Odgaard,234671,250021
+4,Bologna,189,Giovanni Fabbian,271019,250021
+5,Bologna,189,Lewis Ferguson,242280,250021
+6,Bologna,189,Dan Ndoye,257980,250021
+7,Bologna,189,Benjamín Domínguez,269558,250021
+8,Bologna,189,Samuel Iling-Junior,272379,250021
+9,Bologna,189,Riccardo Orsolini,233556,250021
+10,Bologna,189,Nikola Moro,244270,250021
+11,Bologna,189,Tommaso Pobega,252060,250021
+12,Bologna,189,Remo Freuler,202024,250021
+13,Bologna,189,Andri Fannar Baldursson,256036,250021
+14,Bologna,189,Oussama El Azzouzi,269745,250021
+15,Bologna,189,Michel Aebischer,236898,250021
+16,Bologna,189,Juan Miranda González,240915,250021
+17,Bologna,189,Charalampos Lykogiannis,210381,250021
+18,Bologna,189,Jhon Lucumí,231207,250021
+19,Bologna,189,Sam Beukema,262394,250021
+20,Bologna,189,Nicolò Casale,239770,250021
+21,Bologna,189,Martin Erlić,244456,250021
+22,Bologna,189,Emil Holm,246656,250021
+23,Bologna,189,Lorenzo De Silvestri,170320,250021
+24,Bologna,189,Łukasz Skorupski,189908,250021
+25,Bologna,189,Federico Ravaglia,240657,250021
+26,Bologna,189,Nicola Bagnolini,271420,250021
+0,Torino,54,Ché Adams,226093,250021
+1,Torino,54,Nikola Vlašić,241095,250021
+2,Torino,54,Antonio Sanabria,219932,250021
+3,Torino,54,Yann Karamoh,231826,250021
+4,Torino,54,Alieu Njie,70480,250021
+5,Torino,54,Duván Zapata,215333,250021
+6,Torino,54,Ivan Ilić,258683,250021
+7,Torino,54,Gvidas Gineitis,273932,250021
+8,Torino,54,Samuele Ricci,253473,250021
+9,Torino,54,Eljif Elmas,241390,250021
+10,Torino,54,Cesare Casadei,273883,250021
+11,Torino,54,Aaron Ciammaglichella,70481,250021
+12,Torino,54,Emirhan İlkhan,266257,250021
+13,Torino,54,Karol Linetty,211408,250021
+14,Torino,54,Borna Sosa,243388,250021
+15,Torino,54,Saúl Basilio Coco Bassey Oubiña,265650,250021
+16,Torino,54,Guillermo Maripán,219145,250021
+17,Torino,54,Adam Masina,225410,250021
+18,Torino,54,Sebastian Walukiewicz,243497,250021
+19,Torino,54,Perr Schuurs,241854,250021
+20,Torino,54,Adrien Tameze,213242,250021
+21,Torino,54,Mërgim Vojvoda,228349,250021
+22,Torino,54,Valentino Lazaro,211147,250021
+23,Torino,54,Marcus Holmgren Pedersen,243481,250021
+24,Torino,54,Ali Bina Dembélé,273936,250021
+25,Torino,54,Brian Jepthe Bayeye,271480,250021
+26,Torino,54,Vanja Milinković-Savić,224836,250021
+27,Torino,54,Alberto Paleari,235740,250021
+28,Torino,54,Antonio Donnarumma,201179,250021
+0,Sassuolo,111974,Armand Laurienté,243593,250021
+1,Sassuolo,111974,Samuele Mulattieri,243200,250021
+2,Sassuolo,111974,Nicholas Pierini,241628,250021
+3,Sassuolo,111974,Laurs Skjellerup,257324,250021
+4,Sassuolo,111974,Janis Antiste,255839,250021
+5,Sassuolo,111974,Luca Moro,248787,250021
+6,Sassuolo,111974,Flavio Russo,74504,250021
+7,Sassuolo,111974,Domenico Berardi,210935,250021
+8,Sassuolo,111974,Cristian Volpato,265761,250021
+9,Sassuolo,111974,Daniel Boloca,268462,250021
+10,Sassuolo,111974,Andrea Ghion,257164,250021
+11,Sassuolo,111974,Pedro Mba Obiang Avomo,200054,250021
+12,Sassuolo,111974,Edoardo Iannoni,270657,250021
+13,Sassuolo,111974,Luca Lipani,274702,250021
+14,Sassuolo,111974,Kristian Thorstvedt,242725,250021
+15,Sassuolo,111974,Josh Doig,255561,250021
+16,Sassuolo,111974,Edoardo Pieragnolo,276705,250021
+17,Sassuolo,111974,Tarik Muharemovic,262027,250021
+18,Sassuolo,111974,Tijs Velthuis,259443,250021
+19,Sassuolo,111974,Cas Odenthal,262474,250021
+20,Sassuolo,111974,Filippo Romagna,226108,250021
+21,Sassuolo,111974,Matteo Lovato,258946,250021
+22,Sassuolo,111974,Jeremy Toljan,214622,250021
+23,Sassuolo,111974,Yeferson Paz,271006,250021
+24,Sassuolo,111974,Filippo Missori,265762,250021
+25,Sassuolo,111974,Horațiu Moldovan,251136,250021
+26,Sassuolo,111974,Giacomo Satalino,235806,250021
+27,Sassuolo,111974,Andrea Consigli,163489,250021
+28,Sassuolo,111974,Alessandro Russo,253003,250021
+0,Monza,111811,Dany Mota Carvalho,234147,250021
+1,Monza,111811,Andrea Petagna,215689,250021
+2,Monza,111811,Samuele Vignato,265595,250021
+3,Monza,111811,Davide Diaw,236213,250021
+4,Monza,111811,Silvère Ganvoula,235513,250021
+5,Monza,111811,Mirko Marić,258027,250021
+6,Monza,111811,Patrick Ciurria,219812,250021
+7,Monza,111811,Gianluca Caprari,202848,250021
+8,Monza,111811,Kacper Urbański,254819,250021
+9,Monza,111811,Giorgos Kyriakopoulos,253213,250021
+10,Monza,111811,Alessandro Bianco,271477,250021
+11,Monza,111811,Matteo Pessina,239613,250021
+12,Monza,111811,Warren Bondo,257353,250021
+13,Monza,111811,Roberto Gagliardini,212153,250021
+14,Monza,111811,Jean-Daniel Akpa Akpro,205343,250021
+15,Monza,111811,Stefano Sensi,229857,250021
+16,Monza,111811,Mattia Valoti,205089,250021
+17,Monza,111811,Pedro Miguel Lopes Pereira,230824,250021
+18,Monza,111811,Samuele Birindelli,237003,250021
+19,Monza,111811,Omari Forson,268437,250021
+20,Monza,111811,Kevin Martins,75256,250021
+21,Monza,111811,Andrea Carboni,257000,250021
+22,Monza,111811,Pablo Marí Villar,206654,250021
+23,Monza,111811,Luca Caldirola,199776,250021
+24,Monza,111811,Danilo D'Ambrosio,198946,250021
+25,Monza,111811,Arvid Brorsson,238703,250021
+26,Monza,111811,Stefan Leković,278033,250021
+27,Monza,111811,Tomás Palacios,268558,250021
+28,Monza,111811,Armando Izzo,216145,250021
+29,Monza,111811,Stefano Turati,254502,250021
+30,Monza,111811,Semuel Pizzignacco,268875,250021
+31,Monza,111811,Alessio Cragno,205659,250021
+32,Monza,111811,Andrea Mazza,70251,250021
+0,Genoa,110556,Andrea Pinamonti,235842,250021
+1,Genoa,110556,Vítor Manuel Carvalho Oliveira,263829,250021
+2,Genoa,110556,Jeff Ekhator,74485,250021
+3,Genoa,110556,Caleb Ekuban,239795,250021
+4,Genoa,110556,Mario Balotelli,186627,250021
+5,Genoa,110556,Morten Thorsby,222475,250021
+6,Genoa,110556,Ruslan Malinovskyi,231969,250021
+7,Genoa,110556,Patrizio Masini,276485,250021
+8,Genoa,110556,Fabio Miretti,268802,250021
+9,Genoa,110556,Maxwel Cornet,215798,250021
+10,Genoa,110556,Alessandro Zanoli,268656,250021
+11,Genoa,110556,Junior Messias,240938,250021
+12,Genoa,110556,Lorenzo Venturino,76172,250021
+13,Genoa,110556,Morten Frendrup,242633,250021
+14,Genoa,110556,Emil Bohinen,234894,250021
+15,Genoa,110556,Milan Badelj,201144,250021
+16,Genoa,110556,Lior Kasa,74927,250021
+17,Genoa,110556,Jean Onana,255934,250021
+18,Genoa,110556,Aarón Martín Caricol,236295,250021
+19,Genoa,110556,Johan Vásquez,244349,250021
+20,Genoa,110556,Alan Matturro,274082,250021
+21,Genoa,110556,Mattia Bani,224378,250021
+22,Genoa,110556,Koni De Winter,265774,250021
+23,Genoa,110556,Sebastian Otoa,271882,250021
+24,Genoa,110556,Stefano Sabelli,206159,250021
+25,Genoa,110556,Brooke Norton-Cuffy,260653,250021
+26,Genoa,110556,Nicola Leali,201299,250021
+27,Genoa,110556,Benjamin Siegrist,202886,250021
+28,Genoa,110556,Daniele Sommariva,225432,250021
+0,Parma,50,Yoan Bonny,259565,250021
+1,Parma,50,Milan Đurić,192840,250021
+2,Parma,50,Gabriel Charpentier,268464,250021
+3,Parma,50,Mateusz Kowalski,270716,250021
+4,Parma,50,Hernani Azevedo Júnior,225475,250021
+5,Parma,50,Anas Haj Mohamed,278287,250021
+6,Parma,50,Valentin Mihăilă,248060,250021
+7,Parma,50,Matteo Cancellieri,263929,250021
+8,Parma,50,Adrian Benedyczak,243154,250021
+9,Parma,50,Jacob Ondrejka,255460,250021
+10,Parma,50,Dennis Man,239978,250021
+11,Parma,50,Pontus Almqvist,236706,250021
+12,Parma,50,Drissa Camara,264364,250021
+13,Parma,50,Simon Sohm,244634,250021
+14,Parma,50,Adrián Bernabé García,252794,250021
+15,Parma,50,Mandela Keita,261539,250021
+16,Parma,50,Nahuel Estévez,240992,250021
+17,Parma,50,Emanuele Valeri,258714,250021
+18,Parma,50,Gianluca Di Chiara,216799,250021
+19,Parma,50,Mathias Løvik,264294,250021
+20,Parma,50,Alessandro Circati,268913,250021
+21,Parma,50,Lautaro Valenti,246164,250021
+22,Parma,50,Botond Balogh,258708,250021
+23,Parma,50,Alessandro Vogliacco,245566,250021
+24,Parma,50,Yordan Osorio,237297,250021
+25,Parma,50,Giovanni Leoni,70824,250021
+26,Parma,50,Enrico Delprato,252442,250021
+27,Parma,50,Antoine Hainaut,271856,250021
+28,Parma,50,Zion Suzuki,255981,250021
+29,Parma,50,Edoardo Corvi,271385,250021
+30,Parma,50,Richard Marcone,201354,250021
+0,Cagliari,1842,Roberto Piccoli,248385,250021
+1,Cagliari,1842,Kingstone Mutandwa,70049,250021
+2,Cagliari,1842,Leonardo Pavoletti,205850,250021
+3,Cagliari,1842,Nicolas Viola,173160,250021
+4,Cagliari,1842,Gianluca Gaetano,246877,250021
+5,Cagliari,1842,Zito André Sebastião Luvumbo,259011,250021
+6,Cagliari,1842,Mattia Felici,248857,250021
+7,Cagliari,1842,Jakub Jankto,226592,250021
+8,Cagliari,1842,Nadir Zortea,252440,250021
+9,Cagliari,1842,Antoine Makoumbou,270597,250021
+10,Cagliari,1842,Michel Ndary Adopo,254982,250021
+11,Cagliari,1842,Răzvan Marin,235813,250021
+12,Cagliari,1842,Alessandro Deiola,229743,250021
+13,Cagliari,1842,Matteo Prati,272725,250021
+14,Cagliari,1842,Tommaso Augello,240100,250021
+15,Cagliari,1842,Adam Obert,266636,250021
+16,Cagliari,1842,Sebastiano Luperto,220534,250021
+17,Cagliari,1842,José Luis Palomino,217196,250021
+18,Cagliari,1842,Yerry Mina,220523,250021
+19,Cagliari,1842,Gabriele Zappa,252964,250021
+20,Cagliari,1842,Elia Caprile,255303,250021
+21,Cagliari,1842,Alen Sherri,73838,250021
+22,Cagliari,1842,Giuseppe Ciocci,271199,250021
+23,Cagliari,1842,Velizar-Iliya Iliev,277628,250021
+0,Hellas Verona,206,Amin Sarr,256453,250021
+1,Hellas Verona,206,Casper Tengstedt,257920,250021
+2,Hellas Verona,206,Daniel Mosquera,266585,250021
+3,Hellas Verona,206,Dailon Rocha Livramento,73853,250021
+4,Hellas Verona,206,Junior Ajayi,72322,250021
+5,Hellas Verona,206,Juan Manuel Cruz,255453,250021
+6,Hellas Verona,206,Tomáš Suslov,255233,250021
+7,Hellas Verona,206,Grigoris Kastanos,237335,250021
+8,Hellas Verona,206,Alphadjo Cissè,278326,250021
+9,Hellas Verona,206,Ayanda Sishuba,276787,250021
+10,Hellas Verona,206,Darko Lazović,212127,250021
+11,Hellas Verona,206,Domagoj Bradarić,252000,250021
+12,Hellas Verona,206,Ondrej Duda,222148,250021
+13,Hellas Verona,206,Suat Serdar,230065,250021
+14,Hellas Verona,206,Reda Belahyane,275163,250021
+15,Hellas Verona,206,Daniel Filipe Bandeira e Silva,270686,250021
+16,Hellas Verona,206,Cheikh Niasse,248661,250021
+17,Hellas Verona,206,Abdou Harroui,241937,250021
+18,Hellas Verona,206,Jackson Tchatchoua,262937,250021
+19,Hellas Verona,206,Marco Davide Faraoni,195272,250021
+20,Hellas Verona,206,Mathis Lambourde,278230,250021
+21,Hellas Verona,206,Daniele Ghilardi,277695,250021
+22,Hellas Verona,206,Diego Coppola,269181,250021
+23,Hellas Verona,206,Flavius Daniliuc,252017,250021
+24,Hellas Verona,206,Martin Frese,238009,250021
+25,Hellas Verona,206,Christian Corradi,72029,250021
+26,Hellas Verona,206,Daniel Oyegoke,262930,250021
+27,Hellas Verona,206,Yllan Okou,271458,250021
+28,Hellas Verona,206,Paweł Dawidowicz,213404,250021
+29,Hellas Verona,206,Lorenzo Montipò,215363,250021
+30,Hellas Verona,206,Simone Perilli,210940,250021
+31,Hellas Verona,206,Alessandro Berardi,202793,250021
+0,Udinese,55,Lorenzo Lucca,268474,250021
+1,Udinese,55,Keinan Davis,231743,250021
+2,Udinese,55,Florian Thauvin,204970,250021
+3,Udinese,55,Brenner Souza da Silva,240332,250021
+4,Udinese,55,Alexis Sánchez,184941,250021
+5,Udinese,55,Iker Bravo Solanilla,265194,250021
+6,Udinese,55,Damián Pizarro,268396,250021
+7,Udinese,55,Martín Payero,240970,250021
+8,Udinese,55,Simone Pafundi,271575,250021
+9,Udinese,55,Sandi Lovrič,223866,250021
+10,Udinese,55,Jurgen Ekkelenkamp,243249,250021
+11,Udinese,55,Oier Zarraga Egaña,258615,250021
+12,Udinese,55,Arthur Atta,272783,250021
+13,Udinese,55,Jesper Karlström,214658,250021
+14,Udinese,55,Hassane Kamara,220421,250021
+15,Udinese,55,Jordan Zemura,259634,250021
+16,Udinese,55,Oumar Solet,242238,250021
+17,Udinese,55,Jaka Bijol,244238,250021
+18,Udinese,55,Christian Kabasele,190324,250021
+19,Udinese,55,Isaak Touré,258972,250021
+20,Udinese,55,Lautaro Giannetti,215147,250021
+21,Udinese,55,Thomas Thiesson Kristensen,261573,250021
+22,Udinese,55,Kingsley Ehizibue,225669,250021
+23,Udinese,55,Rui Manuel Muati Modesto,274270,250021
+24,Udinese,55,Răzvan Sava,266803,250021
+25,Udinese,55,Daniele Padelli,162297,250021
+26,Udinese,55,Maduka Okoye,257288,250021
+0,Empoli,1746,Sebastiano Esposito,247888,250021
+1,Empoli,1746,Lorenzo Colombo,256899,250021
+2,Empoli,1746,Pietro Pellegri,238873,250021
+3,Empoli,1746,Christian Kouamé,235866,250021
+4,Empoli,1746,Hemsley Akpa-Chukwu,278181,250021
+5,Empoli,1746,Ismael Konate,75083,250021
+6,Empoli,1746,Giuseppe Pezzella,230681,250021
+7,Empoli,1746,Liberato Cacace,242429,250021
+8,Empoli,1746,Youssef Maleh,236838,250021
+9,Empoli,1746,Tino Anjorin,248474,250021
+10,Empoli,1746,Liam Henderson,219952,250021
+11,Empoli,1746,Jacopo Fazzini,266596,250021
+12,Empoli,1746,Nicolas Haas,225117,250021
+13,Empoli,1746,Szymon Żurkowski,239732,250021
+14,Empoli,1746,Emmanuel Gyasi,220491,250021
+15,Empoli,1746,Ola Solbakken,242090,250021
+16,Empoli,1746,Junior Sambia,223570,250021
+17,Empoli,1746,Alberto Grassi,220475,250021
+18,Empoli,1746,Mattia Viti,264044,250021
+19,Empoli,1746,Ardian Ismajli,258782,250021
+20,Empoli,1746,Luca Marianucci,278319,250021
+21,Empoli,1746,Saba Sazonov,278013,250021
+22,Empoli,1746,Saba Goglichidze,70252,250021
+23,Empoli,1746,Mattia De Sciglio,206058,250021
+24,Empoli,1746,Tyronne Ebuehi,224213,250021
+25,Empoli,1746,Devis Vásquez,233189,250021
+26,Empoli,1746,Marco Silvestri,190745,250021
+27,Empoli,1746,Federico Brancolini,257580,250021
+28,Empoli,1746,Jacopo Seghetti,278356,250021
+0,Venezia,205,Joel Pohjanpalo,220165,250021
+1,Venezia,205,Christian Gytkjær,201285,250021
+2,Venezia,205,Gianluca Busio,242332,250021
+3,Venezia,205,John Yeboah,242755,250021
+4,Venezia,205,Gaetano Oristanio,269276,250021
+5,Venezia,205,Saad El Haddad,74664,250021
+6,Venezia,205,Francesco Zampano,219655,250021
+7,Venezia,205,Ridgeciano Haps,210384,250021
+8,Venezia,205,Franco Carboni,270485,250021
+9,Venezia,205,Alessio Zerbin,237669,250021
+10,Venezia,205,Alfred Duncan,208535,250021
+11,Venezia,205,Mikael Egill Ellertsson,264436,250021
+12,Venezia,205,Enrique Pérez Muñoz,236760,250021
+13,Venezia,205,Hans Nicolussi Caviglia,253162,250021
+14,Venezia,205,Issa Doumbia,73379,250021
+15,Venezia,205,Cheick Condé,270512,250021
+16,Venezia,205,Domen Črnigoj,231137,250021
+17,Venezia,205,Antonio Candela,252315,250021
+18,Venezia,205,Bjarki Steinn Bjarkason,258533,250021
+19,Venezia,205,Richie Sagrado,275087,250021
+20,Venezia,205,Marin Šverko,235800,250021
+21,Venezia,205,Michael Svoboda,250779,250021
+22,Venezia,205,Fali Candé,256856,250021
+23,Venezia,205,Alessandro Marcandalli,276477,250021
+24,Venezia,205,Joël Schingtienne,277214,250021
+25,Venezia,205,Jay Idzes,262396,250021
+26,Venezia,205,Jesse Joronen,199904,250021
+27,Venezia,205,Filip Stanković,269271,250021
+28,Venezia,205,Matteo Grandi,230636,250021
+0,Lecce,347,Nikola Krstović,277839,250002
+1,Lecce,347,Ante Rebić,220018,250002
+2,Lecce,347,Rares Burnete,277636,250002
+3,Lecce,347,Santiago Pierotti,253139,250002
+4,Lecce,347,Hamza Rafia,251790,250002
+5,Lecce,347,Nicola Sansone,201858,250002
+6,Lecce,347,Þórir Jóhann Helgason,263657,250002
+7,Lecce,347,Medon Berisha,271198,250002
+8,Lecce,347,Luis Hasa,70163,250002
+9,Lecce,347,Joan González Cañellas,271196,250002
+10,Lecce,347,Filip Marchwiński,246649,250002
+11,Lecce,347,Ed McJannet,263714,250002
+12,Lecce,347,Lameck Banda,271197,250002
+13,Lecce,347,José Antonio Morente Oliva,239671,250002
+14,Lecce,347,Rémi Oudin,233265,250002
+15,Lecce,347,Henri Salomaa,279815,250002
+16,Lecce,347,Balthazar Pierret,266501,250002
+17,Lecce,347,Ylber Ramadani,243787,250002
+18,Lecce,347,Mohamed Kaba,263469,250002
+19,Lecce,347,Lassana Coulibaly,230107,250002
+20,Lecce,347,Antonino Gallo,244717,250002
+21,Lecce,347,Patrick Dorgu,277432,250002
+22,Lecce,347,Kialonda Gaspar,275783,250002
+23,Lecce,347,Gaby Jean,270888,250002
+24,Lecce,347,Federico Baschirotto,268573,250002
+25,Lecce,347,Andy Pelmard,247412,250002
+26,Lecce,347,Kevin Bonifazi,235290,250002
+27,Lecce,347,Frédéric Guilbert,227222,250002
+28,Lecce,347,Wladimiro Falcone,210676,250002
+29,Lecce,347,Christian Früchtl,235266,250002
+30,Lecce,347,Alexandru Borbei,277734,250002
+31,Lecce,347,Jasper Samooja,278623,250002
+0,Lecce,347,José Antonio Morente Oliva,239671,250021
+1,Lecce,347,Jesper Karlsson,231836,250021
+2,Lecce,347,Ante Rebić,220018,250021
+3,Lecce,347,Lameck Banda,271197,250021
+4,Lecce,347,Nikola Krstović,277839,250021
+5,Lecce,347,Konan N'Dri,247668,250021
+6,Lecce,347,Filip Marchwiński,246649,250021
+7,Lecce,347,Nicola Sansone,201858,250021
+8,Lecce,347,Rares Burnete,277636,250021
+9,Lecce,347,Joel Voelkerling Persson,271494,250021
+10,Lecce,347,Santiago Pierotti,253139,250021
+11,Lecce,347,Balthazar Pierret,266501,250021
+12,Lecce,347,Lassana Coulibaly,230107,250021
+13,Lecce,347,Ylber Ramadani,243787,250021
+14,Lecce,347,Þórir Jóhann Helgason,263657,250021
+15,Lecce,347,Mohamed Kaba,263469,250021
+16,Lecce,347,Medon Berisha,271198,250021
+17,Lecce,347,Joan González Cañellas,271196,250021
+18,Lecce,347,Hamza Rafia,251790,250021
+19,Lecce,347,Antonino Gallo,244717,250021
+20,Lecce,347,Gaby Jean,270888,250021
+21,Lecce,347,Federico Baschirotto,268573,250021
+22,Lecce,347,Kialonda Gaspar,275783,250021
+23,Lecce,347,Tiago Gabriel Coelho Oliveira,70555,250021
+24,Lecce,347,Kevin Bonifazi,235290,250021
+25,Lecce,347,Frédéric Guilbert,227222,250021
+26,Lecce,347,Danilo Filipe Melo Veiga,271539,250021
+27,Lecce,347,Wladimiro Falcone,210676,250021
+28,Lecce,347,Christian Früchtl,235266,250021
+29,Lecce,347,Alexandru Borbei,277734,250021
+30,Lecce,347,Jasper Samooja,278623,250021
+0,Inter,44,Lautaro Martínez,231478,240002
+1,Inter,44,Marcus Thuram,228093,240002
+2,Inter,44,Marko Arnautović,184200,240002
+3,Inter,44,Alexis Sánchez,184941,240002
+4,Inter,44,Federico Dimarco,226268,240002
+5,Inter,44,Carlos Augusto Zopolato Neves,258648,240002
+6,Inter,44,Henrikh Mkhitaryan,192883,240002
+7,Inter,44,Nicolò Barella,224232,240002
+8,Inter,44,Davide Frattesi,239807,240002
+9,Inter,44,Davy Klaassen,203483,240002
+10,Inter,44,Kristjan Asllani,264699,240002
+11,Inter,44,Stefano Sensi,229857,240002
+12,Inter,44,Denzel Dumfries,233096,240002
+13,Inter,44,Juan Cuadrado,193082,240002
+14,Inter,44,Hakan Çalhanoğlu,208128,240002
+15,Inter,44,Lucien Agoumé,246683,240002
+16,Inter,44,Alessandro Bastoni,237383,240002
+17,Inter,44,Stefan de Vrij,198176,240002
+18,Inter,44,Benjamin Pavard,226851,240002
+19,Inter,44,Yann Aurel Bisseck,241736,240002
+20,Inter,44,Francesco Acerbi,199845,240002
+21,Inter,44,Matteo Darmian,184392,240002
+22,Inter,44,Yann Sommer,177683,240002
+23,Inter,44,Emil Audero,228413,240002
+24,Inter,44,Raffaele Di Gennaro,219715,240002
+0,Napoli,48,Khvicha Kvaratskhelia,247635,240002
+1,Napoli,48,Alessio Zerbin,237669,240002
+2,Napoli,48,Victor Osimhen,232293,240002
+3,Napoli,48,Giacomo Raspadori,253002,240002
+4,Napoli,48,Giovanni Simeone,216816,240002
+5,Napoli,48,Matteo Politano,216409,240002
+6,Napoli,48,Piotr Zieliński,210406,240002
+7,Napoli,48,André-Franck Zambo Anguissa,227236,240002
+8,Napoli,48,Eljif Elmas,241390,240002
+9,Napoli,48,Jesper Lindstrøm,245741,240002
+10,Napoli,48,Gianluca Gaetano,246877,240002
+11,Napoli,48,Stanislav Lobotka,216435,240002
+12,Napoli,48,Diego Demme,202325,240002
+13,Napoli,48,Jens-Lys Cajuste,244472,240002
+14,Napoli,48,Mathías Olivera,240716,240002
+15,Napoli,48,Mário Rui Silva Duarte,204614,240002
+16,Napoli,48,Karim Zedadka,264392,240002
+17,Napoli,48,Juan Guilherme Nunes Jesus,200752,240002
+18,Napoli,48,Bernardo de Souza,277537,240002
+19,Napoli,48,Amir Rrahmani,244263,240002
+20,Napoli,48,Leo Østigård,238516,240002
+21,Napoli,48,Giovanni Di Lorenzo,217870,240002
+22,Napoli,48,Alessandro Zanoli,268656,240002
+23,Napoli,48,Alex Meret,225116,240002
+24,Napoli,48,Pierluigi Gollini,211515,240002
+25,Napoli,48,Hubert Idasiak,271957,240002
+26,Napoli,48,Nikita Contini,220532,240002
+0,AC Milan,47,Rafael da Conceição Leão,241721,240002
+1,AC Milan,47,Chaka Traorè,277013,240002
+2,AC Milan,47,Olivier Giroud,178509,240002
+3,AC Milan,47,Luka Jović,232432,240002
+4,AC Milan,47,Noah Okafor,242530,240002
+5,AC Milan,47,Christian Pulisic,227796,240002
+6,AC Milan,47,Samuel Chukwueze,246172,240002
+7,AC Milan,47,Luka Romero,258467,240002
+8,AC Milan,47,Ruben Loftus-Cheek,213666,240002
+9,AC Milan,47,Tommaso Pobega,252060,240002
+10,AC Milan,47,Tijjani Reijnders,240638,240002
+11,AC Milan,47,Yunus Musah,253177,240002
+12,AC Milan,47,Yacine Adli,243627,240002
+13,AC Milan,47,Rade Krunić,229758,240002
+14,AC Milan,47,Ismaël Bennacer,226754,240002
+15,AC Milan,47,Theo Hernández,232656,240002
+16,AC Milan,47,Fikayo Tomori,232756,240002
+17,AC Milan,47,Simon Kjær,179645,240002
+18,AC Milan,47,Pierre Kalulu,255654,240002
+19,AC Milan,47,Malick Thiaw,256261,240002
+20,AC Milan,47,Mattia Caldara,220477,240002
+21,AC Milan,47,Marco Pellegrino,274947,240002
+22,AC Milan,47,Davide Calabria,228881,240002
+23,AC Milan,47,Alessandro Florenzi,203551,240002
+24,AC Milan,47,Mike Maignan,215698,240002
+25,AC Milan,47,Marco Sportiello,216065,240002
+26,AC Milan,47,Antonio Mirante,140293,240002
+0,Juventus,45,Federico Chiesa,235805,240002
+1,Juventus,45,Arkadiusz Milik,205175,240002
+2,Juventus,45,Dušan Vlahović,246430,240002
+3,Juventus,45,Moise Kean,236610,240002
+4,Juventus,45,Filip Kostić,208574,240002
+5,Juventus,45,Andrea Cambiaso,258966,240002
+6,Juventus,45,Kenan Yıldız,277954,240002
+7,Juventus,45,Samuel Iling-Junior,272379,240002
+8,Juventus,45,Adrien Rabiot,210008,240002
+9,Juventus,45,Nicolò Fagioli,260823,240002
+10,Juventus,45,Weston McKennie,238744,240002
+11,Juventus,45,Fabio Miretti,268802,240002
+12,Juventus,45,Hans Nicolussi Caviglia,253162,240002
+13,Juventus,45,Timothy Weah,241496,240002
+14,Juventus,45,Mattia De Sciglio,206058,240002
+15,Juventus,45,Manuel Locatelli,222077,240002
+16,Juventus,45,Danilo Luiz da Silva,199304,240002
+17,Juventus,45,Gleison Bremer Silva Nascimento,239580,240002
+18,Juventus,45,Alex Sandro Lobo Silva,191043,240002
+19,Juventus,45,Daniele Rugani,211320,240002
+20,Juventus,45,Federico Gatti,266872,240002
+21,Juventus,45,Wojciech Szczęsny,186153,240002
+22,Juventus,45,Mattia Perin,198009,240002
+23,Juventus,45,Carlo Pinsoglio,189342,240002
+24,Juventus,45,Giovanni Garofani,271583,240002
+0,Roma,52,Andrea Belotti,208596,240002
+1,Roma,52,Romelu Lukaku,192505,240002
+2,Roma,52,Julen Jon Guerrero Landabaso,264845,240002
+3,Roma,52,Paulo Dybala,211110,240002
+4,Roma,52,Filippo Alessio,277862,240002
+5,Roma,52,Sardar Azmoun,213955,240002
+6,Roma,52,Tammy Abraham,231352,240002
+7,Roma,52,Leonardo Spinazzola,202884,240002
+8,Roma,52,Stephan El Shaarawy,190813,240002
+9,Roma,52,Houssem Aouar,234906,240002
+10,Roma,52,Bryan Cristante,208268,240002
+11,Roma,52,Lorenzo Pellegrini,228251,240002
+12,Roma,52,Edoardo Bove,262171,240002
+13,Roma,52,Renato Júnior Luz Sanches,230767,240002
+14,Roma,52,Riccardo Pagano,276951,240002
+15,Roma,52,Niccolò Pisilli,275291,240002
+16,Roma,52,Rasmus Kristensen,233301,240002
+17,Roma,52,Nicola Zalewski,262113,240002
+18,Roma,52,Zeki Çelik,224490,240002
+19,Roma,52,Rick Karsdorp,222558,240002
+20,Roma,52,Leandro Paredes,207439,240002
+21,Roma,52,Diego Javier Llorente Ríos,212602,240002
+22,Roma,52,Chris Smalling,189881,240002
+23,Roma,52,Evan Ndicka,236403,240002
+24,Roma,52,Marash Kumbulla,245426,240002
+25,Roma,52,Gianluca Mancini,229582,240002
+26,Roma,52,Rui Pedro dos Santos Patrício,178005,240002
+27,Roma,52,Mile Svilar,230872,240002
+28,Roma,52,Pietro Boer,259973,240002
+0,Atalanta,39,Ademola Lookman,230899,240002
+1,Atalanta,39,Gianluca Scamacca,226710,240002
+2,Atalanta,39,Luis Muriel,199110,240002
+3,Atalanta,39,El Bilal Touré,255529,240002
+4,Atalanta,39,Teun Koopmeiners,240679,240002
+5,Atalanta,39,Mario Pašalić,223273,240002
+6,Atalanta,39,Charles De Ketelaere,251470,240002
+7,Atalanta,39,Alexey Miranchuk,214092,240002
+8,Atalanta,39,Matteo Ruggeri,259584,240002
+9,Atalanta,39,Mitchel Bakker,239368,240002
+10,Atalanta,39,Éderson José dos Santos,266866,240002
+11,Atalanta,39,Marten de Roon,208461,240002
+12,Atalanta,39,Michel Ndary Adopo,254982,240002
+13,Atalanta,39,Davide Zappacosta,216150,240002
+14,Atalanta,39,Emil Holm,246656,240002
+15,Atalanta,39,Nadir Zortea,252440,240002
+16,Atalanta,39,Hans Hateboer,220093,240002
+17,Atalanta,39,Sead Kolašinac,207993,240002
+18,Atalanta,39,Berat Djimsiti,208165,240002
+19,Atalanta,39,Rafael Tolói,187598,240002
+20,Atalanta,39,José Luis Palomino,217196,240002
+21,Atalanta,39,Giorgio Scalvini,265188,240002
+22,Atalanta,39,Juan Musso,214979,240002
+23,Atalanta,39,Marco Carnesecchi,252154,240002
+24,Atalanta,39,Francesco Rossi,194894,240002
+0,Lazio,46,Mattia Zaccagni,220502,240002
+1,Lazio,46,Diego Luis Gonzalez Alcaraz,273934,240002
+2,Lazio,46,Ciro Immobile,192387,240002
+3,Lazio,46,Valentin Castellanos,237712,240002
+4,Lazio,46,Alessandro Rossi,233809,240002
+5,Lazio,46,André Anderson Pomilio Lima,245639,240002
+6,Lazio,46,Felipe Anderson Pereira Gomes,201995,240002
+7,Lazio,46,Pedro Rodríguez Ledesma,189505,240002
+8,Lazio,46,Gustav Isaksen,248729,240002
+9,Lazio,46,Luis Alberto Romero Alconchel,198706,240002
+10,Lazio,46,Toma Bašić,245275,240002
+11,Lazio,46,Daichi Kamada,232730,240002
+12,Lazio,46,Matías Vecino,219985,240002
+13,Lazio,46,Nicolò Rovella,255001,240002
+14,Lazio,46,Mattéo Guendouzi,236496,240002
+15,Lazio,46,Danilo Cataldi,211361,240002
+16,Lazio,46,Adam Marušić,224031,240002
+17,Lazio,46,Elseid Hysaj,210864,240002
+18,Lazio,46,Luca Pellegrini,243237,240002
+19,Lazio,46,Alessio Romagnoli,210413,240002
+20,Lazio,46,Nicolò Casale,239770,240002
+21,Lazio,46,Patricio Gabarrón Gil,206098,240002
+22,Lazio,46,Mario Gila Fuentes,268804,240002
+23,Lazio,46,Manuel Lazzari,235374,240002
+24,Lazio,46,Ivan Provedel,224987,240002
+25,Lazio,46,Luigi Sepe,191011,240002
+26,Lazio,46,Christos Mandas,278032,240002
+0,Fiorentina,110374,Josip Brekalo,234711,240002
+1,Fiorentina,110374,Riccardo Sottil,246431,240002
+2,Fiorentina,110374,M'Bala Nzola,240452,240002
+3,Fiorentina,110374,Lucas Beltrán,246258,240002
+4,Fiorentina,110374,Christian Kouamé,235866,240002
+5,Fiorentina,110374,Nicolás González,240690,240002
+6,Fiorentina,110374,Jonathan Ikoné,234612,240002
+7,Fiorentina,110374,Gino Infantino,258104,240002
+8,Fiorentina,110374,Giacomo Bonaventura,189125,240002
+9,Fiorentina,110374,Rolando Mandragora,225439,240002
+10,Fiorentina,110374,Antonín Barák,236791,240002
+11,Fiorentina,110374,Alfred Duncan,208535,240002
+12,Fiorentina,110374,Arthur Henrique Ramos Oliveira Melo,230658,240002
+13,Fiorentina,110374,Maxime Lopez,224030,240002
+14,Fiorentina,110374,Gaetano Castrovilli,225014,240002
+15,Fiorentina,110374,Lorenzo Amatucci,278096,240002
+16,Fiorentina,110374,Cristiano Biraghi,201389,240002
+17,Fiorentina,110374,Fabiano Parisi,258976,240002
+18,Fiorentina,110374,Lucas Martínez Quarta,228708,240002
+19,Fiorentina,110374,Luca Ranieri,240777,240002
+20,Fiorentina,110374,Christian Dalle Mura,257786,240002
+21,Fiorentina,110374,Nikola Milenković,238095,240002
+22,Fiorentina,110374,Yerry Mina,220523,240002
+23,Fiorentina,110374,Domilson Cordeiro dos Santos,234112,240002
+24,Fiorentina,110374,Michael Kayode,277869,240002
+25,Fiorentina,110374,Pietro Terracciano,205812,240002
+26,Fiorentina,110374,Oliver Christensen,236758,240002
+0,Bologna,189,Joshua Zirkzee,250961,240002
+1,Bologna,189,Sydney van Hooijdonk,244601,240002
+2,Bologna,189,Lewis Ferguson,242280,240002
+3,Bologna,189,Giovanni Fabbian,271019,240002
+4,Bologna,189,Kacper Urbański,254819,240002
+5,Bologna,189,Jesper Karlsson,231836,240002
+6,Bologna,189,Riccardo Orsolini,233556,240002
+7,Bologna,189,Alexis Saelemaekers,242664,240002
+8,Bologna,189,Michel Aebischer,236898,240002
+9,Bologna,189,Dan Ndoye,257980,240002
+10,Bologna,189,Nikola Moro,244270,240002
+11,Bologna,189,Remo Freuler,202024,240002
+12,Bologna,189,Oussama El Azzouzi,269745,240002
+13,Bologna,189,Victor Kristiansen,259762,240002
+14,Bologna,189,Riccardo Calafiori,257711,240002
+15,Bologna,189,Tommaso Corazza,277704,240002
+16,Bologna,189,Charalampos Lykogiannis,210381,240002
+17,Bologna,189,Jhon Lucumí,231207,240002
+18,Bologna,189,Sam Beukema,262394,240002
+19,Bologna,189,Kevin Bonifazi,235290,240002
+20,Bologna,189,Adama Soumaoro,200353,240002
+21,Bologna,189,Wisdom Amey,269183,240002
+22,Bologna,189,Stefan Posch,223671,240002
+23,Bologna,189,Lorenzo De Silvestri,170320,240002
+24,Bologna,189,Łukasz Skorupski,189908,240002
+25,Bologna,189,Federico Ravaglia,240657,240002
+26,Bologna,189,Nicola Bagnolini,271420,240002
+0,Torino,54,Duván Zapata,215333,240002
+1,Torino,54,Pietro Pellegri,238873,240002
+2,Torino,54,Demba Seck,266877,240002
+3,Torino,54,Antonio Sanabria,219932,240002
+4,Torino,54,Nikola Vlašić,241095,240002
+5,Torino,54,Yann Karamoh,231826,240002
+6,Torino,54,Nemanja Radonjić,243656,240002
+7,Torino,54,Mërgim Vojvoda,228349,240002
+8,Torino,54,Sebastian Wade,271481,240002
+9,Torino,54,Ivan Ilić,258683,240002
+10,Torino,54,Gvidas Gineitis,273932,240002
+11,Torino,54,Samuele Ricci,253473,240002
+12,Torino,54,Karol Linetty,211408,240002
+13,Torino,54,Adrien Tameze,213242,240002
+14,Torino,54,Raoul Bellanova,247229,240002
+15,Torino,54,Brandon Soppy,258407,240002
+16,Torino,54,Valentino Lazaro,211147,240002
+17,Torino,54,Ricardo Rodríguez,193352,240002
+18,Torino,54,Alessandro Buongiorno,243241,240002
+19,Torino,54,Koffi Djidji,203884,240002
+20,Torino,54,David Zima,255687,240002
+21,Torino,54,Saba Sazonov,278013,240002
+22,Torino,54,Ange Caumenan N'Guessan,273928,240002
+23,Torino,54,Perr Schuurs,241854,240002
+24,Torino,54,Vanja Milinković-Savić,224836,240002
+25,Torino,54,Mihai Popa,253688,240002
+26,Torino,54,Luca Gemello,266333,240002
+27,Torino,54,Matteo Fiorenza,272392,240002
+0,Lecce,347,Nicola Sansone,201858,240002
+1,Lecce,347,Rémi Oudin,233265,240002
+2,Lecce,347,Lameck Banda,271197,240002
+3,Lecce,347,Marcin Listkowski,228751,240002
+4,Lecce,347,Nikola Krstović,277839,240002
+5,Lecce,347,Roberto Piccoli,248385,240002
+6,Lecce,347,Pontus Almqvist,236706,240002
+7,Lecce,347,Rares Burnete,277636,240002
+8,Lecce,347,Gabriel Tadeu Strefezza Rebelato,235949,240002
+9,Lecce,347,Jeppe Corfitzen,270976,240002
+10,Lecce,347,Baylin Johnson,277918,240002
+11,Lecce,347,Joan González Cañellas,271196,240002
+12,Lecce,347,Ylber Ramadani,243787,240002
+13,Lecce,347,Alexis Blin,222982,240002
+14,Lecce,347,Mohamed Kaba,263469,240002
+15,Lecce,347,Medon Berisha,271198,240002
+16,Lecce,347,Giacomo Faticanti,272450,240002
+17,Lecce,347,Daniel Samek,264335,240002
+18,Lecce,347,Ed McJannet,263714,240002
+19,Lecce,347,Hamza Rafia,251790,240002
+20,Lecce,347,Antonino Gallo,244717,240002
+21,Lecce,347,Patrick Dorgu,277432,240002
+22,Lecce,347,Marin Pongračić,238370,240002
+23,Lecce,347,Ahmed Touba,236535,240002
+24,Lecce,347,Kastriot Dermaku,230143,240002
+25,Lecce,347,Federico Baschirotto,268573,240002
+26,Lecce,347,Zinedin Smajlović,276899,240002
+27,Lecce,347,Valentin Gendrey,245863,240002
+28,Lecce,347,Lorenzo Venuti,220509,240002
+29,Lecce,347,Wladimiro Falcone,210676,240002
+30,Lecce,347,Alexandru Borbei,277734,240002
+31,Lecce,347,Federico Brancolini,257580,240002
+0,Monza,111811,Dany Mota Carvalho,234147,240002
+1,Monza,111811,Lorenzo Colombo,256899,240002
+2,Monza,111811,Mirko Marić,258027,240002
+3,Monza,111811,Valentín Carboni,272602,240002
+4,Monza,111811,Gianluca Caprari,202848,240002
+5,Monza,111811,Andrea Colpani,251988,240002
+6,Monza,111811,Samuele Vignato,265595,240002
+7,Monza,111811,Giorgos Kyriakopoulos,253213,240002
+8,Monza,111811,Franco Carboni,270485,240002
+9,Monza,111811,Matteo Pessina,239613,240002
+10,Monza,111811,Roberto Gagliardini,212153,240002
+11,Monza,111811,Jean-Daniel Akpa Akpro,205343,240002
+12,Monza,111811,José Ndong Machín Dicombo,230817,240002
+13,Monza,111811,Warren Bondo,257353,240002
+14,Monza,111811,Patrick Ciurria,219812,240002
+15,Monza,111811,Samuele Birindelli,237003,240002
+16,Monza,111811,Pedro Miguel Lopes Pereira,230824,240002
+17,Monza,111811,Luca Caldirola,199776,240002
+18,Monza,111811,Pablo Marí Villar,206654,240002
+19,Monza,111811,Danilo D'Ambrosio,198946,240002
+20,Monza,111811,Giorgio Cittadini,266304,240002
+21,Monza,111811,Andrea Carboni,257000,240002
+22,Monza,111811,Davide Bettella,248171,240002
+23,Monza,111811,Armando Izzo,216145,240002
+24,Monza,111811,Michele Di Gregorio,235840,240002
+25,Monza,111811,Stefano Gori,225610,240002
+26,Monza,111811,Alessandro Sorrentino,271146,240002
+27,Monza,111811,Eugenio Lamanna,190769,240002
+0,Genoa,110556,Mateo Retegui,241850,240002
+1,Genoa,110556,George Pușcaș,225652,240002
+2,Genoa,110556,Caleb Ekuban,239795,240002
+3,Genoa,110556,Albert Guðmundsson,238004,240002
+4,Genoa,110556,Ruslan Malinovskyi,231969,240002
+5,Genoa,110556,Morten Frendrup,242633,240002
+6,Genoa,110556,Milan Badelj,201144,240002
+7,Genoa,110556,Morten Thorsby,222475,240002
+8,Genoa,110556,Pablo Galdames,219127,240002
+9,Genoa,110556,Filip Jagiełło,220912,240002
+10,Genoa,110556,Berkan Kutlu,259675,240002
+11,Genoa,110556,Léandre Kuavita,272776,240002
+12,Genoa,110556,Kevin Strootman,189712,240002
+13,Genoa,110556,Junior Messias,240938,240002
+14,Genoa,110556,Johan Vásquez,244349,240002
+15,Genoa,110556,Ridgeciano Haps,210384,240002
+16,Genoa,110556,Aarón Martín Caricol,236295,240002
+17,Genoa,110556,Radu Drăgușin,260105,240002
+18,Genoa,110556,Alan Matturro,274082,240002
+19,Genoa,110556,Mattia Bani,224378,240002
+20,Genoa,110556,Alessandro Vogliacco,245566,240002
+21,Genoa,110556,Koni De Winter,265774,240002
+22,Genoa,110556,Stefan Ilsanker,194665,240002
+23,Genoa,110556,Stefano Sabelli,206159,240002
+24,Genoa,110556,Silvan Hefti,231108,240002
+25,Genoa,110556,Josep Martínez Riera,243311,240002
+26,Genoa,110556,Nicola Leali,201299,240002
+27,Genoa,110556,Daniele Sommariva,225432,240002
+0,Cagliari,1842,Zito André Sebastião Luvumbo,259011,240002
+1,Cagliari,1842,Gaetano Oristanio,269276,240002
+2,Cagliari,1842,Gastón Pereiro,229636,240002
+3,Cagliari,1842,Gianluca Lapadula,211302,240002
+4,Cagliari,1842,Andrea Petagna,215689,240002
+5,Cagliari,1842,Leonardo Pavoletti,205850,240002
+6,Cagliari,1842,Eldor Shomurodov,239964,240002
+7,Cagliari,1842,Marco Mancosu,172786,240002
+8,Cagliari,1842,Jakub Jankto,226592,240002
+9,Cagliari,1842,Jacopo Desogus,270884,240002
+10,Cagliari,1842,Nahitan Nández,230965,240002
+11,Cagliari,1842,Ibrahim Sulemana,271577,240002
+12,Cagliari,1842,Nicolas Viola,173160,240002
+13,Cagliari,1842,Antoine Makoumbou,270597,240002
+14,Cagliari,1842,Alessandro Deiola,229743,240002
+15,Cagliari,1842,Matteo Prati,272725,240002
+16,Cagliari,1842,Marko Rog,236311,240002
+17,Cagliari,1842,Tommaso Augello,240100,240002
+18,Cagliari,1842,Paulo Daniel Azzi Dentello,222388,240002
+19,Cagliari,1842,Mateusz Wieteska,224302,240002
+20,Cagliari,1842,Adam Obert,266636,240002
+21,Cagliari,1842,Alberto Dossena,237586,240002
+22,Cagliari,1842,Pantelis Hatzidiakos,229150,240002
+23,Cagliari,1842,Edoardo Goldaniga,223524,240002
+24,Cagliari,1842,Elio Capradossi,215376,240002
+25,Cagliari,1842,Gabriele Zappa,252964,240002
+26,Cagliari,1842,Alessandro Di Pardo,261243,240002
+27,Cagliari,1842,Boris Radunović,231073,240002
+28,Cagliari,1842,Simone Scuffet,220048,240002
+29,Cagliari,1842,Simone Aresti,171490,240002
+0,Hellas Verona,206,Milan Đurić,192840,240002
+1,Hellas Verona,206,Juan Manuel Cruz,255453,240002
+2,Hellas Verona,206,Thomas Henry,231835,240002
+3,Hellas Verona,206,Michael Folorunsho,268683,240002
+4,Hellas Verona,206,Federico Bonazzoli,223137,240002
+5,Hellas Verona,206,Tomáš Suslov,255233,240002
+6,Hellas Verona,206,Yayah Kallon,262333,240002
+7,Hellas Verona,206,Cyril Ngonge,246457,240002
+8,Hellas Verona,206,Jayden Braaf,259679,240002
+9,Hellas Verona,206,Josh Doig,255561,240002
+10,Hellas Verona,206,Riccardo Saponara,201046,240002
+11,Hellas Verona,206,Darko Lazović,212127,240002
+12,Hellas Verona,206,Martin Hongla,236556,240002
+13,Hellas Verona,206,Ajdin Hrustić,237647,240002
+14,Hellas Verona,206,Ondrej Duda,222148,240002
+15,Hellas Verona,206,Suat Serdar,230065,240002
+16,Hellas Verona,206,Filippo Terracciano,271579,240002
+17,Hellas Verona,206,Marco Davide Faraoni,195272,240002
+18,Hellas Verona,206,Jordi Mboula Queralt,239441,240002
+19,Hellas Verona,206,Jackson Tchatchoua,262937,240002
+20,Hellas Verona,206,Giangiacomo Magnani,242392,240002
+21,Hellas Verona,206,Isak Hien,260697,240002
+22,Hellas Verona,206,Diego Coppola,269181,240002
+23,Hellas Verona,206,Juan David Cabal,251870,240002
+24,Hellas Verona,206,Koray Günter,204451,240002
+25,Hellas Verona,206,Bruno Amione,268679,240002
+26,Hellas Verona,206,Paweł Dawidowicz,213404,240002
+27,Hellas Verona,206,Lorenzo Montipò,215363,240002
+28,Hellas Verona,206,Simone Perilli,210940,240002
+29,Hellas Verona,206,Alessandro Berardi,202793,240002
+30,Hellas Verona,206,Mattia Chiesa,271578,240002
+0,Udinese,55,Gerard Deulofeu Lázaro,202477,240002
+1,Udinese,55,Keinan Davis,231743,240002
+2,Udinese,55,Vivaldo Semedo,273918,240002
+3,Udinese,55,Lorenzo Lucca,268474,240002
+4,Udinese,55,Brenner Souza da Silva,240332,240002
+5,Udinese,55,Isaac Success,222634,240002
+6,Udinese,55,Hassane Kamara,220421,240002
+7,Udinese,55,Jordan Zemura,259634,240002
+8,Udinese,55,Marley Aké,251341,240002
+9,Udinese,55,Domingos Quina,235450,240002
+10,Udinese,55,Sandi Lovrič,223866,240002
+11,Udinese,55,Lazar Samardžić,256115,240002
+12,Udinese,55,Oier Zarraga Egaña,258615,240002
+13,Udinese,55,Roberto Pereyra,193061,240002
+14,Udinese,55,Martín Payero,240970,240002
+15,Udinese,55,Festy Ebosele,263571,240002
+16,Udinese,55,Florian Thauvin,204970,240002
+17,Udinese,55,Kingsley Ehizibue,225669,240002
+18,Udinese,55,Simone Pafundi,271575,240002
+19,Udinese,55,João Diogo Fonseca Ferreira,252577,240002
+20,Udinese,55,Walace Souza Silva,222844,240002
+21,Udinese,55,Etienne Camara,270636,240002
+22,Udinese,55,Adam Masina,225410,240002
+23,Udinese,55,Jaka Bijol,244238,240002
+24,Udinese,55,Christian Kabasele,190324,240002
+25,Udinese,55,Enzo Ebosse,241007,240002
+26,Udinese,55,Axel Guessand,264408,240002
+27,Udinese,55,Thomas Thiesson Kristensen,261573,240002
+28,Udinese,55,Antonio Tikvic,264856,240002
+29,Udinese,55,Nehuén Pérez,244206,240002
+30,Udinese,55,Marco Silvestri,190745,240002
+31,Udinese,55,Daniele Padelli,162297,240002
+32,Udinese,55,Maduka Okoye,257288,240002
+0,Empoli,1746,Francesco Caputo,189053,240002
+1,Empoli,1746,Nicolò Cambiaghi,268703,240002
+2,Empoli,1746,Mattia Destro,193338,240002
+3,Empoli,1746,Stiven Shpendi,277515,240002
+4,Empoli,1746,Giacomo Corona,276754,240002
+5,Empoli,1746,Tommaso Baldanzi,269312,240002
+6,Empoli,1746,Youssef Maleh,236838,240002
+7,Empoli,1746,Jacopo Fazzini,266596,240002
+8,Empoli,1746,Viktor Kovalenko,228698,240002
+9,Empoli,1746,Daniel Maldini,255611,240002
+10,Empoli,1746,Emmanuel Gyasi,220491,240002
+11,Empoli,1746,Simone Bastoni,225189,240002
+12,Empoli,1746,Matteo Cancellieri,263929,240002
+13,Empoli,1746,Răzvan Marin,235813,240002
+14,Empoli,1746,Alberto Grassi,220475,240002
+15,Empoli,1746,Filippo Ranocchia,244874,240002
+16,Empoli,1746,Iwo Kaczmarski,257299,240002
+17,Empoli,1746,Luca Belardinelli,270507,240002
+18,Empoli,1746,Liberato Cacace,242429,240002
+19,Empoli,1746,Giuseppe Pezzella,230681,240002
+20,Empoli,1746,Sebastiano Luperto,220534,240002
+21,Empoli,1746,Ardian Ismajli,258782,240002
+22,Empoli,1746,Sebastian Walukiewicz,243497,240002
+23,Empoli,1746,Gabriele Guarino,271921,240002
+24,Empoli,1746,Lorenzo Tonelli,201049,240002
+25,Empoli,1746,Tyronne Ebuehi,224213,240002
+26,Empoli,1746,Bartosz Bereszyński,199763,240002
+27,Empoli,1746,Etrit Berisha,189296,240002
+28,Empoli,1746,Samuele Perisan,230858,240002
+29,Empoli,1746,Elia Caprile,255303,240002
+30,Empoli,1746,Lovro Štubljar,275327,240002
+0,Salernitana,110373,Erik Botheim,239125,240002
+1,Salernitana,110373,Chukwubuikem Ikwuemesi,277832,240002
+2,Salernitana,110373,Boulaye Dia,246242,240002
+3,Salernitana,110373,Trivante Stewart,277822,240002
+4,Salernitana,110373,Simeon Tochukwu Nwankwo,219496,240002
+5,Salernitana,110373,Grigoris Kastanos,237335,240002
+6,Salernitana,110373,Antonio Candreva,173221,240002
+7,Salernitana,110373,Domagoj Bradarić,252000,240002
+8,Salernitana,110373,Jovane Eduardo Borges Cabral,244193,240002
+9,Salernitana,110373,Emil Bohinen,234894,240002
+10,Salernitana,110373,Agustín Martegani,262083,240002
+11,Salernitana,110373,Lassana Coulibaly,230107,240002
+12,Salernitana,110373,Mateusz Łęgowski,263317,240002
+13,Salernitana,110373,Giulio Maggiore,236368,240002
+14,Salernitana,110373,Pasquale Mazzocchi,239679,240002
+15,Salernitana,110373,Junior Sambia,223570,240002
+16,Salernitana,110373,Loum Tchaouna,264880,240002
+17,Salernitana,110373,Lorenzo Pirola,257368,240002
+18,Salernitana,110373,Norbert Gyömbér,220061,240002
+19,Salernitana,110373,Federico Fazio,179847,240002
+20,Salernitana,110373,Dylan Bronn,235565,240002
+21,Salernitana,110373,Flavius Daniliuc,252017,240002
+22,Salernitana,110373,Matteo Lovato,258946,240002
+23,Salernitana,110373,Guillermo Ochoa,140233,240002
+24,Salernitana,110373,Benoît Costil,158121,240002
+25,Salernitana,110373,Vincenzo Fiorillo,185172,240002
+0,Frosinone,111657,Giuseppe Caso,258788,240002
+1,Frosinone,111657,Giorgi Kvernadze,276422,240002
+2,Frosinone,111657,Soufiane Bidaoui,192365,240002
+3,Frosinone,111657,Arijon Ibrahimović,266236,240002
+4,Frosinone,111657,Walid Cheddira,268511,240002
+5,Frosinone,111657,Kaio Jorge Pinto Ramos,260644,240002
+6,Frosinone,111657,Marvin Çuni,264467,240002
+7,Frosinone,111657,Jaime Baez,231050,240002
+8,Frosinone,111657,Matías Soulé,265695,240002
+9,Frosinone,111657,Reinier Jesus Carvalho,254544,240002
+10,Frosinone,111657,Francesco Gelli,274197,240002
+11,Frosinone,111657,Abdou Harroui,241937,240002
+12,Frosinone,111657,Luca Garritano,212446,240002
+13,Frosinone,111657,Mehdi Bourabia,198220,240002
+14,Frosinone,111657,Karlo Lulić,228515,240002
+15,Frosinone,111657,Justin Ferizaj,270705,240002
+16,Frosinone,111657,Luca Mazzitelli,221331,240002
+17,Frosinone,111657,Marco Brescianini,257785,240002
+18,Frosinone,111657,Enzo Barrenechea,246871,240002
+19,Frosinone,111657,Riccardo Marchizza,236308,240002
+20,Frosinone,111657,Simone Romagnoli,198857,240002
+21,Frosinone,111657,Ilario Monterisi,270064,240002
+22,Frosinone,111657,Caleb Okoli,261281,240002
+23,Frosinone,111657,Sergio Kalaj,268466,240002
+24,Frosinone,111657,Anthony Oyono,270502,240002
+25,Frosinone,111657,Pol Mikel Lirola Kosok,235875,240002
+26,Frosinone,111657,Stefano Turati,254502,240002
+27,Frosinone,111657,Michele Cerofolini,240785,240002
+28,Frosinone,111657,Pierluigi Frattali,177340,240002
+0,Sassuolo,111974,Armand Laurienté,243593,240002
+1,Sassuolo,111974,Emil Ceïde,245537,240002
+2,Sassuolo,111974,Andrea Pinamonti,235842,240002
+3,Sassuolo,111974,Grégoire Defrel,202851,240002
+4,Sassuolo,111974,Samuele Mulattieri,243200,240002
+5,Sassuolo,111974,Agustín Álvarez Martínez,258846,240002
+6,Sassuolo,111974,Domenico Berardi,210935,240002
+7,Sassuolo,111974,Samuel Castillejo Azuaga,210617,240002
+8,Sassuolo,111974,Nedim Bajrami,237640,240002
+9,Sassuolo,111974,Cristian Volpato,265761,240002
+10,Sassuolo,111974,Matheus Henrique de Souza,254487,240002
+11,Sassuolo,111974,Kristian Thorstvedt,242725,240002
+12,Sassuolo,111974,Uroš Račić,244253,240002
+13,Sassuolo,111974,Daniel Boloca,268462,240002
+14,Sassuolo,111974,Pedro Mba Obiang Avomo,200054,240002
+15,Sassuolo,111974,Luca Lipani,274702,240002
+16,Sassuolo,111974,Matías Viña,253290,240002
+17,Sassuolo,111974,Ruan Tressoldi Netto,263785,240002
+18,Sassuolo,111974,Gian Marco Ferrari,224808,240002
+19,Sassuolo,111974,Mattia Viti,264044,240002
+20,Sassuolo,111974,Martin Erlić,244456,240002
+21,Sassuolo,111974,Jeremy Toljan,214622,240002
+22,Sassuolo,111974,Marcus Holmgren Pedersen,243481,240002
+23,Sassuolo,111974,Filippo Missori,265762,240002
+24,Sassuolo,111974,Andrea Consigli,163489,240002
+25,Sassuolo,111974,Alessio Cragno,205659,240002
+26,Sassuolo,111974,Gianluca Pegolo,106795,240002
+0,Inter,44,Lautaro Martínez,231478,240027
+1,Inter,44,Marcus Thuram,228093,240027
+2,Inter,44,Marko Arnautović,184200,240027
+3,Inter,44,Alexis Sánchez,184941,240027
+4,Inter,44,Federico Dimarco,226268,240027
+5,Inter,44,Carlos Augusto Zopolato Neves,258648,240027
+6,Inter,44,Henrikh Mkhitaryan,192883,240027
+7,Inter,44,Nicolò Barella,224232,240027
+8,Inter,44,Davide Frattesi,239807,240027
+9,Inter,44,Davy Klaassen,203483,240027
+10,Inter,44,Stefano Sensi,229857,240027
+11,Inter,44,Kristjan Asllani,264699,240027
+12,Inter,44,Ebenezer Akinsanmiro,70471,240027
+13,Inter,44,Matteo Darmian,184392,240027
+14,Inter,44,Juan Cuadrado,193082,240027
+15,Inter,44,Tajon Buchanan,246800,240027
+16,Inter,44,Denzel Dumfries,233096,240027
+17,Inter,44,Hakan Çalhanoğlu,208128,240027
+18,Inter,44,Alessandro Bastoni,237383,240027
+19,Inter,44,Matteo Motta,279794,240027
+20,Inter,44,Francesco Acerbi,199845,240027
+21,Inter,44,Yann Aurel Bisseck,241736,240027
+22,Inter,44,Benjamin Pavard,226851,240027
+23,Inter,44,Stefan de Vrij,198176,240027
+24,Inter,44,Yann Sommer,177683,240027
+25,Inter,44,Emil Audero,228413,240027
+26,Inter,44,Raffaele Di Gennaro,219715,240027
+0,Napoli,48,Khvicha Kvaratskhelia,247635,240027
+1,Napoli,48,Hamed Traorè,240787,240027
+2,Napoli,48,Victor Osimhen,232293,240027
+3,Napoli,48,Giacomo Raspadori,253002,240027
+4,Napoli,48,Giovanni Simeone,216816,240027
+5,Napoli,48,Cyril Ngonge,246457,240027
+6,Napoli,48,Matteo Politano,216409,240027
+7,Napoli,48,Piotr Zieliński,210406,240027
+8,Napoli,48,André-Franck Zambo Anguissa,227236,240027
+9,Napoli,48,Leander Dendoncker,212501,240027
+10,Napoli,48,Jesper Lindstrøm,245741,240027
+11,Napoli,48,Stanislav Lobotka,216435,240027
+12,Napoli,48,Jens-Lys Cajuste,244472,240027
+13,Napoli,48,Diego Demme,202325,240027
+14,Napoli,48,Mário Rui Silva Duarte,204614,240027
+15,Napoli,48,Mathías Olivera,240716,240027
+16,Napoli,48,Juan Guilherme Nunes Jesus,200752,240027
+17,Napoli,48,Bernardo de Souza,277537,240027
+18,Napoli,48,Amir Rrahmani,244263,240027
+19,Napoli,48,Leo Østigård,238516,240027
+20,Napoli,48,Giovanni Di Lorenzo,217870,240027
+21,Napoli,48,Pasquale Mazzocchi,239679,240027
+22,Napoli,48,Alex Meret,225116,240027
+23,Napoli,48,Pierluigi Gollini,211515,240027
+24,Napoli,48,Nikita Contini,220532,240027
+25,Napoli,48,Hubert Idasiak,271957,240027
+0,AC Milan,47,Rafael da Conceição Leão,241721,240027
+1,AC Milan,47,Olivier Giroud,178509,240027
+2,AC Milan,47,Luka Jović,232432,240027
+3,AC Milan,47,Noah Okafor,242530,240027
+4,AC Milan,47,Christian Pulisic,227796,240027
+5,AC Milan,47,Samuel Chukwueze,246172,240027
+6,AC Milan,47,Yunus Musah,253177,240027
+7,AC Milan,47,Tommaso Pobega,252060,240027
+8,AC Milan,47,Ruben Loftus-Cheek,213666,240027
+9,AC Milan,47,Yacine Adli,243627,240027
+10,AC Milan,47,Kevin Zeroli,278351,240027
+11,AC Milan,47,Tijjani Reijnders,240638,240027
+12,AC Milan,47,Ismaël Bennacer,226754,240027
+13,AC Milan,47,Alessandro Florenzi,203551,240027
+14,AC Milan,47,Davide Bartesaghi,278237,240027
+15,AC Milan,47,Theo Hernández,232656,240027
+16,AC Milan,47,Simon Kjær,179645,240027
+17,AC Milan,47,Fikayo Tomori,232756,240027
+18,AC Milan,47,Matteo Gabbia,240277,240027
+19,AC Milan,47,Pierre Kalulu,255654,240027
+20,AC Milan,47,Malick Thiaw,256261,240027
+21,AC Milan,47,Mattia Caldara,220477,240027
+22,AC Milan,47,Jan-Carlo Simić,277022,240027
+23,AC Milan,47,Davide Calabria,228881,240027
+24,AC Milan,47,Filippo Terracciano,271579,240027
+25,AC Milan,47,Sánchez Alejandro Jiménez,278928,240027
+26,AC Milan,47,Mike Maignan,215698,240027
+27,AC Milan,47,Marco Sportiello,216065,240027
+28,AC Milan,47,Antonio Mirante,140293,240027
+0,Juventus,45,Kenan Yıldız,277954,240027
+1,Juventus,45,Arkadiusz Milik,205175,240027
+2,Juventus,45,Dušan Vlahović,246430,240027
+3,Juventus,45,Moise Kean,236610,240027
+4,Juventus,45,Carlos Alcaraz,256402,240027
+5,Juventus,45,Filip Kostić,208574,240027
+6,Juventus,45,Samuel Iling-Junior,272379,240027
+7,Juventus,45,Federico Chiesa,235805,240027
+8,Juventus,45,Adrien Rabiot,210008,240027
+9,Juventus,45,Joseph Nonge,278926,240027
+10,Juventus,45,Weston McKennie,238744,240027
+11,Juventus,45,Fabio Miretti,268802,240027
+12,Juventus,45,Hans Nicolussi Caviglia,253162,240027
+13,Juventus,45,Andrea Cambiaso,258966,240027
+14,Juventus,45,Timothy Weah,241496,240027
+15,Juventus,45,Mattia De Sciglio,206058,240027
+16,Juventus,45,Nikola Sekulov,276798,240027
+17,Juventus,45,Manuel Locatelli,222077,240027
+18,Juventus,45,Danilo Luiz da Silva,199304,240027
+19,Juventus,45,Gleison Bremer Silva Nascimento,239580,240027
+20,Juventus,45,Daniele Rugani,211320,240027
+21,Juventus,45,Alex Sandro Lobo Silva,191043,240027
+22,Juventus,45,Tiago Emanuel Embaló Djaló,252339,240027
+23,Juventus,45,Federico Gatti,266872,240027
+24,Juventus,45,Wojciech Szczęsny,186153,240027
+25,Juventus,45,Mattia Perin,198009,240027
+26,Juventus,45,Carlo Pinsoglio,189342,240027
+27,Juventus,45,Giovanni Garofani,271583,240027
+0,Roma,52,Paulo Dybala,211110,240027
+1,Roma,52,Romelu Lukaku,192505,240027
+2,Roma,52,Tammy Abraham,231352,240027
+3,Roma,52,Sardar Azmoun,213955,240027
+4,Roma,52,Filippo Alessio,277862,240027
+5,Roma,52,Edoardo Bove,262171,240027
+6,Roma,52,Stephan El Shaarawy,190813,240027
+7,Roma,52,Tommaso Baldanzi,269312,240027
+8,Roma,52,Luigi Cherubini,278966,240027
+9,Roma,52,Bryan Cristante,208268,240027
+10,Roma,52,Renato Júnior Luz Sanches,230767,240027
+11,Roma,52,Houssem Aouar,234906,240027
+12,Roma,52,Lorenzo Pellegrini,228251,240027
+13,Roma,52,Riccardo Pagano,276951,240027
+14,Roma,52,Niccolò Pisilli,275291,240027
+15,Roma,52,João Gabriel E Costa Cesco,278567,240027
+16,Roma,52,Francesco D'Alessio,278775,240027
+17,Roma,52,Leandro Paredes,207439,240027
+18,Roma,52,Leonardo Spinazzola,202884,240027
+19,Roma,52,Nicola Zalewski,262113,240027
+20,Roma,52,Evan Ndicka,236403,240027
+21,Roma,52,José Ángel Esmoris Tasende,220651,240027
+22,Roma,52,Diego Javier Llorente Ríos,212602,240027
+23,Roma,52,Chris Smalling,189881,240027
+24,Roma,52,Dean Huijsen,278349,240027
+25,Roma,52,Gianluca Mancini,229582,240027
+26,Roma,52,Rasmus Kristensen,233301,240027
+27,Roma,52,Rick Karsdorp,222558,240027
+28,Roma,52,Zeki Çelik,224490,240027
+29,Roma,52,Rui Pedro dos Santos Patrício,178005,240027
+30,Roma,52,Mile Svilar,230872,240027
+31,Roma,52,Pietro Boer,259973,240027
+0,Atalanta,39,Ademola Lookman,230899,240027
+1,Atalanta,39,Gianluca Scamacca,226710,240027
+2,Atalanta,39,Luis Muriel,199110,240027
+3,Atalanta,39,El Bilal Touré,255529,240027
+4,Atalanta,39,Teun Koopmeiners,240679,240027
+5,Atalanta,39,Mario Pašalić,223273,240027
+6,Atalanta,39,Charles De Ketelaere,251470,240027
+7,Atalanta,39,Alexey Miranchuk,214092,240027
+8,Atalanta,39,Matteo Ruggeri,259584,240027
+9,Atalanta,39,Mitchel Bakker,239368,240027
+10,Atalanta,39,Éderson José dos Santos,266866,240027
+11,Atalanta,39,Marten de Roon,208461,240027
+12,Atalanta,39,Michel Ndary Adopo,254982,240027
+13,Atalanta,39,Jacopo Da Riva,257781,240027
+14,Atalanta,39,Davide Zappacosta,216150,240027
+15,Atalanta,39,Hans Hateboer,220093,240027
+16,Atalanta,39,Emil Holm,246656,240027
+17,Atalanta,39,Sead Kolašinac,207993,240027
+18,Atalanta,39,Berat Djimsiti,208165,240027
+19,Atalanta,39,Rafael Tolói,187598,240027
+20,Atalanta,39,José Luis Palomino,217196,240027
+21,Atalanta,39,Isak Hien,260697,240027
+22,Atalanta,39,Pietro Comi,279796,240027
+23,Atalanta,39,Giorgio Scalvini,265188,240027
+24,Atalanta,39,Marco Carnesecchi,252154,240027
+25,Atalanta,39,Juan Musso,214979,240027
+26,Atalanta,39,Francesco Rossi,194894,240027
+0,Lazio,46,Mattia Zaccagni,220502,240027
+1,Lazio,46,Diego González,273934,240027
+2,Lazio,46,Ciro Immobile,192387,240027
+3,Lazio,46,Valentin Castellanos,237712,240027
+4,Lazio,46,Alessandro Rossi,233809,240027
+5,Lazio,46,André Anderson Pomilio Lima,245639,240027
+6,Lazio,46,Felipe Anderson Pereira Gomes,201995,240027
+7,Lazio,46,Gustav Isaksen,248729,240027
+8,Lazio,46,Pedro Rodríguez Ledesma,189505,240027
+9,Lazio,46,Luis Alberto Romero Alconchel,198706,240027
+10,Lazio,46,Mattéo Guendouzi,236496,240027
+11,Lazio,46,Daichi Kamada,232730,240027
+12,Lazio,46,Matías Vecino,219985,240027
+13,Lazio,46,Nicolò Rovella,255001,240027
+14,Lazio,46,Danilo Cataldi,211361,240027
+15,Lazio,46,Luca Pellegrini,243237,240027
+16,Lazio,46,Elseid Hysaj,210864,240027
+17,Lazio,46,Mario Gila Fuentes,268804,240027
+18,Lazio,46,Alessio Romagnoli,210413,240027
+19,Lazio,46,Patricio Gabarrón Gil,206098,240027
+20,Lazio,46,Nicolò Casale,239770,240027
+21,Lazio,46,Fabio Andrea Ruggeri,279228,240027
+22,Lazio,46,Adam Marušić,224031,240027
+23,Lazio,46,Manuel Lazzari,235374,240027
+24,Lazio,46,Ivan Provedel,224987,240027
+25,Lazio,46,Luigi Sepe,191011,240027
+26,Lazio,46,Christos Mandas,278032,240027
+0,Fiorentina,110374,Christian Kouamé,235866,240027
+1,Fiorentina,110374,Riccardo Sottil,246431,240027
+2,Fiorentina,110374,M'Bala Nzola,240452,240027
+3,Fiorentina,110374,Lucas Beltrán,246258,240027
+4,Fiorentina,110374,Andrea Belotti,208596,240027
+5,Fiorentina,110374,Jonathan Ikoné,234612,240027
+6,Fiorentina,110374,Nicolás González,240690,240027
+7,Fiorentina,110374,Gino Infantino,258104,240027
+8,Fiorentina,110374,Giacomo Bonaventura,189125,240027
+9,Fiorentina,110374,Alfred Duncan,208535,240027
+10,Fiorentina,110374,Antonín Barák,236791,240027
+11,Fiorentina,110374,Rolando Mandragora,225439,240027
+12,Fiorentina,110374,Arthur Henrique Ramos Oliveira Melo,230658,240027
+13,Fiorentina,110374,Maxime Lopez,224030,240027
+14,Fiorentina,110374,Gaetano Castrovilli,225014,240027
+15,Fiorentina,110374,Cristiano Biraghi,201389,240027
+16,Fiorentina,110374,Fabiano Parisi,258976,240027
+17,Fiorentina,110374,Lucas Martínez Quarta,228708,240027
+18,Fiorentina,110374,Luca Ranieri,240777,240027
+19,Fiorentina,110374,Nikola Milenković,238095,240027
+20,Fiorentina,110374,Pietro Comuzzo,278340,240027
+21,Fiorentina,110374,Michael Kayode,277869,240027
+22,Fiorentina,110374,Marco Davide Faraoni,195272,240027
+23,Fiorentina,110374,Domilson Cordeiro dos Santos,234112,240027
+24,Fiorentina,110374,Pietro Terracciano,205812,240027
+25,Fiorentina,110374,Oliver Christensen,236758,240027
+0,Bologna,189,Joshua Zirkzee,250961,240027
+1,Bologna,189,Jens Odgaard,234671,240027
+2,Bologna,189,Santiago Castro,267861,240027
+3,Bologna,189,Lewis Ferguson,242280,240027
+4,Bologna,189,Giovanni Fabbian,271019,240027
+5,Bologna,189,Kacper Urbański,254819,240027
+6,Bologna,189,Alexis Saelemaekers,242664,240027
+7,Bologna,189,Jesper Karlsson,231836,240027
+8,Bologna,189,Riccardo Orsolini,233556,240027
+9,Bologna,189,Michel Aebischer,236898,240027
+10,Bologna,189,Dan Ndoye,257980,240027
+11,Bologna,189,Nikola Moro,244270,240027
+12,Bologna,189,Remo Freuler,202024,240027
+13,Bologna,189,Oussama El Azzouzi,269745,240027
+14,Bologna,189,Victor Kristiansen,259762,240027
+15,Bologna,189,Tommaso Corazza,277704,240027
+16,Bologna,189,Charalampos Lykogiannis,210381,240027
+17,Bologna,189,Riccardo Calafiori,257711,240027
+18,Bologna,189,Jhon Lucumí,231207,240027
+19,Bologna,189,Sam Beukema,262394,240027
+20,Bologna,189,Adama Soumaoro,200353,240027
+21,Bologna,189,Wisdom Amey,269183,240027
+22,Bologna,189,Mihajlo Ilić,70482,240027
+23,Bologna,189,Stefan Posch,223671,240027
+24,Bologna,189,Lorenzo De Silvestri,170320,240027
+25,Bologna,189,Łukasz Skorupski,189908,240027
+26,Bologna,189,Federico Ravaglia,240657,240027
+27,Bologna,189,Nicola Bagnolini,271420,240027
+0,Torino,54,Duván Zapata,215333,240027
+1,Torino,54,Antonio Sanabria,219932,240027
+2,Torino,54,David Okereke,233732,240027
+3,Torino,54,Pietro Pellegri,238873,240027
+4,Torino,54,Alieu Eybi Njie,70480,240027
+5,Torino,54,Nikola Vlašić,241095,240027
+6,Torino,54,Uroš Kabić,70835,240027
+7,Torino,54,Valentino Lazaro,211147,240027
+8,Torino,54,Mërgim Vojvoda,228349,240027
+9,Torino,54,Samuele Ricci,253473,240027
+10,Torino,54,Gvidas Gineitis,273932,240027
+11,Torino,54,Ivan Ilić,258683,240027
+12,Torino,54,Aaron Ciammaglichella,70481,240027
+13,Torino,54,Karol Linetty,211408,240027
+14,Torino,54,Raoul Bellanova,247229,240027
+15,Torino,54,Ricardo Rodríguez,193352,240027
+16,Torino,54,Alessandro Buongiorno,243241,240027
+17,Torino,54,Koffi Djidji,203884,240027
+18,Torino,54,Adam Masina,225410,240027
+19,Torino,54,Matteo Lovato,258946,240027
+20,Torino,54,Saba Sazonov,278013,240027
+21,Torino,54,Perr Schuurs,241854,240027
+22,Torino,54,Adrien Tameze,213242,240027
+23,Torino,54,Côme Bianay Balcot,70479,240027
+24,Torino,54,Vanja Milinković-Savić,224836,240027
+25,Torino,54,Mihai Popa,253688,240027
+26,Torino,54,Luca Gemello,266333,240027
+27,Torino,54,Pietro Passador,70820,240027
+0,Lecce,347,Lameck Banda,271197,240027
+1,Lecce,347,Nicola Sansone,201858,240027
+2,Lecce,347,Nikola Krstović,277839,240027
+3,Lecce,347,Roberto Piccoli,248385,240027
+4,Lecce,347,Rares Burnete,277636,240027
+5,Lecce,347,Rémi Oudin,233265,240027
+6,Lecce,347,Pontus Almqvist,236706,240027
+7,Lecce,347,Santiago Pierotti,253139,240027
+8,Lecce,347,Jeppe Corfitzen,270976,240027
+9,Lecce,347,Hamza Rafia,251790,240027
+10,Lecce,347,Mohamed Kaba,263469,240027
+11,Lecce,347,Joan González Cañellas,271196,240027
+12,Lecce,347,Medon Berisha,271198,240027
+13,Lecce,347,Ylber Ramadani,243787,240027
+14,Lecce,347,Alexis Blin,222982,240027
+15,Lecce,347,Daniel Samek,264335,240027
+16,Lecce,347,Antonino Gallo,244717,240027
+17,Lecce,347,Patrick Dorgu,277432,240027
+18,Lecce,347,Federico Baschirotto,268573,240027
+19,Lecce,347,Ahmed Touba,236535,240027
+20,Lecce,347,Kastriot Dermaku,230143,240027
+21,Lecce,347,Marin Pongračić,238370,240027
+22,Lecce,347,Valentin Gendrey,245863,240027
+23,Lecce,347,Lorenzo Venuti,220509,240027
+24,Lecce,347,Wladimiro Falcone,210676,240027
+25,Lecce,347,Federico Brancolini,257580,240027
+26,Lecce,347,Jasper Samooja,278623,240027
+27,Lecce,347,Alexandru Borbei,277734,240027
+0,Monza,111811,Lorenzo Colombo,256899,240027
+1,Monza,111811,Milan Đurić,192840,240027
+2,Monza,111811,Valentín Carboni,272602,240027
+3,Monza,111811,Daniel Maldini,255611,240027
+4,Monza,111811,Dany Mota Carvalho,234147,240027
+5,Monza,111811,Andrea Colpani,251988,240027
+6,Monza,111811,Gianluca Caprari,202848,240027
+7,Monza,111811,Samuele Vignato,265595,240027
+8,Monza,111811,Patrick Ciurria,219812,240027
+9,Monza,111811,Giorgos Kyriakopoulos,253213,240027
+10,Monza,111811,Alessio Zerbin,237669,240027
+11,Monza,111811,Matteo Pessina,239613,240027
+12,Monza,111811,Roberto Gagliardini,212153,240027
+13,Monza,111811,Jean-Daniel Akpa Akpro,205343,240027
+14,Monza,111811,José Ndong Machín Dicombo,230817,240027
+15,Monza,111811,Warren Bondo,257353,240027
+16,Monza,111811,Pedro Miguel Lopes Pereira,230824,240027
+17,Monza,111811,Samuele Birindelli,237003,240027
+18,Monza,111811,Luca Caldirola,199776,240027
+19,Monza,111811,Pablo Marí Villar,206654,240027
+20,Monza,111811,Armando Izzo,216145,240027
+21,Monza,111811,Davide Bettella,248171,240027
+22,Monza,111811,Andrea Carboni,257000,240027
+23,Monza,111811,Giulio Donati,197786,240027
+24,Monza,111811,Danilo D'Ambrosio,198946,240027
+25,Monza,111811,Michele Di Gregorio,235840,240027
+26,Monza,111811,Stefano Gori,225610,240027
+27,Monza,111811,Alessandro Sorrentino,271146,240027
+0,Genoa,110556,Albert Guðmundsson,238004,240027
+1,Genoa,110556,Ruslan Malinovskyi,231969,240027
+2,Genoa,110556,Mateo Retegui,241850,240027
+3,Genoa,110556,Vítor Manuel Carvalho Oliveira,263829,240027
+4,Genoa,110556,Caleb Ekuban,239795,240027
+5,Genoa,110556,David Ankeye,260789,240027
+6,Genoa,110556,Kevin Strootman,189712,240027
+7,Genoa,110556,Emil Bohinen,234894,240027
+8,Genoa,110556,Léandre Kuavita,272776,240027
+9,Genoa,110556,Morten Frendrup,242633,240027
+10,Genoa,110556,Junior Messias,240938,240027
+11,Genoa,110556,Morten Thorsby,222475,240027
+12,Genoa,110556,Christos Papadopoulos,279223,240027
+13,Genoa,110556,Pablo Galdames,219127,240027
+14,Genoa,110556,Riccardo Arboscello,70472,240027
+15,Genoa,110556,Milan Badelj,201144,240027
+16,Genoa,110556,Aarón Martín Caricol,236295,240027
+17,Genoa,110556,Ridgeciano Haps,210384,240027
+18,Genoa,110556,Johan Vásquez,244349,240027
+19,Genoa,110556,Mattia Bani,224378,240027
+20,Genoa,110556,Alessandro Vogliacco,245566,240027
+21,Genoa,110556,Alan Matturro,274082,240027
+22,Genoa,110556,Giorgio Cittadini,266304,240027
+23,Genoa,110556,Tommaso Pittino,70819,240027
+24,Genoa,110556,Koni De Winter,265774,240027
+25,Genoa,110556,Stefano Sabelli,206159,240027
+26,Genoa,110556,Djed Spence,243702,240027
+27,Genoa,110556,Josep Martínez Riera,243311,240027
+28,Genoa,110556,Nicola Leali,201299,240027
+29,Genoa,110556,Daniele Sommariva,225432,240027
+30,Genoa,110556,Franz Stolz,70524,240027
+0,Cagliari,1842,Zito André Sebastião Luvumbo,259011,240027
+1,Cagliari,1842,Gianluca Lapadula,211302,240027
+2,Cagliari,1842,Andrea Petagna,215689,240027
+3,Cagliari,1842,Eldor Shomurodov,239964,240027
+4,Cagliari,1842,Leonardo Pavoletti,205850,240027
+5,Cagliari,1842,Nicolas Viola,173160,240027
+6,Cagliari,1842,Gaetano Oristanio,269276,240027
+7,Cagliari,1842,Marco Mancosu,172786,240027
+8,Cagliari,1842,Gianluca Gaetano,246877,240027
+9,Cagliari,1842,Jakub Jankto,226592,240027
+10,Cagliari,1842,Antoine Makoumbou,270597,240027
+11,Cagliari,1842,Alessandro Deiola,229743,240027
+12,Cagliari,1842,Marko Rog,236311,240027
+13,Cagliari,1842,Matteo Prati,272725,240027
+14,Cagliari,1842,Ibrahim Sulemana,271577,240027
+15,Cagliari,1842,Tommaso Augello,240100,240027
+16,Cagliari,1842,Paulo Daniel Azzi Dentello,222388,240027
+17,Cagliari,1842,Alberto Dossena,237586,240027
+18,Cagliari,1842,Adam Obert,266636,240027
+19,Cagliari,1842,Pantelis Hatzidiakos,229150,240027
+20,Cagliari,1842,Mateusz Wieteska,224302,240027
+21,Cagliari,1842,Yerry Mina,220523,240027
+22,Cagliari,1842,Nahitan Nández,230965,240027
+23,Cagliari,1842,Gabriele Zappa,252964,240027
+24,Cagliari,1842,Alessandro Di Pardo,261243,240027
+25,Cagliari,1842,Simone Scuffet,220048,240027
+26,Cagliari,1842,Boris Radunović,231073,240027
+27,Cagliari,1842,Simone Aresti,171490,240027
+0,Hellas Verona,206,Thomas Henry,231835,240027
+1,Hellas Verona,206,Federico Bonazzoli,223137,240027
+2,Hellas Verona,206,Karol Świderski,224301,240027
+3,Hellas Verona,206,Juan Manuel Cruz,255453,240027
+4,Hellas Verona,206,Tomáš Suslov,255233,240027
+5,Hellas Verona,206,Suat Serdar,230065,240027
+6,Hellas Verona,206,Darko Lazović,212127,240027
+7,Hellas Verona,206,Tijjani Noslin,264257,240027
+8,Hellas Verona,206,Elayis Tavşan,262335,240027
+9,Hellas Verona,206,Ondrej Duda,222148,240027
+10,Hellas Verona,206,Michael Folorunsho,268683,240027
+11,Hellas Verona,206,Lima Pontes Charlys Matheus,279876,240027
+12,Hellas Verona,206,Daniel Filipe Bandeira e Silva,270686,240027
+13,Hellas Verona,206,Reda Belahyane,275163,240027
+14,Hellas Verona,206,Juan David Cabal,251870,240027
+15,Hellas Verona,206,Rúben Nascimento Vinagre,235172,240027
+16,Hellas Verona,206,Giangiacomo Magnani,242392,240027
+17,Hellas Verona,206,Bruno Amione,268679,240027
+18,Hellas Verona,206,Paweł Dawidowicz,213404,240027
+19,Hellas Verona,206,Diego Coppola,269181,240027
+20,Hellas Verona,206,Jackson Tchatchoua,262937,240027
+21,Hellas Verona,206,Fabien Centonze,229971,240027
+22,Hellas Verona,206,Lorenzo Montipò,215363,240027
+23,Hellas Verona,206,Simone Perilli,210940,240027
+24,Hellas Verona,206,Alessandro Berardi,202793,240027
+25,Hellas Verona,206,Mattia Chiesa,271578,240027
+0,Udinese,55,Lorenzo Lucca,268474,240027
+1,Udinese,55,Florian Thauvin,204970,240027
+2,Udinese,55,Isaac Success,222634,240027
+3,Udinese,55,Keinan Davis,231743,240027
+4,Udinese,55,Gerard Deulofeu Lázaro,202477,240027
+5,Udinese,55,Brenner Souza da Silva,240332,240027
+6,Udinese,55,Roberto Pereyra,193061,240027
+7,Udinese,55,Sandi Lovrič,223866,240027
+8,Udinese,55,Lazar Samardžić,256115,240027
+9,Udinese,55,Martín Payero,240970,240027
+10,Udinese,55,Oier Zarraga Egaña,258615,240027
+11,Udinese,55,Walace Souza Silva,222844,240027
+12,Udinese,55,Jordan Zemura,259634,240027
+13,Udinese,55,Hassane Kamara,220421,240027
+14,Udinese,55,Thomas Thiesson Kristensen,261573,240027
+15,Udinese,55,Nehuén Pérez,244206,240027
+16,Udinese,55,Christian Kabasele,190324,240027
+17,Udinese,55,Jaka Bijol,244238,240027
+18,Udinese,55,Enzo Ebosse,241007,240027
+19,Udinese,55,Antonio Tikvic,264856,240027
+20,Udinese,55,Lautaro Giannetti,215147,240027
+21,Udinese,55,James Abankwah,264509,240027
+22,Udinese,55,João Diogo Fonseca Ferreira,252577,240027
+23,Udinese,55,Festy Ebosele,263571,240027
+24,Udinese,55,Kingsley Ehizibue,225669,240027
+25,Udinese,55,Maduka Okoye,257288,240027
+26,Udinese,55,Marco Silvestri,190745,240027
+27,Udinese,55,Daniele Padelli,162297,240027
+0,Empoli,1746,Alberto Cerri,213829,240027
+1,Empoli,1746,Francesco Caputo,189053,240027
+2,Empoli,1746,M'Baye Niang,204077,240027
+3,Empoli,1746,Mattia Destro,193338,240027
+4,Empoli,1746,Stiven Shpendi,277515,240027
+5,Empoli,1746,Giacomo Corona,276754,240027
+6,Empoli,1746,Szymon Żurkowski,239732,240027
+7,Empoli,1746,Matteo Cancellieri,263929,240027
+8,Empoli,1746,Andrea Sodero,279878,240027
+9,Empoli,1746,Nicolò Cambiaghi,268703,240027
+10,Empoli,1746,Emmanuel Gyasi,220491,240027
+11,Empoli,1746,Giuseppe Pezzella,230681,240027
+12,Empoli,1746,Liberato Cacace,242429,240027
+13,Empoli,1746,Alberto Grassi,220475,240027
+14,Empoli,1746,Simone Bastoni,225189,240027
+15,Empoli,1746,Youssef Maleh,236838,240027
+16,Empoli,1746,Răzvan Marin,235813,240027
+17,Empoli,1746,Jacopo Fazzini,266596,240027
+18,Empoli,1746,Viktor Kovalenko,228698,240027
+19,Empoli,1746,Iwo Kaczmarski,257299,240027
+20,Empoli,1746,Luca Belardinelli,270507,240027
+21,Empoli,1746,Bartosz Bereszyński,199763,240027
+22,Empoli,1746,Sebastian Walukiewicz,243497,240027
+23,Empoli,1746,Sebastiano Luperto,220534,240027
+24,Empoli,1746,Gabriele Guarino,271921,240027
+25,Empoli,1746,Lorenzo Tonelli,201049,240027
+26,Empoli,1746,Saba Goglichidze,70252,240027
+27,Empoli,1746,Ardian Ismajli,258782,240027
+28,Empoli,1746,Tyronne Ebuehi,224213,240027
+29,Empoli,1746,Elia Caprile,255303,240027
+30,Empoli,1746,Etrit Berisha,189296,240027
+31,Empoli,1746,Samuele Perisan,230858,240027
+0,Salernitana,110373,Simeon Tochukwu Nwankwo,219496,240027
+1,Salernitana,110373,Boulaye Dia,246242,240027
+2,Salernitana,110373,Chukwubuikem Ikwuemesi,277832,240027
+3,Salernitana,110373,Trivante Stewart,277822,240027
+4,Salernitana,110373,Shon Weissman,251412,240027
+5,Salernitana,110373,Mikael Filipe Viana de Sousa,267418,240027
+6,Salernitana,110373,Loum Tchaouna,264880,240027
+7,Salernitana,110373,Grigoris Kastanos,237335,240027
+8,Salernitana,110373,Antonio Candreva,173221,240027
+9,Salernitana,110373,Domagoj Bradarić,252000,240027
+10,Salernitana,110373,Jovane Eduardo Borges Cabral,244193,240027
+11,Salernitana,110373,Lassana Coulibaly,230107,240027
+12,Salernitana,110373,Agustín Martegani,262083,240027
+13,Salernitana,110373,Toma Bašić,245275,240027
+14,Salernitana,110373,Giulio Maggiore,236368,240027
+15,Salernitana,110373,Mateusz Łęgowski,263317,240027
+16,Salernitana,110373,Emanuel Vignato,240661,240027
+17,Salernitana,110373,Junior Sambia,223570,240027
+18,Salernitana,110373,Alessandro Zanoli,268656,240027
+19,Salernitana,110373,Niccolò Pierozzi,270926,240027
+20,Salernitana,110373,Iron Gomis,247758,240027
+21,Salernitana,110373,Lorenzo Pirola,257368,240027
+22,Salernitana,110373,Norbert Gyömbér,220061,240027
+23,Salernitana,110373,Federico Fazio,179847,240027
+24,Salernitana,110373,Dylan Bronn,235565,240027
+25,Salernitana,110373,Triantafyllos Pasalidis,70664,240027
+26,Salernitana,110373,Marco Pellegrino,274947,240027
+27,Salernitana,110373,Jérôme Boateng,183907,240027
+28,Salernitana,110373,Guillermo Ochoa,140233,240027
+29,Salernitana,110373,Benoît Costil,158121,240027
+30,Salernitana,110373,Vincenzo Fiorillo,185172,240027
+31,Salernitana,110373,Gregorio Salvati,279230,240027
+0,Frosinone,111657,Kaio Jorge Pinto Ramos,260644,240027
+1,Frosinone,111657,Walid Cheddira,268511,240027
+2,Frosinone,111657,Marvin Çuni,264467,240027
+3,Frosinone,111657,Demba Seck,266877,240027
+4,Frosinone,111657,Arijon Ibrahimović,266236,240027
+5,Frosinone,111657,Matías Soulé,265695,240027
+6,Frosinone,111657,Reinier Jesus Carvalho,254544,240027
+7,Frosinone,111657,Francesco Gelli,274197,240027
+8,Frosinone,111657,Jaime Baez,231050,240027
+9,Frosinone,111657,Giuseppe Caso,258788,240027
+10,Frosinone,111657,Giorgi Kvernadze,276422,240027
+11,Frosinone,111657,Soufiane Bidaoui,192365,240027
+12,Frosinone,111657,Emanuele Valeri,258714,240027
+13,Frosinone,111657,Enzo Barrenechea,246871,240027
+14,Frosinone,111657,Marco Brescianini,257785,240027
+15,Frosinone,111657,Luca Mazzitelli,221331,240027
+16,Frosinone,111657,Luca Garritano,212446,240027
+17,Frosinone,111657,Mehdi Bourabia,198220,240027
+18,Frosinone,111657,Abdou Harroui,241937,240027
+19,Frosinone,111657,Justin Ferizaj,270705,240027
+20,Frosinone,111657,Pol Mikel Lirola Kosok,235875,240027
+21,Frosinone,111657,Nadir Zortea,252440,240027
+22,Frosinone,111657,Caleb Okoli,261281,240027
+23,Frosinone,111657,Riccardo Marchizza,236308,240027
+24,Frosinone,111657,Simone Romagnoli,198857,240027
+25,Frosinone,111657,Kevin Bonifazi,235290,240027
+26,Frosinone,111657,Sergio Kalaj,268466,240027
+27,Frosinone,111657,Mateus Henrique Vanelli Lusuardi,278346,240027
+28,Frosinone,111657,Ilario Monterisi,270064,240027
+29,Frosinone,111657,Anthony Oyono,270502,240027
+30,Frosinone,111657,Stefano Turati,254502,240027
+31,Frosinone,111657,Michele Cerofolini,240785,240027
+32,Frosinone,111657,Pierluigi Frattali,177340,240027
+0,Sassuolo,111974,Armand Laurienté,243593,240027
+1,Sassuolo,111974,Emil Ceïde,245537,240027
+2,Sassuolo,111974,Andrea Pinamonti,235842,240027
+3,Sassuolo,111974,Grégoire Defrel,202851,240027
+4,Sassuolo,111974,Samuele Mulattieri,243200,240027
+5,Sassuolo,111974,Domenico Berardi,210935,240027
+6,Sassuolo,111974,Samuel Castillejo Azuaga,210617,240027
+7,Sassuolo,111974,Kristian Thorstvedt,242725,240027
+8,Sassuolo,111974,Nedim Bajrami,237640,240027
+9,Sassuolo,111974,Cristian Volpato,265761,240027
+10,Sassuolo,111974,Matheus Henrique de Souza,254487,240027
+11,Sassuolo,111974,Daniel Boloca,268462,240027
+12,Sassuolo,111974,Uroš Račić,244253,240027
+13,Sassuolo,111974,Luca Lipani,274702,240027
+14,Sassuolo,111974,Pedro Mba Obiang Avomo,200054,240027
+15,Sassuolo,111974,Marcus Holmgren Pedersen,243481,240027
+16,Sassuolo,111974,Josh Doig,255561,240027
+17,Sassuolo,111974,Gian Marco Ferrari,224808,240027
+18,Sassuolo,111974,Mattia Viti,264044,240027
+19,Sassuolo,111974,Martin Erlić,244456,240027
+20,Sassuolo,111974,Ruan Tressoldi Netto,263785,240027
+21,Sassuolo,111974,Marash Kumbulla,245426,240027
+22,Sassuolo,111974,Jeremy Toljan,214622,240027
+23,Sassuolo,111974,Filippo Missori,265762,240027
+24,Sassuolo,111974,Andrea Consigli,163489,240027
+25,Sassuolo,111974,Alessio Cragno,205659,240027
+26,Sassuolo,111974,Gianluca Pegolo,106795,240027

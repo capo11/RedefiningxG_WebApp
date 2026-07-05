@@ -1,0 +1,333 @@
+,round,homeTeam,awayTeam,homeScore,awayScore,matchId,url
+0,1,Liverpool,Bournemouth,4,2,14025013,https://www.sofascore.com/api/v1/event/14025013/shotmap
+1,1,Aston Villa,Newcastle United,0,0,14025016,https://www.sofascore.com/api/v1/event/14025016/shotmap
+2,1,Brighton & Hove Albion,Fulham,1,1,14025020,https://www.sofascore.com/api/v1/event/14025020/shotmap
+3,1,Sunderland,West Ham United,3,0,14025038,https://www.sofascore.com/api/v1/event/14025038/shotmap
+4,1,Tottenham Hotspur,Burnley,3,0,14025047,https://www.sofascore.com/api/v1/event/14025047/shotmap
+5,1,Wolverhampton,Manchester City,0,4,14025050,https://www.sofascore.com/api/v1/event/14025050/shotmap
+6,1,Chelsea,Crystal Palace,0,0,14025053,https://www.sofascore.com/api/v1/event/14025053/shotmap
+7,1,Nottingham Forest,Brentford,3,1,14025028,https://www.sofascore.com/api/v1/event/14025028/shotmap
+8,1,Manchester United,Arsenal,0,1,14025056,https://www.sofascore.com/api/v1/event/14025056/shotmap
+9,1,Leeds United,Everton,1,0,14025059,https://www.sofascore.com/api/v1/event/14025059/shotmap
+0,2,West Ham United,Chelsea,1,5,14025088,https://www.sofascore.com/api/v1/event/14025088/shotmap
+1,2,Manchester City,Tottenham Hotspur,0,2,14025083,https://www.sofascore.com/api/v1/event/14025083/shotmap
+2,2,Bournemouth,Wolverhampton,1,0,14025062,https://www.sofascore.com/api/v1/event/14025062/shotmap
+3,2,Brentford,Aston Villa,1,0,14025068,https://www.sofascore.com/api/v1/event/14025068/shotmap
+4,2,Burnley,Sunderland,2,0,14025071,https://www.sofascore.com/api/v1/event/14025071/shotmap
+5,2,Arsenal,Leeds United,5,0,14025065,https://www.sofascore.com/api/v1/event/14025065/shotmap
+6,2,Crystal Palace,Nottingham Forest,1,1,14025074,https://www.sofascore.com/api/v1/event/14025074/shotmap
+7,2,Everton,Brighton & Hove Albion,2,0,14025077,https://www.sofascore.com/api/v1/event/14025077/shotmap
+8,2,Fulham,Manchester United,1,1,14025080,https://www.sofascore.com/api/v1/event/14025080/shotmap
+9,2,Newcastle United,Liverpool,2,3,14147154,https://www.sofascore.com/api/v1/event/14147154/shotmap
+0,3,Chelsea,Fulham,2,0,14025097,https://www.sofascore.com/api/v1/event/14025097/shotmap
+1,3,Manchester United,Burnley,3,2,14025106,https://www.sofascore.com/api/v1/event/14025106/shotmap
+2,3,Sunderland,Brentford,2,1,14025112,https://www.sofascore.com/api/v1/event/14025112/shotmap
+3,3,Tottenham Hotspur,Bournemouth,0,1,14025115,https://www.sofascore.com/api/v1/event/14025115/shotmap
+4,3,Wolverhampton,Everton,2,3,14025118,https://www.sofascore.com/api/v1/event/14025118/shotmap
+5,3,Leeds United,Newcastle United,0,0,14025100,https://www.sofascore.com/api/v1/event/14025100/shotmap
+6,3,Brighton & Hove Albion,Manchester City,2,1,14025094,https://www.sofascore.com/api/v1/event/14025094/shotmap
+7,3,Nottingham Forest,West Ham United,0,3,14025109,https://www.sofascore.com/api/v1/event/14025109/shotmap
+8,3,Liverpool,Arsenal,1,0,14025103,https://www.sofascore.com/api/v1/event/14025103/shotmap
+9,3,Aston Villa,Crystal Palace,0,3,14025091,https://www.sofascore.com/api/v1/event/14025091/shotmap
+0,4,Arsenal,Nottingham Forest,3,0,14025124,https://www.sofascore.com/api/v1/event/14025124/shotmap
+1,4,Bournemouth,Brighton & Hove Albion,2,1,14025121,https://www.sofascore.com/api/v1/event/14025121/shotmap
+2,4,Crystal Palace,Sunderland,0,0,14025133,https://www.sofascore.com/api/v1/event/14025133/shotmap
+3,4,Everton,Aston Villa,0,0,14025136,https://www.sofascore.com/api/v1/event/14025136/shotmap
+4,4,Fulham,Leeds United,1,0,14025139,https://www.sofascore.com/api/v1/event/14025139/shotmap
+5,4,Newcastle United,Wolverhampton,1,0,14025145,https://www.sofascore.com/api/v1/event/14025145/shotmap
+6,4,West Ham United,Tottenham Hotspur,0,3,14025148,https://www.sofascore.com/api/v1/event/14025148/shotmap
+7,4,Brentford,Chelsea,2,2,14025127,https://www.sofascore.com/api/v1/event/14025127/shotmap
+8,4,Burnley,Liverpool,0,1,14025130,https://www.sofascore.com/api/v1/event/14025130/shotmap
+9,4,Manchester City,Manchester United,3,0,14025142,https://www.sofascore.com/api/v1/event/14025142/shotmap
+0,5,Liverpool,Everton,2,1,14025166,https://www.sofascore.com/api/v1/event/14025166/shotmap
+1,5,Brighton & Hove Albion,Tottenham Hotspur,2,2,14025157,https://www.sofascore.com/api/v1/event/14025157/shotmap
+2,5,Burnley,Nottingham Forest,1,1,14025160,https://www.sofascore.com/api/v1/event/14025160/shotmap
+3,5,West Ham United,Crystal Palace,1,2,14025175,https://www.sofascore.com/api/v1/event/14025175/shotmap
+4,5,Wolverhampton,Leeds United,1,3,14025178,https://www.sofascore.com/api/v1/event/14025178/shotmap
+5,5,Manchester United,Chelsea,2,1,14025169,https://www.sofascore.com/api/v1/event/14025169/shotmap
+6,5,Fulham,Brentford,3,1,14025163,https://www.sofascore.com/api/v1/event/14025163/shotmap
+7,5,Bournemouth,Newcastle United,0,0,14025151,https://www.sofascore.com/api/v1/event/14025151/shotmap
+8,5,Sunderland,Aston Villa,1,1,14025172,https://www.sofascore.com/api/v1/event/14025172/shotmap
+9,5,Arsenal,Manchester City,1,1,14025154,https://www.sofascore.com/api/v1/event/14025154/shotmap
+0,6,Brentford,Manchester United,3,1,14025184,https://www.sofascore.com/api/v1/event/14025184/shotmap
+1,6,Chelsea,Brighton & Hove Albion,1,3,14025187,https://www.sofascore.com/api/v1/event/14025187/shotmap
+2,6,Crystal Palace,Liverpool,2,1,14025190,https://www.sofascore.com/api/v1/event/14025190/shotmap
+3,6,Leeds United,Bournemouth,2,2,14025196,https://www.sofascore.com/api/v1/event/14025196/shotmap
+4,6,Manchester City,Burnley,5,1,14025199,https://www.sofascore.com/api/v1/event/14025199/shotmap
+5,6,Nottingham Forest,Sunderland,0,1,14025205,https://www.sofascore.com/api/v1/event/14025205/shotmap
+6,6,Tottenham Hotspur,Wolverhampton,1,1,14025208,https://www.sofascore.com/api/v1/event/14025208/shotmap
+7,6,Aston Villa,Fulham,3,1,14025181,https://www.sofascore.com/api/v1/event/14025181/shotmap
+8,6,Newcastle United,Arsenal,1,2,14025202,https://www.sofascore.com/api/v1/event/14025202/shotmap
+9,6,Everton,West Ham United,1,1,14311407,https://www.sofascore.com/api/v1/event/14311407/shotmap
+0,7,Bournemouth,Fulham,3,1,14025211,https://www.sofascore.com/api/v1/event/14025211/shotmap
+1,7,Leeds United,Tottenham Hotspur,1,2,14025225,https://www.sofascore.com/api/v1/event/14025225/shotmap
+2,7,Arsenal,West Ham United,2,0,14025214,https://www.sofascore.com/api/v1/event/14025214/shotmap
+3,7,Manchester United,Sunderland,2,0,14025227,https://www.sofascore.com/api/v1/event/14025227/shotmap
+4,7,Chelsea,Liverpool,2,1,14025221,https://www.sofascore.com/api/v1/event/14025221/shotmap
+5,7,Aston Villa,Burnley,2,1,14025217,https://www.sofascore.com/api/v1/event/14025217/shotmap
+6,7,Everton,Crystal Palace,2,1,14025223,https://www.sofascore.com/api/v1/event/14025223/shotmap
+7,7,Newcastle United,Nottingham Forest,2,0,14025229,https://www.sofascore.com/api/v1/event/14025229/shotmap
+8,7,Wolverhampton,Brighton & Hove Albion,1,1,14025231,https://www.sofascore.com/api/v1/event/14025231/shotmap
+9,7,Brentford,Manchester City,0,1,14025219,https://www.sofascore.com/api/v1/event/14025219/shotmap
+0,8,Nottingham Forest,Chelsea,0,3,14025245,https://www.sofascore.com/api/v1/event/14025245/shotmap
+1,8,Brighton & Hove Albion,Newcastle United,2,1,14025233,https://www.sofascore.com/api/v1/event/14025233/shotmap
+2,8,Burnley,Leeds United,2,0,14025235,https://www.sofascore.com/api/v1/event/14025235/shotmap
+3,8,Crystal Palace,Bournemouth,3,3,14025237,https://www.sofascore.com/api/v1/event/14025237/shotmap
+4,8,Manchester City,Everton,2,0,14025243,https://www.sofascore.com/api/v1/event/14025243/shotmap
+5,8,Sunderland,Wolverhampton,2,0,14025247,https://www.sofascore.com/api/v1/event/14025247/shotmap
+6,8,Fulham,Arsenal,0,1,14025239,https://www.sofascore.com/api/v1/event/14025239/shotmap
+7,8,Tottenham Hotspur,Aston Villa,1,2,14025249,https://www.sofascore.com/api/v1/event/14025249/shotmap
+8,8,Liverpool,Manchester United,1,2,14025241,https://www.sofascore.com/api/v1/event/14025241/shotmap
+9,8,West Ham United,Brentford,0,2,14504827,https://www.sofascore.com/api/v1/event/14504827/shotmap
+0,9,Leeds United,West Ham United,2,1,14025265,https://www.sofascore.com/api/v1/event/14025265/shotmap
+1,9,Chelsea,Sunderland,1,2,14025261,https://www.sofascore.com/api/v1/event/14025261/shotmap
+2,9,Newcastle United,Fulham,2,1,14025269,https://www.sofascore.com/api/v1/event/14025269/shotmap
+3,9,Manchester United,Brighton & Hove Albion,4,2,14025267,https://www.sofascore.com/api/v1/event/14025267/shotmap
+4,9,Brentford,Liverpool,3,2,14025259,https://www.sofascore.com/api/v1/event/14025259/shotmap
+5,9,Arsenal,Crystal Palace,1,0,14025255,https://www.sofascore.com/api/v1/event/14025255/shotmap
+6,9,Aston Villa,Manchester City,1,0,14025257,https://www.sofascore.com/api/v1/event/14025257/shotmap
+7,9,Bournemouth,Nottingham Forest,2,0,14025253,https://www.sofascore.com/api/v1/event/14025253/shotmap
+8,9,Wolverhampton,Burnley,2,3,14025271,https://www.sofascore.com/api/v1/event/14025271/shotmap
+9,9,Everton,Tottenham Hotspur,0,3,14025263,https://www.sofascore.com/api/v1/event/14025263/shotmap
+0,10,Brighton & Hove Albion,Leeds United,3,0,14025273,https://www.sofascore.com/api/v1/event/14025273/shotmap
+1,10,Burnley,Arsenal,0,2,14025275,https://www.sofascore.com/api/v1/event/14025275/shotmap
+2,10,Crystal Palace,Brentford,2,0,14025277,https://www.sofascore.com/api/v1/event/14025277/shotmap
+3,10,Fulham,Wolverhampton,3,0,14025279,https://www.sofascore.com/api/v1/event/14025279/shotmap
+4,10,Nottingham Forest,Manchester United,2,2,14025285,https://www.sofascore.com/api/v1/event/14025285/shotmap
+5,10,Tottenham Hotspur,Chelsea,0,1,14025289,https://www.sofascore.com/api/v1/event/14025289/shotmap
+6,10,Liverpool,Aston Villa,2,0,14025281,https://www.sofascore.com/api/v1/event/14025281/shotmap
+7,10,West Ham United,Newcastle United,3,1,14025291,https://www.sofascore.com/api/v1/event/14025291/shotmap
+8,10,Manchester City,Bournemouth,3,1,14025283,https://www.sofascore.com/api/v1/event/14025283/shotmap
+9,10,Sunderland,Everton,1,1,14723615,https://www.sofascore.com/api/v1/event/14723615/shotmap
+0,11,Tottenham Hotspur,Manchester United,2,2,14025057,https://www.sofascore.com/api/v1/event/14025057/shotmap
+1,11,Everton,Fulham,2,0,14025043,https://www.sofascore.com/api/v1/event/14025043/shotmap
+2,11,West Ham United,Burnley,3,2,14025060,https://www.sofascore.com/api/v1/event/14025060/shotmap
+3,11,Sunderland,Arsenal,2,2,14025054,https://www.sofascore.com/api/v1/event/14025054/shotmap
+4,11,Chelsea,Wolverhampton,3,0,14025023,https://www.sofascore.com/api/v1/event/14025023/shotmap
+5,11,Aston Villa,Bournemouth,4,0,14025014,https://www.sofascore.com/api/v1/event/14025014/shotmap
+6,11,Brentford,Newcastle United,3,1,14025017,https://www.sofascore.com/api/v1/event/14025017/shotmap
+7,11,Crystal Palace,Brighton & Hove Albion,0,0,14025033,https://www.sofascore.com/api/v1/event/14025033/shotmap
+8,11,Nottingham Forest,Leeds United,3,1,14025051,https://www.sofascore.com/api/v1/event/14025051/shotmap
+9,11,Manchester City,Liverpool,3,0,14025048,https://www.sofascore.com/api/v1/event/14025048/shotmap
+0,12,Burnley,Chelsea,0,2,14025072,https://www.sofascore.com/api/v1/event/14025072/shotmap
+1,12,Bournemouth,West Ham United,2,2,14025063,https://www.sofascore.com/api/v1/event/14025063/shotmap
+2,12,Brighton & Hove Albion,Brentford,2,1,14025069,https://www.sofascore.com/api/v1/event/14025069/shotmap
+3,12,Fulham,Sunderland,1,0,14025075,https://www.sofascore.com/api/v1/event/14025075/shotmap
+4,12,Liverpool,Nottingham Forest,0,3,14025081,https://www.sofascore.com/api/v1/event/14025081/shotmap
+5,12,Wolverhampton,Crystal Palace,0,2,14025090,https://www.sofascore.com/api/v1/event/14025090/shotmap
+6,12,Newcastle United,Manchester City,2,1,14025087,https://www.sofascore.com/api/v1/event/14025087/shotmap
+7,12,Leeds United,Aston Villa,1,2,14025078,https://www.sofascore.com/api/v1/event/14025078/shotmap
+8,12,Arsenal,Tottenham Hotspur,4,1,14025066,https://www.sofascore.com/api/v1/event/14025066/shotmap
+9,12,Manchester United,Everton,0,1,14723574,https://www.sofascore.com/api/v1/event/14723574/shotmap
+0,13,Brentford,Burnley,3,1,14025096,https://www.sofascore.com/api/v1/event/14025096/shotmap
+1,13,Manchester City,Leeds United,3,2,14025108,https://www.sofascore.com/api/v1/event/14025108/shotmap
+2,13,Sunderland,Bournemouth,3,2,14025114,https://www.sofascore.com/api/v1/event/14025114/shotmap
+3,13,Everton,Newcastle United,1,4,14025105,https://www.sofascore.com/api/v1/event/14025105/shotmap
+4,13,Tottenham Hotspur,Fulham,1,2,14025117,https://www.sofascore.com/api/v1/event/14025117/shotmap
+5,13,Crystal Palace,Manchester United,1,2,14025102,https://www.sofascore.com/api/v1/event/14025102/shotmap
+6,13,Aston Villa,Wolverhampton,1,0,14025093,https://www.sofascore.com/api/v1/event/14025093/shotmap
+7,13,Nottingham Forest,Brighton & Hove Albion,0,2,14025111,https://www.sofascore.com/api/v1/event/14025111/shotmap
+8,13,West Ham United,Liverpool,0,2,14025120,https://www.sofascore.com/api/v1/event/14025120/shotmap
+9,13,Chelsea,Arsenal,1,1,14025099,https://www.sofascore.com/api/v1/event/14025099/shotmap
+0,14,Bournemouth,Everton,0,1,14025123,https://www.sofascore.com/api/v1/event/14025123/shotmap
+1,14,Fulham,Manchester City,4,5,14025135,https://www.sofascore.com/api/v1/event/14025135/shotmap
+2,14,Newcastle United,Tottenham Hotspur,2,2,14025141,https://www.sofascore.com/api/v1/event/14025141/shotmap
+3,14,Arsenal,Brentford,2,0,14025126,https://www.sofascore.com/api/v1/event/14025126/shotmap
+4,14,Brighton & Hove Albion,Aston Villa,3,4,14025129,https://www.sofascore.com/api/v1/event/14025129/shotmap
+5,14,Burnley,Crystal Palace,0,1,14025132,https://www.sofascore.com/api/v1/event/14025132/shotmap
+6,14,Wolverhampton,Nottingham Forest,0,1,14025144,https://www.sofascore.com/api/v1/event/14025144/shotmap
+7,14,Leeds United,Chelsea,3,1,14025138,https://www.sofascore.com/api/v1/event/14025138/shotmap
+8,14,Liverpool,Sunderland,1,1,14025147,https://www.sofascore.com/api/v1/event/14025147/shotmap
+9,14,Manchester United,West Ham United,1,1,14025150,https://www.sofascore.com/api/v1/event/14025150/shotmap
+0,15,Aston Villa,Arsenal,2,1,14025156,https://www.sofascore.com/api/v1/event/14025156/shotmap
+1,15,Bournemouth,Chelsea,0,0,14025153,https://www.sofascore.com/api/v1/event/14025153/shotmap
+2,15,Everton,Nottingham Forest,3,0,14025162,https://www.sofascore.com/api/v1/event/14025162/shotmap
+3,15,Manchester City,Sunderland,3,0,14025171,https://www.sofascore.com/api/v1/event/14025171/shotmap
+4,15,Newcastle United,Burnley,2,1,14025174,https://www.sofascore.com/api/v1/event/14025174/shotmap
+5,15,Tottenham Hotspur,Brentford,2,0,14025177,https://www.sofascore.com/api/v1/event/14025177/shotmap
+6,15,Leeds United,Liverpool,3,3,14025168,https://www.sofascore.com/api/v1/event/14025168/shotmap
+7,15,Brighton & Hove Albion,West Ham United,1,1,14025159,https://www.sofascore.com/api/v1/event/14025159/shotmap
+8,15,Fulham,Crystal Palace,1,2,14025165,https://www.sofascore.com/api/v1/event/14025165/shotmap
+9,15,Wolverhampton,Manchester United,1,4,14912436,https://www.sofascore.com/api/v1/event/14912436/shotmap
+0,16,Chelsea,Everton,2,0,14025192,https://www.sofascore.com/api/v1/event/14025192/shotmap
+1,16,Liverpool,Brighton & Hove Albion,2,0,14025198,https://www.sofascore.com/api/v1/event/14025198/shotmap
+2,16,Burnley,Fulham,2,3,14025189,https://www.sofascore.com/api/v1/event/14025189/shotmap
+3,16,Arsenal,Wolverhampton,2,1,14025183,https://www.sofascore.com/api/v1/event/14025183/shotmap
+4,16,Crystal Palace,Manchester City,0,3,14025195,https://www.sofascore.com/api/v1/event/14025195/shotmap
+5,16,Nottingham Forest,Tottenham Hotspur,3,0,14025204,https://www.sofascore.com/api/v1/event/14025204/shotmap
+6,16,Sunderland,Newcastle United,1,0,14025207,https://www.sofascore.com/api/v1/event/14025207/shotmap
+7,16,West Ham United,Aston Villa,2,3,14025210,https://www.sofascore.com/api/v1/event/14025210/shotmap
+8,16,Brentford,Leeds United,1,1,14025186,https://www.sofascore.com/api/v1/event/14025186/shotmap
+9,16,Manchester United,Bournemouth,4,4,15035359,https://www.sofascore.com/api/v1/event/15035359/shotmap
+0,17,Newcastle United,Chelsea,2,2,14025228,https://www.sofascore.com/api/v1/event/14025228/shotmap
+1,17,Bournemouth,Burnley,1,1,14025213,https://www.sofascore.com/api/v1/event/14025213/shotmap
+2,17,Brighton & Hove Albion,Sunderland,0,0,14025218,https://www.sofascore.com/api/v1/event/14025218/shotmap
+3,17,Manchester City,West Ham United,3,0,14025226,https://www.sofascore.com/api/v1/event/14025226/shotmap
+4,17,Wolverhampton,Brentford,0,2,14025232,https://www.sofascore.com/api/v1/event/14025232/shotmap
+5,17,Tottenham Hotspur,Liverpool,1,2,14025230,https://www.sofascore.com/api/v1/event/14025230/shotmap
+6,17,Everton,Arsenal,0,1,14025220,https://www.sofascore.com/api/v1/event/14025220/shotmap
+7,17,Leeds United,Crystal Palace,4,1,14025224,https://www.sofascore.com/api/v1/event/14025224/shotmap
+8,17,Aston Villa,Manchester United,2,1,14025216,https://www.sofascore.com/api/v1/event/14025216/shotmap
+9,17,Fulham,Nottingham Forest,1,0,14907281,https://www.sofascore.com/api/v1/event/14907281/shotmap
+0,18,Manchester United,Newcastle United,1,0,14025246,https://www.sofascore.com/api/v1/event/14025246/shotmap
+1,18,Nottingham Forest,Manchester City,1,2,14025248,https://www.sofascore.com/api/v1/event/14025248/shotmap
+2,18,Arsenal,Brighton & Hove Albion,2,1,14025234,https://www.sofascore.com/api/v1/event/14025234/shotmap
+3,18,Brentford,Bournemouth,4,1,14025236,https://www.sofascore.com/api/v1/event/14025236/shotmap
+4,18,Burnley,Everton,0,0,14025238,https://www.sofascore.com/api/v1/event/14025238/shotmap
+5,18,Liverpool,Wolverhampton,2,1,14025244,https://www.sofascore.com/api/v1/event/14025244/shotmap
+6,18,West Ham United,Fulham,0,1,14025252,https://www.sofascore.com/api/v1/event/14025252/shotmap
+7,18,Chelsea,Aston Villa,1,2,14025240,https://www.sofascore.com/api/v1/event/14025240/shotmap
+8,18,Sunderland,Leeds United,1,1,14025250,https://www.sofascore.com/api/v1/event/14025250/shotmap
+9,18,Crystal Palace,Tottenham Hotspur,0,1,14025242,https://www.sofascore.com/api/v1/event/14025242/shotmap
+0,19,Burnley,Newcastle United,1,3,14025258,https://www.sofascore.com/api/v1/event/14025258/shotmap
+1,19,Chelsea,Bournemouth,2,2,14025260,https://www.sofascore.com/api/v1/event/14025260/shotmap
+2,19,Nottingham Forest,Everton,0,2,14025268,https://www.sofascore.com/api/v1/event/14025268/shotmap
+3,19,West Ham United,Brighton & Hove Albion,2,2,14025272,https://www.sofascore.com/api/v1/event/14025272/shotmap
+4,19,Arsenal,Aston Villa,4,1,14025254,https://www.sofascore.com/api/v1/event/14025254/shotmap
+5,19,Manchester United,Wolverhampton,1,1,14025266,https://www.sofascore.com/api/v1/event/14025266/shotmap
+6,19,Crystal Palace,Fulham,1,1,14025262,https://www.sofascore.com/api/v1/event/14025262/shotmap
+7,19,Liverpool,Leeds United,0,0,14025264,https://www.sofascore.com/api/v1/event/14025264/shotmap
+8,19,Brentford,Tottenham Hotspur,0,0,14025256,https://www.sofascore.com/api/v1/event/14025256/shotmap
+9,19,Sunderland,Manchester City,0,0,14025270,https://www.sofascore.com/api/v1/event/14025270/shotmap
+0,20,Aston Villa,Nottingham Forest,3,1,14025276,https://www.sofascore.com/api/v1/event/14025276/shotmap
+1,20,Brighton & Hove Albion,Burnley,2,0,14025278,https://www.sofascore.com/api/v1/event/14025278/shotmap
+2,20,Wolverhampton,West Ham United,3,0,14025292,https://www.sofascore.com/api/v1/event/14025292/shotmap
+3,20,Bournemouth,Arsenal,2,3,14025274,https://www.sofascore.com/api/v1/event/14025274/shotmap
+4,20,Leeds United,Manchester United,1,1,14025284,https://www.sofascore.com/api/v1/event/14025284/shotmap
+5,20,Everton,Brentford,2,4,14025280,https://www.sofascore.com/api/v1/event/14025280/shotmap
+6,20,Newcastle United,Crystal Palace,2,0,14025288,https://www.sofascore.com/api/v1/event/14025288/shotmap
+7,20,Tottenham Hotspur,Sunderland,1,1,14025290,https://www.sofascore.com/api/v1/event/14025290/shotmap
+8,20,Fulham,Liverpool,2,2,14025282,https://www.sofascore.com/api/v1/event/14025282/shotmap
+9,20,Manchester City,Chelsea,1,1,14025286,https://www.sofascore.com/api/v1/event/14025286/shotmap
+0,21,West Ham United,Nottingham Forest,1,2,14025055,https://www.sofascore.com/api/v1/event/14025055/shotmap
+1,21,Bournemouth,Tottenham Hotspur,3,2,14025015,https://www.sofascore.com/api/v1/event/14025015/shotmap
+2,21,Brentford,Sunderland,3,0,14025027,https://www.sofascore.com/api/v1/event/14025027/shotmap
+3,21,Crystal Palace,Aston Villa,0,0,14025058,https://www.sofascore.com/api/v1/event/14025058/shotmap
+4,21,Everton,Wolverhampton,1,1,14025046,https://www.sofascore.com/api/v1/event/14025046/shotmap
+5,21,Fulham,Chelsea,2,1,14025049,https://www.sofascore.com/api/v1/event/14025049/shotmap
+6,21,Manchester City,Brighton & Hove Albion,1,1,14025061,https://www.sofascore.com/api/v1/event/14025061/shotmap
+7,21,Burnley,Manchester United,2,2,14025037,https://www.sofascore.com/api/v1/event/14025037/shotmap
+8,21,Newcastle United,Leeds United,4,3,14025052,https://www.sofascore.com/api/v1/event/14025052/shotmap
+9,21,Arsenal,Liverpool,0,0,14025019,https://www.sofascore.com/api/v1/event/14025019/shotmap
+0,22,Manchester United,Manchester City,2,0,14025079,https://www.sofascore.com/api/v1/event/14025079/shotmap
+1,22,Chelsea,Brentford,2,0,14025070,https://www.sofascore.com/api/v1/event/14025070/shotmap
+2,22,Leeds United,Fulham,1,0,14025073,https://www.sofascore.com/api/v1/event/14025073/shotmap
+3,22,Liverpool,Burnley,1,1,14025076,https://www.sofascore.com/api/v1/event/14025076/shotmap
+4,22,Sunderland,Crystal Palace,2,1,14025085,https://www.sofascore.com/api/v1/event/14025085/shotmap
+5,22,Tottenham Hotspur,West Ham United,1,2,14025089,https://www.sofascore.com/api/v1/event/14025089/shotmap
+6,22,Nottingham Forest,Arsenal,0,0,14025082,https://www.sofascore.com/api/v1/event/14025082/shotmap
+7,22,Wolverhampton,Newcastle United,0,0,14025092,https://www.sofascore.com/api/v1/event/14025092/shotmap
+8,22,Aston Villa,Everton,0,1,14025064,https://www.sofascore.com/api/v1/event/14025064/shotmap
+9,22,Brighton & Hove Albion,Bournemouth,1,1,15129445,https://www.sofascore.com/api/v1/event/15129445/shotmap
+0,23,West Ham United,Sunderland,3,1,14025122,https://www.sofascore.com/api/v1/event/14025122/shotmap
+1,23,Burnley,Tottenham Hotspur,2,2,14025104,https://www.sofascore.com/api/v1/event/14025104/shotmap
+2,23,Fulham,Brighton & Hove Albion,2,1,14025113,https://www.sofascore.com/api/v1/event/14025113/shotmap
+3,23,Manchester City,Wolverhampton,2,0,14025116,https://www.sofascore.com/api/v1/event/14025116/shotmap
+4,23,Bournemouth,Liverpool,3,2,14025095,https://www.sofascore.com/api/v1/event/14025095/shotmap
+5,23,Brentford,Nottingham Forest,0,2,14025101,https://www.sofascore.com/api/v1/event/14025101/shotmap
+6,23,Crystal Palace,Chelsea,1,3,14025107,https://www.sofascore.com/api/v1/event/14025107/shotmap
+7,23,Newcastle United,Aston Villa,0,2,14025119,https://www.sofascore.com/api/v1/event/14025119/shotmap
+8,23,Arsenal,Manchester United,2,3,14025098,https://www.sofascore.com/api/v1/event/14025098/shotmap
+9,23,Everton,Leeds United,1,1,15129439,https://www.sofascore.com/api/v1/event/15129439/shotmap
+0,24,Brighton & Hove Albion,Everton,1,1,14025128,https://www.sofascore.com/api/v1/event/14025128/shotmap
+1,24,Leeds United,Arsenal,0,4,14025134,https://www.sofascore.com/api/v1/event/14025134/shotmap
+2,24,Wolverhampton,Bournemouth,0,2,14025152,https://www.sofascore.com/api/v1/event/14025152/shotmap
+3,24,Chelsea,West Ham United,3,2,14025131,https://www.sofascore.com/api/v1/event/14025131/shotmap
+4,24,Liverpool,Newcastle United,4,1,14025137,https://www.sofascore.com/api/v1/event/14025137/shotmap
+5,24,Aston Villa,Brentford,0,1,14025125,https://www.sofascore.com/api/v1/event/14025125/shotmap
+6,24,Manchester United,Fulham,3,2,14025140,https://www.sofascore.com/api/v1/event/14025140/shotmap
+7,24,Nottingham Forest,Crystal Palace,1,1,14025143,https://www.sofascore.com/api/v1/event/14025143/shotmap
+8,24,Tottenham Hotspur,Manchester City,2,2,14025149,https://www.sofascore.com/api/v1/event/14025149/shotmap
+9,24,Sunderland,Burnley,3,0,15129444,https://www.sofascore.com/api/v1/event/15129444/shotmap
+0,25,Leeds United,Nottingham Forest,3,1,14025170,https://www.sofascore.com/api/v1/event/14025170/shotmap
+1,25,Manchester United,Tottenham Hotspur,2,0,14025176,https://www.sofascore.com/api/v1/event/14025176/shotmap
+2,25,Arsenal,Sunderland,3,0,14025158,https://www.sofascore.com/api/v1/event/14025158/shotmap
+3,25,Bournemouth,Aston Villa,1,1,14025155,https://www.sofascore.com/api/v1/event/14025155/shotmap
+4,25,Burnley,West Ham United,0,2,14025164,https://www.sofascore.com/api/v1/event/14025164/shotmap
+5,25,Fulham,Everton,1,2,14025167,https://www.sofascore.com/api/v1/event/14025167/shotmap
+6,25,Wolverhampton,Chelsea,1,3,14025182,https://www.sofascore.com/api/v1/event/14025182/shotmap
+7,25,Newcastle United,Brentford,2,3,14025179,https://www.sofascore.com/api/v1/event/14025179/shotmap
+8,25,Brighton & Hove Albion,Crystal Palace,0,1,14025161,https://www.sofascore.com/api/v1/event/14025161/shotmap
+9,25,Liverpool,Manchester City,1,2,14025173,https://www.sofascore.com/api/v1/event/14025173/shotmap
+0,26,Chelsea,Leeds United,2,2,14025188,https://www.sofascore.com/api/v1/event/14025188/shotmap
+1,26,Everton,Bournemouth,1,2,14025191,https://www.sofascore.com/api/v1/event/14025191/shotmap
+2,26,Tottenham Hotspur,Newcastle United,1,2,14025200,https://www.sofascore.com/api/v1/event/14025200/shotmap
+3,26,West Ham United,Manchester United,1,1,14025203,https://www.sofascore.com/api/v1/event/14025203/shotmap
+4,26,Aston Villa,Brighton & Hove Albion,1,0,14025206,https://www.sofascore.com/api/v1/event/14025206/shotmap
+5,26,Crystal Palace,Burnley,2,3,14025209,https://www.sofascore.com/api/v1/event/14025209/shotmap
+6,26,Manchester City,Fulham,3,0,14025212,https://www.sofascore.com/api/v1/event/14025212/shotmap
+7,26,Nottingham Forest,Wolverhampton,0,0,14025194,https://www.sofascore.com/api/v1/event/14025194/shotmap
+8,26,Sunderland,Liverpool,0,1,14025197,https://www.sofascore.com/api/v1/event/14025197/shotmap
+9,26,Brentford,Arsenal,1,1,14025185,https://www.sofascore.com/api/v1/event/14025185/shotmap
+0,27,Aston Villa,Leeds United,1,1,14025215,https://www.sofascore.com/api/v1/event/14025215/shotmap
+1,27,Brentford,Brighton & Hove Albion,0,2,14024006,https://www.sofascore.com/api/v1/event/14024006/shotmap
+2,27,Chelsea,Burnley,1,1,14024007,https://www.sofascore.com/api/v1/event/14024007/shotmap
+3,27,West Ham United,Bournemouth,0,0,14023969,https://www.sofascore.com/api/v1/event/14023969/shotmap
+4,27,Manchester City,Newcastle United,2,1,14024010,https://www.sofascore.com/api/v1/event/14024010/shotmap
+5,27,Crystal Palace,Wolverhampton,1,0,14024008,https://www.sofascore.com/api/v1/event/14024008/shotmap
+6,27,Nottingham Forest,Liverpool,0,1,14024013,https://www.sofascore.com/api/v1/event/14024013/shotmap
+7,27,Sunderland,Fulham,1,3,14024011,https://www.sofascore.com/api/v1/event/14024011/shotmap
+8,27,Tottenham Hotspur,Arsenal,1,4,14024012,https://www.sofascore.com/api/v1/event/14024012/shotmap
+9,27,Everton,Manchester United,0,1,15238290,https://www.sofascore.com/api/v1/event/15238290/shotmap
+0,28,Wolverhampton,Aston Villa,2,0,14023979,https://www.sofascore.com/api/v1/event/14023979/shotmap
+1,28,Bournemouth,Sunderland,1,1,14023970,https://www.sofascore.com/api/v1/event/14023970/shotmap
+2,28,Burnley,Brentford,3,4,14023975,https://www.sofascore.com/api/v1/event/14023975/shotmap
+3,28,Liverpool,West Ham United,5,2,14023976,https://www.sofascore.com/api/v1/event/14023976/shotmap
+4,28,Newcastle United,Everton,2,3,14023977,https://www.sofascore.com/api/v1/event/14023977/shotmap
+5,28,Leeds United,Manchester City,0,1,14023974,https://www.sofascore.com/api/v1/event/14023974/shotmap
+6,28,Brighton & Hove Albion,Nottingham Forest,2,1,14023972,https://www.sofascore.com/api/v1/event/14023972/shotmap
+7,28,Fulham,Tottenham Hotspur,2,1,14023973,https://www.sofascore.com/api/v1/event/14023973/shotmap
+8,28,Manchester United,Crystal Palace,2,1,14023978,https://www.sofascore.com/api/v1/event/14023978/shotmap
+9,28,Arsenal,Chelsea,2,1,14023971,https://www.sofascore.com/api/v1/event/14023971/shotmap
+0,29,Bournemouth,Brentford,0,0,14023980,https://www.sofascore.com/api/v1/event/14023980/shotmap
+1,29,Everton,Burnley,2,0,14023941,https://www.sofascore.com/api/v1/event/14023941/shotmap
+2,29,Leeds United,Sunderland,0,1,14023982,https://www.sofascore.com/api/v1/event/14023982/shotmap
+3,29,Wolverhampton,Liverpool,2,1,14023985,https://www.sofascore.com/api/v1/event/14023985/shotmap
+4,29,Aston Villa,Chelsea,1,4,14023986,https://www.sofascore.com/api/v1/event/14023986/shotmap
+5,29,Brighton & Hove Albion,Arsenal,0,1,14023933,https://www.sofascore.com/api/v1/event/14023933/shotmap
+6,29,Fulham,West Ham United,0,1,14023947,https://www.sofascore.com/api/v1/event/14023947/shotmap
+7,29,Manchester City,Nottingham Forest,2,2,14023984,https://www.sofascore.com/api/v1/event/14023984/shotmap
+8,29,Newcastle United,Manchester United,2,1,14023983,https://www.sofascore.com/api/v1/event/14023983/shotmap
+9,29,Tottenham Hotspur,Crystal Palace,1,3,14023981,https://www.sofascore.com/api/v1/event/14023981/shotmap
+0,30,Burnley,Bournemouth,0,0,14023988,https://www.sofascore.com/api/v1/event/14023988/shotmap
+1,30,Sunderland,Brighton & Hove Albion,0,1,14023996,https://www.sofascore.com/api/v1/event/14023996/shotmap
+2,30,Arsenal,Everton,2,0,14023987,https://www.sofascore.com/api/v1/event/14023987/shotmap
+3,30,Chelsea,Newcastle United,0,1,14023990,https://www.sofascore.com/api/v1/event/14023990/shotmap
+4,30,West Ham United,Manchester City,1,1,14023993,https://www.sofascore.com/api/v1/event/14023993/shotmap
+5,30,Crystal Palace,Leeds United,0,0,14023991,https://www.sofascore.com/api/v1/event/14023991/shotmap
+6,30,Manchester United,Aston Villa,3,1,14023994,https://www.sofascore.com/api/v1/event/14023994/shotmap
+7,30,Nottingham Forest,Fulham,0,0,14023995,https://www.sofascore.com/api/v1/event/14023995/shotmap
+8,30,Liverpool,Tottenham Hotspur,1,1,14023992,https://www.sofascore.com/api/v1/event/14023992/shotmap
+9,30,Brentford,Wolverhampton,2,2,15408501,https://www.sofascore.com/api/v1/event/15408501/shotmap
+0,31,Wolverhampton,Arsenal,2,2,14025018,https://www.sofascore.com/api/v1/event/14025018/shotmap
+1,31,Bournemouth,Manchester United,2,2,14023997,https://www.sofascore.com/api/v1/event/14023997/shotmap
+2,31,Brighton & Hove Albion,Liverpool,2,1,14024015,https://www.sofascore.com/api/v1/event/14024015/shotmap
+3,31,Fulham,Burnley,3,1,14024016,https://www.sofascore.com/api/v1/event/14024016/shotmap
+4,31,Everton,Chelsea,3,0,14024017,https://www.sofascore.com/api/v1/event/14024017/shotmap
+5,31,Leeds United,Brentford,0,0,14024018,https://www.sofascore.com/api/v1/event/14024018/shotmap
+6,31,Newcastle United,Sunderland,1,2,14024021,https://www.sofascore.com/api/v1/event/14024021/shotmap
+7,31,Aston Villa,West Ham United,2,0,14024014,https://www.sofascore.com/api/v1/event/14024014/shotmap
+8,31,Tottenham Hotspur,Nottingham Forest,0,3,14024020,https://www.sofascore.com/api/v1/event/14024020/shotmap
+0,32,West Ham United,Wolverhampton,4,0,14025029,https://www.sofascore.com/api/v1/event/14025029/shotmap
+1,32,Arsenal,Bournemouth,1,2,14025021,https://www.sofascore.com/api/v1/event/14025021/shotmap
+2,32,Brentford,Everton,2,2,14025022,https://www.sofascore.com/api/v1/event/14025022/shotmap
+3,32,Burnley,Brighton & Hove Albion,0,2,14024002,https://www.sofascore.com/api/v1/event/14024002/shotmap
+4,32,Liverpool,Fulham,2,0,14024000,https://www.sofascore.com/api/v1/event/14024000/shotmap
+5,32,Crystal Palace,Newcastle United,2,1,14023999,https://www.sofascore.com/api/v1/event/14023999/shotmap
+6,32,Nottingham Forest,Aston Villa,1,1,14025025,https://www.sofascore.com/api/v1/event/14025025/shotmap
+7,32,Sunderland,Tottenham Hotspur,1,0,14025026,https://www.sofascore.com/api/v1/event/14025026/shotmap
+8,32,Chelsea,Manchester City,0,3,14023998,https://www.sofascore.com/api/v1/event/14023998/shotmap
+9,32,Manchester United,Leeds United,1,2,14025024,https://www.sofascore.com/api/v1/event/14025024/shotmap
+0,33,Brentford,Fulham,0,0,14025031,https://www.sofascore.com/api/v1/event/14025031/shotmap
+1,33,Leeds United,Wolverhampton,3,0,14025036,https://www.sofascore.com/api/v1/event/14025036/shotmap
+2,33,Newcastle United,Bournemouth,1,2,14025040,https://www.sofascore.com/api/v1/event/14025040/shotmap
+3,33,Tottenham Hotspur,Brighton & Hove Albion,2,2,14025042,https://www.sofascore.com/api/v1/event/14025042/shotmap
+4,33,Chelsea,Manchester United,0,1,14025032,https://www.sofascore.com/api/v1/event/14025032/shotmap
+5,33,Aston Villa,Sunderland,4,3,14025030,https://www.sofascore.com/api/v1/event/14025030/shotmap
+6,33,Everton,Liverpool,1,2,14025035,https://www.sofascore.com/api/v1/event/14025035/shotmap
+7,33,Nottingham Forest,Burnley,4,1,14025041,https://www.sofascore.com/api/v1/event/14025041/shotmap
+8,33,Manchester City,Arsenal,2,1,14025039,https://www.sofascore.com/api/v1/event/14025039/shotmap
+9,33,Crystal Palace,West Ham United,0,0,14025034,https://www.sofascore.com/api/v1/event/14025034/shotmap
+0,34,Brighton & Hove Albion,Chelsea,3,0,14024001,https://www.sofascore.com/api/v1/event/14024001/shotmap
+1,34,Bournemouth,Leeds United,2,2,14025044,https://www.sofascore.com/api/v1/event/14025044/shotmap
+2,34,Burnley,Manchester City,0,1,14024003,https://www.sofascore.com/api/v1/event/14024003/shotmap
