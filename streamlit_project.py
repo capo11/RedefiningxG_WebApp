@@ -675,12 +675,15 @@ def showShots():
 
 
 def showPlayers():
-    useSpecific = st.checkbox("Use a League-Specific Model")
-    useElo = st.checkbox("Use the teams' Elo Ratings")
+    # useSpecific = st.checkbox("Use a League-Specific Model")
+    # useElo = st.checkbox("Use the teams' Elo Ratings")
+    useSpecific = True
+    useElo = True
     if useElo == True:
         elo = True
         if optionMenu1 == "Serie A":
-            modelName = 'ITA_full'
+            # modelName = 'ITA_full'
+            modelName = 'ITA_2425'
         elif optionMenu1 == "Premier League":
             modelName = 'ENG_full'
         elif optionMenu1 == "La Liga":
@@ -704,11 +707,11 @@ def showPlayers():
     if useSpecific != True:
         shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
     else:
-        shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
+        shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
     shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
     
     photoStrikers(shotsDF)
-    photoKeepers(shotsDF)
+    # photoKeepers(shotsDF)
 
     
 
