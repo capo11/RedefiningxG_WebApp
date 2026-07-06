@@ -69,20 +69,21 @@ def cleanDataset(df, elo=False, minute=True):
   # One-Hot Encoding
   x = pd.get_dummies(df, columns=['position'], prefix='position', drop_first=False)
   x = pd.get_dummies(x, columns=['situation'], prefix='situation', drop_first=False)
-  x = pd.get_dummies(x, columns=['bodyPart'], prefix='bodyPart', drop_first=False)
+#   x = pd.get_dummies(x, columns=['bodyPart'], prefix='bodyPart', drop_first=False)
+  x = pd.get_dummies(x, columns=['body_part'], prefix='bodyPart', drop_first=False)
 
 
 
   # Normalizations
   if minute == True:
     x['minute'] = x['minute']/90
-  x['rating'] = x['rating']/100
+  x['rating'] = (x['rating'].astype(int))/100
   if elo == True:
-    x['eloTeam'] = x['eloTeam']/2168
+    x['eloTeam'] = x['eloTeam']/2336
   x['keeperRating'] = (x['keeperRating'].astype(int))/100
   if elo == True:
-    x['eloOpponent'] = x['eloOpponent']/2168
-  x['distance'] = x['distance']/120
+    x['eloOpponent'] = x['eloOpponent']/2336
+  x['distance'] = x['distance']/105
   x['angle'] = x['angle']/90
 
   # Conversions
@@ -94,19 +95,29 @@ def cleanDataset(df, elo=False, minute=True):
   x['situation_corner'] = x['situation_corner'].astype(int)
   x['situation_fast-break'] = x['situation_fast-break'].astype(int)
   x['situation_free-kick'] = x['situation_free-kick'].astype(int)
-#   x['situation_penalty'] = x['situation_penalty'].astype(int)
   x['situation_regular'] = x['situation_regular'].astype(int)
   x['situation_set-piece'] = x['situation_set-piece'].astype(int)
   x['situation_throw-in-set-piece'] = x['situation_throw-in-set-piece'].astype(int)
+  # x['situation_Penalty'] = x['situation_Penalty'].astype(int)
 
   x['bodyPart_head'] = x['bodyPart_head'].astype(int)
-  x['bodyPart_weak-foot'] = x['bodyPart_weak-foot'].astype(int)
+  x['bodyPart_weakFoot'] = x['bodyPart_weakFoot'].astype(int)
   x['bodyPart_other'] = x['bodyPart_other'].astype(int)
-  x['bodyPart_strong-foot'] = x['bodyPart_strong-foot'].astype(int)
+  x['bodyPart_strongFoot'] = x['bodyPart_strongFoot'].astype(int)
 
   y = df['goal']
   x['isHome'] = x['isHome'].astype(int)
-  x = x.drop(columns=['goal', 'player', 'team', 'keeper', 'opponent', 'x', 'y', 'xg', 'homeTeam', 'awayTeam', 'index', 'round'])
+#   x = x.drop(columns=['goal', 'player', 'team', 'keeper', 'opponent', 'x', 'y', 'xg', 'homeTeam', 'awayTeam', 'index', 'round'])
+  if 'week' in x.columns:
+    x = x.drop(columns=['week'])
+  if 'round' in x.columns:
+    x = x.drop(columns=['round'])
+  if 'Unnamed: 0' in x.columns:
+    x = x.drop(columns=['Unnamed: 0'])
+  if 'date' in df.columns and 'teamId' in df.columns:
+    x = x.drop(columns=['game_index', 'date', 'home_team', 'away_team', 'team', 'teamId', 'player', 'playerId', 'keeper', 'opponent', 'x', 'y', 'xg', 'goal'])
+  else:
+    x = x.drop(columns=['game_index', 'home_team', 'away_team', 'team', 'player', 'player_id', 'keeper', 'opponent', 'x', 'y', 'xg', 'goal'])
   return x, y
 
 def getXTrain(df, elo=False, minute=True, over='none', k=15, sampling_strategy='none', test_size=0.2):
@@ -133,9 +144,10 @@ def getXTrain(df, elo=False, minute=True, over='none', k=15, sampling_strategy='
     
     return X_train, x
 
-def predictLocalGame(game, model, elo=False, minute=True, specific=False):
+def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific=False):
   if optionMenu1 == "Serie A":
-    allShots = pd.read_csv('datasets/seriea2425_id.csv')
+    # allShots = pd.read_csv('datasets/seriea2425_id.csv')
+    allShots = pd.read_csv('datasets/sofascore/seriea_2526.csv')
   elif optionMenu1 == "Premier League":
     allShots = pd.read_csv('datasets/bpl2425_id.csv')
   elif optionMenu1 == "La Liga":
@@ -148,13 +160,18 @@ def predictLocalGame(game, model, elo=False, minute=True, specific=False):
     allShots = allShots.drop(columns=['Unnamed: 0.1'])
   if 'Unnamed: 0' in allShots.columns:
     allShots = allShots.drop(columns=['Unnamed: 0'])
-  allShots = allShots.drop(columns=['playerID', 'keeperID'])
-  shotmap = allShots.loc[(allShots['homeTeam'] == game['home_team']) & (allShots['awayTeam'] == game['away_team'])]
+  if 'playerID' in allShots.columns:
+    allShots = allShots.drop(columns=['playerID'])
+  if 'keeperID' in allShots.columns:
+    allShots = allShots.drop(columns=['keeperID'])
+#   allShots = allShots.drop(columns=['playerID', 'keeperID'])
+  shotmap = allShots.loc[(allShots['home_team'] == homeTeam) & (allShots['away_team'] == awayTeam)]
   shotmap = shotmap.reset_index()
-  shotmap = shotmap.drop(columns=['level_0'])
+  if 'level_0' in shotmap.columns:
+      shotmap = shotmap.drop(columns=['level_0'])
   if minute==False:
     shotmap = shotmap.drop(columns=['minute'])
-  shotmap = shotmap.drop(columns=['index', 'round', 'homeTeam', 'awayTeam'])
+  shotmap = shotmap.drop(columns=['index', 'round', 'home_team', 'away_team'])
   shotmap = shotmap.dropna(subset=['xg'])
   shotmap = shotmap.loc[shotmap['position'] != 'G']
   if elo==False:
@@ -180,7 +197,8 @@ def predictLocalGame(game, model, elo=False, minute=True, specific=False):
         df = df.drop(columns=['Unnamed: 0'])
   else:
     if optionMenu1 == "Serie A":
-        df = pd.read_csv('datasets/seriea_joined_new.csv')
+        # df = pd.read_csv('datasets/seriea_joined_new.csv')
+        df = pd.read_csv('datasets/sofascore/seriea_2425.csv')
         df = df.drop(columns=['Unnamed: 0'])
     elif optionMenu1 == "Premier League":
         df = pd.read_csv('datasets/bpl_joined_id.csv')
@@ -199,15 +217,19 @@ def predictLocalGame(game, model, elo=False, minute=True, specific=False):
   if elo==False:
     df = df.drop(columns=['eloTeam', 'eloOpponent'])
   df_homeShots = pd.concat([df, homeShots]).reset_index()
-  df_homeShots = df_homeShots.drop(columns=['level_0'])
+  if 'level_0' in df_homeShots.columns:
+      df_homeShots = df_homeShots.drop(columns=['level_0'])
   df_homeShots = df_homeShots.loc[df_homeShots['situation'] != 'penalty'].reset_index()
-  df_homeShots = df_homeShots.drop(columns=['level_0'])
+  if 'level_0' in df_homeShots.columns:
+      df_homeShots = df_homeShots.drop(columns=['level_0'])
   df_x, df_y = cleanDataset(df_homeShots, elo=elo, minute=minute)
 
   homeShots_clean = df_x.tail(len(homeShots))
 #   homeShots_clean = homeShots_clean.drop(columns=['index'])
   homeShots_clean = homeShots_clean.reset_index()
   homeShots_clean = homeShots_clean.drop(columns=['index'])
+  if 'level_0' in homeShots_clean:
+      homeShots_clean = homeShots_clean.drop(columns='level_0')
   homeXgPred = model.predict_proba(homeShots_clean)[:, 1]
 
   homePred = model.predict(homeShots_clean)
@@ -225,14 +247,18 @@ def predictLocalGame(game, model, elo=False, minute=True, specific=False):
   homeShots['diff'] = homeShots['xgPred']-homeShots['xg']
 
   df_awayShots = pd.concat([df, awayShots]).reset_index()
-  df_awayShots = df_awayShots.drop(columns=['level_0'])
+  if 'level_0' in df_awayShots.columns:
+      df_awayShots = df_awayShots.drop(columns=['level_0'])
   df_awayShots = df_awayShots.loc[df_awayShots['situation'] != 'penalty'].reset_index()
-  df_awayShots = df_awayShots.drop(columns=['level_0'])
+  if 'level_0' in df_awayShots.columns:
+      df_awayShots = df_awayShots.drop(columns=['level_0'])
   df_x, df_y = cleanDataset(df_awayShots, elo=elo, minute=minute)
   awayShots_clean = df_x.tail(len(awayShots))
 #   awayShots_clean = awayShots_clean.drop(columns=['index'])
   awayShots_clean = awayShots_clean.reset_index()
   awayShots_clean = awayShots_clean.drop(columns=['index'])
+  if 'level_0' in awayShots_clean:
+      awayShots_clean = awayShots_clean.drop(columns='level_0')
   awayXgPred = model.predict_proba(awayShots_clean)[:, 1]
   awayPred = model.predict(awayShots_clean)
   awayShots['goalPred'] = awayPred
@@ -264,97 +290,111 @@ def predictLocalGame(game, model, elo=False, minute=True, specific=False):
   return stats
 
 def plotShots(teamShots):
-    pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='#22312b', half=True)
-    fig,axs = pitch.draw(figsize=(8,4), ncols=2)
-    fig.set_facecolor('#22312b')
-    axs[0].patch.set_facecolor('#22312b')
-    axs[0].set_title("Sofascore xG", color="white")
-    axs[1].patch.set_facecolor('#22312b')
-    axs[1].set_title("Model xG", color="white")
+    with st.expander("Visualize the Shotmap for the specific team in the match"):
+        pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='#22312b', half=True)
+        fig,axs = pitch.draw(figsize=(8,4), ncols=2)
+        fig.set_facecolor('#22312b')
+        axs[0].patch.set_facecolor('#22312b')
+        axs[0].set_title("Sofascore xG", color="white")
+        axs[1].patch.set_facecolor('#22312b')
+        axs[1].set_title("Model xG", color="white")
 
-    legend1 = [
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Strong Foot'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Weak Foot'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Head'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='blue', markersize=6, label='Other')
-    ]
-    
-    legend2 = [
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Model xG > Sofascore xG'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Model xG = Sofascore xG'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Model xG < Sofascore xG')
-    ]
+        legend1 = [
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Strong Foot'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Weak Foot'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Head'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='blue', markersize=6, label='Other')
+        ]
+        
+        legend2 = [
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Model xG > Sofascore xG'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Model xG = Sofascore xG'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Model xG < Sofascore xG')
+        ]
 
-    axs[0].legend(handles=legend1, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
-    axs[1].legend(handles=legend2, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
-    descriptions = []
-    for i in teamShots.index:
-        if(teamShots.loc[i]['goal'] == 0):
-            shotOutcome = 'No Goal'
-        else:
-            shotOutcome = 'Goal'
-        description = str(i+1) + ' - ' + teamShots.loc[i]['player'] + ' - ' + shotOutcome + ' (' + str(teamShots.loc[i]['xg']) + ' xG)'
-        # print(shotDescription)
-        descriptions.append(description)
-        x = 120-teamShots.loc[i]['x']
-        y = teamShots.loc[i]['y']
-        if(teamShots.loc[i]['bodyPart'] == 'strong-foot'):
-            color='green'
-        elif(teamShots.loc[i]['bodyPart'] == 'weak-foot'):
-            color='red'
-        elif(teamShots.loc[i]['bodyPart'] == 'head'):
-            color='yellow'
-        elif(teamShots.loc[i]['bodyPart'] == 'other'):
-            color='blue'
-        pitch.scatter(
-            x=x, 
-            y=y,
-            ax=axs[0],
-            s = shotsMultiplier*teamShots.loc[i]['xg'],
-            c=color,
-            edgecolors='white')
-        if(teamShots.loc[i]['xg']<teamShots.loc[i]['xgPred']):
-            color='green'
-        elif(teamShots.loc[i]['xg']>teamShots.loc[i]['xgPred']):
-            color='red'
-        else:
-            color='yellow'
-        pitch.scatter(
-            x=x, 
-            y=y,
-            ax=axs[1],
-            s = shotsMultiplier*teamShots.loc[i]['xgPred'],
-            c=color,
-            edgecolors='white')
-    st.pyplot(fig)
-    return descriptions
+        axs[0].legend(handles=legend1, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
+        axs[1].legend(handles=legend2, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
+        descriptions = []
+        for i in teamShots.index:
+            if(teamShots.loc[i]['goal'] == 0):
+                shotOutcome = ''
+            else:
+                shotOutcome = ' (Goal)'
+            description = str(i+1) + ' - ' + teamShots.loc[i]['player'] + ' - ' + ' (' + str(round(teamShots.loc[i]['xg'], 2)) + ' xG)' + shotOutcome
+            # print(shotDescription)
+            descriptions.append(description)
+            x = 120-teamShots.loc[i]['x']
+            y = teamShots.loc[i]['y']
+            if(teamShots.loc[i]['body_part'] == 'strongFoot'):
+                color='green'
+            elif(teamShots.loc[i]['body_part'] == 'weakFoot'):
+                color='red'
+            elif(teamShots.loc[i]['body_part'] == 'head'):
+                color='yellow'
+            elif(teamShots.loc[i]['body_part'] == 'other'):
+                color='blue'
+            pitch.scatter(
+                x=x, 
+                y=y,
+                ax=axs[0],
+                s = shotsMultiplier*teamShots.loc[i]['xg'],
+                c=color,
+                edgecolors='white')
+            if(teamShots.loc[i]['xg']<teamShots.loc[i]['xgPred']):
+                color='green'
+            elif(teamShots.loc[i]['xg']>teamShots.loc[i]['xgPred']):
+                color='red'
+            else:
+                color='yellow'
+            pitch.scatter(
+                x=x, 
+                y=y,
+                ax=axs[1],
+                s = shotsMultiplier*teamShots.loc[i]['xgPred'],
+                c=color,
+                edgecolors='white')
+        st.pyplot(fig)
+        return descriptions
 
-def plotShap(shapValues, elo):
+def plotShap(shapValues, elo, shot):
+    # print("shot:", shot)
     features = []
     shap_values = []
     values = []
+    dict = []
+    # shapValues = shapValues[1:]
+    # shot = shot[1:]
+    # print(shapValues)
     for (i, feature) in enumerate(shapValues.data.index):
         # print(i,feature)
         features.append(feature)
-        shap_values.append(round(shapValues.values[i], 2))
+        shapValue = round(shapValues.values[i], 2)
+        shap_values.append(shapValue)
+        # print(feature, shapValue)
+        dict.append({
+            "Feature": feature,
+            "ShapValue": shapValue
+        })
     if elo == True:
-        for (i, value) in enumerate(shapValues.data):
+        for (i, value) in enumerate(shot):
             # print(i, value)
             if(i==0):
                 value = int(value*90)   #minuto
-            elif (i==1):
+            elif (i==8):
                 value = int(value)  #differenza goal
-            elif(i==2 or i==4):
+            elif(i==3 or i==4):
                 value = int(value*100)  #ratings
-            elif(i==3 or i==5):
+            elif(i==2 or i==5):
                 value = int(value*2168) #elos
+            elif(i==6):
+                value = value*105   #distanza
             elif(i==7):
-                value = value*120   #distanza
-            elif(i==8):
                 value = value*90    #angolo
             else:
-                value = int(value)
+                if i!=0:
+                    value = int(value)
             values.append(value)
+            dict[i]["Value"] = value
     else:
        for (i, value) in enumerate(shapValues.data):
             # print(i, value)
@@ -373,20 +413,26 @@ def plotShap(shapValues, elo):
             values.append(value)
     # print(features)
     # print(values)
+    # print(dict)
     if(elo == True):
-        features = ['Minute','Goal Difference', 'Shooter Rating', 'Team Elo', 'Keeper Rating', 'Opponent Elo', 'Plays Home', 'Distance', 'Angle', 'Position - Defender', 'Position - Forward', 'Position - Midfielder', 'Situazione - Assisted', 'Situation - Corner Kick', 'Situation - Fast-Break', 'Situation - Free Kick', 'Situation - Regular', 'Situation - Set Piece', 'Situation - Throw-In', 'Body Part - Head', 'Body Part - Other', 'Body Part - Strong Foot', 'Body Part - Weak Foot']
+        features = ['Minute','Plays Home', 'Team Elo', 'Shooter Rating', 'Keeper Rating', 'Opponent Elo', 'Distance', 'Angle', 'Goal Difference', 'Position - Defender', 'Position - Forward', 'Position - Midfielder', 'Situation - Assisted', 'Situation - Corner Kick', 'Situation - Fast-Break', 'Situation - Free Kick', 'Situation - Regular', 'Situation - Set Piece', 'Situation - Throw-In', 'Body Part - Head', 'Body Part - Other', 'Body Part - Strong Foot', 'Body Part - Weak Foot']
     else:
         features = ['Minute','Goal Difference', 'Shooter Rating', 'Keeper Rating', 'Plays Home', 'Distance', 'Angle', 'Position - Defender', 'Position - Forward', 'Position - Midfielder', 'Situazione - Assisted', 'Situation - Corner Kick', 'Situation - Fast-Break', 'Situation - Free Kick', 'Situation - Regular', 'Situation - Set Piece', 'Situation - Throw-In', 'Body Part - Head', 'Body Part - Other', 'Body Part - Strong Foot', 'Body Part - Weak Foot']
     features_values = []
     if(elo==True):
         for i in range(0, len(features)):
-            if(i<=8 and i!=6):
-                features_values.append(str(features[i]) + ': ' + str(round(values[i], 2)))
+            if(i<=9 and i!=1):
+                desc = str(features[i]) + ': ' + str(round(values[i], 2))
+                # features_values.append(str(features[i]) + ': ' + str(round(values[i], 2)))
             else:
                 if(values[i] == 1):
-                    features_values.append(str(features[i]) + ': Yes')
+                    desc = str(features[i]) + ': Yes'
+                    # features_values.append(str(features[i]) + ': Yes')
                 else:
-                    features_values.append(str(features[i]) + ': No')
+                    desc = str(features[i]) + ': No'
+                    # features_values.append(str(features[i]) + ': No')
+            features_values.append(desc)
+            dict[i]['Description'] = desc
     else:
         for i in range(0, len(features)):
             if(i<=6 and i!=4):
@@ -397,26 +443,45 @@ def plotShap(shapValues, elo):
                 else:
                     features_values.append(str(features[i]) + ': No')
     # print(features_values)
+    # print(dict)
+    dictDF = pd.DataFrame(dict)
+    # print(dictDF)
+    # st.write(pd.DataFrame(dict))
 
-    shap_values = np.array(shap_values)
-    sorted_indices = np.argsort(np.abs(shap_values))[10:]
-    sorted_shap_values = shap_values[sorted_indices]
-    sorted_feature_names = [features_values[i] for i in sorted_indices]
-    fig = plt.figure(figsize=(8, 6))
-    bars = plt.barh(sorted_feature_names, sorted_shap_values, color=["green" if v > 0 else "red" for v in sorted_shap_values])
-    plt.xlabel("Shapley Value", color="white")
-    plt.ylabel("Feature", color="white")
-    plt.title("Which features affect the shot?", color="white")
-    plt.axvline(0, color="white", linewidth=0.8, linestyle="--")  # Linea verticale per il riferimento a zero
-    # plt.grid(axis="x", linestyle="--", alpha=0.7)
-    plt.tick_params(axis='both', colors='white')
-    for pos in ['right', 'top', 'bottom', 'left']: 
-        plt.gca().spines[pos].set_visible(False) 
+    top10 = dictDF.reindex(dictDF["ShapValue"].abs().sort_values(ascending=False).index).head(10)
+    shapvalues_array = top10["ShapValue"].to_numpy()[::-1]
+    descriptions_array = top10["Description"].to_numpy()[::-1]
+    
 
 
-    # Mostrare il grafico
-    # plt.show()
-    st.pyplot(fig, transparent=True)
+    # shap_values = np.array(shap_values)
+    # sorted_indices = np.argsort(np.abs(shap_values))[::-1][:10]
+    # sorted_shap_values = shap_values[sorted_indices]
+    # print(features, values)
+    # print("Shap Values:", shap_values)
+    # print("Sorted Shap Values:", sorted_shap_values)
+    # features_values = features_values.pop(0)
+    # features_values = features_values[1:]
+    # print("Features Values:", features_values)
+    # print(len(features_values), len(sorted_indices))
+    # sorted_feature_names = [features_values[i] for i in sorted_indices]
+    # print("Sorted Features Names:", sorted_feature_names)
+    with st.expander("See which features influenced the prediction"):
+        fig = plt.figure(figsize=(8, 6))
+        bars = plt.barh(descriptions_array, shapvalues_array, color=["green" if v > 0 else "red" for v in shapvalues_array])
+        plt.xlabel("Shapley Value", color="white")
+        plt.ylabel("Feature", color="white")
+        plt.title("Which features affect the shot?", color="white")
+        plt.axvline(0, color="white", linewidth=0.8, linestyle="--")  # Linea verticale per il riferimento a zero
+        # plt.grid(axis="x", linestyle="--", alpha=0.7)
+        plt.tick_params(axis='both', colors='white')
+        for pos in ['right', 'top', 'bottom', 'left']: 
+            plt.gca().spines[pos].set_visible(False) 
+
+
+        # Mostrare il grafico
+        # plt.show()
+        st.pyplot(fig, transparent=True)
 
     
     # plotData = pd.DataFrame({
@@ -451,14 +516,17 @@ def plotShap(shapValues, elo):
     # st.plotly_chart(fig)
 
 def showShots():
-    useSpecific = st.checkbox("Use a League-Specific Model")
+    # useSpecific = st.checkbox("Use a League-Specific Model")
+    useSpecific = True
     if useSpecific != True:
         df = pd.read_csv('datasets/top5_joined_id.csv')
         df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
     else:
         if optionMenu1 == "Serie A":
-            df = pd.read_csv('datasets/seriea_joined_new.csv')
-            df = df.drop(columns=['Unnamed: 0'])
+            # df = pd.read_csv('datasets/seriea_joined_new.csv')
+            df = pd.read_csv('datasets/sofascore/seriea_2425.csv')
+            if 'Unnamed: 0' in df.columns:
+                df = df.drop(columns=['Unnamed: 0'])
             # st.dataframe(df)
         elif optionMenu1 == "Premier League":
             df = pd.read_csv('datasets/bpl_joined_id.csv')
@@ -477,12 +545,14 @@ def showShots():
             df = pd.read_csv('datasets/ligue1_joined_id.csv')
             # print(df.columns)
             df = df.drop(columns=['playerID', 'keeperID'])
-    useElo = st.checkbox("Use the teams' Elo Ratings")
+    # useElo = st.checkbox("Use the teams' Elo Ratings")
+    useElo = True
     if useElo == True:
         elo = True
         global modelName
         if optionMenu1 == "Serie A":
-            modelName = 'ITA_full'
+            # modelName = 'ITA_full'
+            modelName = 'ITA_2425'
         elif optionMenu1 == "Premier League":
             modelName = 'ENG_full'
         elif optionMenu1 == "La Liga":
@@ -509,7 +579,7 @@ def showShots():
     else:
         model = joblib.load('models/' + modelName + '.sav')
 
-    X_train, X = getXTrain(df, elo=elo, minute=True)
+    X_train, y = getXTrain(df, elo=elo, minute=True)
     explainer = shap.Explainer(model, X_train)
 
 
@@ -528,7 +598,8 @@ def showShots():
 
 
     if optionMenu1 == "Serie A":
-        schedule = pd.read_csv('serieaSchedule.csv')
+        # schedule = pd.read_csv('serieaSchedule.csv')
+        schedule = pd.read_csv('schedules/seriea.csv')
     elif optionMenu1 == "Premier League":
         schedule = pd.read_csv('bplSchedule.csv')
     elif optionMenu1 == "La Liga":
@@ -542,27 +613,35 @@ def showShots():
     teams = np.unique(schedule['home_team'])
     scheduleTeam = st.selectbox("Select a Team", teams, index=None)
     if scheduleTeam:
-        schedule = schedule.drop(columns='Unnamed: 0')
+        if 'Unnamed: 0' in schedule.columns:
+            schedule = schedule.drop(columns='Unnamed: 0')
         scheduleDone = schedule[schedule['home_score'].notna()]
         # scheduleDone = schedule.loc[schedule['week']<=lastRound]
         scheduleDone = scheduleDone.loc[(scheduleDone['home_team'] == scheduleTeam) | (scheduleDone['away_team'] == scheduleTeam)]
         descriptions = []
         for i in scheduleDone.index:
-            description = 'Round ' + str(scheduleDone.loc[i]['week']) + ': ' +  scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
+            description = 'Round ' + str(scheduleDone.loc[i]['round']) + ': ' +  scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
             descriptions.append(description)
         scheduleDone['description'] = descriptions
         gameDescription = st.selectbox('Select a Match', scheduleDone['description'], index=None)
 
         if gameDescription:
             gameIndex = scheduleDone.loc[scheduleDone['description'] == gameDescription].index[0]
+            homeTeam = scheduleDone.loc[i]['home_team']
+            awayTeam = scheduleDone.loc[i]['away_team']
+            homeXg = round(statsDF.loc[gameIndex]['homeXg'], 2)
+            awayXg = round(statsDF.loc[gameIndex]['awayXg'], 2)
+            homeXgPred = round(statsDF.loc[gameIndex]['homeXgPred'], 2)
+            awayXgPred = round(statsDF.loc[gameIndex]['awayXgPred'], 2)
             st.write("Sofascore xG:")
-            displayScore(statsDF.loc[gameIndex]['homeXg'], statsDF.loc[gameIndex]['awayXg'], scheduleDone.loc[i]['home_team'], scheduleDone.loc[i]['away_team'])
+            displayScore(homeXg, awayXg, homeTeam, awayTeam)
             st.write("Model xG:")
-            displayScore(statsDF.loc[gameIndex]['homeXgPred'], statsDF.loc[gameIndex]['awayXgPred'], scheduleDone.loc[i]['home_team'], scheduleDone.loc[i]['away_team'])
+            displayScore(homeXgPred, awayXgPred, homeTeam, awayTeam)
             # st.error("Sofascore xG: " + str(statsDF.loc[gameIndex]['homeXg']) + ' - ' + str(statsDF.loc[gameIndex]['awayXg']))
             # st.info("Model xG: " + str(statsDF.loc[gameIndex]['homeXgPred']) + ' - ' + str(statsDF.loc[gameIndex]['awayXgPred']))
-            stats = predictLocalGame(scheduleDone.loc[gameIndex], model, elo=elo, minute=True, specific=useSpecific)
-            gameShots = shotsDF.loc[shotsDF['gameIndex'] == gameIndex]
+            stats = predictLocalGame(homeTeam, awayTeam, model, elo=elo, minute=True, specific=useSpecific)
+            # gameShots = shotsDF.loc[shotsDF['gameIndex'] == gameIndex]
+            gameShots = shotsDF.loc[(shotsDF['home_team'] == homeTeam) & (shotsDF['away_team'] == awayTeam)]
             
             
             home_team = scheduleDone.loc[gameIndex]['home_team']
@@ -580,8 +659,10 @@ def showShots():
                     
                     # st.error("Sofascore xG: " + str(teamShots.loc[shotIndex]['xg']))
                     # st.info("Model xG: " + str(teamShots.loc[shotIndex]['xgPred']))
-                    displayXg(teamShots.loc[shotIndex]['xg'], teamShots.loc[shotIndex]['xgPred'])
+                    displayXg(round(teamShots.loc[shotIndex]['xg'], 2), round(teamShots.loc[shotIndex]['xgPred'], 2))
                     
+                    # print(len(stats['homeShots_clean']), len(stats['awayShots_clean']))
+                    # print(stats['homeShots_clean'], stats['awayShots_clean'])
                     if(selectedTeam == home_team):
                         shot = stats['homeShots_clean'].loc[shotIndex]
                     elif(selectedTeam == away_team):
@@ -589,7 +670,7 @@ def showShots():
                         shot = stats['awayShots_clean'].loc[shotIndex]
                     # print(shot)
                     shapValues = explainer(shot, check_additivity=False)
-                    plotShap(shapValues, elo)
+                    plotShap(shapValues, elo, shot)
                     showViolinPlot(specific=useSpecific, elo=elo)
 
 
@@ -1053,110 +1134,120 @@ def photoKeepers(shotsDF):
 
 def showViolinPlot(specific, elo):
     # print("Model + " + str(modelName))
-    st.markdown("<h1 style='text-align: center;'>How Does the Model Think?</h1>", unsafe_allow_html=True)
-    col1, col2 = st.columns(2)
-    with col1:
-        if specific == True:
-            st.image("violinPlots/" + modelName + ".png")
-        else:
-            if elo==True:
-                st.image("violinPlots/TOP5_full.png")
+    with st.expander("See how does the model reasons"):
+        st.markdown("<h1 style='text-align: center;'>How Does the Model Think?</h1>", unsafe_allow_html=True)
+        col1, col2 = st.columns(2)
+        with col1:
+            if specific == True:
+                st.image("violinPlots/" + modelName + ".png")
             else:
-                st.image("violinPlots/TOP5_minute.png")
-    with col2:
-        st.write("## Key Aspects:")
-        match modelName:
-            case "ITA_minute":
-                st.markdown("""
-                - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
-                    - **Serie A is the league in which Fast-Breaks influence positively the most**
-                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
-                    - **Serie A is the league in which Corner Kicks influence negatively the most**
-                - Serie A is the only league in which the shot's **angle** does not have a clear trend
-                - A low value for the **minute** could affect negatively the probability, much more than in other leagues 
-                    - That could implicate that teams "study themselves" more in the first minutes
-                - Serie A is the only league in which being in a **disadvantage** influences negatively a shot probability
-                    - Having an advantage influences slightly positively the probabilities
-                """)
-            case "ITA_full":
-                st.markdown("""
-                - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
-                    - **Serie A is the league in which Fast-Breaks influence positively the most**
-                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
-                    - **Serie A is the league in which Corner Kicks influence negatively the most**
-                - A low value for the **minute** could affect negatively the probability, much more than in other leagues 
-                    - That could implicate that teams "study themselves" more in the first minutes
-                - Serie A is the only league in which being in a **disadvantage** influences negatively a shot probability
-                    - Having an advantage influences slightly positively the probabilities
-                - A high **ELO Rating** gives a slight advantage
-                """)
-            case "ENG_minute":
-                st.markdown("""
-                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
-                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
-                - A low value for the **minute** does **not** affect the probabilities like in other leagues
-                    - Teams do not "waste time" studying the opponent
-                    - **Probabilities get higher in the last minutes**
-                - Having an **advantage** influences positively the probabilities
-                    - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
-                - **Premier League is the league which influences most negatively set pieces**
-                    - Premier League is also **the only league which does not influence positively free kicks**
-                """)
+                if elo==True:
+                    st.image("violinPlots/TOP5_full.png")
+                else:
+                    st.image("violinPlots/TOP5_minute.png")
+        with col2:
+            st.write("## Key Aspects:")
+            match modelName:
+                case "ITA_2425":
+                    st.markdown("""
+                    - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
+                        - **Serie A is the league in which Fast-Breaks influence positively the most**
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                        - **Serie A is the league in which Corner Kicks influence negatively the most**
+                    - Being a good player does not affect the shot's probability, but having a low shooting ability affects deeply the scoring chances
+                        - At the same time, playing against a low-tier team affects positively the scoring chances
+                    """)
+                case "ITA_minute":
+                    st.markdown("""
+                    - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
+                        - **Serie A is the league in which Fast-Breaks influence positively the most**
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                        - **Serie A is the league in which Corner Kicks influence negatively the most**
+                    - Serie A is the only league in which the shot's **angle** does not have a clear trend
+                    - A low value for the **minute** could affect negatively the probability, much more than in other leagues 
+                        - That could implicate that teams "study themselves" more in the first minutes
+                    - Serie A is the only league in which being in a **disadvantage** influences negatively a shot probability
+                        - Having an advantage influences slightly positively the probabilities
+                    """)
+                case "ITA_full":
+                    st.markdown("""
+                    - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
+                        - **Serie A is the league in which Fast-Breaks influence positively the most**
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                        - **Serie A is the league in which Corner Kicks influence negatively the most**
+                    - A low value for the **minute** could affect negatively the probability, much more than in other leagues 
+                        - That could implicate that teams "study themselves" more in the first minutes
+                    - Serie A is the only league in which being in a **disadvantage** influences negatively a shot probability
+                        - Having an advantage influences slightly positively the probabilities
+                    - A high **ELO Rating** gives a slight advantage
+                    """)
+                case "ENG_minute":
+                    st.markdown("""
+                    - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                    - A low value for the **minute** does **not** affect the probabilities like in other leagues
+                        - Teams do not "waste time" studying the opponent
+                        - **Probabilities get higher in the last minutes**
+                    - Having an **advantage** influences positively the probabilities
+                        - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
+                    - **Premier League is the league which influences most negatively set pieces**
+                        - Premier League is also **the only league which does not influence positively free kicks**
+                    """)
 
-            case "ENG_full":
-                st.markdown("""
-                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
-                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
-                - A low value for the **minute** does **not** affect the probabilities like in other leagues
-                    - Teams do not "waste time" studying the opponent
-                    - **Probabilities get higher in the last minutes**
-                - Having an **advantage** influences positively the probabilities
-                    - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
-                - **Premier League is the league which influences most negatively set pieces**
-                    - Premier League is also **the only league which does not influence positively free kicks**
-                - **ELO Rating** for the **opposite** team does not provide a clear trend
-                """)
+                case "ENG_full":
+                    st.markdown("""
+                    - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                    - A low value for the **minute** does **not** affect the probabilities like in other leagues
+                        - Teams do not "waste time" studying the opponent
+                        - **Probabilities get higher in the last minutes**
+                    - Having an **advantage** influences positively the probabilities
+                        - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
+                    - **Premier League is the league which influences most negatively set pieces**
+                        - Premier League is also **the only league which does not influence positively free kicks**
+                    - **ELO Rating** for the **opposite** team does not provide a clear trend
+                    """)
 
-            case "ESP_minute":
-                st.markdown("""
-                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
-                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
-                - **Rating** does not influence as positively as in other leagues
-                    - **Keeper Rating** is more important than in other leagues
-                - The **minute** feature does not show a clear trend
-                """)
+                case "ESP_minute":
+                    st.markdown("""
+                    - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                    - **Rating** does not influence as positively as in other leagues
+                        - **Keeper Rating** is more important than in other leagues
+                    - The **minute** feature does not show a clear trend
+                    """)
 
-            case "ESP_full":
-                st.markdown("""
-                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
-                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
-                - **Rating** does not influence as positively as in other leagues
-                    - **Keeper Rating** is more important than in other leagues
-                - The **minute** feature does not show a clear trend
-                - The **ELO Ratings** for team and opponent influence more positively than in other leagues
-                """)
+                case "ESP_full":
+                    st.markdown("""
+                    - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                    - **Rating** does not influence as positively as in other leagues
+                        - **Keeper Rating** is more important than in other leagues
+                    - The **minute** feature does not show a clear trend
+                    - The **ELO Ratings** for team and opponent influence more positively than in other leagues
+                    """)
 
-            case "GER_minute":
-                st.markdown("""
-                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
-                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
-                    - **Bundesliga is the only league in which a head shot could also influence positively**
-                - The **minute** feature does not show a clear trend
-                - Having an **advantage** influences positively the probabilities
-                    - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
-                - **Bundesliga is the league which influences most positively free kicks**
-                """)
+                case "GER_minute":
+                    st.markdown("""
+                    - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                        - **Bundesliga is the only league in which a head shot could also influence positively**
+                    - The **minute** feature does not show a clear trend
+                    - Having an **advantage** influences positively the probabilities
+                        - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
+                    - **Bundesliga is the league which influences most positively free kicks**
+                    """)
 
-            case "GER_full":
-                st.markdown("""
-                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
-                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
-                    - **Bundesliga is the only league in which a head shot could also influence positively**
-                - The **minute** feature does not show a clear trend
-                - Having an **advantage** influences positively the probabilities
-                    - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
-                - **Bundesliga is the league which influences most positively free kicks**
-                """)
+                case "GER_full":
+                    st.markdown("""
+                    - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                        - **Bundesliga is the only league in which a head shot could also influence positively**
+                    - The **minute** feature does not show a clear trend
+                    - Having an **advantage** influences positively the probabilities
+                        - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
+                    - **Bundesliga is the league which influences most positively free kicks**
+                    """)
             
         
 
@@ -1230,6 +1321,7 @@ def displayXg(sxg, mxg):
             {mxg}
         </div>
     </div>
+    <br>
     """
 
 
@@ -1238,17 +1330,29 @@ def displayXg(sxg, mxg):
     st.write("Model xG:")
     st.markdown(barra_html2, unsafe_allow_html=True)
 
-
-st.title("Top 5 Leagues 2024/25")
-st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: March 12th, 2025")
+    st.warning("Large differences between the two values may be explained by contextual information (opposition's presence and positioning) that are unavailable to the proposed model.")
 
 
+st.title("Serie A 2025/26")
+st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
+st.write("Last Update: July 5th, 2026")
 
-optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League", "La Liga", "Bundesliga", "Ligue 1"],
-    icons=['1-circle', '2-circle', '3-circle', '4-circle', '5-circle'],menu_icon="trophy-fill",
-    default_index=0, orientation="horizontal"
-)
+# with st.expander("Why does the model underestimate some chances?"):
+#     st.write("""
+#     The proposed model has been trained on several features (Minute, Body Part, Situation, Shooter/Keeper Quality, Team Elos...),
+#              but it does not capture the opposition's presence and distance. Therefore, it underestimates the xG values in certain situations.
+#     """)
+st.warning("The proposed model has been trained on several features (Minute, Body Part, Situation, Shooter/Keeper Quality, Team Elos...), " \
+"but it does not capture the opposition's presence and positioning. Therefore, it underestimates the xG values in certain situations.")
+
+
+
+# optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League", "La Liga", "Bundesliga", "Ligue 1"],
+#     icons=['1-circle', '2-circle', '3-circle', '4-circle', '5-circle'],menu_icon="trophy-fill",
+#     default_index=0, orientation="horizontal"
+# )
+
+optionMenu1 = "Serie A"
 
 optionMenu2 = option_menu(None, ["Shots Stats", "Player Stats"],
     icons=['1-circle', '2-circle'], 
