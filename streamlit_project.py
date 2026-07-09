@@ -13,6 +13,7 @@ import numpy as np
 import xgboost
 import shap
 from streamlit_option_menu import option_menu
+from scipy.special import expit
 
 
 
@@ -147,7 +148,7 @@ def getXTrain(df, elo=False, minute=True, over='none', k=15, sampling_strategy='
 def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific=False):
   if optionMenu1 == "Serie A":
     # allShots = pd.read_csv('datasets/seriea2425_id.csv')
-    allShots = pd.read_csv('datasets/sofascore/seriea_2526.csv')
+    allShots = pd.read_csv('datasets/seriea_2526.csv')
   elif optionMenu1 == "Premier League":
     allShots = pd.read_csv('datasets/bpl2425_id.csv')
   elif optionMenu1 == "La Liga":
@@ -162,8 +163,8 @@ def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific
     allShots = allShots.drop(columns=['Unnamed: 0'])
   if 'playerID' in allShots.columns:
     allShots = allShots.drop(columns=['playerID'])
-  if 'keeperID' in allShots.columns:
-    allShots = allShots.drop(columns=['keeperID'])
+  if 'keeperId' in allShots.columns:
+    allShots = allShots.drop(columns=['keeperId'])
 #   allShots = allShots.drop(columns=['playerID', 'keeperID'])
   shotmap = allShots.loc[(allShots['home_team'] == homeTeam) & (allShots['away_team'] == awayTeam)]
   shotmap = shotmap.reset_index()
@@ -178,6 +179,7 @@ def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific
     shotmap = shotmap.drop(columns=['eloTeam', 'eloOpponent'])
 
   homeShots = shotmap.loc[shotmap['isHome'] == True]
+#   print(np.unique(homeShots['situation']))
   homeShots = homeShots.reset_index()
   homeShots = homeShots.drop(columns=['index'])
   homeShots_p = homeShots.loc[homeShots["situation"] == "penalty"].copy()
@@ -230,6 +232,8 @@ def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific
   homeShots_clean = homeShots_clean.drop(columns=['index'])
   if 'level_0' in homeShots_clean:
       homeShots_clean = homeShots_clean.drop(columns='level_0')
+#   print(homeShots_clean['goal_difference'])
+#   homeShots_clean
   homeXgPred = model.predict_proba(homeShots_clean)[:, 1]
 
   homePred = model.predict(homeShots_clean)
@@ -356,7 +360,7 @@ def plotShots(teamShots):
         st.pyplot(fig)
         return descriptions
 
-def plotShap(shapValues, elo, shot):
+def plotShap(shapValues, elo, shot, explainer):
     # print("shot:", shot)
     features = []
     shap_values = []
@@ -447,12 +451,174 @@ def plotShap(shapValues, elo, shot):
     dictDF = pd.DataFrame(dict)
     # print(dictDF)
     # st.write(pd.DataFrame(dict))
+    
 
     top10 = dictDF.reindex(dictDF["ShapValue"].abs().sort_values(ascending=False).index).head(10)
     shapvalues_array = top10["ShapValue"].to_numpy()[::-1]
     descriptions_array = top10["Description"].to_numpy()[::-1]
     
 
+    # Base value SHAP (log-odds)
+    base_value = float(shapValues.base_values[0])
+    # SHAP values delle feature
+    shap = shapValues.values
+    # Nomi descrizioni feature
+    descriptions = dictDF["Description"].to_numpy()
+    # xG iniziale (valore medio del modello)
+    base_xg = expit(base_value)
+    # xG finale previsto
+    final_xg = expit(base_value + np.sum(shap))
+    # Ordino le feature per importanza assoluta SHAP
+    order = np.argsort(np.abs(shap))[::-1]
+    # Costruzione waterfall in xG
+    current_logit = base_value
+    current_xg = base_xg
+
+    waterfall = []
+    for idx in order:
+        next_logit = current_logit + shap[idx]
+        next_xg = expit(next_logit)
+
+        waterfall.append({
+            "Description": descriptions[idx],
+            "Impact": next_xg - current_xg,
+            "Feature": idx
+        })
+        current_logit = next_logit
+        current_xg = next_xg
+
+    waterfall = pd.DataFrame(waterfall)
+    # tengo le 10 feature più importanti
+    top10 = waterfall.head(10)
+    
+    with st.expander("How each feature changed the xG"):
+
+        st.info(
+            """
+            **How does this explanation work?**
+
+            The model starts from the average xG value of all shots in the dataset.
+            This represents the expected probability of scoring for a typical shot.
+
+            Each feature of this shot (for example distance, angle, player quality or game situation)
+            then increases or decreases this value according to its contribution.
+
+            The final xG is the result of combining all these effects.
+            Green bars show features that increase the probability of scoring,
+            while red bars show features that reduce it.
+            """
+        )
+
+        st.write(
+            f"Average xG: **{base_xg:.3f}**  →  "
+            f"Predicted xG: **{final_xg:.3f}**"
+        )
+
+
+        fig = plt.figure(figsize=(9,6))
+
+
+        impacts = top10["Impact"].to_numpy()[::-1]
+        labels = top10["Description"].to_numpy()[::-1]
+
+
+        bars = plt.barh(
+            labels,
+            impacts,
+            left=base_xg,
+            color=[
+                "green" if x > 0 else "red"
+                for x in impacts
+            ]
+        )
+
+
+        plt.axvline(
+            base_xg,
+            color="white",
+            linestyle="--",
+            linewidth=0.8
+        )
+
+        plt.text(
+            base_xg,
+            plt.ylim()[1],
+            f"Avg xG\n{base_xg:.3f}",
+            color="white",
+            ha="center",
+            va="bottom",
+            fontsize=10
+        )
+
+        plt.axvline(
+            final_xg,
+            color="yellow",
+            linestyle=":",
+            linewidth=1
+        )
+
+        plt.text(
+            final_xg,
+            plt.ylim()[1],
+            f"Final xG\n{final_xg:.3f}",
+            color="yellow",
+            ha="center",
+            va="bottom",
+            fontsize=10
+        )
+
+
+        plt.xlabel(
+            "Change in xG",
+            color="white"
+        )
+
+        plt.title(
+            "Contribution of each feature",
+            color="white",
+            pad=35
+        )
+
+
+        plt.tick_params(
+            axis='both',
+            colors='white'
+        )
+        ax = plt.gca()
+
+        ax.tick_params(axis='y', pad=25, length=0)
+
+
+
+        ax = plt.gca()
+
+        for pos in [
+            'right',
+            'top',
+            'bottom',
+            'left'
+        ]:
+            ax.spines[pos].set_visible(False)
+
+
+        # valori sulle barre
+        for bar, value in zip(bars, impacts):
+
+            plt.text(
+                base_xg + value + (0.003 if value > 0 else -0.003),
+                bar.get_y() + bar.get_height()/2,
+                f"{value:+.3f}",
+                va="center",
+                ha="left" if value > 0 else "right",
+                color="white",
+                fontsize=10
+            )
+
+
+        st.pyplot(
+            fig,
+            transparent=True
+        )
 
     # shap_values = np.array(shap_values)
     # sorted_indices = np.argsort(np.abs(shap_values))[::-1][:10]
@@ -466,22 +632,24 @@ def plotShap(shapValues, elo, shot):
     # print(len(features_values), len(sorted_indices))
     # sorted_feature_names = [features_values[i] for i in sorted_indices]
     # print("Sorted Features Names:", sorted_feature_names)
-    with st.expander("See which features influenced the prediction"):
-        fig = plt.figure(figsize=(8, 6))
-        bars = plt.barh(descriptions_array, shapvalues_array, color=["green" if v > 0 else "red" for v in shapvalues_array])
-        plt.xlabel("Shapley Value", color="white")
-        plt.ylabel("Feature", color="white")
-        plt.title("Which features affect the shot?", color="white")
-        plt.axvline(0, color="white", linewidth=0.8, linestyle="--")  # Linea verticale per il riferimento a zero
-        # plt.grid(axis="x", linestyle="--", alpha=0.7)
-        plt.tick_params(axis='both', colors='white')
-        for pos in ['right', 'top', 'bottom', 'left']: 
-            plt.gca().spines[pos].set_visible(False) 
 
 
-        # Mostrare il grafico
-        # plt.show()
-        st.pyplot(fig, transparent=True)
+    # with st.expander("See which features influenced the prediction"):
+    #     fig = plt.figure(figsize=(8, 6))
+    #     bars = plt.barh(descriptions_array, shapvalues_array, color=["green" if v > 0 else "red" for v in shapvalues_array])
+    #     plt.xlabel("Shapley Value", color="white")
+    #     plt.ylabel("Feature", color="white")
+    #     plt.title("Which features affect the shot?", color="white")
+    #     plt.axvline(0, color="white", linewidth=0.8, linestyle="--")  # Linea verticale per il riferimento a zero
+    #     # plt.grid(axis="x", linestyle="--", alpha=0.7)
+    #     plt.tick_params(axis='both', colors='white')
+    #     for pos in ['right', 'top', 'bottom', 'left']: 
+    #         plt.gca().spines[pos].set_visible(False) 
+
+
+    #     # Mostrare il grafico
+    #     # plt.show()
+    #     st.pyplot(fig, transparent=True)
 
     
     # plotData = pd.DataFrame({
@@ -670,7 +838,7 @@ def showShots():
                         shot = stats['awayShots_clean'].loc[shotIndex]
                     # print(shot)
                     shapValues = explainer(shot, check_additivity=False)
-                    plotShap(shapValues, elo, shot)
+                    plotShap(shapValues, elo, shot, explainer)
                     showViolinPlot(specific=useSpecific, elo=elo)
 
 
@@ -711,7 +879,7 @@ def showPlayers():
     shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
     
     photoStrikers(shotsDF)
-    # photoKeepers(shotsDF)
+    photoKeepers(shotsDF)
 
     
 
