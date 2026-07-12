@@ -6,3 +6,4 @@ xgboost
 shap
 openpyxl
 streamlit-option-menu
+st-clickable-images

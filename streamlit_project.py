@@ -16,7 +16,7 @@ from streamlit_option_menu import option_menu
 from scipy.special import expit
 from st_clickable_images import clickable_images
 import base64
-from streamlit_image_select import image_select
+# from streamlit_image_select import image_select
 import os
 
 
