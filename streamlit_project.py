@@ -14,6 +14,10 @@ import xgboost
 import shap
 from streamlit_option_menu import option_menu
 from scipy.special import expit
+from st_clickable_images import clickable_images
+import base64
+from streamlit_image_select import image_select
+import os
 
 
 
@@ -779,7 +783,105 @@ def showShots():
 
     
     teams = np.unique(schedule['home_team'])
-    scheduleTeam = st.selectbox("Select a Team", teams, index=None)
+    # scheduleTeam = st.selectbox("Select a Team", teams, index=None)
+ 
+
+    # N_COLS = 5
+    # for i in range(0, len(teams), N_COLS):
+    #     cols = st.columns(N_COLS)
+    #     for col, team in zip(cols, teams[i:i+N_COLS]):
+    #         with col:
+    #             st.image(f"logos/{team}.png", use_container_width=True)
+    #             if st.button(team, key=f"team_{team}", use_container_width=True, type="secondary"):
+    #                 scheduleTeam = team
+
+    def image_to_uri(path):
+        with open(path, "rb") as f:
+            encoded = base64.b64encode(f.read()).decode()
+        return f"data:image/png;base64,{encoded}"
+
+    images = [
+        image_to_uri(f"logos/{team}.png")
+        for team in teams
+    ]
+
+    # scheduleTeam = clickable_images(
+    #     images,
+    #     titles=teams,
+    #     div_style={
+    #         "display": "flex",
+    #         "flex-wrap": "wrap",
+    #         "justify-content": "center",
+    #         "gap": "10px"
+    #     },
+    #     img_style={
+    #         "width": "70px",
+    #         "height": "70px",
+    #         "padding": "8px",
+    #         "border-radius": "12px",
+    #         "background-color": "#222",
+    #         "border": "2px solid transparent",
+    #         "cursor": "pointer"
+    #     }
+    # )
+
+
+    def team_selector(teams, logo_folder="logos"):
+
+        teams = list(teams)
+
+        def image_to_uri(path):
+            with open(path, "rb") as f:
+                encoded = base64.b64encode(f.read()).decode()
+
+            return f"data:image/png;base64,{encoded}"
+
+
+        images = [
+            image_to_uri(os.path.join(logo_folder, f"{team}.png"))
+            for team in teams
+        ]
+
+
+        clicked = clickable_images(
+            paths=images,
+
+            titles=teams,
+
+            div_style={
+                "display": "grid",
+                "grid-template-columns": "repeat(auto-fit, minmax(80px, 1fr))",
+                "gap": "12px",
+                "justify-items": "center",
+                "align-items": "center",
+                "width": "100%",
+            },
+
+            img_style={
+                "width": "72px",
+                "height": "72px",
+                "padding": "8px",
+                "border-radius": "12px",
+                "cursor": "pointer",
+                "transition": "transform .15s",
+            },
+
+            key="team_selector"
+        )
+
+
+        if clicked > -1:
+            st.session_state.selected_team = teams[clicked]
+
+
+        if "selected_team" not in st.session_state:
+            st.session_state.selected_team = teams[0]
+
+
+        return st.session_state.selected_team
+    
+    scheduleTeam = team_selector(teams)
+
     if scheduleTeam:
         if 'Unnamed: 0' in schedule.columns:
             schedule = schedule.drop(columns='Unnamed: 0')
@@ -1506,7 +1608,7 @@ def displayXg(sxg, mxg):
 
 st.title("Serie A 2025/26")
 st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: July 5th, 2026")
+st.write("Last Update: July 9th, 2026")
 
 # with st.expander("Why does the model underestimate some chances?"):
 #     st.write("""
