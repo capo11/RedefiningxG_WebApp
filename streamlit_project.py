@@ -364,7 +364,7 @@ def plotShots(teamShots):
         st.pyplot(fig)
         return descriptions
 
-def plotShap(shapValues, elo, shot, explainer):
+def plotShap(shapValues, elo, shot, predicted_xg):
     # print("shot:", shot)
     features = []
     shap_values = []
@@ -514,8 +514,9 @@ def plotShap(shapValues, elo, shot, explainer):
         )
 
         st.write(
-            f"Average xG: **{base_xg:.3f}**  →  "
-            f"Predicted xG: **{final_xg:.3f}**"
+            f"Average xG: **{base_xg:.2f}**  →  "
+            # f"Predicted xG: **{final_xg:.2f}**"
+            f"Predicted xG: **{predicted_xg:.2f}**"
         )
 
 
@@ -547,7 +548,7 @@ def plotShap(shapValues, elo, shot, explainer):
         plt.text(
             base_xg,
             plt.ylim()[1],
-            f"Avg xG\n{base_xg:.3f}",
+            f"Avg xG\n{base_xg:.2f}",
             color="white",
             ha="center",
             va="bottom",
@@ -564,7 +565,8 @@ def plotShap(shapValues, elo, shot, explainer):
         plt.text(
             final_xg,
             plt.ylim()[1],
-            f"Final xG\n{final_xg:.3f}",
+            # f"Final xG\n{final_xg:.2f}",
+            f"Final xG\n{predicted_xg:.2f}",
             color="yellow",
             ha="center",
             va="bottom",
@@ -609,7 +611,7 @@ def plotShap(shapValues, elo, shot, explainer):
         for bar, value in zip(bars, impacts):
 
             plt.text(
-                base_xg + value + (0.003 if value > 0 else -0.003),
+                base_xg + value + (0.001 if value > 0 else -0.001),
                 bar.get_y() + bar.get_height()/2,
                 f"{value:+.3f}",
                 va="center",
@@ -624,68 +626,7 @@ def plotShap(shapValues, elo, shot, explainer):
             transparent=True
         )
 
-    # shap_values = np.array(shap_values)
-    # sorted_indices = np.argsort(np.abs(shap_values))[::-1][:10]
-    # sorted_shap_values = shap_values[sorted_indices]
-    # print(features, values)
-    # print("Shap Values:", shap_values)
-    # print("Sorted Shap Values:", sorted_shap_values)
-    # features_values = features_values.pop(0)
-    # features_values = features_values[1:]
-    # print("Features Values:", features_values)
-    # print(len(features_values), len(sorted_indices))
-    # sorted_feature_names = [features_values[i] for i in sorted_indices]
-    # print("Sorted Features Names:", sorted_feature_names)
-
-
-    # with st.expander("See which features influenced the prediction"):
-    #     fig = plt.figure(figsize=(8, 6))
-    #     bars = plt.barh(descriptions_array, shapvalues_array, color=["green" if v > 0 else "red" for v in shapvalues_array])
-    #     plt.xlabel("Shapley Value", color="white")
-    #     plt.ylabel("Feature", color="white")
-    #     plt.title("Which features affect the shot?", color="white")
-    #     plt.axvline(0, color="white", linewidth=0.8, linestyle="--")  # Linea verticale per il riferimento a zero
-    #     # plt.grid(axis="x", linestyle="--", alpha=0.7)
-    #     plt.tick_params(axis='both', colors='white')
-    #     for pos in ['right', 'top', 'bottom', 'left']: 
-    #         plt.gca().spines[pos].set_visible(False) 
-
-
-    #     # Mostrare il grafico
-    #     # plt.show()
-    #     st.pyplot(fig, transparent=True)
-
     
-    # plotData = pd.DataFrame({
-    #     "Feature": sorted_feature_names,
-    #     "Shapley Value": sorted_shap_values
-    # })
-    # fig = px.bar(
-    #     plotData,
-    #     x="Shapley Value",
-    #     y="Feature",
-    #     orientation='h',
-    #     color="Shapley Value",
-    #     color_continuous_scale=["red", "green"]
-    # )
-    # fig.update_layout(
-    #     yaxis=dict(
-    #         title="Feature",  # Se vuoi mantenere il titolo, altrimenti rimuovilo
-    #         color="white",  # Colore del titolo dell'asse
-    #         showticklabels=False  # Nasconde le etichette sull'asse Y
-    #     ),
-    #     plot_bgcolor='rgba(0,0,0,0)',  # Sfondo del grafico trasparente
-    #     paper_bgcolor='rgba(0,0,0,0)',  # Sfondo del foglio trasparente
-    #     font=dict(color="white"),  # Colore del testo
-    #     xaxis=dict(title="Shapley Value", color="white"),
-    #     title=dict(
-    #         text="Quali fattori influenzano il tiro?",
-    #         x=0.5,  # Centra il titolo orizzontalmente
-    #         xanchor='center',  # Assicura l'ancoraggio al centro
-    #         font=dict(size=20, color="white")  # Dimensione e colore del titolo
-    #     )
-    # )
-    # st.plotly_chart(fig)
 
 def showShots():
     # useSpecific = st.checkbox("Use a League-Specific Model")
@@ -941,7 +882,7 @@ def showShots():
                         shot = stats['awayShots_clean'].loc[shotIndex]
                     # print(shot)
                     shapValues = explainer(shot, check_additivity=False)
-                    plotShap(shapValues, elo, shot, explainer)
+                    plotShap(shapValues, elo, shot, round(teamShots.loc[shotIndex]['xgPred'], 2))
                     showViolinPlot(specific=useSpecific, elo=elo)
 
 
