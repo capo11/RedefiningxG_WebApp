@@ -18,7 +18,8 @@ from st_clickable_images import clickable_images
 import base64
 # from streamlit_image_select import image_select
 import os
-
+import io
+from PIL import Image, ImageDraw
 
 
 shotsMultiplier = 500
@@ -67,6 +68,76 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
+
+def image_to_uri(path, selected=False):
+            img = Image.open(path).convert("RGBA")
+            border = 6
+
+            # sfondo sempre trasparente, cambia solo lo spazio per il contorno
+            canvas = Image.new("RGBA", (img.width + border * 2, img.height + border * 2), (0, 0, 0, 0))
+            canvas.paste(img, (border, border), img)
+
+            if selected:
+                draw = ImageDraw.Draw(canvas)
+                outline_color = (0, 150, 255, 255)  # blu/celeste
+                radius = 12
+                width = 4
+
+                # rettangolo arrotondato come contorno, leggermente dentro i bordi
+                draw.rounded_rectangle(
+                    [width // 2, width // 2, canvas.width - width // 2 - 1, canvas.height - width // 2 - 1],
+                    radius=radius,
+                    outline=outline_color,
+                    width=width,
+                )
+
+            buffer = io.BytesIO()
+            canvas.save(buffer, format="PNG")
+            encoded = base64.b64encode(buffer.getvalue()).decode()
+            return f"data:image/png;base64,{encoded}"
+
+def team_selector(teams, logo_folder="logos"):
+        teams = list(teams)
+
+        if "selected_team" not in st.session_state:
+            st.session_state.selected_team = teams[0]
+
+
+        images = [
+            image_to_uri(
+                os.path.join(logo_folder, f"{team}.png"),
+                selected=(team == st.session_state.selected_team),
+            )
+            for team in teams
+        ]
+
+        clicked = clickable_images(
+            paths=images,
+            titles=teams,
+            div_style={
+                "display": "grid",
+                "grid-template-columns": "repeat(auto-fit, minmax(80px, 1fr))",
+                "gap": "12px",
+                "justify-items": "center",
+                "align-items": "center",
+                "width": "100%",
+            },
+            img_style={
+                "width": "72px",
+                "height": "72px",
+                "padding": "8px",
+                "border-radius": "12px",
+                "cursor": "pointer",
+                "transition": "transform .15s",
+            },
+            key="team_selector",
+        )
+
+        if clicked > -1 and teams[clicked] != st.session_state.selected_team:
+            st.session_state.selected_team = teams[clicked]
+            st.rerun()
+
+        return st.session_state.selected_team
 
 def cleanDataset(df, elo=False, minute=True):
   df = df.dropna(subset=['xg'])
@@ -725,101 +796,6 @@ def showShots():
     
     teams = np.unique(schedule['home_team'])
     # scheduleTeam = st.selectbox("Select a Team", teams, index=None)
- 
-
-    # N_COLS = 5
-    # for i in range(0, len(teams), N_COLS):
-    #     cols = st.columns(N_COLS)
-    #     for col, team in zip(cols, teams[i:i+N_COLS]):
-    #         with col:
-    #             st.image(f"logos/{team}.png", use_container_width=True)
-    #             if st.button(team, key=f"team_{team}", use_container_width=True, type="secondary"):
-    #                 scheduleTeam = team
-
-    def image_to_uri(path):
-        with open(path, "rb") as f:
-            encoded = base64.b64encode(f.read()).decode()
-        return f"data:image/png;base64,{encoded}"
-
-    images = [
-        image_to_uri(f"logos/{team}.png")
-        for team in teams
-    ]
-
-    # scheduleTeam = clickable_images(
-    #     images,
-    #     titles=teams,
-    #     div_style={
-    #         "display": "flex",
-    #         "flex-wrap": "wrap",
-    #         "justify-content": "center",
-    #         "gap": "10px"
-    #     },
-    #     img_style={
-    #         "width": "70px",
-    #         "height": "70px",
-    #         "padding": "8px",
-    #         "border-radius": "12px",
-    #         "background-color": "#222",
-    #         "border": "2px solid transparent",
-    #         "cursor": "pointer"
-    #     }
-    # )
-
-
-    def team_selector(teams, logo_folder="logos"):
-
-        teams = list(teams)
-
-        def image_to_uri(path):
-            with open(path, "rb") as f:
-                encoded = base64.b64encode(f.read()).decode()
-
-            return f"data:image/png;base64,{encoded}"
-
-
-        images = [
-            image_to_uri(os.path.join(logo_folder, f"{team}.png"))
-            for team in teams
-        ]
-
-
-        clicked = clickable_images(
-            paths=images,
-
-            titles=teams,
-
-            div_style={
-                "display": "grid",
-                "grid-template-columns": "repeat(auto-fit, minmax(80px, 1fr))",
-                "gap": "12px",
-                "justify-items": "center",
-                "align-items": "center",
-                "width": "100%",
-            },
-
-            img_style={
-                "width": "72px",
-                "height": "72px",
-                "padding": "8px",
-                "border-radius": "12px",
-                "cursor": "pointer",
-                "transition": "transform .15s",
-            },
-
-            key="team_selector"
-        )
-
-
-        if clicked > -1:
-            st.session_state.selected_team = teams[clicked]
-
-
-        if "selected_team" not in st.session_state:
-            st.session_state.selected_team = teams[0]
-
-
-        return st.session_state.selected_team
     
     scheduleTeam = team_selector(teams)
 
@@ -839,7 +815,6 @@ def showShots():
             gameIndex = scheduleDone.loc[scheduleDone['description'] == gameDescription].index[0]
             homeTeam = scheduleDone.loc[gameIndex]['home_team']
             awayTeam = scheduleDone.loc[gameIndex]['away_team']
-            st.write(homeTeam, awayTeam)
             homeXg = round(statsDF.loc[gameIndex]['homeXg'], 2)
             awayXg = round(statsDF.loc[gameIndex]['awayXg'], 2)
             homeXgPred = round(statsDF.loc[gameIndex]['homeXgPred'], 2)

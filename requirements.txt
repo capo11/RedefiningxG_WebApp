@@ -7,3 +7,4 @@ shap
 openpyxl
 streamlit-option-menu
 st-clickable-images
+pillow
