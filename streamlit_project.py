@@ -894,11 +894,11 @@ def showShots():
             descriptions.append(description)
         scheduleDone['description'] = descriptions
         gameDescription = st.selectbox('Select a Match', scheduleDone['description'], index=None)
-
         if gameDescription:
             gameIndex = scheduleDone.loc[scheduleDone['description'] == gameDescription].index[0]
-            homeTeam = scheduleDone.loc[i]['home_team']
-            awayTeam = scheduleDone.loc[i]['away_team']
+            homeTeam = scheduleDone.loc[gameIndex]['home_team']
+            awayTeam = scheduleDone.loc[gameIndex]['away_team']
+            st.write(homeTeam, awayTeam)
             homeXg = round(statsDF.loc[gameIndex]['homeXg'], 2)
             awayXg = round(statsDF.loc[gameIndex]['awayXg'], 2)
             homeXgPred = round(statsDF.loc[gameIndex]['homeXgPred'], 2)
@@ -911,6 +911,7 @@ def showShots():
             # st.info("Model xG: " + str(statsDF.loc[gameIndex]['homeXgPred']) + ' - ' + str(statsDF.loc[gameIndex]['awayXgPred']))
             stats = predictLocalGame(homeTeam, awayTeam, model, elo=elo, minute=True, specific=useSpecific)
             # gameShots = shotsDF.loc[shotsDF['gameIndex'] == gameIndex]
+            
             gameShots = shotsDF.loc[(shotsDF['home_team'] == homeTeam) & (shotsDF['away_team'] == awayTeam)]
             
             
