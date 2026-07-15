@@ -500,12 +500,30 @@ def drawPitch(teamShots, length=120, width=80):
         ))
     add_penalty_arc(fig)
 
+    x_range = [-2, width + 2]
+    y_range = [halfway - 2, length + 2]
+
+    x_span = x_range[1] - x_range[0]   # 84
+    y_span = y_range[1] - y_range[0]   # 64
+
+    plot_height = 600
+    plot_width = plot_height * (x_span / y_span)
+
+    # fig.update_layout(
+    #     plot_bgcolor="#22312b",
+    #     xaxis=dict(range=[-2, width + 2], visible=False),
+    #     yaxis=dict(range=[halfway - 2, length + 2], visible=False, scaleanchor="x"),
+    #     margin=dict(l=0, r=0, t=0, b=0),
+    #     height=600,
+    # )
+
     fig.update_layout(
-        plot_bgcolor="#22312b",
-        xaxis=dict(range=[-2, width + 2], visible=False),
-        yaxis=dict(range=[halfway - 2, length + 2], visible=False, scaleanchor="x"),
+        plot_bgcolor="#0E1117",
+        xaxis=dict(range=x_range, visible=False, constrain="domain"),
+        yaxis=dict(range=y_range, visible=False, scaleanchor="x", constrain="domain"),
         margin=dict(l=0, r=0, t=0, b=0),
-        height=600,
+        width=plot_width,
+        height=plot_height,
     )
 
     # --- coordinate dei tiri ---
@@ -530,16 +548,20 @@ def drawPitch(teamShots, length=120, width=80):
         hoverinfo="text",
     ))
 
-    event = st.plotly_chart(
-        fig,
-        on_select="rerun",
-        selection_mode="points",
-        key="pitch_chart",
-    )
+    col1, col2, col3 = st.columns([1, 2, 1])
+    with col2:
+        event = st.plotly_chart(
+            fig,
+            on_select="rerun",
+            selection_mode="points",
+            key="pitch_chart",
+            use_container_width=False,
+        )
 
     # print(event['selection']['points'][0]['customdata'])
     # print(event['selection'])
     if event['selection']['points'] != []:
+        # print(event['selection']['points'])
         shotIndex = event['selection']['points'][0]['customdata']
         shot = teamShots.loc[shotIndex]
         # print(shot['situation'])
@@ -547,7 +569,9 @@ def drawPitch(teamShots, length=120, width=80):
             penalty = False
         else:
             penalty = True
+        # st.write("return")
         return shotIndex, penalty
+    return None, None
 
 
 def plotShap(shapValues, elo, shot, predicted_xg):
@@ -958,7 +982,9 @@ def showShots():
                 shotIndex, penalty = drawPitch(teamShots)
                 # shotDescription = st.selectbox('Select a Shot', teamShots['description'], index=None)
                 # if shotDescription:
-                if shotIndex:
+                if shotIndex is None:
+                    st.info("Select a Shot from the shotmap to see its details")
+                else:
                     # shotIndex = teamShots.loc[teamShots['description'] == shotDescription].index[0]
                     
                     # st.error("Sofascore xG: " + str(teamShots.loc[shotIndex]['xg']))
