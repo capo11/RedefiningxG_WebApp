@@ -20,6 +20,7 @@ import base64
 import os
 import io
 from PIL import Image, ImageDraw
+import plotly.graph_objects as go
 
 
 shotsMultiplier = 500
@@ -314,7 +315,7 @@ def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific
   homePred = model.predict(homeShots_clean)
   homeShots['goalPred'] = homePred
   homeShots['xgPred'] = homeXgPred
-  homeShots_p['xgPred'] = 0.75
+  homeShots_p['xgPred'] = 0.79
   homeShots_p['goalPred'] = 1
   if len(homeShots_p)>0:
     homeShots = pd.concat([homeShots, homeShots_p])
@@ -342,7 +343,7 @@ def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific
   awayPred = model.predict(awayShots_clean)
   awayShots['goalPred'] = awayPred
   awayShots['xgPred'] = awayXgPred
-  awayShots_p['xgPred'] = 0.75
+  awayShots_p['xgPred'] = 0.79
   awayShots_p['goalPred'] = 1
   for i in awayShots.index:
     # if (awayShots.loc[i]['situation'] == 'penalty'):
@@ -403,7 +404,7 @@ def plotShots(teamShots):
             # print(shotDescription)
             descriptions.append(description)
             x = 120-teamShots.loc[i]['x']
-            y = teamShots.loc[i]['y']
+            y = 0.8 * teamShots.loc[i]['y']
             if(teamShots.loc[i]['body_part'] == 'strongFoot'):
                 color='green'
             elif(teamShots.loc[i]['body_part'] == 'weakFoot'):
@@ -433,7 +434,121 @@ def plotShots(teamShots):
                 c=color,
                 edgecolors='white')
         st.pyplot(fig)
-        return descriptions
+
+    # shotIndex = drawPitch(teamShots)
+    return descriptions
+
+def drawPitch(teamShots, length=120, width=80):
+    fig = go.Figure()
+
+    halfway = length / 2  # 60
+
+    # tutte le coordinate qui sono già in "spazio plot": x_plot = pitch_y, y_plot = pitch_x
+    lines = [
+        # bordo del mezzo campo
+        dict(x0=0, y0=halfway, x1=0, y1=length),              # lato sinistro
+        dict(x0=width, y0=halfway, x1=width, y1=length),      # lato destro
+        dict(x0=0, y0=length, x1=width, y1=length),           # linea di fondo
+        dict(x0=0, y0=halfway, x1=width, y1=halfway),         # linea di metà campo
+
+        # area di rigore (18 x 44, statsbomb: da y=18 a y=62 -> centrata su width/2)
+        dict(x0=18, y0=length, x1=18, y1=length - 18),
+        dict(x0=62, y0=length, x1=62, y1=length - 18),
+        dict(x0=18, y0=length - 18, x1=62, y1=length - 18),
+
+        # area piccola (6 x 20, da y=30 a y=50)
+        dict(x0=30, y0=length, x1=30, y1=length - 6),
+        dict(x0=50, y0=length, x1=50, y1=length - 6),
+        dict(x0=30, y0=length - 6, x1=50, y1=length - 6),
+    ]
+
+    for l in lines:
+        fig.add_shape(type="line", line=dict(color="white", width=2), **l)
+
+    # dischetto del rigore (12 yard dalla linea di fondo)
+    fig.add_shape(
+        type="circle",
+        x0=width/2 - 0.5, y0=length - 12 - 0.5,
+        x1=width/2 + 0.5, y1=length - 12 + 0.5,
+        fillcolor="white", line=dict(color="white"),
+    )
+
+    # arco del dischetto (facoltativo, semplificato come cerchio pieno sopra è già ok per il puntino;
+    # se vuoi anche l'arco della "D" fuori area, dimmelo e te lo aggiungo)
+
+    def add_penalty_arc(fig, spot_x=12, box_edge_x=18, spot_y=40, radius=9.15, n_points=50):
+        """
+        spot_x: distanza del dischetto dalla porta (12 yard)
+        box_edge_x: distanza del bordo area dalla porta (18 yard)
+        spot_y: centro larghezza campo (40)
+        """
+        half_width = np.sqrt(radius**2 - (box_edge_x - spot_x)**2)
+
+        y_range = np.linspace(spot_y - half_width, spot_y + half_width, n_points)
+        x_range = spot_x + np.sqrt(radius**2 - (y_range - spot_y)**2)  # + invece di -
+
+        arc_x_plotly = y_range
+        arc_y_plotly = 120 - x_range
+
+        fig.add_trace(go.Scatter(
+            x=arc_x_plotly,
+            y=arc_y_plotly,
+            mode="lines",
+            line=dict(color="white", width=2),
+            hoverinfo="skip",
+            showlegend=False,
+        ))
+    add_penalty_arc(fig)
+
+    fig.update_layout(
+        plot_bgcolor="#22312b",
+        xaxis=dict(range=[-2, width + 2], visible=False),
+        yaxis=dict(range=[halfway - 2, length + 2], visible=False, scaleanchor="x"),
+        margin=dict(l=0, r=0, t=0, b=0),
+        height=600,
+    )
+
+    # --- coordinate dei tiri ---
+    x_plotly = 0.8 * teamShots["y"]   # larghezza statsbomb (0-80) -> asse orizzontale
+    y_plotly = 119.5 - teamShots["x"]   # lunghezza statsbomb (0-120) -> asse verticale, porta in alto
+    
+    # st.write(teamShots)
+
+    min_size = 8
+    max_size = 30
+
+    xg = teamShots["xg"]
+    marker_sizes = min_size + (xg - xg.min()) / (xg.max() - xg.min()) * (max_size - min_size)
+
+    fig.add_trace(go.Scatter(
+        x=x_plotly,
+        y=y_plotly,
+        mode="markers",
+        marker=dict(size=marker_sizes, color="red", line=dict(color="white", width=1)),
+        customdata=teamShots.index,
+        hovertext=teamShots["description"],
+        hoverinfo="text",
+    ))
+
+    event = st.plotly_chart(
+        fig,
+        on_select="rerun",
+        selection_mode="points",
+        key="pitch_chart",
+    )
+
+    # print(event['selection']['points'][0]['customdata'])
+    # print(event['selection'])
+    if event['selection']['points'] != []:
+        shotIndex = event['selection']['points'][0]['customdata']
+        shot = teamShots.loc[shotIndex]
+        # print(shot['situation'])
+        if shot['situation'] != 'penalty':
+            penalty = False
+        else:
+            penalty = True
+        return shotIndex, penalty
+
 
 def plotShap(shapValues, elo, shot, predicted_xg):
     # print("shot:", shot)
@@ -840,9 +955,11 @@ def showShots():
                 teamShots = gameShots.loc[gameShots['team'] == selectedTeam].reset_index(drop=True)
             
                 teamShots['description'] = plotShots(teamShots)
-                shotDescription = st.selectbox('Select a Shot', teamShots['description'], index=None)
-                if shotDescription:
-                    shotIndex = teamShots.loc[teamShots['description'] == shotDescription].index[0]
+                shotIndex, penalty = drawPitch(teamShots)
+                # shotDescription = st.selectbox('Select a Shot', teamShots['description'], index=None)
+                # if shotDescription:
+                if shotIndex:
+                    # shotIndex = teamShots.loc[teamShots['description'] == shotDescription].index[0]
                     
                     # st.error("Sofascore xG: " + str(teamShots.loc[shotIndex]['xg']))
                     # st.info("Model xG: " + str(teamShots.loc[shotIndex]['xgPred']))
@@ -856,8 +973,12 @@ def showShots():
                         # print(stats['awayShots_clean'])
                         shot = stats['awayShots_clean'].loc[shotIndex]
                     # print(shot)
-                    shapValues = explainer(shot, check_additivity=False)
-                    plotShap(shapValues, elo, shot, round(teamShots.loc[shotIndex]['xgPred'], 2))
+                    if not penalty:
+                        shapValues = explainer(shot, check_additivity=False)
+                        plotShap(shapValues, elo, shot, round(teamShots.loc[shotIndex]['xgPred'], 2))
+                    else:
+                        st.info("**Penalties**: " \
+                        "xG values for penalties are fixed, and most providers assign values between 0.75 and 0.80. For this project, a value of **0.79** has been used, the same of SofaScore.")
                     showViolinPlot(specific=useSpecific, elo=elo)
 
 
@@ -1525,7 +1646,7 @@ def displayXg(sxg, mxg):
 
 st.title("Serie A 2025/26")
 st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: July 9th, 2026")
+st.write("Last Update: July 15th, 2026")
 
 # with st.expander("Why does the model underestimate some chances?"):
 #     st.write("""
