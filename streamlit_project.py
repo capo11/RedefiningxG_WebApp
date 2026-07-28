@@ -146,7 +146,7 @@ def cleanDataset(df, elo=False, minute=True):
   # One-Hot Encoding
   x = pd.get_dummies(df, columns=['position'], prefix='position', drop_first=False)
   x = pd.get_dummies(x, columns=['situation'], prefix='situation', drop_first=False)
-#   x = pd.get_dummies(x, columns=['bodyPart'], prefix='bodyPart', drop_first=False)
+  # x = pd.get_dummies(x, columns=['bodyPart'], prefix='bodyPart', drop_first=False)
   x = pd.get_dummies(x, columns=['body_part'], prefix='bodyPart', drop_first=False)
 
 
@@ -532,20 +532,34 @@ def drawPitch(teamShots, length=120, width=80):
     
     # st.write(teamShots)
 
-    min_size = 8
+    min_size = 10
     max_size = 30
 
     xg = teamShots["xg"]
-    marker_sizes = min_size + (xg - xg.min()) / (xg.max() - xg.min()) * (max_size - min_size)
+
+    xg_min_ref = 0.0
+    xg_max_ref = 0.8
+    xg_clipped = xg.clip(xg_min_ref, xg_max_ref)
+
+    marker_sizes = min_size + np.sqrt(xg_clipped / xg_max_ref) * (max_size - min_size)
+
+    marker_symbols = np.where(teamShots["goal"] == 1, "star", "circle")
+    marker_colors = np.where(teamShots["goal"] == 1, "gold", "red")
 
     fig.add_trace(go.Scatter(
         x=x_plotly,
         y=y_plotly,
         mode="markers",
-        marker=dict(size=marker_sizes, color="red", line=dict(color="white", width=1)),
+        marker=dict(
+            size=marker_sizes,
+            symbol=marker_symbols,
+            color=marker_colors,
+            line=dict(color="white", width=1),
+        ),
         customdata=teamShots.index,
         hovertext=teamShots["description"],
         hoverinfo="text",
+        showlegend=False
     ))
 
     col1, col2, col3 = st.columns([1, 2, 1])
@@ -959,9 +973,9 @@ def showShots():
             homeXgPred = round(statsDF.loc[gameIndex]['homeXgPred'], 2)
             awayXgPred = round(statsDF.loc[gameIndex]['awayXgPred'], 2)
             st.write("Sofascore xG:")
-            displayScore(homeXg, awayXg, homeTeam, awayTeam)
+            displayScore(homeXg, awayXg, homeTeam, awayTeam, max_scale=5)
             st.write("Model xG:")
-            displayScore(homeXgPred, awayXgPred, homeTeam, awayTeam)
+            displayScore(homeXgPred, awayXgPred, homeTeam, awayTeam, max_scale=5)
             # st.error("Sofascore xG: " + str(statsDF.loc[gameIndex]['homeXg']) + ' - ' + str(statsDF.loc[gameIndex]['awayXg']))
             # st.info("Model xG: " + str(statsDF.loc[gameIndex]['homeXgPred']) + ' - ' + str(statsDF.loc[gameIndex]['awayXgPred']))
             stats = predictLocalGame(homeTeam, awayTeam, model, elo=elo, minute=True, specific=useSpecific)
@@ -1058,7 +1072,7 @@ def photoStrikers(shotsDF):
     goalSums = []
     for player in shotPlayers:
         playerShots = shotsDF.loc[shotsDF['player'] == player].reset_index()
-        # print(playerShots)
+        st.write(playerShots)
         playerID = playerShots.loc[0]['playerID']
         xgSum = np.sum(playerShots['xg'])
         xgPredSum = np.sum(playerShots['xgPred'])
@@ -1602,36 +1616,35 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
     """
     st.markdown(card_html, unsafe_allow_html=True)
 
-def displayScore(homeScore, awayScore, homeTeam, awayTeam):
+def displayScore(homeScore, awayScore, homeTeam, awayTeam, max_scale=None,
+                  color_home="bg-success", color_away="bg-danger"):
 
+    # se non specificato, fallback al vecchio comportamento (percentuale sulla somma)
+    if max_scale is None:
+        max_scale = homeScore + awayScore
 
-    # Somma totale dei punteggi
-    somma_totale = homeScore + awayScore
+    # percentuali rispetto alla scala fissa, non alla somma dei due valori
+    pct_home = min(homeScore / max_scale * 100, 100)
+    pct_away = min(awayScore / max_scale * 100, 100)
+    pct_neutral = max(0, 100 - pct_home - pct_away)
 
-    # Calcolo delle percentuali
-    percentuale_squadra_1 = (homeScore / somma_totale) * 100
-    percentuale_squadra_2 = (awayScore / somma_totale) * 100
-
-    # HTML e CSS per la barra personalizzata
     st.markdown("""
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     """, unsafe_allow_html=True)
 
     barra_html = f"""
-    
-    
     <div class="progress" style="height: 30px;">
-        <div class="progress-bar bg-success" role="progressbar" style="font-size: 15px;width:{percentuale_squadra_1}%">
+        <div class="progress-bar {color_home}" role="progressbar" style="font-size:15px;width:{pct_home}%">
             {homeScore}
         </div>
-        <div class="progress-bar bg-danger" role="progressbar" style="font-size: 15px;width:{percentuale_squadra_2}%">
+        <div class="progress-bar bg-secondary" role="progressbar" style="width:{pct_neutral}%">
+        </div>
+        <div class="progress-bar {color_away}" role="progressbar" style="font-size:15px;width:{pct_away}%">
             {awayScore}
         </div>
     </div>
     """
 
-    # Mostra il risultato in Streamlit
-    # st.markdown("### Punteggio tra le due squadre:")
     st.markdown(barra_html, unsafe_allow_html=True)
 
 def displayXg(sxg, mxg):
@@ -1672,7 +1685,7 @@ def displayXg(sxg, mxg):
 
 st.title("Serie A 2025/26")
 st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: July 15th, 2026")
+st.write("Last Update: July 28th, 2026")
 
 # with st.expander("Why does the model underestimate some chances?"):
 #     st.write("""
