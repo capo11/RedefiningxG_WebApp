@@ -1072,7 +1072,7 @@ def photoStrikers(shotsDF):
     goalSums = []
     for player in shotPlayers:
         playerShots = shotsDF.loc[shotsDF['player'] == player].reset_index()
-        st.write(playerShots)
+        # st.write(playerShots)
         playerID = playerShots.loc[0]['playerID']
         xgSum = np.sum(playerShots['xg'])
         xgPredSum = np.sum(playerShots['xgPred'])
@@ -1693,7 +1693,8 @@ st.write("Last Update: July 28th, 2026")
 #              but it does not capture the opposition's presence and distance. Therefore, it underestimates the xG values in certain situations.
 #     """)
 st.warning("The proposed model has been trained on several features (Minute, Body Part, Situation, Shooter/Keeper Quality, Team Elos...), " \
-"but it does not capture the opposition's presence and positioning. Therefore, it underestimates the xG values in certain situations.")
+"but it does not capture the opposition's presence and positioning. Therefore, it underestimates the xG values in certain situations." \
+" The training dataset is also small, only featuring the 2024/25 Serie A Season, so that could explain wrong or inaccurate predictions.")
 
 
 
