@@ -134,7 +134,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 1,6,24/08/2025,Atalanta,Pisa,17,Atalanta,2686,True,1735.0,Daniel Maldini,970928,F,70,Adrian Šemper,71,Pisa,1735.0,24.7,32.7,27,25,0,corner,strongFoot,0,0.0073940632864833
 1,6,24/08/2025,Atalanta,Pisa,25,Atalanta,2686,True,1735.0,Gianluca Scamacca,807301,F,80,Adrian Šemper,71,Pisa,1735.0,7.0,47.7,7,12,0,corner,head,0,0.10479341447353
 1,6,24/08/2025,Atalanta,Pisa,26,Pisa,2737,False,1164.0,Stefano Moreo,346948,F,69,Marco Carnesecchi,84,Atalanta,1735.0,7.9,58.7,9,36,0,assisted,strongFoot,0,0.065397329628468
-1,6,24/08/2025,Atalanta,Pisa,26,Pisa,2737,False,1164.0,Isak Hien,1157713,D,36,Marco Carnesecchi,84,Atalanta,1735.0,2.4,50.6,2,9,0,regular,strongFoot,1,
 1,6,24/08/2025,Atalanta,Pisa,30,Atalanta,2686,True,1735.0,Charles De Ketelaere,960441,F,78,Adrian Šemper,71,Pisa,1735.0,11.3,69.7,17,49,-1,fast-break,strongFoot,0,0.036798939108849
 1,6,24/08/2025,Atalanta,Pisa,30,Atalanta,2686,True,1735.0,Raoul Bellanova,826185,M,52,Adrian Šemper,71,Pisa,1735.0,22.8,63.4,24,21,-1,corner,strongFoot,0,0.033975385129452
 1,6,24/08/2025,Atalanta,Pisa,37,Atalanta,2686,True,1735.0,Raoul Bellanova,826185,M,52,Adrian Šemper,71,Pisa,1735.0,5.1,62.4,9,58,-1,assisted,head,0,0.039016742259264
@@ -963,7 +962,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 4,8,21/09/2025,Inter,Sassuolo,80,Inter,2697,True,1940.0,Luís Henrique,977679,M,72,Arijanet Murić,72,Sassuolo,1389.0,7.9,72.0,16,62,0,assisted,strongFoot,0,0.02702896296978
 4,8,21/09/2025,Inter,Sassuolo,81,Inter,2697,True,1940.0,Lautaro Martínez,823984,F,88,Arijanet Murić,72,Sassuolo,1389.0,6.8,49.9,6,0,0,corner,strongFoot,0,0.20667654275894
 4,8,21/09/2025,Inter,Sassuolo,81,Inter,2697,True,1940.0,Carlos Augusto,929199,D,71,Arijanet Murić,72,Sassuolo,1389.0,18.5,49.8,18,0,0,corner,strongFoot,0,0.026906529441476
-4,8,21/09/2025,Inter,Sassuolo,81,Inter,2697,True,1940.0,Tarik Muharemović,1118177,D,22,Arijanet Murić,72,Sassuolo,1389.0,14.1,54.2,14,11,0,corner,strongFoot,1,
 4,8,21/09/2025,Inter,Sassuolo,82,Sassuolo,2793,False,1389.0,Kristian Thorstvedt,924973,M,71,Josep Martínez,75,Inter,1940.0,26.2,52.6,26,3,-1,assisted,strongFoot,0,0.026096513494849
 4,8,21/09/2025,Inter,Sassuolo,84,Sassuolo,2793,False,1389.0,Walid Cheddira,917485,F,71,Josep Martínez,75,Inter,1940.0,10.4,51.3,10,4,-1,assisted,strongFoot,1,0.63876461982727
 4,8,21/09/2025,Inter,Sassuolo,86,Inter,2697,True,1940.0,Federico Dimarco,284361,M,78,Arijanet Murić,72,Sassuolo,1389.0,10.7,44.2,11,20,0,assisted,strongFoot,0,0.10637827962637
@@ -1861,7 +1859,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 8,5,26/10/2025,Torino,Genoa,56,Genoa,2713,False,1427.0,Jeff Ekhator,1613917,F,59,Alberto Paleari,68,Torino,1512.0,19.7,56.4,20,12,0,fast-break,strongFoot,0,0.06698252260685
 8,5,26/10/2025,Torino,Genoa,58,Torino,2696,True,1512.0,Guillermo Maripán,339909,D,40,Nicola Leali,71,Genoa,1427.0,8.9,47.0,9,12,0,corner,head,0,0.077381797134876
 8,5,26/10/2025,Torino,Genoa,59,Torino,2696,True,1512.0,Giovanni Simeone,341143,F,76,Nicola Leali,71,Genoa,1427.0,15.0,54.2,15,10,0,assisted,strongFoot,0,0.068973563611507
-8,5,26/10/2025,Torino,Genoa,63,Torino,2696,True,1512.0,Stefano Sabelli,184421,M,38,Nicola Leali,71,Genoa,1427.0,7.1,45.6,7,22,0,regular,strongFoot,1,
 8,5,26/10/2025,Torino,Genoa,68,Genoa,2713,False,1427.0,Morten Thorsby,280991,M,61,Alberto Paleari,68,Torino,1512.0,12.8,37.4,15,33,-1,assisted,strongFoot,0,0.091282062232494
 8,5,26/10/2025,Torino,Genoa,71,Torino,2696,True,1512.0,Valentino Lazaro,233826,M,66,Nicola Leali,71,Genoa,1427.0,15.1,53.9,15,9,1,assisted,strongFoot,0,0.061301406472921
 8,5,26/10/2025,Torino,Genoa,71,Torino,2696,True,1512.0,Cyril Ngonge,877037,F,71,Nicola Leali,71,Genoa,1427.0,4.0,45.0,5,40,1,assisted,head,0,0.36921325325966
@@ -2315,7 +2312,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 10,3,02/11/2025,Hellas Verona,Inter,85,Inter,2697,False,1977.0,Francesco Pio Esposito,1156616,F,71,Lorenzo Montipò,76,Hellas Verona,1977.0,11.6,40.9,13,28,0,corner,head,0,0.019731391221285
 10,3,02/11/2025,Hellas Verona,Inter,87,Inter,2697,False,1977.0,Nicolò Barella,363856,M,78,Lorenzo Montipò,76,Hellas Verona,1977.0,19.7,61.7,21,21,0,corner,strongFoot,0,0.055163972079754
 10,3,02/11/2025,Hellas Verona,Inter,90,Inter,2697,False,1977.0,Davide Frattesi,835600,M,75,Lorenzo Montipò,76,Hellas Verona,1977.0,8.8,58.8,10,34,0,corner,head,0,0.026753632351756
-10,3,02/11/2025,Hellas Verona,Inter,90,Inter,2697,False,1977.0,Martin Frese,874812,D,64,Lorenzo Montipò,76,Hellas Verona,1977.0,10.1,49.7,10,1,0,regular,head,1,
 10,3,02/11/2025,Hellas Verona,Inter,90,Hellas Verona,2701,True,1363.0,Abdou Harroui,915812,M,68,Yann Sommer,87,Inter,1363.0,28.4,63.2,29,17,-1,assisted,strongFoot,0,0.019214285537601
 10,4,02/11/2025,Fiorentina,Lecce,2,Fiorentina,2693,True,1569.0,Niccolò Fortini,1526934,D,54,Wladimiro Falcone,81,Lecce,1569.0,19.2,34.8,21,28,0,assisted,strongFoot,0,0.022864747792482
 10,4,02/11/2025,Fiorentina,Lecce,10,Lecce,2689,False,1362.0,Tete Morente,605374,F,67,David De Gea,85,Fiorentina,1362.0,12.0,53.8,12,12,0,assisted,head,0,0.032869748771191
@@ -3616,7 +3612,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 15,5,14/12/2025,Fiorentina,Hellas Verona,66,Fiorentina,2693,True,1528.0,Moise Kean,835601,F,81,Lorenzo Montipò,76,Hellas Verona,1360.0,9.8,34.9,14,46,-1,regular,strongFoot,0,0.14411409199238
 15,5,14/12/2025,Fiorentina,Hellas Verona,68,Hellas Verona,2701,False,1360.0,Gift Orban,1217613,F,79,David De Gea,85,Fiorentina,1528.0,26.5,50.7,26,1,1,fast-break,strongFoot,0,0.042115446180105
 15,5,14/12/2025,Fiorentina,Hellas Verona,69,Fiorentina,2693,True,1528.0,Moise Kean,835601,F,81,Lorenzo Montipò,76,Hellas Verona,1360.0,14.3,51.7,14,4,-1,assisted,strongFoot,0,0.15775373578072
-15,5,14/12/2025,Fiorentina,Hellas Verona,69,Fiorentina,2693,True,1528.0,Unai Núñez,892521,D,23,Lorenzo Montipò,76,Hellas Verona,1360.0,8.9,51.8,8,7,-1,regular,strongFoot,1,
 15,5,14/12/2025,Fiorentina,Hellas Verona,72,Fiorentina,2693,True,1528.0,Nicolò Fagioli,901850,M,64,Lorenzo Montipò,76,Hellas Verona,1360.0,22.8,19.2,30,42,0,free-kick,strongFoot,0,0.036271300166845
 15,5,14/12/2025,Fiorentina,Hellas Verona,78,Hellas Verona,2701,False,1360.0,Roberto Gagliardini,287057,M,61,David De Gea,85,Fiorentina,1528.0,19.7,50.5,19,0,0,corner,strongFoot,0,0.025836881250143
 15,5,14/12/2025,Fiorentina,Hellas Verona,81,Hellas Verona,2701,False,1360.0,Gift Orban,1217613,F,79,David De Gea,85,Fiorentina,1528.0,11.3,78.2,22,59,0,assisted,strongFoot,0,0.017466044053435
@@ -3939,7 +3934,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 16,12,15/01/2026,Hellas Verona,Bologna,67,Hellas Verona,2701,True,1363.0,Giovane,1170773,F,69,Federico Ravaglia,70,Bologna,1622.0,15.7,50.9,15,2,-1,assisted,strongFoot,0,0.055157363414764
 16,12,15/01/2026,Hellas Verona,Bologna,67,Hellas Verona,2701,True,1363.0,Giovane,1170773,F,69,Federico Ravaglia,70,Bologna,1622.0,13.2,53.4,13,9,-1,regular,strongFoot,0,0.053972948342562
 16,12,15/01/2026,Hellas Verona,Bologna,71,Bologna,2685,False,1622.0,Torbjørn Heggem,933264,D,45,Lorenzo Montipò,76,Hellas Verona,1363.0,7.7,54.0,8,19,1,corner,head,0,0.080364286899567
-16,12,15/01/2026,Hellas Verona,Bologna,71,Hellas Verona,2701,True,1363.0,Remo Freuler,115516,M,71,Federico Ravaglia,70,Bologna,1622.0,3.9,57.0,6,50,-1,fast-break,strongFoot,1,
 16,12,15/01/2026,Hellas Verona,Bologna,74,Bologna,2685,False,1622.0,Emil Holm,965264,D,60,Lorenzo Montipò,76,Hellas Verona,1363.0,26.3,51.7,26,2,0,assisted,weakFoot,0,0.013734238222241
 16,12,15/01/2026,Hellas Verona,Bologna,77,Hellas Verona,2701,True,1363.0,Victor Nelsson,846148,D,42,Federico Ravaglia,70,Bologna,1622.0,10.1,47.2,10,10,0,corner,head,0,0.031533882021904
 16,12,15/01/2026,Hellas Verona,Bologna,77,Hellas Verona,2701,True,1363.0,Amin Sarr,1022204,F,69,Federico Ravaglia,70,Bologna,1622.0,6.9,51.1,6,6,0,corner,strongFoot,0,0.20003624260426
@@ -4517,7 +4511,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 19,2,06/01/2026,Sassuolo,Juventus,11,Sassuolo,2793,True,1412.0,Edoardo Iannoni,1013239,M,59,Michele Di Gregorio,81,Juventus,1757.0,23.8,59.1,24,14,0,assisted,strongFoot,0,0.02688117697835
 19,2,06/01/2026,Sassuolo,Juventus,12,Juventus,2687,False,1757.0,Khéphren Thuram,904832,M,74,Arijanet Murić,73,Sassuolo,1412.0,17.8,35.6,20,28,0,assisted,weakFoot,0,0.054400153458118
 19,2,06/01/2026,Sassuolo,Juventus,15,Juventus,2687,False,1757.0,Kenan Yıldız,1149011,F,78,Arijanet Murić,73,Sassuolo,1412.0,19.2,31.9,22,32,0,regular,strongFoot,0,0.048699676990509
-19,2,06/01/2026,Sassuolo,Juventus,16,Juventus,2687,False,1757.0,Tarik Muharemović,1118177,D,22,Arijanet Murić,73,Sassuolo,1412.0,12.0,64.4,15,39,0,regular,head,1,
 19,2,06/01/2026,Sassuolo,Juventus,24,Juventus,2687,False,1757.0,Jonathan David,935564,F,80,Arijanet Murić,73,Sassuolo,1412.0,9.2,71.4,17,57,1,assisted,strongFoot,0,0.03243039175868
 19,2,06/01/2026,Sassuolo,Juventus,29,Juventus,2687,False,1757.0,Kenan Yıldız,1149011,F,78,Arijanet Murić,73,Sassuolo,1412.0,12.8,62.0,15,32,1,assisted,strongFoot,0,0.10100457072258
 19,2,06/01/2026,Sassuolo,Juventus,31,Juventus,2687,False,1757.0,Kenan Yıldız,1149011,F,78,Arijanet Murić,73,Sassuolo,1412.0,16.9,44.8,17,11,1,assisted,strongFoot,0,0.11860802024603
@@ -4844,7 +4837,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 20,4,11/01/2026,Lecce,Parma,54,Lecce,2689,True,1361.0,Lameck Banda,911350,M,65,Edoardo Corvi,65,Parma,1360.0,16.1,49.7,16,0,0,throw-in-set-piece,strongFoot,0,0.12078431993723
 20,4,11/01/2026,Lecce,Parma,62,Parma,2690,False,1360.0,Adrián Bernabé,934384,M,70,Wladimiro Falcone,82,Lecce,1361.0,25.4,67.3,27,24,0,assisted,strongFoot,0,0.011164978146553
 20,4,11/01/2026,Lecce,Parma,64,Parma,2690,False,1360.0,Emanuele Valeri,891346,M,70,Wladimiro Falcone,82,Lecce,1361.0,15.5,29.7,20,41,0,set-piece,strongFoot,0,0.024430533871055
-20,4,11/01/2026,Lecce,Parma,64,Parma,2690,False,1360.0,Tiago Gabriel,1651825,D,33,Wladimiro Falcone,82,Lecce,1361.0,8.7,53.5,9,15,0,regular,head,1,
 20,4,11/01/2026,Lecce,Parma,64,Parma,2690,False,1360.0,Emanuele Valeri,891346,M,70,Wladimiro Falcone,82,Lecce,1361.0,27.9,47.0,27,4,1,set-piece,strongFoot,0,0.0093861287459731
 20,4,11/01/2026,Lecce,Parma,68,Parma,2690,False,1360.0,Gaetano Oristanio,965009,M,72,Wladimiro Falcone,82,Lecce,1361.0,12.6,68.1,17,44,1,assisted,strongFoot,0,0.039103161543608
 20,4,11/01/2026,Lecce,Parma,72,Parma,2690,False,1360.0,Mateo Pellegrino,1099296,F,68,Wladimiro Falcone,82,Lecce,1361.0,1.9,54.9,3,60,1,corner,head,1,0.23321330547333
@@ -4973,7 +4965,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 20,9,12/01/2026,Juventus,Cremonese,42,Juventus,2687,True,1757.0,Weston McKennie,881931,M,71,Emil Audero,78,Cremonese,1315.0,7.9,46.5,8,16,2,corner,head,0,0.10283382982016
 20,9,12/01/2026,Juventus,Cremonese,45,Juventus,2687,True,1757.0,Kenan Yıldız,1149011,F,78,Emil Audero,78,Cremonese,1315.0,6.6,34.1,12,58,2,assisted,strongFoot,0,0.04948840662837
 20,9,12/01/2026,Juventus,Cremonese,48,Juventus,2687,True,1757.0,Weston McKennie,881931,M,71,Emil Audero,78,Cremonese,1315.0,2.2,40.9,6,70,2,assisted,strongFoot,0,0.7645166516304
-20,9,12/01/2026,Juventus,Cremonese,48,Juventus,2687,True,1757.0,Filippo Terracciano,1034303,D,60,Emil Audero,78,Cremonese,1315.0,1.7,49.5,1,11,2,regular,other,1,
 20,9,12/01/2026,Juventus,Cremonese,52,Cremonese,2761,False,1315.0,Federico Bonazzoli,284363,F,75,Michele Di Gregorio,81,Juventus,1757.0,11.4,54.2,11,14,-3,throw-in-set-piece,head,0,0.038258891552687
 20,9,12/01/2026,Juventus,Cremonese,54,Juventus,2687,True,1757.0,Weston McKennie,881931,M,71,Emil Audero,78,Cremonese,1315.0,9.5,64.2,13,45,3,assisted,weakFoot,0,0.10007188469172
 20,9,12/01/2026,Juventus,Cremonese,54,Juventus,2687,True,1757.0,Kenan Yıldız,1149011,F,78,Emil Audero,78,Cremonese,1315.0,12.3,28.4,19,50,3,assisted,strongFoot,0,0.032042667269707
@@ -5399,7 +5390,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 22,6,25/01/2026,Genoa,Bologna,41,Bologna,2685,False,1616.0,Ciro Immobile,45923,F,78,Justin Bijlow,75,Genoa,1434.0,9.1,67.3,14,52,1,corner,strongFoot,0,0.016333920881152
 22,6,25/01/2026,Genoa,Bologna,42,Bologna,2685,False,1616.0,Charalampos Lykogiannis,98212,D,68,Justin Bijlow,75,Genoa,1434.0,23.7,24.6,29,36,1,assisted,strongFoot,0,0.019923023879528
 22,6,25/01/2026,Genoa,Bologna,43,Bologna,2685,False,1616.0,Ciro Immobile,45923,F,78,Justin Bijlow,75,Genoa,1434.0,22.0,29.1,26,32,1,assisted,strongFoot,0,0.022192411124706
-22,6,25/01/2026,Genoa,Bologna,47,Bologna,2685,False,1616.0,Sebastian Otoa,1404639,D,33,Justin Bijlow,75,Genoa,1434.0,3.5,54.6,4,41,1,regular,strongFoot,1,
 22,6,25/01/2026,Genoa,Bologna,53,Genoa,2713,True,1434.0,Sebastian Otoa,1404639,D,33,Łukasz Skorupski,79,Bologna,1616.0,9.2,47.9,9,8,-2,corner,head,0,0.048013135790825
 22,6,25/01/2026,Genoa,Bologna,62,Genoa,2713,True,1434.0,Ruslan Malinovskyi,195850,M,78,Łukasz Skorupski,79,Bologna,1616.0,25.7,68.9,28,26,-2,free-kick,strongFoot,1,0.037763528525829
 22,6,25/01/2026,Genoa,Bologna,67,Genoa,2713,True,1434.0,Vitinha,1093695,F,73,Łukasz Skorupski,79,Bologna,1616.0,8.8,43.0,10,28,-1,assisted,strongFoot,0,0.14041033387184
@@ -5518,7 +5508,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 23,1,31/01/2026,Pisa,Sassuolo,41,Pisa,2737,True,1197.0,Stefano Moreo,346948,F,68,Arijanet Murić,73,Sassuolo,1412.0,8.1,44.5,8,24,-1,regular,strongFoot,0,0.43863090872765
 23,1,31/01/2026,Pisa,Sassuolo,43,Pisa,2737,True,1197.0,Idrissa Touré,826326,M,61,Arijanet Murić,73,Sassuolo,1412.0,14.7,40.9,15,22,-1,set-piece,strongFoot,0,0.035308580845594
 23,1,31/01/2026,Pisa,Sassuolo,45,Sassuolo,2793,False,1412.0,Domenico Berardi,253367,F,80,Simone Scuffet,72,Pisa,1197.0,8.6,70.6,16,58,1,corner,weakFoot,0,0.025305036455393
-23,1,31/01/2026,Pisa,Sassuolo,45,Sassuolo,2793,False,1412.0,Antonio Caracciolo,116666,D,31,Simone Scuffet,72,Pisa,1197.0,3.6,51.5,3,15,1,corner,strongFoot,1,
 23,1,31/01/2026,Pisa,Sassuolo,45,Sassuolo,2793,False,1412.0,Ismael Koné,1134351,M,62,Simone Scuffet,72,Pisa,1197.0,9.5,55.3,10,20,2,assisted,strongFoot,0,0.58067774772644
 23,1,31/01/2026,Pisa,Sassuolo,47,Sassuolo,2793,False,1412.0,Kristian Thorstvedt,924973,M,71,Simone Scuffet,72,Pisa,1197.0,10.1,61.7,12,38,2,throw-in-set-piece,strongFoot,0,0.1560283601284
 23,1,31/01/2026,Pisa,Sassuolo,48,Pisa,2737,True,1197.0,Mehdi Léris,851222,M,61,Arijanet Murić,73,Sassuolo,1412.0,13.3,59.9,14,26,-2,regular,strongFoot,0,0.10908209532499
@@ -5703,7 +5692,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 23,7,01/02/2026,Parma,Juventus,43,Parma,2690,True,1368.0,Gaetano Oristanio,965009,M,72,Michele Di Gregorio,81,Juventus,1368.0,20.9,42.7,21,13,-1,regular,strongFoot,0,0.033584900200367
 23,7,01/02/2026,Parma,Juventus,45,Juventus,2687,False,1772.0,Kenan Yıldız,1149011,F,78,Edoardo Corvi,66,Parma,1772.0,15.8,33.8,19,34,1,regular,strongFoot,0,0.047352436929941
 23,7,01/02/2026,Parma,Juventus,50,Parma,2690,True,1368.0,Mateo Pellegrino,1099296,F,68,Michele Di Gregorio,81,Juventus,1368.0,19.4,60.3,20,19,-1,assisted,weakFoot,0,0.055135697126389
-23,7,01/02/2026,Parma,Juventus,51,Parma,2690,True,1368.0,Andrea Cambiaso,917048,M,70,Michele Di Gregorio,81,Juventus,1368.0,3.8,54.2,4,36,-1,regular,strongFoot,1,
 23,7,01/02/2026,Parma,Juventus,54,Juventus,2687,False,1772.0,Jonathan David,935564,F,80,Edoardo Corvi,66,Parma,1772.0,2.6,49.5,2,7,0,set-piece,head,0,0.8708364367485
 23,7,01/02/2026,Parma,Juventus,54,Juventus,2687,False,1772.0,Bremer,885197,D,49,Edoardo Corvi,66,Parma,1772.0,1.1,52.1,1,52,0,set-piece,strongFoot,1,0.96267485618591
 23,7,01/02/2026,Parma,Juventus,54,Juventus,2687,False,1772.0,Weston McKennie,881931,M,71,Edoardo Corvi,66,Parma,1772.0,6.3,49.7,6,1,1,set-piece,head,0,0.1737372726202
@@ -6054,7 +6042,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 25,1,14/02/2026,Como,Fiorentina,65,Como,2704,True,1499.0,Álvaro Morata,125407,F,79,David De Gea,85,Fiorentina,1510.0,5.0,46.4,5,26,-2,corner,strongFoot,0,0.19389612972736
 25,1,14/02/2026,Como,Fiorentina,71,Como,2704,True,1499.0,Jesús Rodriguez,1800245,M,67,David De Gea,85,Fiorentina,1510.0,12.8,31.0,18,45,-2,assisted,strongFoot,0,0.022707289084792
 25,1,14/02/2026,Como,Fiorentina,77,Como,2704,True,1499.0,Álvaro Morata,125407,F,79,David De Gea,85,Fiorentina,1510.0,10.7,46.2,11,13,-2,assisted,head,0,0.04021905362606
-25,1,14/02/2026,Como,Fiorentina,77,Como,2704,True,1499.0,Fabiano Parisi,972886,D,66,David De Gea,85,Fiorentina,1510.0,6.3,54.4,6,25,-2,regular,strongFoot,1,
 25,1,14/02/2026,Como,Fiorentina,79,Como,2704,True,1499.0,Marc Kempf,226974,D,41,David De Gea,85,Fiorentina,1510.0,10.3,53.9,10,14,-1,corner,head,0,0.057930409908295
 25,1,14/02/2026,Como,Fiorentina,81,Como,2704,True,1499.0,Nico Paz,1171451,M,70,David De Gea,85,Fiorentina,1510.0,13.7,65.2,17,37,-1,assisted,weakFoot,0,0.023292353376746
 25,1,14/02/2026,Como,Fiorentina,90,Fiorentina,2693,False,1510.0,Roberto Piccoli,958982,F,74,Jean Butez,76,Como,1499.0,26.6,47.9,26,3,1,assisted,strongFoot,0,0.051109835505486
@@ -6088,7 +6075,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 25,2,14/02/2026,Lazio,Atalanta,90,Lazio,2699,True,1649.0,Boulaye Dia,960080,F,80,Marco Carnesecchi,84,Atalanta,1707.0,14.2,42.3,15,20,-2,regular,strongFoot,0,0.066952250897884
 25,2,14/02/2026,Lazio,Atalanta,90,Lazio,2699,True,1649.0,Patric,217784,D,51,Marco Carnesecchi,84,Atalanta,1707.0,18.7,47.7,18,4,-2,regular,strongFoot,0,0.091550670564175
 25,2,14/02/2026,Lazio,Atalanta,90,Atalanta,2686,False,1707.0,Nikola Krstović,839156,F,74,Ivan Provedel,82,Lazio,1649.0,67.6,50.2,67,0,2,fast-break,strongFoot,0,0.080286733806133
-25,3,14/02/2026,Inter,Juventus,17,Inter,2697,True,1944.0,Andrea Cambiaso,917048,M,70,Michele Di Gregorio,81,Juventus,1770.0,9.1,66.7,14,51,0,regular,strongFoot,1,
 25,3,14/02/2026,Inter,Juventus,20,Juventus,2687,False,1770.0,Weston McKennie,881931,M,71,Yann Sommer,86,Inter,1944.0,8.1,49.9,8,0,0,assisted,head,0,0.19096916913986
 25,3,14/02/2026,Inter,Juventus,22,Juventus,2687,False,1770.0,Francisco Conceição,979222,F,72,Yann Sommer,86,Inter,1944.0,11.9,71.7,18,51,0,assisted,strongFoot,0,0.034127999097109
 25,3,14/02/2026,Inter,Juventus,26,Juventus,2687,False,1770.0,Andrea Cambiaso,917048,M,70,Yann Sommer,86,Inter,1944.0,6.4,47.2,6,16,0,assisted,strongFoot,1,0.37531441450119
@@ -6987,7 +6973,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 29,0,13/03/2026,Torino,Parma,54,Torino,2696,True,1467.0,Emirhan İlkhan,1142612,M,57,Zion Suzuki,75,Parma,1409.0,2.4,48.1,2,28,0,corner,strongFoot,1,0.93878626823425
 29,0,13/03/2026,Torino,Parma,54,Torino,2696,True,1467.0,Che Adams,773409,F,79,Zion Suzuki,75,Parma,1409.0,8.1,72.9,17,62,1,corner,strongFoot,0,0.04233269020915
 29,0,13/03/2026,Torino,Parma,56,Torino,2696,True,1467.0,Giovanni Simeone,341143,F,76,Zion Suzuki,75,Parma,1409.0,10.1,55.8,10,21,1,fast-break,strongFoot,0,0.34486955404282
-29,0,13/03/2026,Torino,Parma,56,Torino,2696,True,1467.0,Mandela Keita,1110136,M,55,Zion Suzuki,75,Parma,1409.0,2.0,48.9,2,20,1,fast-break,strongFoot,1,
 29,0,13/03/2026,Torino,Parma,63,Torino,2696,True,1467.0,Giovanni Simeone,341143,F,76,Zion Suzuki,75,Parma,1409.0,19.4,66.7,22,30,2,fast-break,strongFoot,0,0.047265011817217
 29,0,13/03/2026,Torino,Parma,67,Torino,2696,True,1467.0,Emirhan İlkhan,1142612,M,57,Zion Suzuki,75,Parma,1409.0,18.9,62.3,20,23,2,assisted,strongFoot,0,0.039611268788576
 29,0,13/03/2026,Torino,Parma,73,Torino,2696,True,1467.0,Nikola Vlašić,357596,M,77,Zion Suzuki,75,Parma,1409.0,18.4,55.2,18,10,2,regular,weakFoot,0,0.060289461165667
@@ -8181,7 +8166,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 34,0,24/04/2026,SSC Napoli,Cremonese,38,SSC Napoli,2714,True,1715.0,Scott McTominay,879346,M,81,Emil Audero,79,Cremonese,1285.0,18.2,57.2,18,15,1,assisted,strongFoot,0,0.10747257620096
 34,0,24/04/2026,SSC Napoli,Cremonese,43,SSC Napoli,2714,True,1715.0,Rasmus Højlund,1086417,F,76,Emil Audero,79,Cremonese,1285.0,13.6,71.8,20,47,1,assisted,strongFoot,0,0.030143857002258
 34,0,24/04/2026,SSC Napoli,Cremonese,44,SSC Napoli,2714,True,1715.0,Rasmus Højlund,1086417,F,76,Emil Audero,79,Cremonese,1285.0,24.4,54.8,24,7,1,assisted,strongFoot,0,0.027989514172077
-34,0,24/04/2026,SSC Napoli,Cremonese,45,SSC Napoli,2714,True,1715.0,Filippo Terracciano,1034303,D,60,Emil Audero,79,Cremonese,1285.0,15.7,46.6,15,8,1,regular,strongFoot,1,
 34,0,24/04/2026,SSC Napoli,Cremonese,45,SSC Napoli,2714,True,1715.0,Kevin De Bruyne,70996,M,82,Emil Audero,79,Cremonese,1285.0,7.7,57.6,9,33,2,regular,strongFoot,1,0.2297333329916
 34,0,24/04/2026,SSC Napoli,Cremonese,47,Cremonese,2761,False,1285.0,Martín Payero,895592,M,65,Vanja Milinković-Savić,79,SSC Napoli,1715.0,25.1,43.9,25,9,-3,regular,strongFoot,0,0.025688769295812
 34,0,24/04/2026,SSC Napoli,Cremonese,52,SSC Napoli,2714,True,1715.0,Alisson Santos,1122835,F,60,Emil Audero,79,Cremonese,1285.0,18.0,44.2,18,12,3,fast-break,strongFoot,1,0.12737798690796
@@ -9016,7 +9000,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 37,5,17/05/2026,Inter,Hellas Verona,42,Inter,2697,True,1876.0,Lautaro Martínez,823984,F,88,Lorenzo Montipò,76,Hellas Verona,1305.0,9.4,65.6,14,48,0,fast-break,strongFoot,0,0.22306622564793
 37,5,17/05/2026,Inter,Hellas Verona,46,Inter,2697,True,1876.0,Henrikh Mkhitaryan,37151,M,78,Lorenzo Montipò,76,Hellas Verona,1305.0,12.0,46.2,12,12,0,regular,head,0,0.16430194675922
 37,5,17/05/2026,Inter,Hellas Verona,47,Inter,2697,True,1876.0,Ange-Yoan Bonny,1086223,F,75,Lorenzo Montipò,76,Hellas Verona,1305.0,3.6,47.1,4,28,0,corner,head,0,0.2627472281456
-37,5,17/05/2026,Inter,Hellas Verona,47,Inter,2697,True,1876.0,Andrias Edmundsson,906963,D,33,Lorenzo Montipò,76,Hellas Verona,1305.0,4.3,49.9,4,0,0,corner,other,1,
 37,5,17/05/2026,Inter,Hellas Verona,51,Inter,2697,True,1876.0,Lautaro Martínez,823984,F,88,Lorenzo Montipò,76,Hellas Verona,1305.0,13.2,61.3,15,30,1,assisted,strongFoot,0,0.10651254653931
 37,5,17/05/2026,Inter,Hellas Verona,52,Inter,2697,True,1876.0,Carlos Augusto,929199,D,71,Lorenzo Montipò,76,Hellas Verona,1305.0,5.0,42.4,7,45,1,corner,head,0,0.083178594708443
 37,5,17/05/2026,Inter,Hellas Verona,54,Inter,2697,True,1876.0,Petar Sučić,1091303,M,68,Lorenzo Montipò,76,Hellas Verona,1305.0,19.7,32.8,22,30,1,regular,weakFoot,0,0.034499667584896
@@ -9149,7 +9132,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 38,0,22/05/2026,Fiorentina,Atalanta,80,Fiorentina,2693,True,1556.0,Giovanni Fabbian,1067204,M,69,Marco Sportiello,76,Atalanta,1679.0,8.2,53.4,8,15,1,corner,head,0,0.068907134234905
 38,0,22/05/2026,Fiorentina,Atalanta,81,Atalanta,2686,False,1679.0,Kamaldeen Sulemana,1019442,F,64,Oliver Christensen,71,Fiorentina,1556.0,13.2,29.5,19,46,-1,assisted,strongFoot,0,0.051189236342907
 38,0,22/05/2026,Fiorentina,Atalanta,82,Fiorentina,2693,True,1556.0,Rolando Mandragora,548178,M,72,Marco Sportiello,76,Atalanta,1679.0,21.9,41.5,22,14,1,assisted,strongFoot,0,0.061268981546164
-38,0,22/05/2026,Fiorentina,Atalanta,82,Atalanta,2686,False,1679.0,Pietro Comuzzo,1210848,D,29,Oliver Christensen,71,Fiorentina,1556.0,3.9,52.3,4,21,-1,regular,strongFoot,1,
 38,0,22/05/2026,Fiorentina,Atalanta,85,Fiorentina,2693,True,1556.0,Giovanni Fabbian,1067204,M,69,Marco Sportiello,76,Atalanta,1679.0,8.5,45.0,9,21,0,assisted,head,0,0.14267362654209
 38,0,22/05/2026,Fiorentina,Atalanta,86,Atalanta,2686,False,1679.0,Giacomo Raspadori,865651,F,78,Oliver Christensen,71,Fiorentina,1556.0,18.5,46.0,18,8,0,regular,strongFoot,0,0.073276177048683
 38,0,22/05/2026,Fiorentina,Atalanta,90,Fiorentina,2693,True,1556.0,Jack Harrison,829570,F,68,Marco Sportiello,76,Atalanta,1679.0,11.7,35.2,15,40,0,assisted,strongFoot,0,0.039571523666382
@@ -9167,7 +9149,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 38,1,23/05/2026,Bologna,Inter,42,Bologna,2685,True,1627.0,Tommaso Pobega,928796,M,75,Josep Martínez,75,Inter,1868.0,19.0,50.4,19,0,0,set-piece,strongFoot,1,0.044368579983711
 38,1,23/05/2026,Bologna,Inter,45,Inter,2697,False,1868.0,Pio Esposito,1156616,F,75,Łukasz Skorupski,78,Bologna,1627.0,2.8,54.0,3,44,-1,corner,head,0,0.22325228154659
 38,1,23/05/2026,Bologna,Inter,45,Inter,2697,False,1868.0,Piotr Zieliński,138605,M,76,Łukasz Skorupski,78,Bologna,1627.0,13.7,48.4,13,4,-1,regular,strongFoot,0,0.13833776116371
-38,1,23/05/2026,Bologna,Inter,48,Bologna,2685,True,1627.0,Piotr Zieliński,138605,M,76,Josep Martínez,75,Inter,1868.0,9.4,44.1,10,23,1,regular,strongFoot,1,
 38,1,23/05/2026,Bologna,Inter,53,Bologna,2685,True,1627.0,Federico Bernardeschi,294597,F,73,Josep Martínez,75,Inter,1868.0,18.2,56.2,18,13,2,fast-break,strongFoot,0,0.10355104506016
 38,1,23/05/2026,Bologna,Inter,56,Inter,2697,False,1868.0,Carlos Augusto,929199,D,71,Łukasz Skorupski,78,Bologna,1627.0,5.4,31.8,13,66,-2,assisted,strongFoot,0,0.17954251170158
 38,1,23/05/2026,Bologna,Inter,57,Inter,2697,False,1868.0,Carlos Augusto,929199,D,71,Łukasz Skorupski,78,Bologna,1627.0,11.0,30.5,17,50,-2,corner,strongFoot,0,0.030762432143092

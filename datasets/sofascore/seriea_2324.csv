@@ -947,7 +947,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 4,7,17/09/2023,AS Roma,Empoli,28,Empoli,2705,False,1476,Nicolò Cambiaghi,971005,F,72,Rui Patrício,81,AS Roma,1631,23.9,58.3,24,13,0,assisted,weakFoot,0,0.026454905048013
 4,7,17/09/2023,AS Roma,Empoli,31,Empoli,2705,False,1476,Nicolò Cambiaghi,971005,F,72,Rui Patrício,81,AS Roma,1631,21.8,67.6,24,28,0,assisted,weakFoot,0,0.014839356765151
 4,7,17/09/2023,AS Roma,Empoli,33,Empoli,2705,False,1476,Alberto Grassi,186845,M,62,Rui Patrício,81,AS Roma,1631,18.1,47.6,18,5,0,regular,strongFoot,0,0.077617399394512
-4,7,17/09/2023,AS Roma,Empoli,35,AS Roma,2702,True,1631,Alberto Grassi,186845,M,62,Etrit Berisha,71,Empoli,1476,13.5,48.0,13,5,0,regular,strongFoot,1,
 4,7,17/09/2023,AS Roma,Empoli,42,Empoli,2705,False,1476,Nicolò Cambiaghi,971005,F,72,Rui Patrício,81,AS Roma,1631,25.0,37.1,26,19,-1,set-piece,weakFoot,0,0.023555302992463
 4,7,17/09/2023,AS Roma,Empoli,42,Empoli,2705,False,1476,Alberto Grassi,186845,M,62,Rui Patrício,81,AS Roma,1631,10.0,40.0,12,34,-1,corner,head,0,0.012685429304838
 4,7,17/09/2023,AS Roma,Empoli,45,Empoli,2705,False,1476,Bartosz Bereszyński,109461,D,55,Rui Patrício,81,AS Roma,1631,27.1,52.8,27,4,-1,assisted,strongFoot,0,0.018757089972496
@@ -1088,7 +1087,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 5,3,23/09/2023,Sassuolo,Juventus,16,Sassuolo,2793,True,1462,Nedim Bajrami,825861,M,66,Wojciech Szczęsny,86,Juventus,1710,18.3,51.7,18,3,1,regular,weakFoot,0,0.045856457203627
 5,3,23/09/2023,Sassuolo,Juventus,17,Juventus,2687,False,1710,Dušan Vlahović,832208,F,84,Alessio Cragno,75,Sassuolo,1462,14.7,40.3,16,24,-1,assisted,strongFoot,0,0.045403402298689
 5,3,23/09/2023,Sassuolo,Juventus,20,Juventus,2687,False,1710,Filip Kostić,126588,M,75,Alessio Cragno,75,Sassuolo,1462,31.9,56.7,32,8,-1,assisted,strongFoot,0,0.016432115808129
-5,3,23/09/2023,Sassuolo,Juventus,21,Juventus,2687,False,1710,Matías Viña,875295,D,62,Alessio Cragno,75,Sassuolo,1462,1.8,53.4,2,52,-1,regular,strongFoot,1,
 5,3,23/09/2023,Sassuolo,Juventus,23,Sassuolo,2793,True,1462,Nedim Bajrami,825861,M,66,Wojciech Szczęsny,86,Juventus,1710,12.4,54.9,12,15,0,assisted,strongFoot,0,0.13633269071579
 5,3,23/09/2023,Sassuolo,Juventus,24,Juventus,2687,False,1710,Dušan Vlahović,832208,F,84,Alessio Cragno,75,Sassuolo,1462,24.3,32.3,27,26,0,fast-break,strongFoot,0,0.03596343100071
 5,3,23/09/2023,Sassuolo,Juventus,29,Juventus,2687,False,1710,Adrien Rabiot,250737,M,75,Alessio Cragno,75,Sassuolo,1462,12.4,43.7,13,19,0,assisted,weakFoot,0,0.085886992514133
@@ -1114,7 +1112,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 5,3,23/09/2023,Sassuolo,Juventus,82,Sassuolo,2793,True,1462,Andrea Pinamonti,826198,F,75,Wojciech Szczęsny,86,Juventus,1710,8.1,52.8,8,13,0,regular,head,1,0.27237877249718
 5,3,23/09/2023,Sassuolo,Juventus,90,Juventus,2687,False,1710,Federico Chiesa,845386,F,81,Alessio Cragno,75,Sassuolo,1462,6.7,76.4,19,69,-1,set-piece,strongFoot,0,0.0064252070151269
 5,3,23/09/2023,Sassuolo,Juventus,90,Sassuolo,2793,True,1462,Grégoire Defrel,148566,F,73,Wojciech Szczęsny,86,Juventus,1710,9.6,66.1,14,48,1,assisted,weakFoot,0,0.075898438692093
-5,3,23/09/2023,Sassuolo,Juventus,90,Sassuolo,2793,True,1462,Federico Gatti,1128063,D,35,Wojciech Szczęsny,86,Juventus,1710,26.2,37.6,27,17,1,regular,strongFoot,1,
 5,4,23/09/2023,Lazio,Monza,2,Monza,2729,False,1414,Patrick Ciurria,346676,F,73,Ivan Provedel,82,Lazio,1624,19.2,67.4,22,31,0,assisted,strongFoot,0,0.032723773270845
 5,4,23/09/2023,Lazio,Monza,8,Monza,2729,False,1414,Lorenzo Colombo,930191,F,73,Ivan Provedel,82,Lazio,1624,7.5,65.8,13,55,0,assisted,weakFoot,0,0.050911132246256
 5,4,23/09/2023,Lazio,Monza,12,Lazio,2699,True,1624,Ciro Immobile,45923,F,87,Michele Di Gregorio,79,Monza,1414,11.5,50.0,11,0,0,penalty,strongFoot,1,0.7884
@@ -1623,7 +1620,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 7,4,01/10/2023,Udinese,Genoa,78,Udinese,2695,True,1414,Lorenzo Lucca,962364,F,71,Josep Martínez,72,Genoa,1369,7.3,44.7,8,26,0,assisted,strongFoot,0,0.42051216959953
 7,4,01/10/2023,Udinese,Genoa,89,Udinese,2695,True,1414,Sandi Lovrić,575852,M,62,Josep Martínez,72,Genoa,1369,25.2,60.0,26,15,0,corner,strongFoot,0,0.017370348796248
 7,4,01/10/2023,Udinese,Genoa,90,Udinese,2695,True,1414,Nehuén Pérez,913401,D,25,Josep Martínez,72,Genoa,1369,3.1,48.5,3,18,0,corner,head,0,0.28975006937981
-7,4,01/10/2023,Udinese,Genoa,90,Udinese,2695,True,1414,Alan Matturro,1177401,D,30,Josep Martínez,72,Genoa,1369,4.3,54.6,5,36,0,corner,head,1,
 7,5,01/10/2023,Atalanta,Juventus,6,Atalanta,2686,True,1651,Éderson,946888,M,65,Wojciech Szczęsny,86,Juventus,1699,21.8,40.8,22,16,0,assisted,weakFoot,0,0.044927529990673
 7,5,01/10/2023,Atalanta,Juventus,14,Atalanta,2686,True,1651,Davide Zappacosta,132318,M,67,Wojciech Szczęsny,86,Juventus,1699,9.6,56.0,10,23,0,regular,weakFoot,0,0.21311123669147
 7,5,01/10/2023,Atalanta,Juventus,14,Atalanta,2686,True,1651,Davide Zappacosta,132318,M,67,Wojciech Szczęsny,86,Juventus,1699,9.0,60.8,11,39,0,assisted,strongFoot,0,0.12011042237282
@@ -1713,7 +1709,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 7,9,02/10/2023,Fiorentina,Cagliari,8,Fiorentina,2693,True,1580,Nicolás González,901325,M,75,Boris Radunović,72,Cagliari,1326,24.8,69.9,28,28,0,assisted,strongFoot,0,0.016906438395381
 7,9,02/10/2023,Fiorentina,Cagliari,13,Fiorentina,2693,True,1580,Nicolás González,901325,M,75,Boris Radunović,72,Cagliari,1326,15.4,50.7,15,1,0,assisted,strongFoot,0,0.061187710613012
 7,9,02/10/2023,Fiorentina,Cagliari,18,Fiorentina,2693,True,1580,Nicolás González,901325,M,75,Boris Radunović,72,Cagliari,1326,14.4,75.1,22,49,0,assisted,strongFoot,0,0.026600668206811
-7,9,02/10/2023,Fiorentina,Cagliari,21,Fiorentina,2693,True,1580,Alberto Dossena,870211,D,31,Boris Radunović,72,Cagliari,1326,4.6,56.9,6,45,0,regular,strongFoot,1,
 7,9,02/10/2023,Fiorentina,Cagliari,23,Cagliari,2719,False,1326,Tommaso Augello,596736,M,51,Pietro Terracciano,79,Fiorentina,1580,8.1,26.6,17,63,0,regular,weakFoot,0,0.021099826321006
 7,9,02/10/2023,Fiorentina,Cagliari,27,Fiorentina,2693,True,1580,Nicolás González,901325,M,75,Boris Radunović,72,Cagliari,1326,7.4,57.8,9,35,0,assisted,head,0,0.061313219368458
 7,9,02/10/2023,Fiorentina,Cagliari,27,Cagliari,2719,False,1326,Andrea Petagna,295973,F,75,Pietro Terracciano,79,Fiorentina,1580,8.8,59.8,11,37,0,assisted,head,0,0.031535748392344
@@ -3137,7 +3132,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 13,4,26/11/2023,Empoli,Sassuolo,84,Sassuolo,2793,False,1462,Domenico Berardi,253367,F,82,Etrit Berisha,71,Empoli,1462,10.3,61.2,12,36,1,fast-break,weakFoot,0,0.10553017258644
 13,4,26/11/2023,Empoli,Sassuolo,86,Empoli,2705,True,1462,Emmanuel Gyasi,541578,M,61,Andrea Consigli,79,Sassuolo,1462,10.6,57.6,11,25,-1,assisted,strongFoot,0,0.24291165173054
 13,4,26/11/2023,Empoli,Sassuolo,86,Empoli,2705,True,1462,Viktor Kovalenko,287659,M,69,Andrea Consigli,79,Sassuolo,1462,9.0,34.3,13,49,-1,regular,weakFoot,0,0.086468949913979
-13,4,26/11/2023,Empoli,Sassuolo,86,Empoli,2705,True,1462,Matías Viña,875295,D,61,Andrea Consigli,79,Sassuolo,1462,0.59999999999999,49.3,0,38,-1,regular,strongFoot,1,
 13,4,26/11/2023,Empoli,Sassuolo,90,Sassuolo,2793,False,1462,Nedim Bajrami,825861,M,66,Etrit Berisha,71,Empoli,1462,23.6,45.7,23,7,0,free-kick,strongFoot,0,0.089121721684933
 13,4,26/11/2023,Empoli,Sassuolo,90,Sassuolo,2793,False,1462,Nedim Bajrami,825861,M,66,Etrit Berisha,71,Empoli,1462,20.2,43.8,20,11,0,set-piece,strongFoot,0,0.012873748317361
 13,4,26/11/2023,Empoli,Sassuolo,90,Sassuolo,2793,False,1462,Domenico Berardi,253367,F,82,Etrit Berisha,71,Empoli,1462,10.3,64.6,14,43,0,set-piece,weakFoot,1,0.059066452085972
@@ -3720,7 +3714,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 15,8,11/12/2023,Empoli,Lecce,64,Lecce,2689,False,1366,Lameck Banda,911350,M,64,Etrit Berisha,71,Empoli,1464,29.6,30.6,32,24,0,assisted,strongFoot,1,0.015353715978563
 15,8,11/12/2023,Empoli,Lecce,67,Lecce,2689,False,1366,Hamza Rafia,857772,M,63,Etrit Berisha,71,Empoli,1464,22.5,33.1,25,27,1,assisted,strongFoot,0,0.025398291647434
 15,8,11/12/2023,Empoli,Lecce,68,Empoli,2705,True,1464,Alberto Grassi,186845,M,62,Wladimiro Falcone,76,Lecce,1366,14.8,43.0,15,17,-1,corner,strongFoot,0,0.041739966720343
-15,8,11/12/2023,Empoli,Lecce,71,Empoli,2705,True,1464,Hamza Rafia,857772,M,63,Wladimiro Falcone,76,Lecce,1366,9.5,69.9,16,54,-1,regular,strongFoot,1,
 15,8,11/12/2023,Empoli,Lecce,74,Empoli,2705,True,1464,Răzvan Marin,279563,M,74,Wladimiro Falcone,76,Lecce,1366,30.2,60.1,30,12,0,free-kick,strongFoot,0,0.031228758394718
 15,8,11/12/2023,Empoli,Lecce,76,Empoli,2705,True,1464,Matteo Cancellieri,1017649,F,69,Wladimiro Falcone,76,Lecce,1366,4.8,45.4,5,33,0,set-piece,weakFoot,0,0.27868315577507
 15,8,11/12/2023,Empoli,Lecce,78,Empoli,2705,True,1464,Nicolò Cambiaghi,971005,F,72,Wladimiro Falcone,76,Lecce,1366,3.9,69.4,13,73,0,regular,strongFoot,0,0.031320299953222
@@ -3955,7 +3948,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 16,7,17/12/2023,Bologna,AS Roma,42,Bologna,2685,True,1537,Joshua Zirkzee,917007,F,73,Rui Patrício,81,AS Roma,1659,10.2,68.3,16,50,0,regular,strongFoot,0,0.04423738270998
 16,7,17/12/2023,Bologna,AS Roma,42,Bologna,2685,True,1537,Joshua Zirkzee,917007,F,73,Rui Patrício,81,AS Roma,1659,25.4,71.8,29,30,0,assisted,strongFoot,0,0.014115251600742
 16,7,17/12/2023,Bologna,AS Roma,44,Bologna,2685,True,1537,Dan Ndoye,944327,M,64,Rui Patrício,81,AS Roma,1659,7.8,65.7,13,53,0,assisted,strongFoot,0,0.04834558069706
-16,7,17/12/2023,Bologna,AS Roma,49,Bologna,2685,True,1537,Rasmus Kristensen,921789,D,67,Rui Patrício,81,AS Roma,1659,3.3,50.7,3,8,0,regular,strongFoot,1,
 16,7,17/12/2023,Bologna,AS Roma,60,Bologna,2685,True,1537,Joshua Zirkzee,917007,F,73,Rui Patrício,81,AS Roma,1659,14.9,61.2,16,27,1,assisted,strongFoot,0,0.061619814485312
 16,7,17/12/2023,Bologna,AS Roma,65,AS Roma,2702,False,1659,Rasmus Kristensen,921789,D,66,Federico Ravaglia,65,Bologna,1537,6.2,64.8,11,58,-1,assisted,strongFoot,0,0.056355312466621
 16,7,17/12/2023,Bologna,AS Roma,66,AS Roma,2702,False,1659,Stephan El Shaarawy,45925,F,75,Federico Ravaglia,65,Bologna,1537,31.6,19.4,37,33,-1,regular,strongFoot,0,0.0047547351568937
@@ -4607,7 +4599,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 19,2,06/01/2024,Frosinone,Monza,47,Frosinone,2801,True,1435,Giuseppe Caso,946985,M,67,Michele Di Gregorio,79,Monza,1366,22.4,46.7,22,5,-2,assisted,strongFoot,0,0.068518899381161
 19,2,06/01/2024,Frosinone,Monza,51,Monza,2729,False,1366,Dany Mota,838907,F,72,Stefano Turati,73,Frosinone,1435,21.1,34.9,23,25,2,assisted,strongFoot,0,0.023361777886748
 19,2,06/01/2024,Frosinone,Monza,53,Frosinone,2801,True,1435,Matías Soulé,1082406,F,64,Michele Di Gregorio,79,Monza,1366,15.0,45.6,15,11,-2,assisted,strongFoot,0,0.10081493109465
-19,2,06/01/2024,Frosinone,Monza,55,Monza,2729,False,1366,Matías Soulé,1082406,F,64,Stefano Turati,73,Frosinone,1435,18.2,49.8,18,0,2,regular,strongFoot,1,
 19,2,06/01/2024,Frosinone,Monza,57,Frosinone,2801,True,1435,Abdou Harroui,915812,M,68,Michele Di Gregorio,79,Monza,1366,4.2,67.6,12,70,-3,assisted,weakFoot,1,0.038314960896969
 19,2,06/01/2024,Frosinone,Monza,61,Frosinone,2801,True,1435,Matías Soulé,1082406,F,64,Michele Di Gregorio,79,Monza,1366,18.3,72.1,23,39,-2,assisted,strongFoot,0,0.012551366351545
 19,2,06/01/2024,Frosinone,Monza,68,Frosinone,2801,True,1435,Matías Soulé,1082406,F,64,Michele Di Gregorio,79,Monza,1366,10.4,54.6,10,16,-2,regular,strongFoot,0,0.091410212218761
@@ -4905,7 +4896,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 20,5,14/01/2024,Cagliari,Bologna,35,Cagliari,2719,True,1337,Gabriele Zappa,927304,D,52,Łukasz Skorupski,77,Bologna,1547,28.5,69.2,31,24,0,assisted,strongFoot,0,0.015353715978563
 20,5,14/01/2024,Cagliari,Bologna,46,Cagliari,2719,True,1337,Andrea Petagna,295973,F,73,Łukasz Skorupski,77,Bologna,1547,13.3,18.3,25,58,0,assisted,strongFoot,0,0.015209005214274
 20,5,14/01/2024,Cagliari,Bologna,58,Cagliari,2719,True,1337,Nicolas Viola,21608,M,70,Łukasz Skorupski,77,Bologna,1547,26.3,42.7,26,10,0,free-kick,strongFoot,0,0.080057382583618
-20,5,14/01/2024,Cagliari,Bologna,69,Cagliari,2719,True,1337,Riccardo Calafiori,957602,D,48,Łukasz Skorupski,77,Bologna,1547,3.7,53.4,4,31,0,corner,strongFoot,1,
 20,5,14/01/2024,Cagliari,Bologna,82,Bologna,2685,False,1547,Remo Freuler,115516,M,68,Simone Scuffet,71,Cagliari,1337,12.8,61.7,15,31,-1,assisted,weakFoot,0,0.086223393678665
 20,5,14/01/2024,Cagliari,Bologna,83,Bologna,2685,False,1547,Giovanni Fabbian,1067204,M,62,Simone Scuffet,71,Cagliari,1337,12.8,51.3,12,3,-1,assisted,head,0,0.032159455120564
 20,5,14/01/2024,Cagliari,Bologna,89,Bologna,2685,False,1547,Lewis Ferguson,907152,M,73,Simone Scuffet,71,Cagliari,1337,12.5,54.6,12,14,-1,regular,weakFoot,0,0.05557956546545
@@ -5634,7 +5624,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 23,4,03/02/2024,Bologna,Sassuolo,19,Bologna,2685,True,1545,Joshua Zirkzee,917007,F,76,Andrea Consigli,79,Sassuolo,1425,3.6,57.0,5,52,0,regular,strongFoot,0,0.16995115578175
 23,4,03/02/2024,Bologna,Sassuolo,22,Bologna,2685,True,1545,Joshua Zirkzee,917007,F,76,Andrea Consigli,79,Sassuolo,1425,22.6,69.9,26,30,0,assisted,weakFoot,0,0.021877404302359
 23,4,03/02/2024,Bologna,Sassuolo,24,Bologna,2685,True,1545,Joshua Zirkzee,917007,F,76,Andrea Consigli,79,Sassuolo,1425,14.7,48.9,14,2,0,corner,strongFoot,0,0.056313507258892
-23,4,03/02/2024,Bologna,Sassuolo,24,Bologna,2685,True,1545,Mattia Viti,1009268,D,34,Andrea Consigli,79,Sassuolo,1425,6.4,52.1,6,12,0,corner,other,1,
 23,4,03/02/2024,Bologna,Sassuolo,26,Sassuolo,2793,False,1425,Luca Lipani,1154898,M,43,Łukasz Skorupski,77,Bologna,1545,7.2,41.5,9,38,-1,corner,head,0,0.036427788436413
 23,4,03/02/2024,Bologna,Sassuolo,29,Bologna,2685,True,1545,Michel Aebischer,850891,M,64,Andrea Consigli,79,Sassuolo,1425,25.6,30.2,28,27,1,assisted,strongFoot,0,0.015036216005683
 23,4,03/02/2024,Bologna,Sassuolo,29,Sassuolo,2793,False,1425,Cristian Volpato,1155625,M,63,Łukasz Skorupski,77,Bologna,1545,18.7,66.8,21,31,-1,assisted,strongFoot,0,0.021364660933614
@@ -5702,7 +5691,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 23,6,04/02/2024,SSC Napoli,Hellas Verona,77,SSC Napoli,2714,True,1791,Pasquale Mazzocchi,377512,M,60,Lorenzo Montipò,77,Hellas Verona,1364,8.6,34.7,13,50,-1,regular,strongFoot,0,0.074189469218254
 23,6,04/02/2024,SSC Napoli,Hellas Verona,77,SSC Napoli,2714,True,1791,Jesper Lindstrøm,947929,M,71,Lorenzo Montipò,77,Hellas Verona,1364,14.8,44.8,15,13,-1,regular,strongFoot,0,0.091445468366146
 23,6,04/02/2024,SSC Napoli,Hellas Verona,79,SSC Napoli,2714,True,1791,Cyril Ngonge,877037,F,71,Lorenzo Montipò,77,Hellas Verona,1364,8.7,49.4,8,2,-1,assisted,strongFoot,0,0.21495375037193
-23,6,04/02/2024,SSC Napoli,Hellas Verona,79,SSC Napoli,2714,True,1791,Paweł Dawidowicz,288321,M,48,Lorenzo Montipò,77,Hellas Verona,1364,6.7,49.5,6,2,-1,regular,strongFoot,1,
 23,6,04/02/2024,SSC Napoli,Hellas Verona,82,SSC Napoli,2714,True,1791,Frank Anguissa,787941,M,66,Lorenzo Montipò,77,Hellas Verona,1364,25.5,62.9,26,18,0,regular,strongFoot,0,0.017408341169357
 23,6,04/02/2024,SSC Napoli,Hellas Verona,83,SSC Napoli,2714,True,1791,Giovanni Simeone,341143,F,79,Lorenzo Montipò,77,Hellas Verona,1364,9.0,58.4,10,32,0,assisted,strongFoot,0,0.21768675744534
 23,6,04/02/2024,SSC Napoli,Hellas Verona,83,SSC Napoli,2714,True,1791,Giovanni Simeone,341143,F,79,Lorenzo Montipò,77,Hellas Verona,1364,9.4,60.8,11,37,0,regular,strongFoot,0,0.11451770365238
@@ -5745,7 +5733,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 23,8,04/02/2024,Inter,Juventus,25,Inter,2697,True,1953,Marcus Thuram,791702,F,78,Wojciech Szczęsny,86,Juventus,1756,9.7,51.5,9,6,0,assisted,weakFoot,0,0.1156492382288
 23,8,04/02/2024,Inter,Juventus,32,Juventus,2687,False,1756,Dušan Vlahović,832208,F,84,Yann Sommer,84,Inter,1953,3.3,35.6,10,71,0,fast-break,strongFoot,0,0.088443577289581
 23,8,04/02/2024,Inter,Juventus,35,Juventus,2687,False,1756,Filip Kostić,126588,M,75,Yann Sommer,84,Inter,1953,13.6,31.4,18,42,0,fast-break,strongFoot,0,0.032830186188221
-23,8,04/02/2024,Inter,Juventus,37,Inter,2697,True,1953,Federico Gatti,1128063,D,35,Wojciech Szczęsny,86,Juventus,1756,3.2,52.6,3,28,0,regular,other,1,
 23,8,04/02/2024,Inter,Juventus,55,Juventus,2687,False,1756,Danilo,124992,D,67,Yann Sommer,84,Inter,1953,28.8,51.9,28,2,-1,assisted,strongFoot,0,0.022497840225697
 23,8,04/02/2024,Inter,Juventus,56,Inter,2697,True,1953,Federico Dimarco,284361,M,74,Wojciech Szczęsny,86,Juventus,1756,14.5,34.4,17,36,1,assisted,strongFoot,0,0.070849485695362
 23,8,04/02/2024,Inter,Juventus,57,Inter,2697,True,1953,Hakan Çalhanoğlu,135700,M,79,Wojciech Szczęsny,86,Juventus,1756,17.0,60.9,18,23,1,throw-in-set-piece,strongFoot,0,0.047834280878305
@@ -5798,7 +5785,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 24,0,09/02/2024,US Salernitana 1919,Empoli,18,US Salernitana 1919,2710,True,1425,Antonio Candreva,27982,F,78,Elia Caprile,72,Empoli,1425,22.8,25.5,28,36,0,assisted,strongFoot,0,0.015860611572862
 24,0,09/02/2024,US Salernitana 1919,Empoli,20,Empoli,2705,False,1425,Alberto Cerri,187121,F,71,Guillermo Ochoa,81,US Salernitana 1919,1425,4.5,50.3,4,2,0,corner,head,0,0.21933102607727
 24,0,09/02/2024,US Salernitana 1919,Empoli,22,US Salernitana 1919,2710,True,1425,Giulio Maggiore,848185,M,59,Elia Caprile,72,Empoli,1425,14.4,53.3,14,8,0,set-piece,head,0,0.016912685707211
-24,0,09/02/2024,US Salernitana 1919,Empoli,23,Empoli,2705,False,1425,Alessandro Zanoli,922928,M,38,Guillermo Ochoa,81,US Salernitana 1919,1425,10.0,34.8,14,45,0,regular,head,1,
 24,0,09/02/2024,US Salernitana 1919,Empoli,31,Empoli,2705,False,1425,Emmanuel Gyasi,541578,M,62,Guillermo Ochoa,81,US Salernitana 1919,1425,9.4,51.9,9,7,1,assisted,head,0,0.060457982122898
 24,0,09/02/2024,US Salernitana 1919,Empoli,35,Empoli,2705,False,1425,Alberto Cerri,187121,F,71,Guillermo Ochoa,81,US Salernitana 1919,1425,12.1,44.3,12,17,1,assisted,head,0,0.026013784110546
 24,0,09/02/2024,US Salernitana 1919,Empoli,36,Empoli,2705,False,1425,Alberto Grassi,186845,M,62,Guillermo Ochoa,81,US Salernitana 1919,1425,20.0,70.1,24,34,1,assisted,strongFoot,0,0.022274078801274
@@ -5831,7 +5817,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 24,1,10/02/2024,Cagliari,Lazio,19,Cagliari,2719,True,1328,Nicolas Viola,21608,M,70,Ivan Provedel,82,Lazio,1659,22.8,49.1,22,1,0,assisted,strongFoot,0,0.056441131979227
 24,1,10/02/2024,Cagliari,Lazio,19,Lazio,2699,False,1659,Luis Alberto,111416,M,76,Simone Scuffet,72,Cagliari,1328,25.3,42.5,25,11,0,assisted,strongFoot,0,0.028444478288293
 24,1,10/02/2024,Cagliari,Lazio,21,Lazio,2699,False,1659,Gustav Isaksen,976381,F,69,Simone Scuffet,72,Cagliari,1328,13.6,36.8,16,33,0,fast-break,strongFoot,0,0.10148122161627
-24,1,10/02/2024,Cagliari,Lazio,26,Lazio,2699,False,1659,Alessandro Deiola,328109,M,67,Simone Scuffet,72,Cagliari,1328,2.9,52.3,3,28,0,set-piece,strongFoot,1,
 24,1,10/02/2024,Cagliari,Lazio,44,Lazio,2699,False,1659,Luis Alberto,111416,M,76,Simone Scuffet,72,Cagliari,1328,10.5,63.9,14,41,1,assisted,strongFoot,0,0.050280321389437
 24,1,10/02/2024,Cagliari,Lazio,45,Cagliari,2719,True,1328,Gianluca Lapadula,147368,F,73,Ivan Provedel,82,Lazio,1659,8.3,47.2,8,12,-1,set-piece,head,0,0.26255026459694
 24,1,10/02/2024,Cagliari,Lazio,45,Cagliari,2719,True,1328,Paulo Azzi,383314,M,64,Ivan Provedel,82,Lazio,1659,13.9,51.9,13,5,-1,set-piece,strongFoot,0,0.055251568555832
@@ -5863,7 +5848,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 24,2,10/02/2024,AS Roma,Inter,48,Inter,2697,False,1953,Hakan Çalhanoğlu,135700,M,79,Rui Patrício,81,AS Roma,1669,23.2,30.1,26,30,-1,free-kick,strongFoot,0,0.052903112024069
 24,2,10/02/2024,AS Roma,Inter,49,Inter,2697,False,1953,Marcus Thuram,791702,F,78,Rui Patrício,81,AS Roma,1669,4.3,55.7,5,42,-1,assisted,strongFoot,1,0.29192391037941
 24,2,10/02/2024,AS Roma,Inter,53,Inter,2697,False,1953,Lautaro Martínez,823984,F,85,Rui Patrício,81,AS Roma,1669,14.8,54.2,15,10,0,assisted,strongFoot,0,0.11575616151094
-24,2,10/02/2024,AS Roma,Inter,56,Inter,2697,False,1953,Angeliño,848355,M,69,Rui Patrício,81,AS Roma,1669,3.6,46.4,4,34,0,regular,strongFoot,1,
 24,2,10/02/2024,AS Roma,Inter,58,Inter,2697,False,1953,Benjamin Pavard,787505,D,62,Rui Patrício,81,AS Roma,1669,27.1,67.3,29,23,1,assisted,strongFoot,0,0.009466266259551
 24,2,10/02/2024,AS Roma,Inter,64,Inter,2697,False,1953,Federico Dimarco,284361,M,74,Rui Patrício,81,AS Roma,1669,20.3,33.8,23,28,1,regular,strongFoot,0,0.052578818053007
 24,2,10/02/2024,AS Roma,Inter,71,AS Roma,2702,True,1669,Romelu Lukaku,78893,F,83,Yann Sommer,84,Inter,1953,5.1,51.9,5,14,-1,assisted,head,0,0.23778828978539
@@ -6542,7 +6526,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 26,8,26/02/2024,AS Roma,Torino,69,AS Roma,2702,True,1666,Paulo Dybala,256219,F,85,Vanja Milinković-Savić,77,Torino,1523,4.6,33.8,11,67,1,assisted,strongFoot,1,0.11650604009628
 26,8,26/02/2024,AS Roma,Torino,75,Torino,2696,False,1523,Nikola Vlašić,357596,M,75,Mile Svilar,71,AS Roma,1666,22.8,61.5,24,18,-2,assisted,weakFoot,0,0.017057441174984
 26,8,26/02/2024,AS Roma,Torino,88,Torino,2696,False,1523,David Okereke,831290,F,70,Mile Svilar,71,AS Roma,1666,22.6,29.8,26,31,-2,assisted,strongFoot,0,0.029250906780362
-26,8,26/02/2024,AS Roma,Torino,89,Torino,2696,False,1523,Dean Huijsen,1176744,D,41,Mile Svilar,71,AS Roma,1666,3.0,55.0,4,48,-2,regular,strongFoot,1,
 26,9,26/02/2024,Fiorentina,Lazio,2,Fiorentina,2693,True,1567,Luca Ranieri,893998,D,40,Ivan Provedel,82,Lazio,1692,4.2,41.9,6,52,0,corner,head,0,0.11301531642675
 26,9,26/02/2024,Fiorentina,Lazio,2,Fiorentina,2693,True,1567,Luca Ranieri,893998,D,40,Ivan Provedel,82,Lazio,1692,7.7,39.4,10,43,0,corner,head,0,0.021240085363388
 26,9,26/02/2024,Fiorentina,Lazio,2,Fiorentina,2693,True,1567,Lucas Beltrán,962029,F,75,Ivan Provedel,82,Lazio,1692,4.6,56.7,6,44,0,corner,strongFoot,0,0.13335421681404
@@ -6740,7 +6723,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 27,6,03/03/2024,Frosinone,Lecce,46,Frosinone,2801,True,1396,Emanuele Valeri,891346,M,62,Wladimiro Falcone,76,Lecce,1348,47.3,54.3,47,3,1,assisted,strongFoot,0,0.015046339482069
 27,6,03/03/2024,Frosinone,Lecce,56,Frosinone,2801,True,1396,Francesco Gelli,595900,M,57,Wladimiro Falcone,76,Lecce,1348,15.7,31.3,20,39,1,regular,strongFoot,0,0.016893533989787
 27,6,03/03/2024,Frosinone,Lecce,61,Lecce,2689,False,1348,Nikola Krstović,839156,F,73,Michele Cerofolini,65,Frosinone,1396,11.5,50.0,11,0,-1,penalty,strongFoot,0,0.7884
-27,6,03/03/2024,Frosinone,Lecce,61,Lecce,2689,False,1348,Michele Cerofolini,869273,G,14,Michele Cerofolini,65,Frosinone,1396,2.4,50.3,2,4,-1,set-piece,other,1,
 27,6,03/03/2024,Frosinone,Lecce,63,Frosinone,2801,True,1396,Francesco Gelli,595900,M,57,Wladimiro Falcone,76,Lecce,1348,13.8,46.4,14,10,0,regular,strongFoot,0,0.11241388320923
 27,6,03/03/2024,Frosinone,Lecce,63,Frosinone,2801,True,1396,Matías Soulé,1082406,F,66,Wladimiro Falcone,76,Lecce,1348,18.3,61.8,19,23,0,assisted,strongFoot,0,0.04694239795208
 27,6,03/03/2024,Frosinone,Lecce,70,Frosinone,2801,True,1396,Marco Brescianini,928800,M,57,Wladimiro Falcone,76,Lecce,1348,7.3,55.8,8,28,0,assisted,weakFoot,0,0.39828678965569
@@ -7083,7 +7065,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 28,9,11/03/2024,Lazio,Udinese,40,Lazio,2699,True,1666,Felipe Anderson,152276,M,78,Maduka Okoye,70,Udinese,1426,19.3,55.5,19,10,0,assisted,strongFoot,0,0.077796921133995
 28,9,11/03/2024,Lazio,Udinese,47,Udinese,2695,False,1426,Hassane Kamara,351434,M,57,Ivan Provedel,82,Lazio,1666,13.8,29.2,19,45,0,assisted,strongFoot,0,0.046079710125923
 28,9,11/03/2024,Lazio,Udinese,47,Udinese,2695,False,1426,Lorenzo Lucca,962364,F,72,Ivan Provedel,82,Lazio,1666,5.2,50.7,5,5,0,assisted,strongFoot,1,0.62757837772369
-28,9,11/03/2024,Lazio,Udinese,49,Lazio,2699,True,1666,Lautaro Giannetti,233856,D,34,Maduka Okoye,70,Udinese,1426,6.0,32.2,13,63,-1,regular,strongFoot,1,
 28,9,11/03/2024,Lazio,Udinese,51,Udinese,2695,False,1426,Oier Zarraga,1009661,M,64,Ivan Provedel,82,Lazio,1666,17.8,54.8,18,10,0,assisted,strongFoot,1,0.10261054337025
 28,9,11/03/2024,Lazio,Udinese,58,Lazio,2699,True,1666,Manuel Lazzari,273405,D,60,Maduka Okoye,70,Udinese,1426,11.4,53.8,11,12,-1,fast-break,strongFoot,0,0.59078085422516
 28,9,11/03/2024,Lazio,Udinese,58,Lazio,2699,True,1666,Gustav Isaksen,976381,F,69,Maduka Okoye,70,Udinese,1426,19.3,63.9,21,26,-1,fast-break,weakFoot,0,0.10332407802343
@@ -7182,7 +7163,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 29,3,16/03/2024,US Salernitana 1919,Lecce,15,Lecce,2689,False,1338,Roberto Piccoli,958982,F,68,Benoît Costil,72,US Salernitana 1919,1404,26.5,24.7,31,32,0,assisted,strongFoot,0,0.015353715978563
 29,3,16/03/2024,US Salernitana 1919,Lecce,17,Lecce,2689,False,1338,Pontus Almqvist,856065,F,65,Benoît Costil,72,US Salernitana 1919,1404,9.6,57.2,10,27,0,regular,strongFoot,0,0.060986690223217
 29,3,16/03/2024,US Salernitana 1919,Lecce,17,Lecce,2689,False,1338,Nikola Krstović,839156,F,73,Benoît Costil,72,US Salernitana 1919,1404,9.2,52.9,9,12,0,assisted,strongFoot,0,0.25190785527229
-29,3,16/03/2024,US Salernitana 1919,Lecce,17,Lecce,2689,False,1338,Norbert Gyömbér,224456,D,31,Benoît Costil,72,US Salernitana 1919,1404,8.2,50.9,8,4,0,regular,strongFoot,1,
 29,3,16/03/2024,US Salernitana 1919,Lecce,21,US Salernitana 1919,2710,True,1404,Lorenzo Pirola,965014,D,42,Wladimiro Falcone,76,Lecce,1338,9.2,52.1,9,8,-1,corner,head,0,0.057170916348696
 29,3,16/03/2024,US Salernitana 1919,Lecce,24,US Salernitana 1919,2710,True,1404,Loum Tchaouna,1004505,F,62,Wladimiro Falcone,76,Lecce,1338,13.2,64.0,16,35,-1,assisted,strongFoot,0,0.041707269847393
 29,3,16/03/2024,US Salernitana 1919,Lecce,28,Lecce,2689,False,1338,Rémi Oudin,842709,F,70,Benoît Costil,72,US Salernitana 1919,1404,25.1,54.3,25,6,1,assisted,weakFoot,0,0.02977685444057
@@ -8174,7 +8154,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 33,1,19/04/2024,Cagliari,Juventus,67,Juventus,2687,False,1714,Adrien Rabiot,250737,M,75,Simone Scuffet,73,Cagliari,1371,5.3,61.4,9,55,-1,corner,head,0,0.029452661052346
 33,1,19/04/2024,Cagliari,Juventus,80,Juventus,2687,False,1714,Andrea Cambiaso,917048,M,57,Simone Scuffet,73,Cagliari,1371,15.0,33.3,18,37,-1,assisted,strongFoot,0,0.040827423334122
 33,1,19/04/2024,Cagliari,Juventus,83,Juventus,2687,False,1714,Dušan Vlahović,832208,F,84,Simone Scuffet,73,Cagliari,1371,8.0,58.5,9,35,-1,assisted,strongFoot,0,0.06627157330513
-33,1,19/04/2024,Cagliari,Juventus,87,Juventus,2687,False,1714,Alberto Dossena,870211,D,33,Simone Scuffet,73,Cagliari,1371,8.0,46.6,8,16,-1,regular,strongFoot,1,
 33,1,19/04/2024,Cagliari,Juventus,90,Juventus,2687,False,1714,Kenan Yıldız,1149011,F,57,Simone Scuffet,73,Cagliari,1371,12.3,45.0,12,15,0,throw-in-set-piece,strongFoot,0,0.080915108323097
 33,2,20/04/2024,Empoli,SSC Napoli,4,Empoli,2705,True,1404,Alberto Cerri,187121,F,71,Alex Meret,82,SSC Napoli,1746,7.0,44.9,7,26,0,assisted,head,1,0.2012195289135
 33,2,20/04/2024,Empoli,SSC Napoli,8,Empoli,2705,True,1404,Alberto Cerri,187121,F,71,Alex Meret,82,SSC Napoli,1746,9.0,49.5,9,2,0,assisted,head,0,0.067050725221634
@@ -8803,7 +8782,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 35,6,05/05/2024,AC Milan,Genoa,75,AC Milan,2692,True,1759,Olivier Giroud,39070,F,84,Josep Martínez,74,Genoa,1426,4.7,41.4,7,51,1,assisted,strongFoot,1,0.188456594944
 35,6,05/05/2024,AC Milan,Genoa,79,Genoa,2713,False,1426,Mateo Retegui,914501,F,76,Marco Sportiello,77,AC Milan,1759,12.2,57.5,13,22,-2,assisted,head,0,0.021494152024388
 35,6,05/05/2024,AC Milan,Genoa,84,Genoa,2713,False,1426,Ridgeciano Haps,250501,M,61,Marco Sportiello,77,AC Milan,1759,12.3,40.1,14,28,-2,assisted,head,0,0.017521528527141
-35,6,05/05/2024,AC Milan,Genoa,87,Genoa,2713,False,1426,Malick Thiaw,1014286,D,47,Marco Sportiello,77,AC Milan,1759,2.4,50.8,2,12,-2,regular,strongFoot,1,
 35,6,05/05/2024,AC Milan,Genoa,90,AC Milan,2692,True,1759,Theo Hernández,788027,D,70,Josep Martínez,74,Genoa,1426,10.0,38.4,12,38,1,assisted,strongFoot,0,0.1510533541441
 35,6,05/05/2024,AC Milan,Genoa,90,AC Milan,2692,True,1759,Olivier Giroud,39070,F,84,Josep Martínez,74,Genoa,1426,4.4,41.1,7,53,1,set-piece,head,0,0.073970377445221
 35,7,05/05/2024,AS Roma,Juventus,3,Juventus,2687,False,1710,Federico Chiesa,845386,F,81,Mile Svilar,72,AS Roma,1718,23.2,26.8,28,34,0,assisted,strongFoot,0,0.01571393571794
@@ -9018,7 +8996,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 36,4,12/05/2024,Genoa,Sassuolo,46,Sassuolo,2793,False,1404,Andrea Pinamonti,826198,F,75,Josep Martínez,74,Genoa,1426,23.1,45.1,23,8,1,assisted,strongFoot,0,0.024877313524485
 36,4,12/05/2024,Genoa,Sassuolo,56,Genoa,2713,True,1426,Morten Thorsby,280991,M,61,Andrea Consigli,78,Sassuolo,1404,6.5,37.6,10,52,-1,corner,head,0,0.0179344099015
 36,4,12/05/2024,Genoa,Sassuolo,56,Genoa,2713,True,1426,Milan Badelj,39482,M,61,Andrea Consigli,78,Sassuolo,1404,2.1,54.8,3,57,-1,corner,head,1,0.43300148844719
-36,4,12/05/2024,Genoa,Sassuolo,63,Genoa,2713,True,1426,Marash Kumbulla,893642,D,32,Andrea Consigli,78,Sassuolo,1404,6.9,47.2,7,15,0,fast-break,strongFoot,1,
 36,4,12/05/2024,Genoa,Sassuolo,71,Sassuolo,2793,False,1404,Andrea Pinamonti,826198,F,75,Josep Martínez,74,Genoa,1426,15.3,53.0,15,7,-1,assisted,strongFoot,0,0.071214832365513
 36,4,12/05/2024,Genoa,Sassuolo,74,Sassuolo,2793,False,1404,Cristian Volpato,1155625,M,63,Josep Martínez,74,Genoa,1426,15.1,63.6,17,31,-1,assisted,strongFoot,0,0.060254815965891
 36,4,12/05/2024,Genoa,Sassuolo,82,Sassuolo,2793,False,1404,Jeremy Toljan,149606,D,41,Josep Martínez,74,Genoa,1426,7.4,59.4,9,40,-1,regular,head,0,0.057094153016806

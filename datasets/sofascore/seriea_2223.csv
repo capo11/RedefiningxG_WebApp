@@ -152,7 +152,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 1,5,14/08/2022,Lazio,Bologna,44,Bologna,2685,False,1428,Nicola Sansone,100580,F,71,Luís Maximiano,79,Lazio,1626,7.3,63.9,11,52,1,assisted,strongFoot,0,0.10931149125099
 1,5,14/08/2022,Lazio,Bologna,59,Lazio,2699,True,1626,Sergej Milinković-Savić,331447,M,80,Łukasz Skorupski,76,Bologna,1428,23.5,54.0,23,6,-1,assisted,strongFoot,0,0.041326969861984
 1,5,14/08/2022,Lazio,Bologna,62,Lazio,2699,True,1626,Mattia Zaccagni,293581,F,71,Łukasz Skorupski,76,Bologna,1428,20.8,33.2,23,28,-1,regular,strongFoot,0,0.046500682830811
-1,5,14/08/2022,Lazio,Bologna,68,Lazio,2699,True,1626,Lorenzo De Silvestri,14718,D,66,Łukasz Skorupski,76,Bologna,1428,4.6,48.7,4,10,-1,regular,strongFoot,1,
 1,5,14/08/2022,Lazio,Bologna,72,Bologna,2685,False,1428,Lorenzo De Silvestri,14718,D,66,Luís Maximiano,79,Lazio,1626,20.8,68.1,24,30,0,regular,weakFoot,0,0.029427886009216
 1,5,14/08/2022,Lazio,Bologna,76,Lazio,2699,True,1626,Adam Marušić,267619,D,66,Łukasz Skorupski,76,Bologna,1428,20.3,26.2,25,38,0,assisted,strongFoot,0,0.03300067782402
 1,5,14/08/2022,Lazio,Bologna,79,Lazio,2699,True,1626,Ciro Immobile,45923,F,87,Łukasz Skorupski,76,Bologna,1428,6.7,42.1,8,38,0,assisted,weakFoot,1,0.30982381105423
@@ -1190,7 +1189,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 5,4,04/09/2022,Spezia,Bologna,45,Spezia,2735,True,1453,Simone Bastoni,385330,M,55,Łukasz Skorupski,76,Bologna,1414,24.4,51.5,24,2,-1,regular,strongFoot,1,0.055051684379578
 5,4,04/09/2022,Spezia,Bologna,45,Spezia,2735,True,1453,Simone Bastoni,385330,M,55,Łukasz Skorupski,76,Bologna,1414,25.4,38.0,26,17,0,assisted,strongFoot,0,0.034313172101974
 5,4,04/09/2022,Spezia,Bologna,47,Bologna,2685,False,1414,Musa Barrow,916680,F,73,Bartłomiej Drągowski,75,Spezia,1453,26.4,72.6,30,30,0,assisted,strongFoot,0,0.01661491394043
-5,4,04/09/2022,Spezia,Bologna,54,Spezia,2735,True,1453,Jerdy Schouten,844234,D,55,Łukasz Skorupski,76,Bologna,1414,8.4,57.1,9,29,0,set-piece,head,1,
 5,4,04/09/2022,Spezia,Bologna,64,Bologna,2685,False,1414,Marko Arnautović,21927,F,81,Bartłomiej Drągowski,75,Spezia,1453,17.8,48.0,17,4,-1,assisted,weakFoot,1,0.39204207062721
 5,4,04/09/2022,Spezia,Bologna,71,Bologna,2685,False,1414,Nicolás Domínguez,871765,M,65,Bartłomiej Drągowski,75,Spezia,1453,19.8,57.7,20,14,0,assisted,strongFoot,0,0.046494871377945
 5,4,04/09/2022,Spezia,Bologna,73,Bologna,2685,False,1414,Joshua Zirkzee,917007,F,73,Bartłomiej Drągowski,75,Spezia,1453,12.7,27.4,19,50,0,fast-break,strongFoot,0,0.07033184170723
@@ -1210,7 +1208,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 5,5,04/09/2022,Hellas Verona,Sampdoria,39,Sampdoria,2711,False,1236,Fabio Quagliarella,11621,F,80,Lorenzo Montipò,76,Hellas Verona,1453,21.9,37.7,23,20,0,assisted,weakFoot,0,0.035072356462479
 5,5,04/09/2022,Hellas Verona,Sampdoria,40,Sampdoria,2711,False,1236,Francesco Caputo,43905,F,78,Lorenzo Montipò,76,Hellas Verona,1453,14.0,62.1,16,30,0,assisted,weakFoot,1,0.036185532808304
 5,5,04/09/2022,Hellas Verona,Sampdoria,44,Hellas Verona,2701,True,1453,Thomas Henry,795541,F,75,Emil Audero,78,Sampdoria,1236,9.4,50.7,9,2,-1,assisted,head,0,0.10983389616013
-5,5,04/09/2022,Hellas Verona,Sampdoria,44,Hellas Verona,2701,True,1453,Emil Audero,318603,G,14,Emil Audero,78,Sampdoria,1236,1.4,50.6,1,16,-1,regular,other,1,
 5,5,04/09/2022,Hellas Verona,Sampdoria,45,Sampdoria,2711,False,1236,Ronaldo Vieira,839818,M,57,Lorenzo Montipò,76,Hellas Verona,1453,25.9,59.4,26,13,0,corner,strongFoot,0,0.018232136964798
 5,5,04/09/2022,Hellas Verona,Sampdoria,45,Sampdoria,2711,False,1236,Valerio Verre,139267,M,72,Lorenzo Montipò,76,Hellas Verona,1453,23.2,48.5,23,2,0,corner,weakFoot,0,0.026293158531189
 5,5,04/09/2022,Hellas Verona,Sampdoria,45,Hellas Verona,2701,True,1453,Kevin Lasagna,587962,F,70,Emil Audero,78,Sampdoria,1236,12.8,53.8,13,11,0,assisted,strongFoot,0,0.028940051794052
@@ -1269,7 +1266,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 5,7,05/09/2022,Monza,Atalanta,60,Atalanta,2686,False,1695,Éderson,946888,M,61,Michele Di Gregorio,74,Monza,1515,18.8,81.5,28,48,1,fast-break,strongFoot,0,0.032420545816422
 5,7,05/09/2022,Monza,Atalanta,65,Monza,2729,True,1515,Marlon,331853,D,43,Juan Musso,81,Atalanta,1695,9.8,62.3,12,40,-1,assisted,head,0,0.023703545331955
 5,7,05/09/2022,Monza,Atalanta,65,Atalanta,2686,False,1695,Ademola Lookman,824200,F,71,Michele Di Gregorio,74,Monza,1515,0.8,41.9,5,81,1,assisted,weakFoot,0,0.59352850914001
-5,7,05/09/2022,Monza,Atalanta,65,Atalanta,2686,False,1695,Marlon,331853,D,44,Michele Di Gregorio,74,Monza,1515,1.4,47.2,2,53,1,regular,other,1,
 5,7,05/09/2022,Monza,Atalanta,78,Monza,2729,True,1515,Andrea Colpani,928122,F,61,Juan Musso,81,Atalanta,1695,15.2,68.4,19,39,-2,regular,strongFoot,0,0.010778903961182
 5,7,05/09/2022,Monza,Atalanta,84,Atalanta,2686,False,1695,Brandon Soppy,963211,D,47,Michele Di Gregorio,74,Monza,1515,23.6,33.4,26,25,2,corner,strongFoot,0,0.021825760602951
 5,7,05/09/2022,Monza,Atalanta,85,Atalanta,2686,False,1695,Brandon Soppy,963211,D,47,Michele Di Gregorio,74,Monza,1515,9.3,36.5,13,44,2,assisted,strongFoot,0,0.060442209243774
@@ -1590,7 +1586,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 7,0,16/09/2022,US Salernitana 1919,Lecce,48,US Salernitana 1919,2710,True,1301,Grigoris Kastanos,791566,M,63,Wladimiro Falcone,69,Lecce,1301,21.2,52.5,21,4,-1,regular,weakFoot,0,0.072554171085358
 7,0,16/09/2022,US Salernitana 1919,Lecce,53,Lecce,2689,False,1301,Kristoffer Askildsen,954855,M,54,Luigi Sepe,74,US Salernitana 1919,1301,18.7,61.5,20,22,1,regular,weakFoot,0,0.066621869802475
 7,0,16/09/2022,US Salernitana 1919,Lecce,54,US Salernitana 1919,2710,True,1301,Krzysztof Piątek,558738,F,75,Wladimiro Falcone,69,Lecce,1301,12.0,63.5,15,37,-1,assisted,strongFoot,0,0.26092231273651
-7,0,16/09/2022,US Salernitana 1919,Lecce,55,US Salernitana 1919,2710,True,1301,Joan González,1137730,M,56,Wladimiro Falcone,69,Lecce,1301,3.2,59.4,7,63,-1,corner,strongFoot,1,
 7,0,16/09/2022,US Salernitana 1919,Lecce,62,US Salernitana 1919,2710,True,1301,Krzysztof Piątek,558738,F,75,Wladimiro Falcone,69,Lecce,1301,8.9,54.0,9,16,0,assisted,strongFoot,0,0.10934773087502
 7,0,16/09/2022,US Salernitana 1919,Lecce,65,Lecce,2689,False,1301,Lameck Banda,911350,M,61,Luigi Sepe,74,US Salernitana 1919,1301,12.0,33.5,16,43,0,regular,strongFoot,0,0.083068370819092
 7,0,16/09/2022,US Salernitana 1919,Lecce,68,Lecce,2689,False,1301,Federico Baschirotto,786175,D,52,Luigi Sepe,74,US Salernitana 1919,1301,8.1,46.4,8,16,0,corner,head,0,0.083518266677856
@@ -1672,7 +1667,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 7,4,18/09/2022,Udinese,Inter,5,Inter,2697,False,1836,Nicolò Barella,363856,M,75,Marco Silvestri,79,Udinese,1477,19.9,34.5,22,27,0,free-kick,strongFoot,1,0.070301413536072
 7,4,18/09/2022,Udinese,Inter,7,Udinese,2695,True,1477,Sandi Lovrić,575852,M,62,Samir Handanović,84,Inter,1836,10.7,36.5,14,40,0,corner,strongFoot,0,0.053689479827881
 7,4,18/09/2022,Udinese,Inter,19,Udinese,2695,True,1477,Walace,553686,M,65,Samir Handanović,84,Inter,1836,29.9,33.7,31,20,0,assisted,strongFoot,0,0.010725885629654
-7,4,18/09/2022,Udinese,Inter,22,Udinese,2695,True,1477,Milan Škriniar,187205,D,41,Samir Handanović,84,Inter,1836,5.1,47.0,5,21,0,set-piece,strongFoot,1,
 7,4,18/09/2022,Udinese,Inter,30,Inter,2697,False,1836,Alessandro Bastoni,826188,D,34,Marco Silvestri,79,Udinese,1477,10.1,33.0,15,48,-1,assisted,strongFoot,0,0.035148710012436
 7,4,18/09/2022,Udinese,Inter,31,Inter,2697,False,1836,Federico Dimarco,284361,M,64,Marco Silvestri,79,Udinese,1477,29.3,50.0,29,0,-1,corner,weakFoot,0,0.011113464832306
 7,4,18/09/2022,Udinese,Inter,33,Inter,2697,False,1836,Edin Džeko,14990,F,83,Marco Silvestri,79,Udinese,1477,10.3,47.0,10,11,-1,assisted,head,0,0.048009246587753
@@ -2578,7 +2572,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 10,7,16/10/2022,Hellas Verona,AC Milan,3,AC Milan,2692,False,1759,Olivier Giroud,39070,F,82,Lorenzo Montipò,76,Hellas Verona,1416,25.8,50.3,25,0,0,fast-break,strongFoot,0,0.089582234621048
 10,7,16/10/2022,Hellas Verona,AC Milan,7,Hellas Verona,2701,True,1416,Davide Faraoni,32040,D,72,Ciprian Tătărușanu,76,AC Milan,1759,18.2,47.4,18,5,0,regular,weakFoot,0,0.094044029712677
 10,7,16/10/2022,Hellas Verona,AC Milan,8,Hellas Verona,2701,True,1416,Ajdin Hrustić,788284,M,68,Ciprian Tătărușanu,76,AC Milan,1759,25.0,53.7,25,5,0,assisted,strongFoot,0,0.02624374628067
-10,7,16/10/2022,Hellas Verona,AC Milan,9,AC Milan,2692,False,1759,Miguel Veloso,6557,M,69,Lorenzo Montipò,76,Hellas Verona,1416,2.2,48.8,2,20,0,regular,other,1,
 10,7,16/10/2022,Hellas Verona,AC Milan,11,AC Milan,2692,False,1759,Olivier Giroud,39070,F,82,Lorenzo Montipò,76,Hellas Verona,1416,12.8,42.5,13,21,0,fast-break,strongFoot,0,0.38547021150589
 10,7,16/10/2022,Hellas Verona,AC Milan,19,Hellas Verona,2701,True,1416,Thomas Henry,795541,F,75,Ciprian Tătărușanu,76,AC Milan,1759,10.7,70.4,17,52,0,assisted,strongFoot,0,0.039535969495773
 10,7,16/10/2022,Hellas Verona,AC Milan,19,Hellas Verona,2701,True,1416,Koray Günter,138165,D,46,Ciprian Tătărușanu,76,AC Milan,1759,12.1,31.0,17,46,0,assisted,strongFoot,1,0.076681733131409
@@ -3721,7 +3714,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 15,4,13/11/2022,Atalanta,Inter,56,Inter,2697,False,1833,Edin Džeko,14990,F,83,Juan Musso,81,Atalanta,1693,2.7,51.3,2,18,0,fast-break,weakFoot,1,0.75811004638672
 15,4,13/11/2022,Atalanta,Inter,59,Atalanta,2686,True,1693,Ruslan Malinovskyi,195850,M,80,André Onana,82,Inter,1833,23.1,37.3,24,20,-1,assisted,strongFoot,0,0.030010461807251
 15,4,13/11/2022,Atalanta,Inter,60,Inter,2697,False,1833,Lautaro Martínez,823984,F,83,Juan Musso,81,Atalanta,1693,21.2,57.3,21,13,1,assisted,strongFoot,0,0.03104293346405
-15,4,13/11/2022,Atalanta,Inter,61,Inter,2697,False,1833,José Luis Palomino,79680,D,35,Juan Musso,81,Atalanta,1693,3.0,50.3,3,3,1,corner,head,1,
 15,4,13/11/2022,Atalanta,Inter,65,Atalanta,2686,True,1693,Ruslan Malinovskyi,195850,M,80,André Onana,82,Inter,1833,24.2,73.9,29,33,-2,assisted,strongFoot,0,0.021758675575256
 15,4,13/11/2022,Atalanta,Inter,66,Inter,2697,False,1833,Lautaro Martínez,823984,F,83,Juan Musso,81,Atalanta,1693,5.7,48.4,5,10,2,assisted,head,0,0.38206169009209
 15,4,13/11/2022,Atalanta,Inter,71,Atalanta,2686,True,1693,Ruslan Malinovskyi,195850,M,80,André Onana,82,Inter,1833,18.5,69.3,22,35,-2,corner,strongFoot,0,0.022661328315735
@@ -3838,7 +3830,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 15,8,13/11/2022,AC Milan,Fiorentina,84,Fiorentina,2693,False,1517,Aleksa Terzić,876860,D,39,Ciprian Tătărușanu,76,AC Milan,1788,20.6,33.8,23,28,0,assisted,weakFoot,0,0.043332993984222
 15,8,13/11/2022,AC Milan,Fiorentina,84,AC Milan,2692,True,1788,Rafael Leão,851284,F,76,Pietro Terracciano,77,Fiorentina,1517,28.1,44.5,28,7,0,assisted,strongFoot,0,0.020514249801636
 15,8,13/11/2022,AC Milan,Fiorentina,89,Fiorentina,2693,False,1517,Jonathan Ikoné,802142,F,66,Ciprian Tătărușanu,76,AC Milan,1788,10.2,66.9,15,48,0,assisted,strongFoot,0,0.063735038042068
-15,8,13/11/2022,AC Milan,Fiorentina,90,AC Milan,2692,True,1788,Nikola Milenković,836168,D,45,Pietro Terracciano,77,Fiorentina,1517,3.3,48.2,3,20,0,regular,strongFoot,1,
 15,9,13/11/2022,Juventus,Lazio,6,Juventus,2687,True,1683,Moise Kean,835601,F,76,Ivan Provedel,78,Lazio,1631,9.7,31.4,15,52,0,assisted,weakFoot,0,0.015045970678329
 15,9,13/11/2022,Juventus,Lazio,11,Juventus,2687,True,1683,Nicolò Fagioli,901850,M,61,Ivan Provedel,78,Lazio,1631,19.0,49.9,19,0,0,assisted,weakFoot,0,0.087610155344009
 15,9,13/11/2022,Juventus,Lazio,28,Lazio,2699,False,1631,Luka Romero,1032022,F,53,Wojciech Szczęsny,86,Juventus,1683,12.3,40.6,13,27,0,set-piece,strongFoot,0,0.035851567983627
@@ -4185,7 +4176,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 17,2,07/01/2023,Monza,Inter,84,Inter,2697,False,1844,Lautaro Martínez,823984,F,83,Michele Di Gregorio,75,Monza,1492,12.8,37.5,15,33,1,regular,strongFoot,0,0.055146988481283
 17,2,07/01/2023,Monza,Inter,90,Inter,2697,False,1844,Roberto Gagliardini,287057,M,62,Michele Di Gregorio,75,Monza,1492,7.4,32.2,14,58,1,throw-in-set-piece,strongFoot,0,0.029557257890701
 17,2,07/01/2023,Monza,Inter,90,Monza,2729,True,1492,Luca Caldirola,100565,D,41,André Onana,82,Inter,1844,8.1,40.4,10,38,-1,assisted,head,0,0.045048054307699
-17,2,07/01/2023,Monza,Inter,90,Monza,2729,True,1492,Denzel Dumfries,759520,M,63,André Onana,82,Inter,1844,8.7,41.8,10,32,-1,regular,head,1,
 17,2,07/01/2023,Monza,Inter,90,Monza,2729,True,1492,Luca Caldirola,100565,D,41,André Onana,82,Inter,1844,5.7,46.3,6,23,0,corner,head,0,0.23227947950363
 17,3,08/01/2023,US Salernitana 1919,Torino,6,Torino,2696,False,1481,Antonio Sanabria,333261,F,71,Guillermo Ochoa,80,US Salernitana 1919,1328,9.0,46.8,9,13,0,corner,weakFoot,0,0.11108453571796
 17,3,08/01/2023,US Salernitana 1919,Torino,8,Torino,2696,False,1481,David Zima,963084,D,38,Guillermo Ochoa,80,US Salernitana 1919,1328,23.4,70.9,27,31,0,assisted,weakFoot,0,0.018935449421406
@@ -4413,7 +4403,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 18,1,14/01/2023,Cremonese,Monza,80,Cremonese,2761,True,1229,Matteo Bianchetti,158037,D,35,Michele Di Gregorio,75,Monza,1470,7.4,48.7,7,6,-2,corner,head,0,0.1093330308795
 18,1,14/01/2023,Cremonese,Monza,83,Cremonese,2761,True,1229,Cyriel Dessers,541464,F,73,Michele Di Gregorio,75,Monza,1470,10.3,61.6,12,37,-2,regular,weakFoot,1,0.1054942458868
 18,2,14/01/2023,Lecce,AC Milan,3,AC Milan,2692,False,1794,Fikayo Tomori,788255,D,39,Wladimiro Falcone,72,Lecce,1343,19.8,29.7,24,34,0,throw-in-set-piece,strongFoot,0,0.0232356749475
-18,2,14/01/2023,Lecce,AC Milan,3,Lecce,2689,True,1343,Theo Hernández,788027,D,72,Ciprian Tătărușanu,76,AC Milan,1794,10.5,51.8,10,6,0,regular,other,1,
 18,2,14/01/2023,Lecce,AC Milan,5,Lecce,2689,True,1343,Federico Di Francesco,320979,M,68,Ciprian Tătărușanu,76,AC Milan,1794,5.3,36.3,10,60,1,fast-break,weakFoot,0,0.40266224741936
 18,2,14/01/2023,Lecce,AC Milan,10,AC Milan,2692,False,1794,Tommaso Pobega,928796,M,75,Wladimiro Falcone,72,Lecce,1343,9.1,61.6,12,40,-1,assisted,weakFoot,0,0.3802570104599
 18,2,14/01/2023,Lecce,AC Milan,10,AC Milan,2692,False,1794,Olivier Giroud,39070,F,82,Wladimiro Falcone,72,Lecce,1343,10.4,58.8,11,29,-1,regular,weakFoot,0,0.15436780452728
@@ -4792,7 +4781,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 19,7,23/01/2023,Bologna,Cremonese,51,Bologna,2685,True,1440,Riccardo Orsolini,793645,M,70,Marco Carnesecchi,75,Cremonese,1221,19.3,78.2,27,44,-1,assisted,strongFoot,0,0.028635231778026
 19,7,23/01/2023,Bologna,Cremonese,53,Bologna,2685,True,1440,Nicolás Domínguez,871765,M,65,Marco Carnesecchi,75,Cremonese,1221,13.9,49.3,13,1,-1,assisted,strongFoot,0,0.07434706389904
 19,7,23/01/2023,Bologna,Cremonese,54,Bologna,2685,True,1440,Lewis Ferguson,907152,M,67,Marco Carnesecchi,75,Cremonese,1221,8.1,55.2,8,23,-1,assisted,head,0,0.075227685272694
-19,7,23/01/2023,Bologna,Cremonese,55,Bologna,2685,True,1440,Vlad Chiricheş,69295,M,62,Marco Carnesecchi,75,Cremonese,1221,4.1,50.5,4,4,-1,regular,strongFoot,1,
 19,7,23/01/2023,Bologna,Cremonese,56,Bologna,2685,True,1440,Nikola Moro,814882,M,70,Marco Carnesecchi,75,Cremonese,1221,25.4,47.6,25,3,0,regular,strongFoot,0,0.045842729508877
 19,7,23/01/2023,Bologna,Cremonese,61,Cremonese,2761,False,1221,Felix Afena-Gyan,1108921,F,69,Łukasz Skorupski,76,Bologna,1440,7.0,54.9,7,25,0,fast-break,strongFoot,0,0.56896275281906
 19,7,23/01/2023,Bologna,Cremonese,63,Bologna,2685,True,1440,Charalampos Lykogiannis,98212,D,67,Marco Carnesecchi,75,Cremonese,1221,28.6,36.1,30,18,0,free-kick,strongFoot,0,0.032760642468929
@@ -5109,7 +5097,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 20,8,29/01/2023,SSC Napoli,AS Roma,90,SSC Napoli,2714,True,1875,Giacomo Raspadori,865651,F,77,Rui Patrício,81,AS Roma,1697,9.2,36.8,12,44,0,assisted,weakFoot,0,0.12721487879753
 20,8,29/01/2023,SSC Napoli,AS Roma,90,AS Roma,2702,False,1697,Gianluca Mancini,611210,D,44,Alex Meret,79,SSC Napoli,1875,14.1,51.5,14,4,0,assisted,head,0,0.041219115257263
 20,9,30/01/2023,Udinese,Hellas Verona,4,Hellas Verona,2701,False,1386,Darko Lazović,41157,M,69,Marco Silvestri,79,Udinese,1470,25.5,29.1,29,29,0,regular,weakFoot,0,0.024225417524576
-20,9,30/01/2023,Udinese,Hellas Verona,4,Hellas Verona,2701,False,1386,Rodrigo Becão,880207,D,32,Marco Silvestri,79,Udinese,1470,15.2,38.8,17,26,0,regular,head,1,
 20,9,30/01/2023,Udinese,Hellas Verona,6,Hellas Verona,2701,False,1386,Giangiacomo Magnani,812829,D,37,Marco Silvestri,79,Udinese,1470,4.3,56.9,6,47,0,corner,head,0,0.12099307775497
 20,9,30/01/2023,Udinese,Hellas Verona,11,Udinese,2695,True,1470,Destiny Udogie,983572,D,62,Lorenzo Montipò,76,Hellas Verona,1386,15.2,25.5,22,47,0,assisted,weakFoot,0,0.027497792616487
 20,9,30/01/2023,Udinese,Hellas Verona,12,Udinese,2695,True,1470,Isaac Success,359640,F,70,Lorenzo Montipò,76,Hellas Verona,1386,8.8,55.5,9,23,0,assisted,weakFoot,0,0.25222760438919
@@ -5439,7 +5426,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 22,1,11/02/2023,Empoli,Spezia,90,Empoli,2705,True,1489,Liberato Cacace,905264,M,61,Bartłomiej Drągowski,76,Spezia,1392,17.4,34.0,20,32,-1,regular,strongFoot,0,0.061147347092628
 22,1,11/02/2023,Empoli,Spezia,90,Empoli,2705,True,1489,Emanuel Vignato,862373,F,61,Bartłomiej Drągowski,76,Spezia,1392,13.1,60.5,14,28,-1,regular,strongFoot,1,0.13013115525246
 22,2,11/02/2023,Lecce,AS Roma,6,Lecce,2689,True,1338,Antonino Gallo,945616,D,48,Rui Patrício,80,AS Roma,1695,25.4,34.2,27,22,0,assisted,strongFoot,0,0.017776351422071
-22,2,11/02/2023,Lecce,AS Roma,7,Lecce,2689,True,1338,Roger Ibañez,888949,D,32,Rui Patrício,80,AS Roma,1695,8.1,50.9,8,4,0,corner,other,1,
 22,2,11/02/2023,Lecce,AS Roma,7,Lecce,2689,True,1338,Federico Baschirotto,786175,D,52,Rui Patrício,80,AS Roma,1695,9.4,50.9,9,3,1,corner,head,0,0.054469916969538
 22,2,11/02/2023,Lecce,AS Roma,10,AS Roma,2702,False,1695,Gianluca Mancini,611210,D,44,Wladimiro Falcone,74,Lecce,1338,9.1,47.6,9,10,-1,set-piece,head,0,0.12931494414806
 22,2,11/02/2023,Lecce,AS Roma,14,Lecce,2689,True,1338,Gabriel Strefezza,877201,F,62,Rui Patrício,80,AS Roma,1695,7.5,68.4,14,59,1,assisted,strongFoot,0,0.04237312078476
@@ -5502,7 +5488,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 22,4,12/02/2023,Udinese,Sassuolo,22,Udinese,2695,True,1459,Roberto Pereyra,122701,M,74,Andrea Consigli,80,Sassuolo,1489,8.8,49.3,8,3,0,regular,weakFoot,0,0.15158793330193
 22,4,12/02/2023,Udinese,Sassuolo,26,Sassuolo,2793,False,1489,Davide Frattesi,835600,M,70,Marco Silvestri,79,Udinese,1459,10.6,42.2,11,26,0,assisted,strongFoot,0,0.21459494531155
 22,4,12/02/2023,Udinese,Sassuolo,28,Udinese,2695,True,1459,Jaka Bijol,886930,D,58,Andrea Consigli,80,Sassuolo,1489,7.3,44.5,8,27,0,set-piece,weakFoot,1,0.33500969409943
-22,4,12/02/2023,Udinese,Sassuolo,45,Sassuolo,2793,False,1489,Nehuén Pérez,913401,D,25,Marco Silvestri,79,Udinese,1459,6.2,55.5,7,31,-1,regular,other,1,
 22,4,12/02/2023,Udinese,Sassuolo,47,Udinese,2695,True,1459,Florian Thauvin,148824,F,78,Andrea Consigli,80,Sassuolo,1489,19.4,28.5,24,37,0,assisted,strongFoot,0,0.04302079603076
 22,4,12/02/2023,Udinese,Sassuolo,54,Udinese,2695,True,1459,Beto,987489,F,78,Andrea Consigli,80,Sassuolo,1489,15.0,32.8,19,37,0,assisted,strongFoot,0,0.044898558408022
 22,4,12/02/2023,Udinese,Sassuolo,56,Udinese,2695,True,1459,Beto,987489,F,78,Andrea Consigli,80,Sassuolo,1489,12.8,54.0,13,11,0,assisted,strongFoot,0,0.3274402320385
@@ -5897,7 +5882,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 24,0,25/02/2023,Empoli,SSC Napoli,5,SSC Napoli,2714,False,1906,Victor Osimhen,822471,F,82,Guglielmo Vicario,80,Empoli,1485,8.8,73.0,17,60,0,assisted,strongFoot,0,0.019739301875234
 24,0,25/02/2023,Empoli,SSC Napoli,7,SSC Napoli,2714,False,1906,Khvicha Kvaratskhelia,889259,F,72,Guglielmo Vicario,80,Empoli,1485,23.8,42.1,24,12,0,corner,weakFoot,0,0.021505357697606
 24,0,25/02/2023,Empoli,SSC Napoli,11,Empoli,2705,True,1485,Nicolas Haas,587126,M,60,Alex Meret,79,SSC Napoli,1906,22.9,57.3,23,12,0,assisted,strongFoot,0,0.036619883030653
-24,0,25/02/2023,Empoli,SSC Napoli,17,SSC Napoli,2714,False,1906,Ardian Ismajli,840414,D,28,Guglielmo Vicario,80,Empoli,1485,2.7,49.8,2,2,0,corner,strongFoot,1,
 24,0,25/02/2023,Empoli,SSC Napoli,20,SSC Napoli,2714,False,1906,Victor Osimhen,822471,F,82,Guglielmo Vicario,80,Empoli,1485,3.5,67.8,12,73,1,assisted,strongFoot,0,0.065713614225388
 24,0,25/02/2023,Empoli,SSC Napoli,20,Empoli,2705,True,1485,Liam Henderson,287573,M,63,Alex Meret,79,SSC Napoli,1906,35.1,43.9,35,6,-1,assisted,strongFoot,0,0.020439563319087
 24,0,25/02/2023,Empoli,SSC Napoli,28,SSC Napoli,2714,False,1906,Khvicha Kvaratskhelia,889259,F,72,Guglielmo Vicario,80,Empoli,1485,21.2,30.6,24,31,1,corner,weakFoot,0,0.018317878246307
@@ -6026,7 +6010,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 24,5,26/02/2023,AC Milan,Atalanta,7,AC Milan,2692,True,1783,Olivier Giroud,39070,F,82,Juan Musso,81,Atalanta,1659,8.5,49.1,8,4,0,assisted,strongFoot,0,0.3707027733326
 24,5,26/02/2023,AC Milan,Atalanta,13,AC Milan,2692,True,1783,Junior Messias,888219,F,72,Juan Musso,81,Atalanta,1659,28.7,44.5,28,7,0,assisted,strongFoot,0,0.014367323368788
 24,5,26/02/2023,AC Milan,Atalanta,25,AC Milan,2692,True,1783,Theo Hernández,788027,D,71,Juan Musso,81,Atalanta,1659,23.2,40.9,24,14,0,assisted,strongFoot,0,0.034054797142744
-24,5,26/02/2023,AC Milan,Atalanta,25,AC Milan,2692,True,1783,Juan Musso,263651,G,14,Juan Musso,81,Atalanta,1659,2.3,47.6,2,35,0,regular,other,1,
 24,5,26/02/2023,AC Milan,Atalanta,33,AC Milan,2692,True,1783,Rafael Leão,851284,F,76,Juan Musso,81,Atalanta,1659,13.8,64.5,16,35,1,fast-break,strongFoot,0,0.061015598475933
 24,5,26/02/2023,AC Milan,Atalanta,37,AC Milan,2692,True,1783,Rafael Leão,851284,F,76,Juan Musso,81,Atalanta,1659,12.4,37.5,15,34,1,assisted,strongFoot,0,0.09065455943346
 24,5,26/02/2023,AC Milan,Atalanta,59,Atalanta,2686,False,1659,Teun Koopmeiners,803033,M,71,Mike Maignan,87,AC Milan,1783,22.1,49.7,22,0,-1,assisted,weakFoot,0,0.028918882831931
@@ -6791,7 +6774,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 27,6,19/03/2023,Fiorentina,Lecce,20,Lecce,2689,False,1342,Gabriel Strefezza,877201,F,64,Pietro Terracciano,79,Fiorentina,1545,15.4,59.6,16,22,0,regular,strongFoot,0,0.042602960020304
 27,6,19/03/2023,Fiorentina,Lecce,20,Lecce,2689,False,1342,Gabriel Strefezza,877201,F,64,Pietro Terracciano,79,Fiorentina,1545,7.5,67.2,13,57,0,assisted,strongFoot,0,0.041487600654364
 27,6,19/03/2023,Fiorentina,Lecce,26,Fiorentina,2693,True,1545,Antonín Barák,330705,M,77,Wladimiro Falcone,74,Lecce,1342,11.2,47.0,11,10,0,set-piece,head,0,0.052798073738813
-27,6,19/03/2023,Fiorentina,Lecce,27,Fiorentina,2693,True,1545,Antonino Gallo,945616,D,48,Wladimiro Falcone,74,Lecce,1342,2.8,53.4,3,39,0,regular,strongFoot,1,
 27,6,19/03/2023,Fiorentina,Lecce,34,Fiorentina,2693,True,1545,Antonín Barák,330705,M,77,Wladimiro Falcone,74,Lecce,1342,17.2,30.1,21,38,1,assisted,strongFoot,0,0.024405617266893
 27,6,19/03/2023,Fiorentina,Lecce,38,Fiorentina,2693,True,1545,Riccardo Saponara,126236,M,71,Wladimiro Falcone,74,Lecce,1342,7.7,46.4,8,17,1,assisted,head,0,0.19858787953854
 27,6,19/03/2023,Fiorentina,Lecce,45,Fiorentina,2693,True,1545,Nicolás González,901325,M,72,Wladimiro Falcone,74,Lecce,1342,9.8,56.1,10,22,1,assisted,strongFoot,0,0.079292319715023
@@ -7017,7 +6999,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 28,5,02/04/2023,Spezia,US Salernitana 1919,29,Spezia,2735,True,1371,Mattia Caldara,362222,D,34,Guillermo Ochoa,80,US Salernitana 1919,1327,2.8,42.9,5,59,0,corner,strongFoot,0,0.19203701615334
 28,5,02/04/2023,Spezia,US Salernitana 1919,38,US Salernitana 1919,2710,False,1327,Antonio Candreva,27982,F,78,Bartłomiej Drągowski,76,Spezia,1371,28.5,29.2,31,26,0,assisted,strongFoot,0,0.020192550495267
 28,5,02/04/2023,Spezia,US Salernitana 1919,42,Spezia,2735,True,1371,Mehdi Bourabia,98003,M,59,Guillermo Ochoa,80,US Salernitana 1919,1327,22.8,67.6,25,27,0,corner,strongFoot,0,0.028612790629268
-28,5,02/04/2023,Spezia,US Salernitana 1919,43,US Salernitana 1919,2710,False,1327,Mattia Caldara,362222,D,34,Bartłomiej Drągowski,76,Spezia,1371,7.0,43.4,8,32,0,regular,strongFoot,1,
 28,5,02/04/2023,Spezia,US Salernitana 1919,45,US Salernitana 1919,2710,False,1327,Junior Sambia,603738,M,67,Bartłomiej Drągowski,76,Spezia,1371,12.0,60.6,13,30,1,regular,weakFoot,0,0.064735300838947
 28,5,02/04/2023,Spezia,US Salernitana 1919,45,US Salernitana 1919,2710,False,1327,Krzysztof Piątek,558738,F,74,Bartłomiej Drągowski,76,Spezia,1371,7.0,51.1,7,6,1,corner,head,0,0.11852539330721
 28,5,02/04/2023,Spezia,US Salernitana 1919,45,US Salernitana 1919,2710,False,1327,Flavius Daniliuc,901885,D,41,Bartłomiej Drągowski,76,Spezia,1371,12.2,49.0,12,3,1,corner,weakFoot,0,0.069629557430744
@@ -7203,7 +7184,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 29,1,07/04/2023,Lecce,SSC Napoli,49,Lecce,2689,True,1327,Samuel Umtiti,96547,D,63,Alex Meret,80,SSC Napoli,1904,10.3,50.6,10,2,-1,corner,head,0,0.039728198200464
 29,1,07/04/2023,Lecce,SSC Napoli,52,Lecce,2689,True,1327,Assan Ceesay,842158,F,70,Alex Meret,80,SSC Napoli,1904,5.1,47.4,5,19,-1,set-piece,head,0,0.26653447747231
 29,1,07/04/2023,Lecce,SSC Napoli,52,Lecce,2689,True,1327,Federico Di Francesco,320979,M,68,Alex Meret,80,SSC Napoli,1904,11.8,46.0,12,12,-1,set-piece,strongFoot,1,0.077620834112167
-29,1,07/04/2023,Lecce,SSC Napoli,64,SSC Napoli,2714,False,1904,Antonino Gallo,945616,D,48,Wladimiro Falcone,74,Lecce,1327,1.8,49.4,1,12,0,regular,strongFoot,1,
 29,1,07/04/2023,Lecce,SSC Napoli,69,Lecce,2689,True,1327,Youssef Maleh,849274,M,66,Alex Meret,80,SSC Napoli,1904,24.7,54.6,24,7,-1,set-piece,strongFoot,0,0.026522230356932
 29,1,07/04/2023,Lecce,SSC Napoli,73,Lecce,2689,True,1327,Rémi Oudin,842709,F,68,Alex Meret,80,SSC Napoli,1904,26.0,62.0,27,17,-1,free-kick,strongFoot,0,0.043469194322824
 29,1,07/04/2023,Lecce,SSC Napoli,73,Lecce,2689,True,1327,Samuel Umtiti,96547,D,63,Alex Meret,80,SSC Napoli,1904,27.2,42.1,27,11,-1,set-piece,strongFoot,0,0.020348343998194
@@ -7266,7 +7246,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 29,4,08/04/2023,Fiorentina,Spezia,17,Spezia,2735,False,1371,Szymon Żurkowski,860435,F,72,Pietro Terracciano,79,Fiorentina,1572,8.3,46.6,8,15,0,assisted,head,0,0.088296681642532
 29,4,08/04/2023,Fiorentina,Spezia,24,Fiorentina,2693,True,1572,Jonathan Ikoné,802142,F,66,Bartłomiej Drągowski,76,Spezia,1371,9.2,66.7,14,50,0,set-piece,strongFoot,0,0.078794829547405
 29,4,08/04/2023,Fiorentina,Spezia,24,Fiorentina,2693,True,1572,Dodô,822518,M,57,Bartłomiej Drągowski,76,Spezia,1371,29.3,54.3,29,5,0,set-piece,strongFoot,0,0.0090903919190168
-29,4,08/04/2023,Fiorentina,Spezia,25,Fiorentina,2693,True,1572,Przemysław Wiśniewski,931266,D,24,Bartłomiej Drągowski,76,Spezia,1371,3.8,35.2,10,69,0,regular,strongFoot,1,
 29,4,08/04/2023,Fiorentina,Spezia,32,Spezia,2735,False,1371,M'bala Nzola,788061,F,70,Pietro Terracciano,79,Fiorentina,1572,9.2,42.7,10,28,-1,assisted,strongFoot,1,0.11344200372696
 29,4,08/04/2023,Fiorentina,Spezia,42,Fiorentina,2693,True,1572,Gaetano Castrovilli,587628,M,65,Bartłomiej Drągowski,76,Spezia,1371,10.0,66.7,15,48,0,assisted,strongFoot,0,0.051270216703415
 29,4,08/04/2023,Fiorentina,Spezia,55,Fiorentina,2693,True,1572,Lucas Martínez Quarta,795297,D,55,Bartłomiej Drągowski,76,Spezia,1371,9.9,47.9,10,8,0,assisted,head,0,0.063589006662369
@@ -7789,7 +7768,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 31,5,23/04/2023,Monza,Fiorentina,22,Monza,2729,True,1519,Luca Caldirola,100565,D,41,Pietro Terracciano,79,Fiorentina,1577,6.0,54.2,6,25,0,corner,head,0,0.16661006212234
 31,5,23/04/2023,Monza,Fiorentina,23,Monza,2729,True,1519,Gianluca Caprari,148458,F,75,Pietro Terracciano,79,Fiorentina,1577,46.1,34.9,47,12,0,assisted,strongFoot,0,0.019170209765434
 31,5,23/04/2023,Monza,Fiorentina,26,Monza,2729,True,1519,Gianluca Caprari,148458,F,75,Pietro Terracciano,79,Fiorentina,1577,5.1,33.6,12,65,0,assisted,strongFoot,0,0.099682651460171
-31,5,23/04/2023,Monza,Fiorentina,26,Monza,2729,True,1519,Cristiano Biraghi,122848,D,67,Pietro Terracciano,79,Fiorentina,1577,2.6,49.1,2,13,0,regular,strongFoot,1,
 31,5,23/04/2023,Monza,Fiorentina,35,Fiorentina,2693,False,1577,Sofyan Amrabat,359272,M,70,Michele Di Gregorio,77,Monza,1519,29.5,60.3,30,13,-1,assisted,strongFoot,0,0.015476291999221
 31,5,23/04/2023,Monza,Fiorentina,35,Fiorentina,2693,False,1577,Arthur Cabral,870762,F,78,Michele Di Gregorio,77,Monza,1519,13.5,67.6,18,41,-1,assisted,strongFoot,0,0.050190582871437
 31,5,23/04/2023,Monza,Fiorentina,38,Monza,2729,True,1519,Gianluca Caprari,148458,F,75,Pietro Terracciano,79,Fiorentina,1577,11.3,28.9,18,51,1,assisted,strongFoot,0,0.039118807762861
@@ -8289,7 +8267,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 33,5,03/05/2023,Hellas Verona,Inter,27,Inter,2697,False,1825,Edin Džeko,14990,F,83,Lorenzo Montipò,76,Hellas Verona,1400,7.0,45.2,7,24,0,set-piece,head,0,0.23357151448727
 33,5,03/05/2023,Hellas Verona,Inter,27,Inter,2697,False,1825,Danilo D'Ambrosio,107936,D,55,Lorenzo Montipò,76,Hellas Verona,1400,2.7,40.6,6,67,0,corner,head,0,0.11949583888054
 33,5,03/05/2023,Hellas Verona,Inter,28,Inter,2697,False,1825,Stefan de Vrij,91046,D,41,Lorenzo Montipò,76,Hellas Verona,1400,5.6,49.3,5,4,0,corner,strongFoot,0,0.59471553564072
-33,5,03/05/2023,Hellas Verona,Inter,31,Inter,2697,False,1825,Adolfo Gaich,940692,F,62,Lorenzo Montipò,76,Hellas Verona,1400,9.1,57.7,10,29,0,corner,head,1,
 33,5,03/05/2023,Hellas Verona,Inter,33,Inter,2697,False,1825,Edin Džeko,14990,F,83,Lorenzo Montipò,76,Hellas Verona,1400,20.8,67.3,23,29,1,assisted,weakFoot,0,0.031910542398691
 33,5,03/05/2023,Hellas Verona,Inter,34,Hellas Verona,2701,True,1400,Isak Hien,1157713,D,36,Samir Handanović,82,Inter,1825,7.6,41.5,9,37,-1,set-piece,head,0,0.11636544764042
 33,5,03/05/2023,Hellas Verona,Inter,36,Inter,2697,False,1825,Hakan Çalhanoğlu,135700,M,79,Lorenzo Montipò,76,Hellas Verona,1400,28.2,52.8,28,3,1,assisted,strongFoot,1,0.026110853999853
@@ -8356,7 +8333,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 33,7,03/05/2023,Monza,AS Roma,78,AS Roma,2702,False,1687,Tammy Abraham,610766,F,79,Michele Di Gregorio,77,Monza,1514,12.8,23.9,21,54,0,assisted,strongFoot,0,0.016325764358044
 33,7,03/05/2023,Monza,AS Roma,90,AS Roma,2702,False,1687,Roger Ibañez,888949,D,31,Michele Di Gregorio,77,Monza,1514,8.6,47.3,8,12,0,set-piece,head,0,0.078367576003075
 33,7,03/05/2023,Monza,AS Roma,90,Monza,2729,True,1514,Carlos Augusto,929199,D,64,Rui Patrício,80,AS Roma,1687,9.1,38.2,12,41,0,set-piece,strongFoot,0,0.12551537156105
-33,8,04/05/2023,Empoli,Bologna,1,Empoli,2705,True,1514,Jhon Lucumí,818481,D,27,Łukasz Skorupski,76,Bologna,1480,9.1,47.6,9,10,0,regular,strongFoot,1,
 33,8,04/05/2023,Empoli,Bologna,4,Empoli,2705,True,1514,Nicolò Cambiaghi,971005,F,66,Łukasz Skorupski,76,Bologna,1480,22.8,32.9,25,27,0,regular,weakFoot,0,0.02357885427773
 33,8,04/05/2023,Empoli,Bologna,6,Bologna,2685,False,1480,Nikola Moro,814882,M,70,Guglielmo Vicario,80,Empoli,1514,19.7,27.2,25,38,0,assisted,strongFoot,0,0.041015639901161
 33,8,04/05/2023,Empoli,Bologna,16,Bologna,2685,False,1480,Nikola Moro,814882,M,70,Guglielmo Vicario,80,Empoli,1514,16.3,55.8,16,13,0,corner,strongFoot,0,0.040296643972397
@@ -8741,7 +8717,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 35,3,13/05/2023,Inter,Sassuolo,45,Inter,2697,True,1835,Romelu Lukaku,78893,F,83,Andrea Consigli,80,Sassuolo,1505,11.2,48.7,11,4,1,assisted,weakFoot,0,0.10096202045679
 35,3,13/05/2023,Inter,Sassuolo,50,Inter,2697,True,1835,Lautaro Martínez,823984,F,83,Andrea Consigli,80,Sassuolo,1505,13.2,39.4,15,28,1,assisted,weakFoot,0,0.36140251159668
 35,3,13/05/2023,Inter,Sassuolo,54,Inter,2697,True,1835,Federico Dimarco,284361,M,68,Andrea Consigli,80,Sassuolo,1505,9.5,40.2,11,35,1,regular,strongFoot,0,0.095813415944576
-35,3,13/05/2023,Inter,Sassuolo,55,Inter,2697,True,1835,Ruan,914487,D,28,Andrea Consigli,80,Sassuolo,1505,10.0,56.3,10,23,1,regular,strongFoot,1,
 35,3,13/05/2023,Inter,Sassuolo,58,Inter,2697,True,1835,Lautaro Martínez,823984,F,83,Andrea Consigli,80,Sassuolo,1505,19.1,62.5,20,23,2,set-piece,weakFoot,1,0.06451016664505
 35,3,13/05/2023,Inter,Sassuolo,60,Sassuolo,2793,False,1505,Andrea Pinamonti,826198,F,76,Samir Handanović,82,Inter,1835,18.3,63.9,20,27,-3,assisted,strongFoot,0,0.031017191708088
 35,3,13/05/2023,Inter,Sassuolo,62,Sassuolo,2793,False,1505,Rogério,830551,D,51,Samir Handanović,82,Inter,1835,21.9,25.6,27,37,-3,assisted,strongFoot,0,0.017510065808892
@@ -9210,7 +9185,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 37,0,26/05/2023,Sampdoria,Sassuolo,75,Sampdoria,2711,True,1256,Tommaso Augello,596736,M,37,Andrea Consigli,80,Sassuolo,1489,4.5,39.8,8,57,-1,assisted,strongFoot,0,0.32631850242615
 37,0,26/05/2023,Sampdoria,Sassuolo,76,Sampdoria,2711,True,1256,Manolo Gabbiadini,53816,F,77,Andrea Consigli,80,Sassuolo,1489,20.8,35.3,23,25,-1,assisted,strongFoot,0,0.02539243735373
 37,0,26/05/2023,Sampdoria,Sassuolo,78,Sampdoria,2711,True,1256,Fabio Quagliarella,11621,F,78,Andrea Consigli,80,Sassuolo,1489,3.7,36.8,9,67,-1,corner,strongFoot,0,0.051313474774361
-37,0,26/05/2023,Sampdoria,Sassuolo,78,Sampdoria,2711,True,1256,Martin Erlić,789234,D,34,Andrea Consigli,80,Sassuolo,1489,2.1,49.3,2,12,-1,corner,strongFoot,1,
 37,0,26/05/2023,Sampdoria,Sassuolo,80,Sassuolo,2793,False,1489,Nedim Bajrami,825861,M,66,Martin Turk,63,Sampdoria,1256,18.8,35.3,21,27,0,regular,strongFoot,0,0.03053092956543
 37,0,26/05/2023,Sampdoria,Sassuolo,80,Sampdoria,2711,True,1256,Fabio Quagliarella,11621,F,78,Andrea Consigli,80,Sassuolo,1489,10.0,66.8,15,48,0,regular,strongFoot,0,0.056434832513332
 37,0,26/05/2023,Sampdoria,Sassuolo,80,Sampdoria,2711,True,1256,Manolo Gabbiadini,53816,F,77,Andrea Consigli,80,Sassuolo,1489,8.0,71.1,16,60,0,assisted,strongFoot,0,0.036507278680801
@@ -9226,7 +9200,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 37,1,27/05/2023,Spezia,Torino,14,Torino,2696,False,1495,Aleksey Miranchuk,324353,M,70,Bartłomiej Drągowski,77,Spezia,1391,24.4,57.1,24,11,0,corner,strongFoot,0,0.021963320672512
 37,1,27/05/2023,Spezia,Torino,22,Spezia,2735,True,1391,Salvatore Esposito,931267,M,59,Vanja Milinković-Savić,74,Torino,1495,18.5,46.7,18,6,0,free-kick,strongFoot,0,0.15736564993858
 37,1,27/05/2023,Spezia,Torino,24,Torino,2696,False,1495,Wilfried Singo,978285,D,56,Bartłomiej Drągowski,77,Spezia,1391,4.2,49.3,4,6,0,corner,strongFoot,0,0.33668744564056
-37,1,27/05/2023,Spezia,Torino,24,Torino,2696,False,1495,Przemysław Wiśniewski,931266,D,24,Bartłomiej Drągowski,77,Spezia,1391,2.3,49.0,2,16,0,corner,other,1,
 37,1,27/05/2023,Spezia,Torino,26,Torino,2696,False,1495,Wilfried Singo,978285,D,56,Bartłomiej Drągowski,77,Spezia,1391,19.9,69.7,23,33,1,assisted,weakFoot,0,0.027036543935537
 37,1,27/05/2023,Spezia,Torino,46,Torino,2696,False,1495,Mërgim Vojvoda,798147,D,52,Bartłomiej Drągowski,77,Spezia,1391,17.9,43.3,18,14,1,assisted,strongFoot,0,0.083228811621666
 37,1,27/05/2023,Spezia,Torino,46,Torino,2696,False,1495,Nikola Vlašić,357596,M,75,Bartłomiej Drągowski,77,Spezia,1391,10.1,26.2,19,58,1,regular,weakFoot,0,0.020344648510218
@@ -9316,7 +9289,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 37,4,27/05/2023,Inter,Atalanta,89,Inter,2697,True,1882,Robin Gosens,377118,D,74,Marco Sportiello,76,Atalanta,1641,7.9,42.8,9,31,0,corner,head,0,0.0508072078228
 37,4,27/05/2023,Inter,Atalanta,90,Atalanta,2686,False,1641,Luis Muriel,119242,F,81,André Onana,83,Inter,1882,26.8,45.0,27,7,0,free-kick,strongFoot,0,0.04857674241066
 37,4,27/05/2023,Inter,Atalanta,90,Atalanta,2686,False,1641,Luis Muriel,119242,F,81,André Onana,83,Inter,1882,25.9,42.3,26,11,0,set-piece,strongFoot,0,0.025423776358366
-37,4,27/05/2023,Inter,Atalanta,90,Atalanta,2686,False,1641,André Onana,787498,G,14,André Onana,83,Inter,1882,1.8,46.0,3,56,0,set-piece,other,1,
 37,4,27/05/2023,Inter,Atalanta,90,Atalanta,2686,False,1641,Luis Muriel,119242,F,81,André Onana,83,Inter,1882,12.7,80.6,24,58,1,corner,weakFoot,0,0.017227755859494
 37,5,28/05/2023,Hellas Verona,Empoli,6,Hellas Verona,2701,True,1391,Cyril Ngonge,877037,F,69,Guglielmo Vicario,80,Empoli,1489,12.4,49.5,12,1,0,set-piece,strongFoot,0,0.081511914730072
 37,5,28/05/2023,Hellas Verona,Empoli,11,Empoli,2705,False,1489,Jacopo Fazzini,1012179,F,50,Lorenzo Montipò,76,Hellas Verona,1391,31.2,36.3,32,16,0,free-kick,strongFoot,0,0.029050810262561
@@ -9344,7 +9316,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 37,5,28/05/2023,Hellas Verona,Empoli,90,Hellas Verona,2701,True,1391,Adolfo Gaich,940692,F,63,Guglielmo Vicario,80,Empoli,1489,25.3,25.7,30,33,1,assisted,weakFoot,0,0.022475060075521
 37,5,28/05/2023,Hellas Verona,Empoli,90,Empoli,2705,False,1489,Alberto Grassi,186845,M,62,Lorenzo Montipò,76,Hellas Verona,1391,17.0,50.6,17,1,-1,regular,weakFoot,0,0.046350669115782
 37,5,28/05/2023,Hellas Verona,Empoli,90,Empoli,2705,False,1489,Petar Stojanović,227082,M,49,Lorenzo Montipò,76,Hellas Verona,1391,23.1,50.7,23,1,-1,assisted,strongFoot,0,0.052850466221571
-37,5,28/05/2023,Hellas Verona,Empoli,90,Empoli,2705,False,1489,Giangiacomo Magnani,812829,D,37,Lorenzo Montipò,76,Hellas Verona,1391,4.3,52.8,4,23,-1,regular,strongFoot,1,
 37,6,28/05/2023,Bologna,SSC Napoli,14,SSC Napoli,2714,False,1888,Victor Osimhen,822471,F,82,Łukasz Skorupski,76,Bologna,1479,9.8,55.2,10,19,0,regular,strongFoot,1,0.61912107467651
 37,6,28/05/2023,Bologna,SSC Napoli,18,SSC Napoli,2714,False,1888,Frank Anguissa,787941,M,66,Łukasz Skorupski,76,Bologna,1479,21.7,62.9,23,22,0,assisted,strongFoot,0,0.035823971033096
 37,6,28/05/2023,Bologna,SSC Napoli,19,SSC Napoli,2714,False,1888,Piotr Zieliński,138605,M,76,Łukasz Skorupski,76,Bologna,1479,27.6,27.0,31,29,0,assisted,weakFoot,0,0.011795126833022
@@ -9398,7 +9369,6 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 37,8,28/05/2023,Lazio,Cremonese,37,Lazio,2699,True,1631,Sergej Milinković-Savić,331447,M,80,Mouhamadou Sarr,62,Cremonese,1256,4.1,59.0,7,56,0,set-piece,strongFoot,1,0.12053803354502
 37,8,28/05/2023,Lazio,Cremonese,44,Cremonese,2761,False,1256,Pablo Galdames,386230,M,59,Ivan Provedel,79,Lazio,1631,10.1,18.4,23,64,-1,free-kick,strongFoot,0,0.039739776402712
 37,8,28/05/2023,Lazio,Cremonese,54,Cremonese,2761,False,1256,Pablo Galdames,386230,M,59,Ivan Provedel,79,Lazio,1631,20.4,33.6,23,28,-1,assisted,strongFoot,1,0.046996910125017
-37,8,28/05/2023,Lazio,Cremonese,58,Cremonese,2761,False,1256,Manuel Lazzari,273405,D,62,Ivan Provedel,79,Lazio,1631,7.9,42.2,9,33,0,regular,head,1,
 37,8,28/05/2023,Lazio,Cremonese,64,Cremonese,2761,False,1256,Charles Pickel,758664,M,54,Ivan Provedel,79,Lazio,1631,15.1,61.8,17,27,1,assisted,strongFoot,0,0.051701579242945
 37,8,28/05/2023,Lazio,Cremonese,65,Lazio,2699,True,1631,Felipe Anderson,152276,M,76,Mouhamadou Sarr,62,Cremonese,1256,19.1,71.3,23,37,-1,regular,strongFoot,0,0.040555812418461
 37,8,28/05/2023,Lazio,Cremonese,69,Lazio,2699,True,1631,Ciro Immobile,45923,F,87,Mouhamadou Sarr,62,Cremonese,1256,21.0,57.1,21,12,-1,assisted,strongFoot,0,0.047011118382215
