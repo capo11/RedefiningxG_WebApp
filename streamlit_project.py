@@ -224,7 +224,8 @@ def getXTrain(df, elo=False, minute=True, over='none', k=15, sampling_strategy='
 def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific=False):
   if optionMenu1 == "Serie A":
     # allShots = pd.read_csv('datasets/seriea2425_id.csv')
-    allShots = pd.read_csv('datasets/seriea_2526.csv')
+    # allShots = pd.read_csv('datasets/seriea_2526.csv')
+    allShots = pd.read_csv('datasets/sofascore/seriea_2627.csv')
   elif optionMenu1 == "Premier League":
     allShots = pd.read_csv('datasets/bpl2425_id.csv')
   elif optionMenu1 == "La Liga":
@@ -276,7 +277,7 @@ def predictLocalGame(homeTeam, awayTeam, model, elo=False, minute=True, specific
   else:
     if optionMenu1 == "Serie A":
         # df = pd.read_csv('datasets/seriea_joined_new.csv')
-        df = pd.read_csv('datasets/sofascore/seriea_2425.csv')
+        df = pd.read_csv('datasets/sofascore/seriea_2126.csv')
         df = df.drop(columns=['Unnamed: 0'])
     elif optionMenu1 == "Premier League":
         df = pd.read_csv('datasets/bpl_joined_id.csv')
@@ -861,7 +862,8 @@ def showShots():
     else:
         if optionMenu1 == "Serie A":
             # df = pd.read_csv('datasets/seriea_joined_new.csv')
-            df = pd.read_csv('datasets/sofascore/seriea_2425.csv')
+            # df = pd.read_csv('datasets/sofascore/seriea_2425.csv')
+            df = pd.read_csv('datasets/sofascore/seriea_2126.csv')
             if 'Unnamed: 0' in df.columns:
                 df = df.drop(columns=['Unnamed: 0'])
             # st.dataframe(df)
@@ -889,7 +891,7 @@ def showShots():
         global modelName
         if optionMenu1 == "Serie A":
             # modelName = 'ITA_full'
-            modelName = 'ITA_2425'
+            modelName = 'ITA_2126'
         elif optionMenu1 == "Premier League":
             modelName = 'ENG_full'
         elif optionMenu1 == "La Liga":
@@ -937,6 +939,9 @@ def showShots():
     if optionMenu1 == "Serie A":
         # schedule = pd.read_csv('serieaSchedule.csv')
         schedule = pd.read_csv('schedules/seriea.csv')
+        schedule = schedule.loc[schedule['season'] == 27].reset_index()
+        schedule = schedule.drop(columns=['index'])
+        # st.write(schedule)
     elif optionMenu1 == "Premier League":
         schedule = pd.read_csv('bplSchedule.csv')
     elif optionMenu1 == "La Liga":
@@ -947,7 +952,9 @@ def showShots():
         schedule = pd.read_csv('ligue1Schedule.csv')
 
     
-    teams = np.unique(schedule['home_team'])
+    # teams = np.unique(schedule['home_team'])
+    teams = pd.concat([schedule['home_team'], schedule['away_team']]).unique()
+    teams = sorted(teams)
     # scheduleTeam = st.selectbox("Select a Team", teams, index=None)
     
     scheduleTeam = team_selector(teams)
@@ -1031,7 +1038,7 @@ def showPlayers():
         elo = True
         if optionMenu1 == "Serie A":
             # modelName = 'ITA_full'
-            modelName = 'ITA_2425'
+            modelName = 'ITA_2126'
         elif optionMenu1 == "Premier League":
             modelName = 'ENG_full'
         elif optionMenu1 == "La Liga":
@@ -1059,7 +1066,7 @@ def showPlayers():
     shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
     
     photoStrikers(shotsDF)
-    photoKeepers(shotsDF)
+    # photoKeepers(shotsDF)
 
     
 
@@ -1499,7 +1506,7 @@ def showViolinPlot(specific, elo):
         with col2:
             st.write("## Key Aspects:")
             match modelName:
-                case "ITA_2425":
+                case "ITA_2126":
                     st.markdown("""
                     - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
                         - **Serie A is the league in which Fast-Breaks influence positively the most**
@@ -1507,6 +1514,15 @@ def showViolinPlot(specific, elo):
                         - **Serie A is the league in which Corner Kicks influence negatively the most**
                     - Being a good player does not affect the shot's probability, but having a low shooting ability affects deeply the scoring chances
                         - At the same time, playing against a low-tier team affects positively the scoring chances
+                    """)
+                case "ITA_2425":
+                    st.markdown("""
+                    - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
+                        - **Serie A is the league in which Fast-Breaks influence positively the most**
+                    - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                        - **Serie A is the league in which Corner Kicks influence negatively the most**
+                    - Being a good player affects slightly the shot's probability, and having a low shooting ability has an even smaller impact on the scoring chances
+                    - The impact of the Elo rating for teams and opponents does not have a clear trend
                     """)
                 case "ITA_minute":
                     st.markdown("""
@@ -1683,9 +1699,9 @@ def displayXg(sxg, mxg):
     st.warning("Large differences between the two values may be explained by contextual information (opposition's presence and positioning) that are unavailable to the proposed model.")
 
 
-st.title("Serie A 2025/26")
+st.title("Serie A 2026/27")
 st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: July 28th, 2026")
+st.write("Last Update: August 30th, 2026")
 
 # with st.expander("Why does the model underestimate some chances?"):
 #     st.write("""
