@@ -999,7 +999,7 @@ def showShots():
 
             if selectedTeam:
                 teamShots = gameShots.loc[gameShots['team'] == selectedTeam].reset_index(drop=True)
-            
+                # st.write(teamShots)
                 teamShots['description'] = plotShots(teamShots)
                 shotIndex, penalty = drawPitch(teamShots)
                 # shotDescription = st.selectbox('Select a Shot', teamShots['description'], index=None)
