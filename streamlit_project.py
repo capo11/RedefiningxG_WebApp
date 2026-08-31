@@ -1621,6 +1621,8 @@ def showViolinPlot(specific, elo):
         
 
 def displayCard(url, name, surname, xg, goal, diff, bgcolor):
+    st.write(url)
+    st.image(url)
     card_html = f"""
     <div class="card" style="background-color: {bgcolor}">
         <img src="{url}" alt="Immagine della card">
@@ -1703,7 +1705,7 @@ def displayXg(sxg, mxg):
 
 st.title("Serie A 2026/27")
 st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: August 30th, 2026")
+st.write("Last Update: August 31th, 2026")
 
 # with st.expander("Why does the model underestimate some chances?"):
 #     st.write("""
@@ -1712,7 +1714,7 @@ st.write("Last Update: August 30th, 2026")
 #     """)
 st.warning("The proposed model has been trained on several features (Minute, Body Part, Situation, Shooter/Keeper Quality, Team Elos...), " \
 "but it does not capture the opposition's presence and positioning. Therefore, it underestimates the xG values in certain situations." \
-" The training dataset is also small, only featuring the 2024/25 Serie A Season, so that could explain wrong or inaccurate predictions.")
+"   \nThe model is trained on the 5 previous Serie A seasons (from 2021/22 to 2025/26).")
 
 
 
