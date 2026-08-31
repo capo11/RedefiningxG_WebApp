@@ -1621,8 +1621,6 @@ def showViolinPlot(specific, elo):
         
 
 def displayCard(url, name, surname, xg, goal, diff, bgcolor):
-    st.write(url)
-    st.image(url)
     card_html = f"""
     <div class="card" style="background-color: {bgcolor}">
         <img src="{url}" alt="Immagine della card" referrerpolicy="no-referrer">
