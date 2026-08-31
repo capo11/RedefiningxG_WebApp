@@ -928,7 +928,8 @@ def showShots():
         shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
     else:
         shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
-    shotsDF = shotsDF.drop(columns='Unnamed: 0')
+    if 'Unnamed: 0' in shotsDF.columns:
+        shotsDF = shotsDF.drop(columns='Unnamed: 0')
     if useSpecific != True:
         statsDF = pd.read_excel('leagueStats/leagueStats_TOP5_' + modelName + '.xlsx')
     else:
@@ -1063,10 +1064,11 @@ def showPlayers():
         shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
     else:
         shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
-    shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
+    if 'Unnamed: 0' in shotsDF.columns:
+        shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
     
     photoStrikers(shotsDF)
-    # photoKeepers(shotsDF)
+    photoKeepers(shotsDF)
 
     
 
