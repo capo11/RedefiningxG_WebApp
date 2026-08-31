@@ -1625,7 +1625,7 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
     st.image(url)
     card_html = f"""
     <div class="card" style="background-color: {bgcolor}">
-        <img src="{url}" alt="Immagine della card">
+        <img src="{url}" alt="Immagine della card" referrerpolicy="no-referrer">
         <div class="card-title">{name}<br>{surname}</div>
         <div class="card-row">
             <div>xG: {xg}</div>
