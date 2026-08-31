@@ -389,3 +389,11 @@ season,round,game_index,date,home_team,away_team,home_score,away_score
 27,1,7,23/08/2026,Torino,AC Milan,1,2
 27,1,8,24/08/2026,Bologna,Lazio,0,1
 27,1,9,24/08/2026,AS Roma,Fiorentina,4,0
+27,2,0,28/08/2026,AC Milan,Venezia,2,0
+27,2,1,29/08/2026,Fiorentina,Frosinone,0,3
+27,2,2,29/08/2026,Monza,Udinese,2,3
+27,2,3,29/08/2026,Sassuolo,Torino,2,1
+27,2,4,29/08/2026,Juventus,Parma,2,0
+27,2,5,30/08/2026,SSC Napoli,Como,1,2
+27,2,6,30/08/2026,Cagliari,Inter,0,1
+27,2,7,30/08/2026,Lazio,Genoa,1,0
