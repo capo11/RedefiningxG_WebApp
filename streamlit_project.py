@@ -1703,7 +1703,7 @@ def displayXg(sxg, mxg):
 
 st.title("Serie A 2026/27")
 st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: August 31th, 2026")
+st.write("Last Update: September 10th, 2026")
 
 # with st.expander("Why does the model underestimate some chances?"):
 #     st.write("""

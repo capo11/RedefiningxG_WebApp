@@ -567,3 +567,308 @@ round,game_index,date,home_team,away_team,minute,team,teamId,isHome,eloTeam,play
 2,9,31/08/2026,Atalanta,Bologna,89,Atalanta,2686,True,1676,Nicola Zalewski,984184,M,65,Łukasz Skorupski,78,Bologna,1631,8.7,29.7,16,57,0,assisted,weakFoot,0,0.023797951638699
 2,9,31/08/2026,Atalanta,Bologna,90,Atalanta,2686,True,1676,Nicola Zalewski,984184,M,65,Łukasz Skorupski,78,Bologna,1631,18.8,69.1,22,34,0,throw-in-set-piece,weakFoot,0,0.016812914982438
 2,9,31/08/2026,Atalanta,Bologna,90,Atalanta,2686,True,1676,Lazar Samardžić,980624,M,71,Łukasz Skorupski,78,Bologna,1631,28.5,59.5,29,12,0,assisted,strongFoot,1,0.015347648411989
+3,0,04/09/2026,Genoa,Como,2,Como,2704,False,1554,Anastasios Douvikas,894863,F,74,Justin Bijlow,75,Genoa,1443,10.1,65.6,14,46,0,assisted,strongFoot,0,0.051950357854366
+3,0,04/09/2026,Genoa,Como,6,Genoa,2713,True,1443,Lorenzo Colombo,930191,F,74,Jean Butez,78,Como,1554,27.2,48.7,27,1,0,assisted,strongFoot,0,0.013285052031279
+3,0,04/09/2026,Genoa,Como,7,Como,2704,False,1554,Yan Couto,1002813,M,61,Justin Bijlow,75,Genoa,1443,19.1,68.7,22,33,0,assisted,weakFoot,0,0.02724508754909
+3,0,04/09/2026,Genoa,Como,10,Como,2704,False,1554,Máximo Perrone,1086286,M,54,Justin Bijlow,75,Genoa,1443,18.7,55.2,19,10,0,assisted,weakFoot,0,0.058565031737089
+3,0,04/09/2026,Genoa,Como,13,Como,2704,False,1554,Lucas Da Cunha,911848,M,71,Justin Bijlow,75,Genoa,1443,13.3,45.2,13,13,0,regular,strongFoot,0,0.057091135531664
+3,0,04/09/2026,Genoa,Como,17,Como,2704,False,1554,Nico Paz,1171451,M,74,Justin Bijlow,75,Genoa,1443,27.5,40.1,28,13,0,assisted,strongFoot,0,0.025131935253739
+3,0,04/09/2026,Genoa,Como,18,Como,2704,False,1554,Lucas Da Cunha,911848,M,71,Justin Bijlow,75,Genoa,1443,21.2,64.6,23,25,0,regular,strongFoot,0,0.052834171801805
+3,0,04/09/2026,Genoa,Como,19,Genoa,2713,True,1443,Milutin Osmajić,928047,F,72,Jean Butez,78,Como,1554,9.4,45.2,9,19,0,assisted,weakFoot,1,0.23496827483177
+3,0,04/09/2026,Genoa,Como,22,Como,2704,False,1554,Álex Valle,1142238,D,57,Justin Bijlow,75,Genoa,1443,25.7,58.9,26,13,-1,regular,strongFoot,0,0.024237336590886
+3,0,04/09/2026,Genoa,Como,24,Genoa,2713,True,1443,Tommaso Baldanzi,1012172,M,71,Jean Butez,78,Como,1554,11.7,47.0,11,9,1,assisted,weakFoot,0,0.092939093708992
+3,0,04/09/2026,Genoa,Como,25,Como,2704,False,1554,Martin Baturina,1090019,M,71,Justin Bijlow,75,Genoa,1443,25.3,37.2,26,18,-1,assisted,strongFoot,1,0.029690695926547
+3,0,04/09/2026,Genoa,Como,30,Como,2704,False,1554,Assane Diao,1493689,M,73,Justin Bijlow,75,Genoa,1443,8.3,63.8,12,48,0,regular,weakFoot,1,0.093258067965508
+3,0,04/09/2026,Genoa,Como,33,Como,2704,False,1554,Yan Couto,1002813,M,61,Justin Bijlow,75,Genoa,1443,23.4,72.6,27,33,1,assisted,strongFoot,0,0.025023326277733
+3,0,04/09/2026,Genoa,Como,38,Como,2704,False,1554,Assane Diao,1493689,M,73,Justin Bijlow,75,Genoa,1443,18.9,63.8,21,26,1,fast-break,weakFoot,0,0.039947938174009
+3,0,04/09/2026,Genoa,Como,40,Como,2704,False,1554,Nico Paz,1171451,M,74,Justin Bijlow,75,Genoa,1443,8.3,61.3,11,42,1,assisted,weakFoot,1,0.45395240187645
+3,0,04/09/2026,Genoa,Como,43,Como,2704,False,1554,Máximo Perrone,1086286,M,54,Justin Bijlow,75,Genoa,1443,21.3,51.9,21,3,2,assisted,strongFoot,0,0.056320779025555
+3,0,04/09/2026,Genoa,Como,44,Como,2704,False,1554,Anastasios Douvikas,894863,F,74,Justin Bijlow,75,Genoa,1443,13.5,33.1,17,40,2,assisted,weakFoot,0,0.023353107273579
+3,0,04/09/2026,Genoa,Como,45,Genoa,2713,True,1443,Tommaso Baldanzi,1012172,M,71,Jean Butez,78,Como,1554,20.3,32.9,23,29,-2,fast-break,strongFoot,0,0.037291057407856
+3,0,04/09/2026,Genoa,Como,50,Genoa,2713,True,1443,Tommaso Baldanzi,1012172,M,71,Jean Butez,78,Como,1554,9.1,30.3,16,55,-2,throw-in-set-piece,weakFoot,0,0.043900523334742
+3,0,04/09/2026,Genoa,Como,51,Genoa,2713,True,1443,Johan Vásquez,889785,D,32,Jean Butez,78,Como,1554,9.2,46.6,9,14,-2,corner,head,0,0.045142106711864
+3,0,04/09/2026,Genoa,Como,52,Como,2704,False,1554,Lucas Da Cunha,911848,M,71,Justin Bijlow,75,Genoa,1443,17.3,52.3,17,5,2,assisted,strongFoot,0,0.048363693058491
+3,0,04/09/2026,Genoa,Como,57,Genoa,2713,True,1443,Mikael Ellertsson,933203,M,69,Jean Butez,78,Como,1554,5.7,32.1,13,64,-2,assisted,strongFoot,0,0.035568296909332
+3,0,04/09/2026,Genoa,Como,61,Genoa,2713,True,1443,Milutin Osmajić,928047,F,72,Jean Butez,78,Como,1554,9.2,53.8,9,15,-2,assisted,strongFoot,0,0.12091571837664
+3,0,04/09/2026,Genoa,Como,65,Como,2704,False,1554,Anastasios Douvikas,894863,F,74,Justin Bijlow,75,Genoa,1443,6.1,54.3,6,25,2,assisted,head,0,0.27111813426018
+3,0,04/09/2026,Genoa,Como,68,Como,2704,False,1554,Nico Paz,1171451,M,74,Justin Bijlow,75,Genoa,1443,14.8,46.0,15,10,2,regular,strongFoot,0,0.13691109418869
+3,0,04/09/2026,Genoa,Como,69,Como,2704,False,1554,Jacobo Ramón,1403348,D,40,Justin Bijlow,75,Genoa,1443,12.2,52.8,12,8,2,corner,head,0,0.018408857285976
+3,0,04/09/2026,Genoa,Como,74,Genoa,2713,True,1443,Junior Messias,888219,F,72,Jean Butez,78,Como,1554,12.3,60.1,14,29,-2,throw-in-set-piece,strongFoot,0,0.061206124722958
+3,0,04/09/2026,Genoa,Como,78,Como,2704,False,1554,Assane Diao,1493689,M,73,Justin Bijlow,75,Genoa,1443,9.5,64.0,13,45,2,fast-break,strongFoot,1,0.23463803529739
+3,0,04/09/2026,Genoa,Como,83,Como,2704,False,1554,Samuele Ricci,930189,M,60,Justin Bijlow,75,Genoa,1443,25.0,59.7,25,14,3,fast-break,strongFoot,0,0.055007293820381
+3,0,04/09/2026,Genoa,Como,84,Genoa,2713,True,1443,Vitinha,1093695,F,73,Jean Butez,78,Como,1554,23.8,61.7,25,18,-3,assisted,weakFoot,0,0.027217088267207
+3,0,04/09/2026,Genoa,Como,90,Genoa,2713,True,1443,Junior Messias,888219,F,72,Jean Butez,78,Como,1554,10.6,54.6,11,16,-3,corner,strongFoot,0,0.072012402117252
+3,1,05/09/2026,Fiorentina,Torino,2,Fiorentina,2693,True,1558,Franco Mastantuono,1403559,F,70,Lucas Perri,78,Torino,1477,9.5,60.7,11,37,0,regular,weakFoot,0,0.39251038432121
+3,1,05/09/2026,Fiorentina,Torino,2,Fiorentina,2693,True,1558,Alieu Njie,1493157,F,64,Lucas Perri,78,Torino,1477,11.3,38.9,13,33,0,regular,strongFoot,0,0.20818655192852
+3,1,05/09/2026,Fiorentina,Torino,4,Fiorentina,2693,True,1558,Franco Mastantuono,1403559,F,70,Lucas Perri,78,Torino,1477,14.3,66.6,18,38,0,fast-break,strongFoot,0,0.033876989036798
+3,1,05/09/2026,Fiorentina,Torino,12,Torino,2696,False,1477,Rolando Mandragora,548178,M,72,David De Gea,84,Fiorentina,1558,25.7,37.3,27,18,0,assisted,strongFoot,0,0.021410679444671
+3,1,05/09/2026,Fiorentina,Torino,15,Torino,2696,False,1477,Nikola Vlašić,357596,M,77,David De Gea,84,Fiorentina,1558,25.8,57.9,26,11,0,assisted,weakFoot,0,0.023800732567906
+3,1,05/09/2026,Fiorentina,Torino,22,Torino,2696,False,1477,Niccolò Fortini,1526934,D,55,David De Gea,84,Fiorentina,1558,8.3,59.5,10,37,0,assisted,head,0,0.043203968554735
+3,1,05/09/2026,Fiorentina,Torino,27,Torino,2696,False,1477,Rolando Mandragora,548178,M,72,David De Gea,84,Fiorentina,1558,21.0,51.4,21,2,0,assisted,strongFoot,0,0.05792661011219
+3,1,05/09/2026,Fiorentina,Torino,45,Fiorentina,2693,True,1558,Nicolò Fagioli,901850,M,64,Lucas Perri,78,Torino,1477,25.3,49.1,25,1,0,assisted,strongFoot,0,0.044892780482769
+3,1,05/09/2026,Fiorentina,Torino,47,Fiorentina,2693,True,1558,Mateo Pellegrino,1099296,F,68,Lucas Perri,78,Torino,1477,26.6,44.4,26,8,0,fast-break,strongFoot,1,0.042643334716558
+3,1,05/09/2026,Fiorentina,Torino,51,Fiorentina,2693,True,1558,Wilfried Gnonto,998951,F,72,Lucas Perri,78,Torino,1477,18.4,67.5,21,32,1,assisted,weakFoot,0,0.035189356654882
+3,1,05/09/2026,Fiorentina,Torino,52,Fiorentina,2693,True,1558,Arthur Atta,1444690,M,69,Lucas Perri,78,Torino,1477,9.9,40.7,11,32,1,assisted,strongFoot,0,0.17814512550831
+3,1,05/09/2026,Fiorentina,Torino,52,Fiorentina,2693,True,1558,Wilfried Gnonto,998951,F,72,Lucas Perri,78,Torino,1477,4.2,66.4,11,69,1,assisted,strongFoot,0,0.034976251423359
+3,1,05/09/2026,Fiorentina,Torino,59,Fiorentina,2693,True,1558,Arthur Atta,1444690,M,69,Lucas Perri,78,Torino,1477,8.6,53.4,8,15,1,regular,weakFoot,0,0.45900517702103
+3,1,05/09/2026,Fiorentina,Torino,61,Fiorentina,2693,True,1558,Arthur Atta,1444690,M,69,Lucas Perri,78,Torino,1477,26.8,53.4,26,4,1,regular,strongFoot,0,0.035883609205484
+3,1,05/09/2026,Fiorentina,Torino,66,Fiorentina,2693,True,1558,Wilfried Gnonto,998951,F,72,Lucas Perri,78,Torino,1477,12.2,63.6,15,37,1,assisted,weakFoot,0,0.044710453599691
+3,1,05/09/2026,Fiorentina,Torino,66,Fiorentina,2693,True,1558,Arthur Atta,1444690,M,69,Lucas Perri,78,Torino,1477,9.6,56.6,10,25,1,assisted,head,0,0.054201200604439
+3,1,05/09/2026,Fiorentina,Torino,72,Torino,2696,False,1477,Nikola Vlašić,357596,M,77,David De Gea,84,Fiorentina,1558,10.0,63.9,13,43,-1,throw-in-set-piece,weakFoot,0,0.064810954034328
+3,1,05/09/2026,Fiorentina,Torino,74,Torino,2696,False,1477,Rolando Mandragora,548178,M,72,David De Gea,84,Fiorentina,1558,23.9,61.1,25,17,-1,assisted,strongFoot,1,0.042257208377123
+3,1,05/09/2026,Fiorentina,Torino,76,Fiorentina,2693,True,1558,Radu Drăguşin,997103,D,37,Lucas Perri,78,Torino,1477,3.3,56.9,5,54,0,corner,head,0,0.13146206736565
+3,1,05/09/2026,Fiorentina,Torino,78,Fiorentina,2693,True,1558,Beto,987489,F,76,Lucas Perri,78,Torino,1477,3.7,34.8,10,70,0,regular,strongFoot,0,0.057752639055252
+3,1,05/09/2026,Fiorentina,Torino,82,Torino,2696,False,1477,Che Adams,773409,F,79,David De Gea,84,Fiorentina,1558,4.9,48.4,5,12,0,assisted,strongFoot,1,0.32424864172935
+3,2,05/09/2026,Inter,SSC Napoli,2,Inter,2697,True,1864,Piotr Zieliński,138605,M,76,Alex Meret,82,SSC Napoli,1711,24.1,32.1,26,26,0,regular,strongFoot,0,0.0079349344596267
+3,2,05/09/2026,Inter,SSC Napoli,2,Inter,2697,True,1864,Andy Diouf,1048889,M,67,Alex Meret,82,SSC Napoli,1711,18.8,47.9,18,4,0,assisted,weakFoot,0,0.038507748395205
+3,2,05/09/2026,Inter,SSC Napoli,6,SSC Napoli,2714,False,1711,Matteo Politano,235672,M,77,Josep Martínez,75,Inter,1864,4.0,65.4,11,69,0,regular,weakFoot,0,0.16027499735355
+3,2,05/09/2026,Inter,SSC Napoli,6,SSC Napoli,2714,False,1711,Frank Anguissa,787941,M,75,Josep Martínez,75,Inter,1864,9.8,46.9,10,12,0,assisted,strongFoot,0,0.10583670437336
+3,2,05/09/2026,Inter,SSC Napoli,9,Inter,2697,True,1864,Piotr Zieliński,138605,M,76,Alex Meret,82,SSC Napoli,1711,23.4,49.7,23,0,0,assisted,strongFoot,0,0.022681621834636
+3,2,05/09/2026,Inter,SSC Napoli,11,Inter,2697,True,1864,Piotr Zieliński,138605,M,76,Alex Meret,82,SSC Napoli,1711,18.5,62.0,20,23,0,assisted,strongFoot,0,0.072625756263733
+3,2,05/09/2026,Inter,SSC Napoli,12,Inter,2697,True,1864,Pio Esposito,1156616,F,75,Alex Meret,82,SSC Napoli,1711,9.7,46.6,9,13,0,assisted,head,0,0.058763079345226
+3,2,05/09/2026,Inter,SSC Napoli,22,SSC Napoli,2714,False,1711,Alisson Santos,1122835,F,64,Josep Martínez,75,Inter,1864,21.0,28.1,25,35,0,assisted,strongFoot,0,0.019451817497611
+3,2,05/09/2026,Inter,SSC Napoli,23,Inter,2697,True,1864,Federico Dimarco,284361,M,78,Alex Meret,82,SSC Napoli,1711,13.2,22.4,22,54,0,regular,strongFoot,0,0.012247272767127
+3,2,05/09/2026,Inter,SSC Napoli,25,Inter,2697,True,1864,Pio Esposito,1156616,F,75,Alex Meret,82,SSC Napoli,1711,8.6,45.6,9,19,0,assisted,head,0,0.062661938369274
+3,2,05/09/2026,Inter,SSC Napoli,29,SSC Napoli,2714,False,1711,Frank Anguissa,787941,M,75,Josep Martínez,75,Inter,1864,9.5,63.0,12,42,0,assisted,strongFoot,0,0.14151874184608
+3,2,05/09/2026,Inter,SSC Napoli,35,Inter,2697,True,1864,Yann Bisseck,906275,D,56,Alex Meret,82,SSC Napoli,1711,15.3,63.6,17,31,0,assisted,weakFoot,0,0.054117731750011
+3,2,05/09/2026,Inter,SSC Napoli,45,SSC Napoli,2714,False,1711,Rasmus Højlund,1086417,F,76,Josep Martínez,75,Inter,1864,6.7,39.2,9,47,0,corner,strongFoot,0,0.11776038259268
+3,2,05/09/2026,Inter,SSC Napoli,45,Inter,2697,True,1864,Lautaro Martínez,823984,F,88,Alex Meret,82,SSC Napoli,1711,5.8,30.1,14,66,0,regular,weakFoot,0,0.041363272815943
+3,2,05/09/2026,Inter,SSC Napoli,45,Inter,2697,True,1864,Federico Dimarco,284361,M,78,Alex Meret,82,SSC Napoli,1711,23.8,42.4,24,12,0,free-kick,strongFoot,0,0.066907748579979
+3,2,05/09/2026,Inter,SSC Napoli,45,SSC Napoli,2714,False,1711,Rafa Marín,984623,D,26,Josep Martínez,75,Inter,1864,9.2,49.1,9,3,0,corner,head,0,0.049478378146887
+3,2,05/09/2026,Inter,SSC Napoli,50,SSC Napoli,2714,False,1711,Stanislav Lobotka,150383,M,66,Josep Martínez,75,Inter,1864,26.0,50.5,26,0,0,assisted,strongFoot,0,0.020812278613448
+3,2,05/09/2026,Inter,SSC Napoli,50,SSC Napoli,2714,False,1711,Matteo Politano,235672,M,77,Josep Martínez,75,Inter,1864,13.1,46.2,13,11,0,regular,strongFoot,0,0.23002704977989
+3,2,05/09/2026,Inter,SSC Napoli,50,SSC Napoli,2714,False,1711,Matteo Politano,235672,M,77,Josep Martínez,75,Inter,1864,14.5,53.0,14,8,0,regular,weakFoot,1,0.1661934107542
+3,2,05/09/2026,Inter,SSC Napoli,52,Inter,2697,True,1864,Piotr Zieliński,138605,M,76,Alex Meret,82,SSC Napoli,1711,22.3,54.2,22,7,-1,regular,strongFoot,0,0.082599475979805
+3,2,05/09/2026,Inter,SSC Napoli,53,SSC Napoli,2714,False,1711,Alisson Santos,1122835,F,64,Josep Martínez,75,Inter,1864,11.3,26.4,19,54,1,assisted,strongFoot,0,0.02708588540554
+3,2,05/09/2026,Inter,SSC Napoli,53,SSC Napoli,2714,False,1711,Frank Anguissa,787941,M,75,Josep Martínez,75,Inter,1864,13.8,55.4,14,14,1,assisted,strongFoot,0,0.16534781455994
+3,2,05/09/2026,Inter,SSC Napoli,53,SSC Napoli,2714,False,1711,Rasmus Højlund,1086417,F,76,Josep Martínez,75,Inter,1864,17.0,71.6,22,40,1,assisted,strongFoot,1,0.026999222114682
+3,2,05/09/2026,Inter,SSC Napoli,55,Inter,2697,True,1864,Federico Dimarco,284361,M,78,Alex Meret,82,SSC Napoli,1711,24.2,37.9,25,18,-2,corner,strongFoot,0,0.0097203068435192
+3,2,05/09/2026,Inter,SSC Napoli,55,Inter,2697,True,1864,Lautaro Martínez,823984,F,88,Alex Meret,82,SSC Napoli,1711,11.0,50.9,11,3,-2,assisted,strongFoot,0,0.069596812129021
+3,2,05/09/2026,Inter,SSC Napoli,56,Inter,2697,True,1864,Curtis Jones,927353,M,73,Alex Meret,82,SSC Napoli,1711,25.0,68.0,27,26,-2,assisted,weakFoot,0,0.036587733775377
+3,2,05/09/2026,Inter,SSC Napoli,56,Inter,2697,True,1864,Lautaro Martínez,823984,F,88,Alex Meret,82,SSC Napoli,1711,2.4,52.0,2,29,-2,throw-in-set-piece,strongFoot,1,0.88040220737457
+3,2,05/09/2026,Inter,SSC Napoli,59,Inter,2697,True,1864,Lautaro Martínez,823984,F,88,Alex Meret,82,SSC Napoli,1711,12.0,58.9,13,26,-1,assisted,strongFoot,0,0.1157591342926
+3,2,05/09/2026,Inter,SSC Napoli,60,Inter,2697,True,1864,Federico Dimarco,284361,M,78,Alex Meret,82,SSC Napoli,1711,2.9,36.0,9,73,-1,regular,strongFoot,0,0.080406464636326
+3,2,05/09/2026,Inter,SSC Napoli,61,Inter,2697,True,1864,Lautaro Martínez,823984,F,88,Alex Meret,82,SSC Napoli,1711,4.0,54.2,4,35,-1,assisted,strongFoot,0,0.31791219115257
+3,2,05/09/2026,Inter,SSC Napoli,63,Inter,2697,True,1864,Yann Bisseck,906275,D,56,Alex Meret,82,SSC Napoli,1711,7.7,57.0,9,31,-1,corner,head,0,0.048290316015482
+3,2,05/09/2026,Inter,SSC Napoli,65,Inter,2697,True,1864,Marcus Thuram,791702,F,82,Alex Meret,82,SSC Napoli,1711,10.9,35.9,14,41,-1,assisted,strongFoot,0,0.045644223690033
+3,2,05/09/2026,Inter,SSC Napoli,67,Inter,2697,True,1864,Andy Diouf,1048889,M,67,Alex Meret,82,SSC Napoli,1711,8.2,72.3,17,61,-1,assisted,weakFoot,0,0.049218844622374
+3,2,05/09/2026,Inter,SSC Napoli,73,Inter,2697,True,1864,Marcus Thuram,791702,F,82,Alex Meret,82,SSC Napoli,1711,2.8,46.1,3,43,-1,assisted,head,0,0.55059152841568
+3,2,05/09/2026,Inter,SSC Napoli,74,Inter,2697,True,1864,Manuel Akanji,383560,D,47,Alex Meret,82,SSC Napoli,1711,7.5,50.6,7,3,-1,corner,head,0,0.097507156431675
+3,2,05/09/2026,Inter,SSC Napoli,76,SSC Napoli,2714,False,1711,Alisson Santos,1122835,F,64,Josep Martínez,75,Inter,1864,15.7,29.4,21,41,1,assisted,strongFoot,0,0.029946476221085
+3,2,05/09/2026,Inter,SSC Napoli,78,Inter,2697,True,1864,Marcus Thuram,791702,F,82,Alex Meret,82,SSC Napoli,1711,4.2,70.1,14,72,-1,assisted,strongFoot,0,0.023875489830971
+3,2,05/09/2026,Inter,SSC Napoli,82,Inter,2697,True,1864,Marcus Thuram,791702,F,82,Alex Meret,82,SSC Napoli,1711,10.3,49.2,10,3,-1,assisted,head,1,0.041568651795387
+3,2,05/09/2026,Inter,SSC Napoli,88,Inter,2697,True,1864,Marcus Thuram,791702,F,82,Alex Meret,82,SSC Napoli,1711,10.1,62.0,12,38,0,assisted,strongFoot,0,0.12205341458321
+3,2,05/09/2026,Inter,SSC Napoli,88,SSC Napoli,2714,False,1711,David Neres,850993,F,75,Josep Martínez,75,Inter,1864,11.3,44.0,12,19,0,regular,weakFoot,0,0.26352733373642
+3,2,05/09/2026,Inter,SSC Napoli,89,SSC Napoli,2714,False,1711,Lorenzo Lucca,962364,F,77,Josep Martínez,75,Inter,1864,10.1,64.6,14,44,0,assisted,strongFoot,0,0.080409549176693
+3,2,05/09/2026,Inter,SSC Napoli,89,SSC Napoli,2714,False,1711,Frank Anguissa,787941,M,75,Josep Martínez,75,Inter,1864,2.9,49.1,2,11,0,assisted,strongFoot,0,0.8459837436676
+3,2,05/09/2026,Inter,SSC Napoli,90,Inter,2697,True,1864,Nicolò Barella,363856,M,78,Alex Meret,82,SSC Napoli,1711,18.1,39.1,19,22,0,assisted,strongFoot,0,0.051821164786816
+3,2,05/09/2026,Inter,SSC Napoli,90,Inter,2697,True,1864,Manuel Akanji,383560,D,47,Alex Meret,82,SSC Napoli,1711,4.2,52.4,4,21,0,corner,strongFoot,0,0.28005313873291
+3,2,05/09/2026,Inter,SSC Napoli,90,Inter,2697,True,1864,Lautaro Martínez,823984,F,88,Alex Meret,82,SSC Napoli,1711,2.3,46.6,3,45,0,corner,weakFoot,1,0.51369190216064
+3,3,05/09/2026,AS Roma,Atalanta,3,AS Roma,2702,True,1717,Paulo Dybala,256219,F,85,Marco Carnesecchi,85,Atalanta,1676,5.9,53.8,6,23,0,regular,head,0,0.16050951182842
+3,3,05/09/2026,AS Roma,Atalanta,14,AS Roma,2702,True,1717,Gianluca Mancini,611210,D,49,Marco Carnesecchi,85,Atalanta,1676,7.6,56.4,8,29,0,assisted,head,0,0.16179552674294
+3,3,05/09/2026,AS Roma,Atalanta,15,AS Roma,2702,True,1717,Donyell Malen,803039,F,79,Marco Carnesecchi,85,Atalanta,1676,14.8,26.8,21,46,0,corner,strongFoot,0,0.011837403289974
+3,3,05/09/2026,AS Roma,Atalanta,17,AS Roma,2702,True,1717,Manu Koné,974087,M,72,Marco Carnesecchi,85,Atalanta,1676,21.7,38.2,23,20,0,regular,strongFoot,0,0.017205333337188
+3,3,05/09/2026,AS Roma,Atalanta,18,AS Roma,2702,True,1717,Donyell Malen,803039,F,79,Marco Carnesecchi,85,Atalanta,1676,11.4,30.0,17,50,0,corner,strongFoot,0,0.014119771309197
+3,3,05/09/2026,AS Roma,Atalanta,21,AS Roma,2702,True,1717,Bryan Cristante,186855,M,73,Marco Carnesecchi,85,Atalanta,1676,8.3,51.0,8,4,0,assisted,head,0,0.091810040175915
+3,3,05/09/2026,AS Roma,Atalanta,21,AS Roma,2702,True,1717,Gianluca Mancini,611210,D,49,Marco Carnesecchi,85,Atalanta,1676,11.3,47.2,11,9,0,corner,strongFoot,0,0.05616969615221
+3,3,05/09/2026,AS Roma,Atalanta,24,AS Roma,2702,True,1717,Rodrigo Mora,1410240,M,65,Marco Carnesecchi,85,Atalanta,1676,21.9,67.1,24,27,0,fast-break,strongFoot,0,0.049349300563335
+3,3,05/09/2026,AS Roma,Atalanta,27,AS Roma,2702,True,1717,Rodrigo Mora,1410240,M,65,Marco Carnesecchi,85,Atalanta,1676,18.4,61.7,20,23,0,corner,weakFoot,0,0.036287661641836
+3,3,05/09/2026,AS Roma,Atalanta,27,AS Roma,2702,True,1717,Manu Koné,974087,M,72,Marco Carnesecchi,85,Atalanta,1676,24.2,53.6,24,5,0,corner,strongFoot,0,0.026086123660207
+3,3,05/09/2026,AS Roma,Atalanta,29,AS Roma,2702,True,1717,Rodrigo Mora,1410240,M,65,Marco Carnesecchi,85,Atalanta,1676,23.4,53.8,23,6,0,assisted,strongFoot,0,0.030310451984406
+3,3,05/09/2026,AS Roma,Atalanta,32,Atalanta,2686,False,1676,Gianluca Scamacca,807301,F,79,Mile Svilar,84,AS Roma,1717,12.5,66.7,16,42,0,assisted,strongFoot,0,0.02463193051517
+3,3,05/09/2026,AS Roma,Atalanta,34,AS Roma,2702,True,1717,Paulo Dybala,256219,F,85,Marco Carnesecchi,85,Atalanta,1676,4.6,57.5,6,47,0,assisted,head,0,0.2569255232811
+3,3,05/09/2026,AS Roma,Atalanta,38,AS Roma,2702,True,1717,Rodrigo Mora,1410240,M,65,Marco Carnesecchi,85,Atalanta,1676,9.8,30.6,16,53,0,assisted,strongFoot,0,0.039760872721672
+3,3,05/09/2026,AS Roma,Atalanta,40,AS Roma,2702,True,1717,Donyell Malen,803039,F,79,Marco Carnesecchi,85,Atalanta,1676,5.8,39.3,9,51,0,assisted,strongFoot,0,0.10323268920183
+3,3,05/09/2026,AS Roma,Atalanta,41,AS Roma,2702,True,1717,Rodrigo Mora,1410240,M,65,Marco Carnesecchi,85,Atalanta,1676,9.4,49.9,9,0,0,assisted,strongFoot,0,0.092689745128155
+3,3,05/09/2026,AS Roma,Atalanta,42,AS Roma,2702,True,1717,Manu Koné,974087,M,72,Marco Carnesecchi,85,Atalanta,1676,18.4,49.9,18,0,0,assisted,strongFoot,0,0.040190320461988
+3,3,05/09/2026,AS Roma,Atalanta,43,AS Roma,2702,True,1717,Rodrigo Mora,1410240,M,65,Marco Carnesecchi,85,Atalanta,1676,7.4,48.1,7,9,0,assisted,head,0,0.12361308187246
+3,3,05/09/2026,AS Roma,Atalanta,44,AS Roma,2702,True,1717,Evan Ndicka,848287,D,51,Marco Carnesecchi,85,Atalanta,1676,9.7,49.9,9,0,0,corner,head,0,0.03952145203948
+3,3,05/09/2026,AS Roma,Atalanta,47,Atalanta,2686,False,1676,Éderson,946888,M,70,Mile Svilar,84,AS Roma,1717,12.8,39.9,14,28,0,regular,strongFoot,1,0.081939958035946
+3,3,05/09/2026,AS Roma,Atalanta,51,Atalanta,2686,False,1676,Odilon Kossounou,973437,D,31,Mile Svilar,84,AS Roma,1717,9.6,41.9,11,29,1,corner,head,0,0.048282098025084
+3,3,05/09/2026,AS Roma,Atalanta,54,AS Roma,2702,True,1717,Manu Koné,974087,M,72,Marco Carnesecchi,85,Atalanta,1676,17.6,55.8,18,12,-1,corner,strongFoot,0,0.065812945365906
+3,3,05/09/2026,AS Roma,Atalanta,56,Atalanta,2686,False,1676,Lazar Samardžić,980624,M,71,Mile Svilar,84,AS Roma,1717,8.9,50.9,8,3,1,fast-break,weakFoot,0,0.17425714433193
+3,3,05/09/2026,AS Roma,Atalanta,59,Atalanta,2686,False,1676,Nikola Krstović,839156,F,76,Mile Svilar,84,AS Roma,1717,14.5,41.9,15,20,1,fast-break,strongFoot,0,0.31958168745041
+3,3,05/09/2026,AS Roma,Atalanta,60,Atalanta,2686,False,1676,Charles De Ketelaere,960441,F,78,Mile Svilar,84,AS Roma,1717,16.2,62.3,18,27,1,assisted,strongFoot,0,0.053007461130619
+3,3,05/09/2026,AS Roma,Atalanta,62,AS Roma,2702,True,1717,Bryan Cristante,186855,M,73,Marco Carnesecchi,85,Atalanta,1676,16.6,66.4,19,33,-1,assisted,strongFoot,0,0.04327254742384
+3,3,05/09/2026,AS Roma,Atalanta,62,AS Roma,2702,True,1717,Matías Soulé,1082406,F,75,Marco Carnesecchi,85,Atalanta,1676,18.8,45.6,19,9,-1,regular,strongFoot,0,0.053452055901289
+3,3,05/09/2026,AS Roma,Atalanta,64,AS Roma,2702,True,1717,Santiago Castro,1116577,F,76,Marco Carnesecchi,85,Atalanta,1676,9.4,29.5,16,56,-1,assisted,strongFoot,0,0.060255080461502
+3,3,05/09/2026,AS Roma,Atalanta,68,AS Roma,2702,True,1717,Mario Hermoso,353130,D,47,Marco Carnesecchi,85,Atalanta,1676,13.8,36.0,16,34,-1,regular,strongFoot,0,0.046553444117308
+3,3,05/09/2026,AS Roma,Atalanta,71,AS Roma,2702,True,1717,Santiago Castro,1116577,F,76,Marco Carnesecchi,85,Atalanta,1676,10.4,42.1,11,27,-1,assisted,strongFoot,0,0.19521246850491
+3,3,05/09/2026,AS Roma,Atalanta,71,AS Roma,2702,True,1717,Matías Soulé,1082406,F,75,Marco Carnesecchi,85,Atalanta,1676,14.1,57.9,15,20,-1,assisted,weakFoot,0,0.054564520716667
+3,3,05/09/2026,AS Roma,Atalanta,71,AS Roma,2702,True,1717,Matías Soulé,1082406,F,75,Marco Carnesecchi,85,Atalanta,1676,8.6,50.7,8,3,-1,assisted,head,0,0.078556895256042
+3,3,05/09/2026,AS Roma,Atalanta,72,AS Roma,2702,True,1717,Paulo Dybala,256219,F,85,Marco Carnesecchi,85,Atalanta,1676,12.0,71.4,18,50,-1,assisted,strongFoot,0,0.034718498587608
+3,3,05/09/2026,AS Roma,Atalanta,75,AS Roma,2702,True,1717,Bryan Cristante,186855,M,73,Marco Carnesecchi,85,Atalanta,1676,9.9,51.3,9,5,-1,assisted,head,0,0.069215893745422
+3,3,05/09/2026,AS Roma,Atalanta,78,AS Roma,2702,True,1717,Matías Soulé,1082406,F,75,Marco Carnesecchi,85,Atalanta,1676,19.0,35.4,21,27,-1,assisted,weakFoot,0,0.026473484933376
+3,3,05/09/2026,AS Roma,Atalanta,81,AS Roma,2702,True,1717,Bryan Cristante,186855,M,73,Marco Carnesecchi,85,Atalanta,1676,8.4,54.6,8,20,-1,corner,head,0,0.063111439347267
+3,3,05/09/2026,AS Roma,Atalanta,87,AS Roma,2702,True,1717,Paulo Dybala,256219,F,85,Marco Carnesecchi,85,Atalanta,1676,12.2,54.6,12,14,-1,assisted,weakFoot,0,0.15808206796646
+3,3,05/09/2026,AS Roma,Atalanta,87,AS Roma,2702,True,1717,Matías Soulé,1082406,F,75,Marco Carnesecchi,85,Atalanta,1676,26.3,56.4,26,9,-1,assisted,strongFoot,0,0.035192884504795
+3,3,05/09/2026,AS Roma,Atalanta,88,AS Roma,2702,True,1717,Santiago Castro,1116577,F,76,Marco Carnesecchi,85,Atalanta,1676,8.5,50.2,8,0,-1,assisted,head,0,0.16023226082325
+3,3,05/09/2026,AS Roma,Atalanta,89,AS Roma,2702,True,1717,Paulo Dybala,256219,F,85,Marco Carnesecchi,85,Atalanta,1676,14.2,54.3,14,11,-1,assisted,strongFoot,0,0.11507628113031
+3,3,05/09/2026,AS Roma,Atalanta,89,AS Roma,2702,True,1717,Mario Hermoso,353130,D,47,Marco Carnesecchi,85,Atalanta,1676,9.7,45.2,10,18,-1,corner,head,1,0.046459995210171
+3,3,05/09/2026,AS Roma,Atalanta,90,AS Roma,2702,True,1717,Paulo Dybala,256219,F,85,Marco Carnesecchi,85,Atalanta,1676,8.9,36.8,12,45,0,assisted,head,0,0.039452474564314
+3,3,05/09/2026,AS Roma,Atalanta,90,AS Roma,2702,True,1717,Matías Soulé,1082406,F,75,Marco Carnesecchi,85,Atalanta,1676,3.8,57.9,6,54,0,assisted,strongFoot,0,0.17763990163803
+3,3,05/09/2026,AS Roma,Atalanta,90,AS Roma,2702,True,1717,Santiago Castro,1116577,F,76,Marco Carnesecchi,85,Atalanta,1676,17.8,38.5,19,23,0,fast-break,strongFoot,0,0.066841959953308
+3,3,05/09/2026,AS Roma,Atalanta,90,AS Roma,2702,True,1717,Matías Soulé,1082406,F,75,Marco Carnesecchi,85,Atalanta,1676,7.3,69.8,15,61,0,assisted,strongFoot,1,0.024346442893147
+3,4,06/09/2026,Frosinone,Venezia,2,Frosinone,2801,True,1409,Giacomo Calò,839487,M,54,Filip Stanković,74,Venezia,1409,9.5,68.7,15,53,0,throw-in-set-piece,strongFoot,0,0.061846222728491
+3,4,06/09/2026,Frosinone,Venezia,13,Venezia,2688,False,1409,Albion Rrahmani,1124624,F,76,Lorenzo Palmisani,68,Frosinone,1409,22.9,27.8,27,33,0,assisted,strongFoot,0,0.016064209863544
+3,4,06/09/2026,Frosinone,Venezia,14,Venezia,2688,False,1409,Redouane Halhal,1143667,D,29,Lorenzo Palmisani,68,Frosinone,1409,7.3,49.1,7,4,0,corner,head,0,0.10479341447353
+3,4,06/09/2026,Frosinone,Venezia,21,Frosinone,2801,True,1409,Antonio Raimondo,1121578,F,68,Filip Stanković,74,Venezia,1409,8.6,44.7,9,22,0,assisted,head,1,0.11802873015404
+3,4,06/09/2026,Frosinone,Venezia,26,Frosinone,2801,True,1409,Antonio Raimondo,1121578,F,68,Filip Stanković,74,Venezia,1409,19.1,60.3,20,20,1,fast-break,strongFoot,0,0.081260539591312
+3,4,06/09/2026,Frosinone,Venezia,31,Venezia,2688,False,1409,Akor Adams,946381,F,76,Lorenzo Palmisani,68,Frosinone,1409,7.0,55.8,8,29,-1,fast-break,weakFoot,0,0.17343313992023
+3,4,06/09/2026,Frosinone,Venezia,32,Frosinone,2801,True,1409,Antonio Raimondo,1121578,F,68,Filip Stanković,74,Venezia,1409,10.7,40.3,12,31,1,assisted,strongFoot,0,0.065167896449566
+3,4,06/09/2026,Frosinone,Venezia,36,Venezia,2688,False,1409,Gianluca Busio,896180,M,66,Lorenzo Palmisani,68,Frosinone,1409,27.4,60.1,28,14,-1,assisted,strongFoot,0,0.032380063086748
+3,4,06/09/2026,Frosinone,Venezia,39,Frosinone,2801,True,1409,Antonio Raimondo,1121578,F,68,Filip Stanković,74,Venezia,1409,3.1,52.8,3,31,1,throw-in-set-piece,weakFoot,1,0.92970550060272
+3,4,06/09/2026,Frosinone,Venezia,45,Venezia,2688,False,1409,Gianluca Busio,896180,M,66,Lorenzo Palmisani,68,Frosinone,1409,26.3,45.1,26,7,-2,free-kick,strongFoot,0,0.053544759750366
+3,4,06/09/2026,Frosinone,Venezia,45,Venezia,2688,False,1409,Richie Sagrado,1198069,M,51,Lorenzo Palmisani,68,Frosinone,1409,14.7,51.1,14,2,-2,set-piece,strongFoot,0,0.1091922968626
+3,4,06/09/2026,Frosinone,Venezia,46,Venezia,2688,False,1409,John Yeboah,879802,F,67,Lorenzo Palmisani,68,Frosinone,1409,20.4,75.3,26,40,-2,assisted,strongFoot,0,0.012039194814861
+3,4,06/09/2026,Frosinone,Venezia,50,Venezia,2688,False,1409,John Yeboah,879802,F,67,Lorenzo Palmisani,68,Frosinone,1409,11.0,53.0,11,10,-2,assisted,strongFoot,0,0.2198351174593
+3,4,06/09/2026,Frosinone,Venezia,54,Venezia,2688,False,1409,John Yeboah,879802,F,67,Lorenzo Palmisani,68,Frosinone,1409,23.5,46.4,23,5,-2,assisted,strongFoot,0,0.036092475056648
+3,4,06/09/2026,Frosinone,Venezia,55,Venezia,2688,False,1409,John Yeboah,879802,F,67,Lorenzo Palmisani,68,Frosinone,1409,26.5,50.7,26,1,-2,assisted,strongFoot,0,0.02334694750607
+3,4,06/09/2026,Frosinone,Venezia,59,Venezia,2688,False,1409,Akor Adams,946381,F,76,Lorenzo Palmisani,68,Frosinone,1409,12.2,51.3,12,4,-2,regular,head,0,0.1211865991354
+3,4,06/09/2026,Frosinone,Venezia,66,Frosinone,2801,True,1409,Farès Ghedjemis,1445228,F,68,Filip Stanković,74,Venezia,1409,8.2,73.9,18,63,2,assisted,strongFoot,0,0.024558993056417
+3,4,06/09/2026,Frosinone,Venezia,66,Venezia,2688,False,1409,John Yeboah,879802,F,67,Lorenzo Palmisani,68,Frosinone,1409,13.2,63.6,16,35,-2,fast-break,strongFoot,1,0.10133815556765
+3,4,06/09/2026,Frosinone,Venezia,73,Frosinone,2801,True,1409,Farès Ghedjemis,1445228,F,68,Filip Stanković,74,Venezia,1409,7.9,69.9,15,59,1,assisted,strongFoot,0,0.022496828809381
+3,4,06/09/2026,Frosinone,Venezia,74,Venezia,2688,False,1409,Richie Sagrado,1198069,M,51,Lorenzo Palmisani,68,Frosinone,1409,2.6,49.4,2,8,-1,assisted,weakFoot,1,0.94964182376862
+3,4,06/09/2026,Frosinone,Venezia,78,Frosinone,2801,True,1409,Anthony Oyono,1106257,D,36,Filip Stanković,74,Venezia,1409,29.1,39.9,29,13,0,assisted,strongFoot,0,0.033113349229097
+3,4,06/09/2026,Frosinone,Venezia,80,Venezia,2688,False,1409,Antoine Hainaut,1394202,M,55,Lorenzo Palmisani,68,Frosinone,1409,21.0,54.8,21,8,0,assisted,strongFoot,0,0.10374272614717
+3,4,06/09/2026,Frosinone,Venezia,81,Frosinone,2801,True,1409,Giorgi Kvernadze,1140001,F,62,Filip Stanković,74,Venezia,1409,18.2,26.2,24,41,0,regular,strongFoot,0,0.020554069429636
+3,4,06/09/2026,Frosinone,Venezia,82,Frosinone,2801,True,1409,Gabriele Calvani,1425050,D,33,Filip Stanković,74,Venezia,1409,9.7,44.9,10,19,0,corner,head,0,0.037770867347717
+3,4,06/09/2026,Frosinone,Venezia,83,Frosinone,2801,True,1409,Giorgi Kvernadze,1140001,F,62,Filip Stanković,74,Venezia,1409,9.4,39.3,11,37,0,regular,strongFoot,1,0.38863733410835
+3,4,06/09/2026,Frosinone,Venezia,90,Frosinone,2801,True,1409,Giorgi Kvernadze,1140001,F,62,Filip Stanković,74,Venezia,1409,9.9,33.1,15,49,1,assisted,strongFoot,0,0.074953012168407
+3,4,06/09/2026,Frosinone,Venezia,90,Frosinone,2801,True,1409,Matteo Cichella,1493209,M,54,Filip Stanković,74,Venezia,1409,20.4,61.8,21,21,1,regular,strongFoot,0,0.040463391691446
+3,4,06/09/2026,Frosinone,Venezia,90,Venezia,2688,False,1409,Matias Moreno,1496360,D,31,Lorenzo Palmisani,68,Frosinone,1409,6.9,49.3,6,3,-1,corner,head,0,0.11210139840841
+3,5,06/09/2026,Parma,Monza,3,Parma,2690,True,1411,Diego Carlos,604232,D,47,Demba Thiam,72,Monza,1409,14.7,55.0,15,13,0,set-piece,weakFoot,0,0.037742074579
+3,5,06/09/2026,Parma,Monza,11,Monza,2729,False,1409,Dany Mota,838907,F,73,Edoardo Corvi,68,Parma,1411,6.2,50.7,6,4,0,assisted,head,0,0.431057035923
+3,5,06/09/2026,Parma,Monza,14,Monza,2729,False,1409,Dany Mota,838907,F,73,Edoardo Corvi,68,Parma,1411,9.8,69.3,16,53,0,assisted,strongFoot,0,0.046590391546488
+3,5,06/09/2026,Parma,Monza,18,Parma,2690,True,1411,El Bilal Touré,982615,M,71,Demba Thiam,72,Monza,1409,3.3,53.2,3,33,0,corner,head,0,0.23021975159645
+3,5,06/09/2026,Parma,Monza,21,Monza,2729,False,1409,Andrea Carboni,970978,D,36,Edoardo Corvi,68,Parma,1411,4.8,38.8,9,57,0,assisted,head,0,0.060455814003944
+3,5,06/09/2026,Parma,Monza,22,Monza,2729,False,1409,Dany Mota,838907,F,73,Edoardo Corvi,68,Parma,1411,7.4,42.4,9,34,0,assisted,strongFoot,0,0.38588681817055
+3,5,06/09/2026,Parma,Monza,33,Monza,2729,False,1409,Lorenzo Lucchesi,972567,D,32,Edoardo Corvi,68,Parma,1411,12.1,50.2,12,0,0,corner,head,0,0.017215115949512
+3,5,06/09/2026,Parma,Monza,35,Parma,2690,True,1411,Giovanni Fabbian,1067204,M,69,Demba Thiam,72,Monza,1409,10.8,57.6,11,25,0,set-piece,strongFoot,0,0.11049441993237
+3,5,06/09/2026,Parma,Monza,36,Monza,2729,False,1409,Omari Forson,1153434,F,59,Edoardo Corvi,68,Parma,1411,13.3,66.2,17,39,0,assisted,strongFoot,0,0.056868962943554
+3,5,06/09/2026,Parma,Monza,38,Monza,2729,False,1409,Jay Robinson,1440673,F,65,Edoardo Corvi,68,Parma,1411,20.8,36.0,22,24,0,assisted,strongFoot,1,0.031159337610006
+3,5,06/09/2026,Parma,Monza,45,Monza,2729,False,1409,Michael Folorunsho,869795,M,75,Edoardo Corvi,68,Parma,1411,29.3,49.5,29,0,1,set-piece,strongFoot,0,0.012749533168972
+3,5,06/09/2026,Parma,Monza,45,Monza,2729,False,1409,Omari Forson,1153434,F,59,Edoardo Corvi,68,Parma,1411,7.4,67.8,14,58,1,fast-break,weakFoot,0,0.042201530188322
+3,5,06/09/2026,Parma,Monza,53,Parma,2690,True,1411,Enrico Delprato,928103,D,53,Demba Thiam,72,Monza,1409,7.6,36.4,11,50,-1,assisted,strongFoot,0,0.042799312621355
+3,5,06/09/2026,Parma,Monza,58,Monza,2729,False,1409,Andrea Colpani,928122,F,74,Edoardo Corvi,68,Parma,1411,15.4,39.1,17,25,1,assisted,strongFoot,0,0.066808015108109
+3,5,06/09/2026,Parma,Monza,60,Parma,2690,True,1411,Simone Lontani,1912962,F,60,Demba Thiam,72,Monza,1409,5.5,38.5,9,54,-1,assisted,strongFoot,0,0.093882136046886
+3,5,06/09/2026,Parma,Monza,60,Parma,2690,True,1411,Simone Lontani,1912962,F,60,Demba Thiam,72,Monza,1409,10.6,38.3,13,36,-1,regular,strongFoot,1,0.12669080495834
+3,5,06/09/2026,Parma,Monza,63,Monza,2729,False,1409,Eddy Kouadio,1526933,D,30,Edoardo Corvi,68,Parma,1411,6.7,51.6,6,9,0,set-piece,head,0,0.16194193065166
+3,5,06/09/2026,Parma,Monza,63,Monza,2729,False,1409,Samuele Birindelli,856729,M,54,Edoardo Corvi,68,Parma,1411,25.3,38.8,26,16,0,set-piece,strongFoot,0,0.017510689795017
+3,5,06/09/2026,Parma,Monza,66,Parma,2690,True,1411,El Bilal Touré,982615,M,71,Demba Thiam,72,Monza,1409,11.0,63.2,14,39,0,assisted,strongFoot,0,0.088852867484093
+3,5,06/09/2026,Parma,Monza,76,Monza,2729,False,1409,Michael Folorunsho,869795,M,75,Edoardo Corvi,68,Parma,1411,8.6,50.7,8,3,0,assisted,head,0,0.24013932049274
+3,5,06/09/2026,Parma,Monza,84,Monza,2729,False,1409,Lorenzo Lucchesi,972567,D,32,Edoardo Corvi,68,Parma,1411,7.3,46.0,7,20,0,corner,head,0,0.090800754725933
+3,5,06/09/2026,Parma,Monza,87,Monza,2729,False,1409,Yvan Maye,1479355,D,60,Edoardo Corvi,68,Parma,1411,10.2,53.4,10,12,0,corner,head,0,0.029562454670668
+3,5,06/09/2026,Parma,Monza,90,Monza,2729,False,1409,Michael Folorunsho,869795,M,75,Edoardo Corvi,68,Parma,1411,12.9,68.1,17,43,0,assisted,strongFoot,0,0.028426054865122
+3,6,06/09/2026,Bologna,Sassuolo,4,Sassuolo,2793,False,1436,Nemanja Matić,44241,M,66,Łukasz Skorupski,78,Bologna,1631,29.9,60.1,30,12,0,assisted,strongFoot,0,0.017639718949795
+3,6,06/09/2026,Bologna,Sassuolo,6,Bologna,2685,True,1631,Roberto Piccoli,958982,F,74,Arijanet Murić,74,Sassuolo,1436,14.7,46.6,14,8,0,corner,weakFoot,0,0.063150145113468
+3,6,06/09/2026,Bologna,Sassuolo,9,Bologna,2685,True,1631,Abdel Rahim,1120504,D,60,Arijanet Murić,74,Sassuolo,1436,14.9,37.3,17,30,0,regular,weakFoot,0,0.090020202100277
+3,6,06/09/2026,Bologna,Sassuolo,9,Bologna,2685,True,1631,Jens Odgaard,826064,M,77,Arijanet Murić,74,Sassuolo,1436,11.7,46.2,11,12,0,assisted,strongFoot,0,0.097642458975315
+3,6,06/09/2026,Bologna,Sassuolo,10,Sassuolo,2793,False,1436,Armand Laurienté,932643,F,75,Łukasz Skorupski,78,Bologna,1631,11.7,38.7,13,33,0,assisted,weakFoot,0,0.10527192056179
+3,6,06/09/2026,Bologna,Sassuolo,13,Bologna,2685,True,1631,Nicolò Cambiaghi,971005,F,74,Arijanet Murić,74,Sassuolo,1436,19.8,39.1,21,20,0,assisted,weakFoot,0,0.085049770772457
+3,6,06/09/2026,Bologna,Sassuolo,13,Bologna,2685,True,1631,Nicolò Cambiaghi,971005,F,74,Arijanet Murić,74,Sassuolo,1436,18.7,54.6,18,9,0,assisted,strongFoot,0,0.073078982532024
+3,6,06/09/2026,Bologna,Sassuolo,16,Sassuolo,2793,False,1436,Vasilije Adžić,1149288,M,65,Łukasz Skorupski,78,Bologna,1631,20.9,57.5,21,13,0,throw-in-set-piece,strongFoot,0,0.068476758897305
+3,6,06/09/2026,Bologna,Sassuolo,18,Bologna,2685,True,1631,Tommaso Pobega,928796,M,75,Arijanet Murić,74,Sassuolo,1436,18.9,64.0,21,26,0,regular,strongFoot,0,0.040144730359316
+3,6,06/09/2026,Bologna,Sassuolo,19,Sassuolo,2793,False,1436,Josh Doig,989276,D,61,Łukasz Skorupski,78,Bologna,1631,13.6,38.9,15,29,0,fast-break,strongFoot,1,0.12130017578602
+3,6,06/09/2026,Bologna,Sassuolo,25,Bologna,2685,True,1631,Nicolò Cambiaghi,971005,F,74,Arijanet Murić,74,Sassuolo,1436,22.2,32.7,25,27,-1,regular,strongFoot,0,0.021173294633627
+3,6,06/09/2026,Bologna,Sassuolo,26,Bologna,2685,True,1631,Federico Bernardeschi,294597,F,73,Arijanet Murić,74,Sassuolo,1436,11.4,23.5,21,57,-1,corner,strongFoot,0,0.036971282213926
+3,6,06/09/2026,Bologna,Sassuolo,26,Bologna,2685,True,1631,Arthur Theate,965778,D,40,Arijanet Murić,74,Sassuolo,1436,24.5,48.4,24,2,-1,corner,strongFoot,0,0.024263456463814
+3,6,06/09/2026,Bologna,Sassuolo,33,Bologna,2685,True,1631,Federico Bernardeschi,294597,F,73,Arijanet Murić,74,Sassuolo,1436,28.4,53.2,28,4,-1,regular,strongFoot,0,0.0124282380566
+3,6,06/09/2026,Bologna,Sassuolo,36,Sassuolo,2793,False,1436,Armand Laurienté,932643,F,75,Łukasz Skorupski,78,Bologna,1631,27.4,29.1,30,27,1,assisted,strongFoot,0,0.017263378947973
+3,6,06/09/2026,Bologna,Sassuolo,38,Sassuolo,2793,False,1436,Kieron Bowie,983601,F,65,Łukasz Skorupski,78,Bologna,1631,10.4,49.3,10,2,1,corner,weakFoot,0,0.050978235900402
+3,6,06/09/2026,Bologna,Sassuolo,42,Sassuolo,2793,False,1436,Domenico Berardi,253367,F,79,Łukasz Skorupski,78,Bologna,1631,14.0,85.4,27,59,1,free-kick,strongFoot,0,0.039459567517042
+3,6,06/09/2026,Bologna,Sassuolo,45,Bologna,2685,True,1631,Abdel Rahim,1120504,D,60,Arijanet Murić,74,Sassuolo,1436,8.7,48.9,8,4,-1,assisted,head,0,0.16224697232246
+3,6,06/09/2026,Bologna,Sassuolo,45,Sassuolo,2793,False,1436,Kieron Bowie,983601,F,65,Łukasz Skorupski,78,Bologna,1631,21.8,63.2,23,22,1,assisted,strongFoot,0,0.020197492092848
+3,6,06/09/2026,Bologna,Sassuolo,50,Bologna,2685,True,1631,Roberto Piccoli,958982,F,74,Arijanet Murić,74,Sassuolo,1436,6.9,44.2,7,29,-1,corner,head,1,0.14583413302898
+3,6,06/09/2026,Bologna,Sassuolo,56,Sassuolo,2793,False,1436,Vasilije Adžić,1149288,M,65,Łukasz Skorupski,78,Bologna,1631,14.5,59.9,15,24,0,assisted,strongFoot,0,0.046239741146564
+3,6,06/09/2026,Bologna,Sassuolo,56,Sassuolo,2793,False,1436,Vasilije Adžić,1149288,M,65,Łukasz Skorupski,78,Bologna,1631,11.5,55.3,12,17,0,regular,strongFoot,1,0.52505248785019
+3,6,06/09/2026,Bologna,Sassuolo,57,Bologna,2685,True,1631,Emil Holm,965264,D,60,Arijanet Murić,74,Sassuolo,1436,14.5,57.3,15,18,-1,assisted,weakFoot,0,0.051291178911924
+3,6,06/09/2026,Bologna,Sassuolo,58,Sassuolo,2793,False,1436,Armand Laurienté,932643,F,75,Łukasz Skorupski,78,Bologna,1631,13.8,41.8,14,22,1,fast-break,strongFoot,0,0.11688463389874
+3,6,06/09/2026,Bologna,Sassuolo,59,Sassuolo,2793,False,1436,Domenico Berardi,253367,F,79,Łukasz Skorupski,78,Bologna,1631,22.3,68.3,25,29,1,corner,strongFoot,0,0.017547857016325
+3,6,06/09/2026,Bologna,Sassuolo,62,Bologna,2685,True,1631,Lewis Ferguson,907152,M,77,Arijanet Murić,74,Sassuolo,1436,23.1,34.0,25,25,-1,regular,strongFoot,0,0.031632766127586
+3,6,06/09/2026,Bologna,Sassuolo,64,Sassuolo,2793,False,1436,Domenico Berardi,253367,F,79,Łukasz Skorupski,78,Bologna,1631,10.2,60.5,12,34,1,set-piece,strongFoot,0,0.063361816108227
+3,6,06/09/2026,Bologna,Sassuolo,64,Sassuolo,2793,False,1436,Simone Cinquegrano,1461516,D,60,Łukasz Skorupski,78,Bologna,1631,13.2,54.8,13,13,1,set-piece,strongFoot,0,0.085709914565086
+3,6,06/09/2026,Bologna,Sassuolo,67,Bologna,2685,True,1631,Arthur Theate,965778,D,40,Arijanet Murić,74,Sassuolo,1436,9.2,41.9,10,30,-1,corner,weakFoot,0,0.04423300921917
+3,6,06/09/2026,Bologna,Sassuolo,67,Bologna,2685,True,1631,Torbjørn Heggem,933264,D,45,Arijanet Murić,74,Sassuolo,1436,8.8,45.6,9,18,-1,corner,strongFoot,0,0.076752468943596
+3,6,06/09/2026,Bologna,Sassuolo,74,Bologna,2685,True,1631,Artem Dovbyk,798820,F,81,Arijanet Murić,74,Sassuolo,1436,9.3,53.2,9,13,-1,assisted,strongFoot,0,0.31977781653404
+3,6,06/09/2026,Bologna,Sassuolo,78,Sassuolo,2793,False,1436,Kristian Thorstvedt,924973,M,71,Łukasz Skorupski,78,Bologna,1631,6.3,39.3,9,49,1,assisted,weakFoot,0,0.32859376072884
+3,6,06/09/2026,Bologna,Sassuolo,84,Bologna,2685,True,1631,Federico Bernardeschi,294597,F,73,Arijanet Murić,74,Sassuolo,1436,13.8,52.1,13,5,-1,assisted,strongFoot,0,0.085829623043537
+3,6,06/09/2026,Bologna,Sassuolo,85,Bologna,2685,True,1631,Roberto Piccoli,958982,F,74,Arijanet Murić,74,Sassuolo,1436,8.2,54.4,8,20,-1,assisted,strongFoot,0,0.12946304678917
+3,6,06/09/2026,Bologna,Sassuolo,90,Bologna,2685,True,1631,Marco Libra,1986578,M,60,Arijanet Murić,74,Sassuolo,1436,13.2,39.7,14,27,-1,regular,strongFoot,0,0.081450194120407
+3,6,06/09/2026,Bologna,Sassuolo,90,Bologna,2685,True,1631,Artem Dovbyk,798820,F,81,Arijanet Murić,74,Sassuolo,1436,7.2,48.4,7,8,-1,regular,strongFoot,1,0.22177869081497
+3,7,06/09/2026,Juventus,AC Milan,2,Juventus,2687,True,1740,Kerim Alajbegović,1425366,M,70,Mike Maignan,87,AC Milan,1688,24.0,59.9,24,15,0,regular,strongFoot,0,0.019866209477186
+3,7,06/09/2026,Juventus,AC Milan,4,AC Milan,2692,False,1688,Pervis Estupiñán,805465,M,55,Guglielmo Vicario,81,Juventus,1740,19.5,24.4,26,41,0,regular,strongFoot,0,0.0092497644945979
+3,7,06/09/2026,Juventus,AC Milan,12,Juventus,2687,True,1740,Nicolás González,901325,M,74,Mike Maignan,87,AC Milan,1688,22.4,58.5,23,14,0,assisted,strongFoot,0,0.058283481746912
+3,7,06/09/2026,Juventus,AC Milan,13,AC Milan,2692,False,1688,Adrien Rabiot,250737,M,78,Guglielmo Vicario,81,Juventus,1740,22.2,43.3,22,11,0,assisted,strongFoot,0,0.047473900020123
+3,7,06/09/2026,Juventus,AC Milan,15,Juventus,2687,True,1740,Douglas Luiz,867887,M,75,Mike Maignan,87,AC Milan,1688,27.7,33.8,29,21,0,assisted,strongFoot,0,0.019451340660453
+3,7,06/09/2026,Juventus,AC Milan,25,Juventus,2687,True,1740,Francisco Conceição,979222,F,72,Mike Maignan,87,AC Milan,1688,8.5,64.6,13,49,0,assisted,strongFoot,0,0.13013970851898
+3,7,06/09/2026,Juventus,AC Milan,25,Juventus,2687,True,1740,Manuel Locatelli,363860,M,69,Mike Maignan,87,AC Milan,1688,5.1,43.8,6,39,0,regular,weakFoot,0,0.52316129207611
+3,7,06/09/2026,Juventus,AC Milan,38,Juventus,2687,True,1740,Francisco Conceição,979222,F,72,Mike Maignan,87,AC Milan,1688,11.1,66.2,15,44,0,assisted,strongFoot,0,0.13772870600224
+3,7,06/09/2026,Juventus,AC Milan,45,Juventus,2687,True,1740,Kerim Alajbegović,1425366,M,70,Mike Maignan,87,AC Milan,1688,21.6,64.8,23,24,0,corner,strongFoot,0,0.008724863640964
+3,7,06/09/2026,Juventus,AC Milan,55,Juventus,2687,True,1740,Francisco Conceição,979222,F,72,Mike Maignan,87,AC Milan,1688,22.7,58.7,23,14,0,fast-break,strongFoot,0,0.051683232188225
+3,7,06/09/2026,Juventus,AC Milan,68,AC Milan,2692,False,1688,Alphadjo Cissè,1169409,F,59,Guglielmo Vicario,81,Juventus,1740,10.6,30.6,16,51,0,fast-break,strongFoot,1,0.04927796497941
+3,7,06/09/2026,Juventus,AC Milan,84,Juventus,2687,True,1740,Teun Koopmeiners,803033,M,78,Mike Maignan,87,AC Milan,1688,25.0,64.4,26,21,-1,free-kick,strongFoot,0,0.046682208776474
+3,7,06/09/2026,Juventus,AC Milan,85,Juventus,2687,True,1740,Nick Woltemade,980623,F,78,Mike Maignan,87,AC Milan,1688,12.0,54.2,12,13,-1,set-piece,weakFoot,0,0.11735233664513
+3,7,06/09/2026,Juventus,AC Milan,90,Juventus,2687,True,1740,Randal Kolo Muani,871706,F,77,Mike Maignan,87,AC Milan,1688,4.8,45.8,5,30,-1,assisted,head,0,0.21193638443947
+3,7,06/09/2026,Juventus,AC Milan,90,Juventus,2687,True,1740,Manuel Locatelli,363860,M,69,Mike Maignan,87,AC Milan,1688,19.8,50.1,19,0,-1,corner,strongFoot,0,0.04076175019145
+3,7,06/09/2026,Juventus,AC Milan,90,Juventus,2687,True,1740,Jérémie Boga,367056,F,70,Mike Maignan,87,AC Milan,1688,19.8,28.4,24,36,-1,assisted,strongFoot,0,0.030109193176031
+3,7,06/09/2026,Juventus,AC Milan,90,Juventus,2687,True,1740,Federico Gatti,1128063,D,41,Mike Maignan,87,AC Milan,1688,6.6,50.9,6,5,-1,set-piece,head,1,0.26596793532372
+3,8,07/09/2026,Cagliari,Lecce,1,Cagliari,2719,True,1409,Alessandro Romano,1417034,M,61,Wladimiro Falcone,82,Lecce,1377,28.2,41.3,28,11,0,assisted,strongFoot,0,0.018257999792695
+3,8,07/09/2026,Cagliari,Lecce,14,Cagliari,2719,True,1409,Daniel Maldini,970928,F,70,Wladimiro Falcone,82,Lecce,1377,5.8,32.5,13,64,0,assisted,strongFoot,0,0.041405249387026
+3,8,07/09/2026,Cagliari,Lecce,18,Lecce,2689,False,1377,Joël Monteiro,1065154,M,69,Elia Caprile,78,Cagliari,1409,27.8,63.0,29,17,0,assisted,strongFoot,0,0.020515240728855
+3,8,07/09/2026,Cagliari,Lecce,23,Lecce,2689,False,1377,Lassana Coulibaly,804621,M,57,Elia Caprile,78,Cagliari,1409,8.0,55.4,8,24,0,assisted,strongFoot,0,0.10511433333158
+3,8,07/09/2026,Cagliari,Lecce,23,Lecce,2689,False,1377,Oumar Ngom,1175854,M,48,Elia Caprile,78,Cagliari,1409,20.1,47.4,20,5,0,corner,strongFoot,0,0.031082106754184
+3,8,07/09/2026,Cagliari,Lecce,29,Cagliari,2719,True,1409,Jacopo Fazzini,1012179,M,66,Wladimiro Falcone,82,Lecce,1377,8.9,36.2,12,46,0,fast-break,head,0,0.029347743839025
+3,8,07/09/2026,Cagliari,Lecce,29,Cagliari,2719,True,1409,Daniel Maldini,970928,F,70,Wladimiro Falcone,82,Lecce,1377,4.5,48.1,4,16,0,corner,head,1,0.49920910596848
+3,8,07/09/2026,Cagliari,Lecce,35,Cagliari,2719,True,1409,Daniel Maldini,970928,F,70,Wladimiro Falcone,82,Lecce,1377,13.2,43.4,13,18,0,regular,weakFoot,0,0.078712664544582
+3,8,07/09/2026,Cagliari,Lecce,39,Cagliari,2719,True,1409,Adam Obert,964153,D,54,Wladimiro Falcone,82,Lecce,1377,24.8,39.9,25,15,0,regular,strongFoot,0,0.037591010332108
+3,8,07/09/2026,Cagliari,Lecce,42,Lecce,2689,False,1377,Nikola Štulić,1029748,F,72,Elia Caprile,78,Cagliari,1409,11.3,29.5,17,50,0,fast-break,weakFoot,0,0.031364794820547
+3,8,07/09/2026,Cagliari,Lecce,43,Lecce,2689,False,1377,Oumar Ngom,1175854,M,48,Elia Caprile,78,Cagliari,1409,28.1,59.1,28,12,0,corner,strongFoot,0,0.0067626335658133
+3,8,07/09/2026,Cagliari,Lecce,45,Cagliari,2719,True,1409,Michel Adopo,928777,M,59,Wladimiro Falcone,82,Lecce,1377,18.5,53.0,18,6,0,set-piece,head,0,0.0095283752307296
+3,8,07/09/2026,Cagliari,Lecce,45,Lecce,2689,False,1377,Nikola Štulić,1029748,F,72,Elia Caprile,78,Cagliari,1409,19.5,45.6,19,8,0,assisted,weakFoot,0,0.037721775472164
+3,8,07/09/2026,Cagliari,Lecce,46,Cagliari,2719,True,1409,Paul Mendy,2049928,F,64,Wladimiro Falcone,82,Lecce,1377,13.0,42.9,13,20,0,assisted,weakFoot,0,0.19628818333149
+3,8,07/09/2026,Cagliari,Lecce,47,Cagliari,2719,True,1409,Alessandro Romano,1417034,M,61,Wladimiro Falcone,82,Lecce,1377,15.0,32.9,18,37,0,corner,strongFoot,0,0.010167992673814
+3,8,07/09/2026,Cagliari,Lecce,55,Cagliari,2719,True,1409,Jacopo Fazzini,1012179,M,66,Wladimiro Falcone,82,Lecce,1377,7.0,29.1,15,63,0,regular,strongFoot,0,0.065562233328819
+3,8,07/09/2026,Cagliari,Lecce,58,Lecce,2689,False,1377,Ivan Ilić,877371,M,71,Elia Caprile,78,Cagliari,1409,22.2,65.0,24,24,0,free-kick,strongFoot,0,0.053855840116739
+3,8,07/09/2026,Cagliari,Lecce,59,Cagliari,2719,True,1409,Daniel Maldini,970928,F,70,Wladimiro Falcone,82,Lecce,1377,19.4,50.3,19,0,0,assisted,strongFoot,0,0.0786357447505
+3,8,07/09/2026,Cagliari,Lecce,63,Cagliari,2719,True,1409,Daniel Maldini,970928,F,70,Wladimiro Falcone,82,Lecce,1377,20.4,30.7,24,32,0,free-kick,strongFoot,0,0.050316151231527
+3,8,07/09/2026,Cagliari,Lecce,64,Cagliari,2719,True,1409,Mattia Felici,975811,F,66,Wladimiro Falcone,82,Lecce,1377,18.9,66.4,21,30,0,regular,strongFoot,0,0.088717631995678
+3,8,07/09/2026,Cagliari,Lecce,70,Cagliari,2719,True,1409,Paul Mendy,2049928,F,64,Wladimiro Falcone,82,Lecce,1377,28.4,51.9,28,2,0,assisted,weakFoot,0,0.025111818686128
+3,8,07/09/2026,Cagliari,Lecce,75,Cagliari,2719,True,1409,Alieu Fadera,1031548,F,63,Wladimiro Falcone,82,Lecce,1377,16.3,32.1,20,36,0,fast-break,strongFoot,0,0.023624332621694
+3,8,07/09/2026,Cagliari,Lecce,80,Cagliari,2719,True,1409,Alieu Fadera,1031548,F,63,Wladimiro Falcone,82,Lecce,1377,10.8,28.2,18,53,0,regular,weakFoot,0,0.053711973130703
+3,8,07/09/2026,Cagliari,Lecce,82,Cagliari,2719,True,1409,Alessandro Sugamele,1861673,F,60,Wladimiro Falcone,82,Lecce,1377,11.9,30.1,18,48,0,fast-break,strongFoot,0,0.085943065583706
+3,8,07/09/2026,Cagliari,Lecce,83,Cagliari,2719,True,1409,Raphael Kofler,1392774,D,50,Wladimiro Falcone,82,Lecce,1377,10.9,59.8,12,31,0,corner,strongFoot,0,0.057795792818069
+3,8,07/09/2026,Cagliari,Lecce,83,Cagliari,2719,True,1409,Harry Winks,545780,M,59,Wladimiro Falcone,82,Lecce,1377,20.7,67.1,23,29,0,corner,strongFoot,0,0.013677924871445
+3,8,07/09/2026,Cagliari,Lecce,84,Lecce,2689,False,1377,Amar Fatah,1157829,F,52,Elia Caprile,78,Cagliari,1409,27.1,40.3,27,13,0,assisted,strongFoot,0,0.018524348735809
+3,8,07/09/2026,Cagliari,Lecce,84,Cagliari,2719,True,1409,Michel Adopo,928777,M,59,Wladimiro Falcone,82,Lecce,1377,13.0,63.6,15,35,0,fast-break,strongFoot,0,0.1416057497263
+3,8,07/09/2026,Cagliari,Lecce,86,Lecce,2689,False,1377,Medon Berisha,1142149,M,58,Elia Caprile,78,Cagliari,1409,11.3,26.2,19,55,0,assisted,weakFoot,0,0.026612844318151
+3,8,07/09/2026,Cagliari,Lecce,90,Lecce,2689,False,1377,Jamil Siebert,1014287,D,32,Elia Caprile,78,Cagliari,1409,6.1,44.4,7,31,0,set-piece,strongFoot,0,0.17237991094589
+3,9,07/09/2026,Udinese,Lazio,5,Lazio,2699,False,1635,Nuno Tavares,944973,D,66,Maduka Okoye,74,Udinese,1464,11.3,43.2,12,22,0,corner,head,0,0.022332785651088
+3,9,07/09/2026,Udinese,Lazio,8,Udinese,2695,True,1464,Unai Gómez,1391375,M,67,Christos Mandas,74,Lazio,1635,27.8,50.1,27,0,0,fast-break,strongFoot,0,0.030391117557883
+3,9,07/09/2026,Udinese,Lazio,11,Udinese,2695,True,1464,Keinan Davis,830858,F,72,Christos Mandas,74,Lazio,1635,12.6,61.5,14,31,0,assisted,strongFoot,0,0.098631858825684
+3,9,07/09/2026,Udinese,Lazio,11,Udinese,2695,True,1464,Hassane Kamara,351434,M,60,Christos Mandas,74,Lazio,1635,10.5,37.8,13,38,0,regular,strongFoot,0,0.10940555483103
+3,9,07/09/2026,Udinese,Lazio,14,Lazio,2699,False,1635,Mattia Zaccagni,293581,F,77,Maduka Okoye,74,Udinese,1464,19.2,31.2,23,33,0,free-kick,strongFoot,0,0.062086056917906
+3,9,07/09/2026,Udinese,Lazio,16,Lazio,2699,False,1635,Gustav Isaksen,976381,F,71,Maduka Okoye,74,Udinese,1464,8.8,54.7,9,19,0,assisted,head,0,0.064039416611195
+3,9,07/09/2026,Udinese,Lazio,36,Udinese,2695,True,1464,Jürgen Ekkelenkamp,904887,M,68,Christos Mandas,74,Lazio,1635,22.9,29.9,26,30,0,assisted,strongFoot,0,0.029636915773153
+3,9,07/09/2026,Udinese,Lazio,39,Udinese,2695,True,1464,Hassane Kamara,351434,M,60,Christos Mandas,74,Lazio,1635,31.5,31.5,33,21,0,fast-break,strongFoot,0,0.027147216722369
+3,9,07/09/2026,Udinese,Lazio,40,Udinese,2695,True,1464,Keinan Davis,830858,F,72,Christos Mandas,74,Lazio,1635,9.2,49.9,9,0,0,assisted,head,0,0.064118564128876
+3,9,07/09/2026,Udinese,Lazio,43,Lazio,2699,False,1635,Nuno Tavares,944973,D,66,Maduka Okoye,74,Udinese,1464,19.2,54.2,19,8,0,assisted,weakFoot,0,0.032007575035095
+3,9,07/09/2026,Udinese,Lazio,49,Udinese,2695,True,1464,Jesper Karlström,227894,M,59,Christos Mandas,74,Lazio,1635,6.5,64.0,11,55,0,assisted,strongFoot,1,0.30700567364693
+3,9,07/09/2026,Udinese,Lazio,56,Udinese,2695,True,1464,Keinan Davis,830858,F,72,Christos Mandas,74,Lazio,1635,10.7,54.3,11,15,1,fast-break,strongFoot,0,0.15096411108971
+3,9,07/09/2026,Udinese,Lazio,56,Lazio,2699,False,1635,Kenneth Taylor,959806,M,76,Maduka Okoye,74,Udinese,1464,21.9,40.3,22,16,-1,assisted,strongFoot,0,0.035058718174696
+3,9,07/09/2026,Udinese,Lazio,62,Lazio,2699,False,1635,Davide Frattesi,835600,M,75,Maduka Okoye,74,Udinese,1464,18.4,62.0,20,23,-1,assisted,weakFoot,0,0.031680747866631
+3,9,07/09/2026,Udinese,Lazio,63,Lazio,2699,False,1635,Oliver Provstgaard,1160559,D,38,Maduka Okoye,74,Udinese,1464,10.9,60.6,13,33,-1,assisted,weakFoot,0,0.14885054528713
+3,9,07/09/2026,Udinese,Lazio,63,Lazio,2699,False,1635,Mattia Zaccagni,293581,F,77,Maduka Okoye,74,Udinese,1464,3.3,44.2,5,50,-1,assisted,head,0,0.25564357638359
+3,9,07/09/2026,Udinese,Lazio,64,Lazio,2699,False,1635,Danilho Doekhi,830803,D,41,Maduka Okoye,74,Udinese,1464,9.2,53.3,9,13,-1,corner,head,0,0.046340238302946
+3,9,07/09/2026,Udinese,Lazio,65,Lazio,2699,False,1635,Tijjani Noslin,1069244,F,73,Maduka Okoye,74,Udinese,1464,25.4,43.8,25,9,-1,assisted,strongFoot,0,0.042116496711969
+3,9,07/09/2026,Udinese,Lazio,67,Lazio,2699,False,1635,Mattia Zaccagni,293581,F,77,Maduka Okoye,74,Udinese,1464,15.1,35.6,17,32,-1,set-piece,weakFoot,0,0.030353747308254
+3,9,07/09/2026,Udinese,Lazio,73,Udinese,2695,True,1464,Jürgen Ekkelenkamp,904887,M,68,Christos Mandas,74,Lazio,1635,10.4,29.3,17,53,1,assisted,strongFoot,0,0.028620731085539
+3,9,07/09/2026,Udinese,Lazio,73,Lazio,2699,False,1635,Davide Frattesi,835600,M,75,Maduka Okoye,74,Udinese,1464,10.0,32.4,15,50,-1,fast-break,strongFoot,0,0.085582166910172
+3,9,07/09/2026,Udinese,Lazio,73,Lazio,2699,False,1635,Matteo Cancellieri,1017649,F,72,Maduka Okoye,74,Udinese,1464,13.8,58.5,14,22,-1,fast-break,strongFoot,0,0.15061928331852
+3,9,07/09/2026,Udinese,Lazio,75,Lazio,2699,False,1635,Davide Frattesi,835600,M,75,Maduka Okoye,74,Udinese,1464,3.7,45.7,4,38,-1,assisted,strongFoot,1,0.58253842592239
+3,9,07/09/2026,Udinese,Lazio,82,Lazio,2699,False,1635,Kenneth Taylor,959806,M,76,Maduka Okoye,74,Udinese,1464,26.0,50.0,26,0,0,assisted,strongFoot,0,0.024788590148091
+3,9,07/09/2026,Udinese,Lazio,87,Lazio,2699,False,1635,Mattia Zaccagni,293581,F,77,Maduka Okoye,74,Udinese,1464,21.4,48.1,21,3,0,regular,strongFoot,0,0.039655670523643
+3,9,07/09/2026,Udinese,Lazio,88,Lazio,2699,False,1635,Albert Guðmundsson,804909,F,77,Maduka Okoye,74,Udinese,1464,10.5,45.8,10,15,0,assisted,head,1,0.052513014525175
+3,9,07/09/2026,Udinese,Lazio,90,Udinese,2695,True,1464,Hassane Kamara,351434,M,60,Christos Mandas,74,Lazio,1635,30.9,39.1,31,13,-1,assisted,strongFoot,0,0.011169901117682
+3,9,07/09/2026,Udinese,Lazio,90,Lazio,2699,False,1635,Albert Guðmundsson,804909,F,77,Maduka Okoye,74,Udinese,1464,19.5,63.4,21,25,1,fast-break,strongFoot,0,0.10756660997868
+3,9,07/09/2026,Udinese,Lazio,90,Lazio,2699,False,1635,Matteo Cancellieri,1017649,F,72,Maduka Okoye,74,Udinese,1464,23.5,60.7,24,17,1,assisted,strongFoot,0,0.019248526543379
